@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>AI 咏叹调教练 · 曲目库</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 rx=%276%27 fill=%27%2320372d%27/%3E%3Ctext x=%2716%27 y=%2722%27 font-size=%2718%27 text-anchor=%27middle%27 fill=%27%23e9c978%27 font-family=%27Georgia%27%3E%E2%99%AA%3C/text%3E%3C/svg%3E" /><link rel="stylesheet" href="aria-library.css" />
+  </head>
+  <body>
+    <header class="bar">
+      <div><strong>AI 咏叹调教练 · 曲目库</strong><small>原谱、歌词、音高、节奏、剧情与 PDF 的两页学习</small></div>
+      <div style="display:flex;gap:8px;align-items:center">
+        <button class="theme-toggle" id="themeBtn" title="切换深色/浅色模式">🌙</button>
+        <a id="back" href="./index.html">Golden Sample</a>
+      </div>
+    </header>
+    <main id="app" class="page"><p class="empty">正在载入…</p></main>
+    <!-- 两页视图结构：data-view="study"（歌词与正式乐谱）、data-view="story"（情境、剧情与完整歌词），由 aria-library.js 渲染 -->
+    <script src="assets-config.js"></script>
+    <script src="aria-library.js"></script>
+  </body>
+</html>

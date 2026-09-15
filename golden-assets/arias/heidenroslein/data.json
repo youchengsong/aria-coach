@@ -1,0 +1,2416 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "heidenroslein",
+ "title": "Heidenröslein",
+ "titleZh": "野玫瑰",
+ "composer": "F. Schubert",
+ "opera": "Heidenröslein, D. 257, Op. 3 No. 3（1815；德语艺术歌曲，词 J. W. von Goethe）",
+ "language": "德语",
+ "voice": "女高音",
+ "difficulty": "基础",
+ "tempoBpm": 84,
+ "timeSignature": "2/4",
+ "coverage": {
+  "measures": [
+   1,
+   16
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "分节歌，三节歌词同一旋律（G 大调，2/4 Lieblich，16 小节）。本页把三节展开为三遍通读（46 × 3 = 138 个音节），每节标注 verse。来源文件把声部记高八度（音域出现 G6），已移回实际音高。已与 IMSLP Breitkopf 版核对。"
+ },
+ "range": {
+  "low": "G4",
+  "high": "G5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "叙述者：讲述少年与野玫瑰的故事",
+ "genre": "艺术歌曲（分节歌）",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Schubert,_Franz/Op.3/3_Heidenröslein,_D.257",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Schubert,_Franz/Op.3/3_Heidenröslein,_D.257",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；三节共 138 个音节与 Breitkopf 版逐一核对；声部移回实际八度",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/30321236"
+  },
+  {
+   "name": "IMSLP · Heidenröslein, D.257 (Schubert, Franz)",
+   "url": "https://imslp.org/wiki/Heidenr%C3%B6slein,_D.257_(Schubert,_Franz)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "Wikisource · Heidenröslein (Goethe)",
+   "url": "https://de.wikisource.org/wiki/Heidenr%C3%B6slein",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Sah ein Knab’ ein Röslein stehn, Röslein auf der Heiden,",
+   "zh": "少年看见一朵小玫瑰，荒野上的小玫瑰，"
+  },
+  {
+   "text": "war so jung und morgenschön, lief er schnell, es nah zu sehn,",
+   "zh": "它那么年轻、像清晨一样美，他跑过去细看，"
+  },
+  {
+   "text": "sah’s mit vielen Freuden. Röslein, Röslein, Röslein rot, Röslein auf der Heiden.",
+   "zh": "满心欢喜地看着它。玫瑰，玫瑰，红玫瑰，荒野上的小玫瑰。"
+  },
+  {
+   "text": "Knabe sprach: ich breche dich, Röslein auf der Heiden!",
+   "zh": "少年说：我要折下你，荒野上的小玫瑰！"
+  },
+  {
+   "text": "Röslein sprach: ich steche dich, dass du ewig denkst an mich, und ich will’s nicht leiden.",
+   "zh": "玫瑰说：我要刺你，让你永远记得我，我不愿忍受。"
+  },
+  {
+   "text": "Röslein, Röslein, Röslein rot, Röslein auf der Heiden.",
+   "zh": "玫瑰，玫瑰，红玫瑰，荒野上的小玫瑰。"
+  },
+  {
+   "text": "Und der wilde Knabe brach’s Röslein auf der Heiden;",
+   "zh": "野蛮的少年折下了荒野上的小玫瑰；"
+  },
+  {
+   "text": "Röslein wehrte sich und stach, half ihm doch kein Weh und Ach, musst’ es eben leiden.",
+   "zh": "玫瑰反抗并刺了他，可哀叹也没用，只得忍受。"
+  },
+  {
+   "text": "Röslein, Röslein, Röslein rot, Röslein auf der Heiden.",
+   "zh": "玫瑰，玫瑰，红玫瑰，荒野上的小玫瑰。"
+  }
+ ],
+ "story": {
+  "background": "歌德 1771 年的诗《野玫瑰》被百余位作曲家谱曲，舒伯特 1815 年（18 岁）的版本最为流传，G 大调、2/4，三节分节歌，几乎像民歌。诗表面讲少年折花，实则暗喻强占与伤害——玫瑰的刺没能阻止少年，只能让他“永远记得”。",
+  "situation": "叙述者讲一个三幕小故事：少年看见玫瑰（第一节，欢喜），少年与玫瑰对话（第二节，威胁与反抗），少年折花、玫瑰刺他却仍被折（第三节，暴力与无奈）。每节以副歌 “Röslein, Röslein, Röslein rot” 收束，语气随内容变化。",
+  "relationships": "少年（Knabe）与玫瑰（Röslein）。玫瑰被拟人化为有声音、能反抗的女性；叙述者是旁观者。三节的关系从“看见”到“对峙”到“伤害”，副歌的重复让悲剧显得平静而残酷。",
+  "intent": "第一节要天真、轻快，像讲童话；第二节对话有戏剧感——少年的 “ich breche dich” 略带威胁，玫瑰的 “ich steche dich” 倔强。第三节 “Und der wilde Knabe brach’s” 稍加重量，“musst’ es eben leiden” 无奈。三次副歌用同样的旋律，但从欢快到沉重。",
+  "plain30": "少年看见一朵野玫瑰想折它，玫瑰说“我会刺你，让你永远记得我”，少年还是折了。同一段旋律唱三遍，故事却从童话变成了伤害。",
+  "arc": "G 大调，2/4 Lieblich，16 小节的民歌式旋律：前四句级进为主、句尾略跳，副歌 “Röslein, Röslein” 用同音反复加下行收束。三节完全相同，靠速度、力度与音色区分：第一节轻快，第二节略慢有对话感，第三节略重，副歌最后一次可放慢。",
+  "motif": "核心动机是副歌 “Rös-lein, Rös-lein, Rös-lein rot” 的同音反复加三度下行：像一声声呼唤名字。它在每节末尾出现三次，第一次欢快、第二次倔强、第三次哀伤。演唱时三个 “Röslein” 不要一样重，让最后一个最轻。",
+  "motifPositions": [
+   {
+    "phrase": 3,
+    "note": "第 3 句副歌 “Röslein, Röslein, Röslein rot” 首次出现，欢快。"
+   },
+   {
+    "phrase": 6,
+    "note": "第 6 句（第二节副歌）同一动机，倔强的语气。"
+   },
+   {
+    "phrase": 9,
+    "note": "第 9 句（第三节副歌）同一动机，哀伤，可放慢。"
+   },
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Sah ein Knab’” 的级进上行是主歌动机，与副歌的下行形成问答。"
+   }
+  ],
+  "technique": "呼吸：两小节一句，句间自然换气；副歌前吸足。咬字：ch 的两种读法要分清，词尾辅音清晰；“sah’s”“brach’s” 的 s 不能丢。换声区：女高音音域 D4–E5 大多在中声区，第三节可稍加重量但不撑。高音：最高音 E5 在副歌 “rot”，是明亮的呼唤，轻巧点到。",
+  "classroom": [
+   "先读中文，分清三节的情节：看见、对话、折花。",
+   "慢速读德语，标出 ich/ach 音。",
+   "分离元音和辅音：练 ö、ei、eu 与词尾 s。",
+   "按 2/4 说词，轻快。",
+   "听单音旋律，记住 16 小节的结构。",
+   "把歌词放回旋律，先练第一节，再套第二、三节。",
+   "用正常速度完整演唱，三节用不同语气。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "长短元音",
+   "items": [
+    "Röslein 的 ö 长 [øː]；stehn、sehn 的 eh 长 [eː]；Knab’、sah 的 a 长；jung、und 短。",
+    "Heiden、leiden 的 ei [aɪ]；Freuden 的 eu [ɔʏ]。"
+   ]
+  },
+  {
+   "title": "ich/ach 音与辅音结尾",
+   "items": [
+    "dich、mich、ich 为 [ç]；brach’s、stach、Ach 为 [x]——第三节集中出现 ach 音。",
+    "rot、stach、brach’s 的词尾辅音清晰；“sah’s”“will’s”“brach’s” 的 ’s 要发。"
+   ]
+  },
+  {
+   "title": "复合词重音",
+   "items": [
+    "HEIdenröslein、MORgenschön——复合词重音在第一成分。",
+    "“ewig” 重音在第一音节；“eben” 同。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    1,
+    2
+   ],
+   "verse": 1,
+   "lyrics": "Sah ein Knab’ ein Röslein stehn,",
+   "translation": "少年看见一朵小玫瑰，荒野上的小玫瑰，",
+   "events": [
+    {
+     "id": "heidenroslein-e0001",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 1,
+     "lyric": "Sah",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0002",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 1.5,
+     "lyric": "ein",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0003",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 2,
+     "lyric": "Knab’",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0004",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 2.5,
+     "lyric": "ein",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0005",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 1,
+     "lyric": "Rös",
+     "syllabic": "begin"
+    },
+    {
+     "id": "heidenroslein-e0006",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "heidenroslein-e0007",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 1.5,
+     "lyric": "lein",
+     "syllabic": "end"
+    },
+    {
+     "id": "heidenroslein-e0008",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "heidenroslein-e0009",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 2,
+     "beat": 2,
+     "lyric": "stehn,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    3,
+    4
+   ],
+   "verse": 1,
+   "lyrics": "Röslein auf der Heiden,",
+   "translation": "少年看见一朵小玫瑰，荒野上的小玫瑰，",
+   "events": [
+    {
+     "id": "heidenroslein-e0010",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 1,
+     "lyric": "Rös",
+     "syllabic": "begin"
+    },
+    {
+     "id": "heidenroslein-e0011",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 1.5,
+     "lyric": "lein",
+     "syllabic": "end"
+    },
+    {
+     "id": "heidenroslein-e0012",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2,
+     "lyric": "auf",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0013",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2.5,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0014",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 4,
+     "beat": 1,
+     "lyric": "Hei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "heidenroslein-e0015",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2,
+     "lyric": "den,",
+     "syllabic": "end"
+    },
+    {
+     "id": "heidenroslein-e0016",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    5,
+    6
+   ],
+   "verse": 1,
+   "lyrics": "war so jung und morgenschön,",
+   "translation": "它那么年轻、像清晨一样美，他跑过去细看，",
+   "events": [
+    {
+     "id": "heidenroslein-e0017",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1,
+     "lyric": "war",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0018",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.5,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0019",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2,
+     "lyric": "jung",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0020",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0021",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1,
+     "lyric": "mor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "heidenroslein-e0022",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "heidenroslein-e0023",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.5,
+     "lyric": "gen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "heidenroslein-e0024",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "heidenroslein-e0025",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 6,
+     "beat": 2,
+     "lyric": "schön,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    7,
+    8
+   ],
+   "verse": 1,
+   "lyrics": "lief er schnell es nah’ zu sehn,",
+   "translation": "它那么年轻、像清晨一样美，他跑过去细看，",
+   "events": [
+    {
+     "id": "heidenroslein-e0026",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "lief",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0027",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1.5,
+     "lyric": "er",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0028",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 7,
+     "beat": 2,
+     "lyric": "schnell",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0029",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 2.75,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0030",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1,
+     "lyric": "nah’",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0031",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "heidenroslein-e0032",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.5,
+     "lyric": "zu",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0033",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "heidenroslein-e0034",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 8,
+     "beat": 2,
+     "lyric": "sehn,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    9,
+    10
+   ],
+   "verse": 1,
+   "lyrics": "sah’s mit vielen Freuden.",
+   "translation": "满心欢喜地看着它。玫瑰，玫瑰，红玫瑰，荒野上的小玫瑰。",
+   "events": [
+    {
+     "id": "heidenroslein-e0035",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "sah’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0036",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "heidenroslein-e0037",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0038",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "heidenroslein-e0039",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2,
+     "lyric": "vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "heidenroslein-e0040",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "heidenroslein-e0041",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "len",
+     "syllabic": "end"
+    },
+    {
+     "id": "heidenroslein-e0042",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "heidenroslein-e0043",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "Freu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "heidenroslein-e0044",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "heidenroslein-e0045",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 2,
+     "lyric": "den.",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    11,
+    12
+   ],
+   "verse": 1,
+   "lyrics": "Röslein, Röslein, Röslein rot,",
+   "translation": "满心欢喜地看着它。玫瑰，玫瑰，红玫瑰，荒野上的小玫瑰。",
+   "events": [
+    {
+     "id": "heidenroslein-e0046",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "Rös",
+     "syllabic": "begin"
+    },
+    {
+     "id": "heidenroslein-e0047",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.5,
+     "lyric": "lein,",
+     "syllabic": "end"
+    },
+    {
+     "id": "heidenroslein-e0048",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2,
+     "lyric": "Rös",
+     "syllabic": "begin"
+    },
+    {
+     "id": "heidenroslein-e0049",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "lein,",
+     "syllabic": "end"
+    },
+    {
+     "id": "heidenroslein-e0050",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "Rös",
+     "syllabic": "begin"
+    },
+    {
+     "id": "heidenroslein-e0051",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "lein",
+     "syllabic": "end"
+    },
+    {
+     "id": "heidenroslein-e0052",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "heidenroslein-e0053",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1,
+     "measure": 12,
+     "beat": 2,
+     "lyric": "rot,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    13,
+    16
+   ],
+   "verse": 1,
+   "lyrics": "Röslein auf der Heiden.",
+   "translation": "满心欢喜地看着它。玫瑰，玫瑰，红玫瑰，荒野上的小玫瑰。",
+   "events": [
+    {
+     "id": "heidenroslein-e0054",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "Rös",
+     "syllabic": "begin"
+    },
+    {
+     "id": "heidenroslein-e0055",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "lein",
+     "syllabic": "end"
+    },
+    {
+     "id": "heidenroslein-e0056",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2,
+     "lyric": "auf",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0057",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "heidenroslein-e0058",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "Hei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "heidenroslein-e0059",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "heidenroslein-e0060",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "heidenroslein-e0061",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "den.",
+     "syllabic": "end"
+    },
+    {
+     "id": "heidenroslein-e0062",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "heidenroslein-e0063",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    1,
+    2
+   ],
+   "verse": 2,
+   "lyrics": "Knabe sprach ich breche dich,",
+   "translation": "少年说：我要折下你，荒野上的小玫瑰！",
+   "events": [
+    {
+     "id": "heidenroslein-e0064",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 1,
+     "lyric": "Kna",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0065",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 1.5,
+     "lyric": "be",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0066",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 2,
+     "lyric": "sprach",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0067",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 2.5,
+     "lyric": "ich",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0068",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 1,
+     "lyric": "bre",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0069",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0070",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 1.5,
+     "lyric": "che",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0071",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0072",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 2,
+     "beat": 2,
+     "lyric": "dich,",
+     "syllabic": "single",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    3,
+    4
+   ],
+   "verse": 2,
+   "lyrics": "Röslein auf der Heiden,",
+   "translation": "少年说：我要折下你，荒野上的小玫瑰！",
+   "events": [
+    {
+     "id": "heidenroslein-e0073",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 1,
+     "lyric": "Rös",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0074",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 1.5,
+     "lyric": "lein",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0075",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2,
+     "lyric": "auf",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0076",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2.5,
+     "lyric": "der",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0077",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 4,
+     "beat": 1,
+     "lyric": "Hei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0078",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2,
+     "lyric": "den,",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0079",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    5,
+    6
+   ],
+   "verse": 2,
+   "lyrics": "Röslein sprach ich steche dich,",
+   "translation": "玫瑰说：我要刺你，让你永远记得我，我不愿忍受。",
+   "events": [
+    {
+     "id": "heidenroslein-e0080",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1,
+     "lyric": "Rös",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0081",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.5,
+     "lyric": "lein",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0082",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2,
+     "lyric": "sprach",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0083",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "ich",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0084",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1,
+     "lyric": "ste",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0085",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0086",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.5,
+     "lyric": "che",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0087",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0088",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 6,
+     "beat": 2,
+     "lyric": "dich,",
+     "syllabic": "single",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    7,
+    8
+   ],
+   "verse": 2,
+   "lyrics": "dass du ewig denkst an mich,",
+   "translation": "玫瑰说：我要刺你，让你永远记得我，我不愿忍受。",
+   "events": [
+    {
+     "id": "heidenroslein-e0089",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "dass",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0090",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1.5,
+     "lyric": "du",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0091",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 7,
+     "beat": 2,
+     "lyric": "e",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0092",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 2.75,
+     "lyric": "wig",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0093",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1,
+     "lyric": "denkst",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0094",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0095",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.5,
+     "lyric": "an",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0096",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0097",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 8,
+     "beat": 2,
+     "lyric": "mich,",
+     "syllabic": "single",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    9,
+    10
+   ],
+   "verse": 2,
+   "lyrics": "und ich will’s nicht leiden.",
+   "translation": "玫瑰说：我要刺你，让你永远记得我，我不愿忍受。",
+   "events": [
+    {
+     "id": "heidenroslein-e0098",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0099",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0100",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "ich",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0101",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0102",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2,
+     "lyric": "will’s",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0103",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0104",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "nicht",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0105",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0106",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "lei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0107",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0108",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 2,
+     "lyric": "den.",
+     "syllabic": "end",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    11,
+    12
+   ],
+   "verse": 2,
+   "lyrics": "Röslein Röslein, Röslein rot,",
+   "translation": "玫瑰，玫瑰，红玫瑰，荒野上的小玫瑰。",
+   "events": [
+    {
+     "id": "heidenroslein-e0109",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "Rös",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0110",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.5,
+     "lyric": "lein",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0111",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2,
+     "lyric": "Rös",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0112",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "lein,",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0113",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "Rös",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0114",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "lein",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0115",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0116",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1,
+     "measure": 12,
+     "beat": 2,
+     "lyric": "rot,",
+     "syllabic": "single",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    13,
+    16
+   ],
+   "verse": 2,
+   "lyrics": "Röslein auf der Heiden.",
+   "translation": "野蛮的少年折下了荒野上的小玫瑰；",
+   "events": [
+    {
+     "id": "heidenroslein-e0117",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "Rös",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0118",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "lein",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0119",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2,
+     "lyric": "auf",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0120",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "der",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0121",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "Hei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0122",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0123",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0124",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "den.",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0125",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "heidenroslein-e0126",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    1,
+    6
+   ],
+   "verse": 3,
+   "lyrics": "Und der wilde Knabe brach’s Röslein auf der Heiden Röslein wehrte sich und stach,",
+   "translation": "野蛮的少年折下了荒野上的小玫瑰；",
+   "events": [
+    {
+     "id": "heidenroslein-e0127",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 1,
+     "lyric": "Und",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0128",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 1.5,
+     "lyric": "der",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0129",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 2,
+     "lyric": "wil",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0130",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0131",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 1,
+     "lyric": "Kna",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0132",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0133",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 1.5,
+     "lyric": "be",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0134",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0135",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 2,
+     "beat": 2,
+     "lyric": "brach’s",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0136",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 1,
+     "lyric": "Rös",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0137",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 1.5,
+     "lyric": "lein",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0138",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2,
+     "lyric": "auf",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0139",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2.5,
+     "lyric": "der",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0140",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 4,
+     "beat": 1,
+     "lyric": "Hei",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0141",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2,
+     "lyric": "den",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0142",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0143",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1,
+     "lyric": "Rös",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0144",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.5,
+     "lyric": "lein",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0145",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2,
+     "lyric": "wehr",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0146",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "te",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0147",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1,
+     "lyric": "sich",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0148",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0149",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.5,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0150",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0151",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 6,
+     "beat": 2,
+     "lyric": "stach,",
+     "syllabic": "single",
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    7,
+    8
+   ],
+   "verse": 3,
+   "lyrics": "half ihm doch kein Weh und Ach,",
+   "translation": "玫瑰反抗并刺了他，可哀叹也没用，只得忍受。",
+   "events": [
+    {
+     "id": "heidenroslein-e0152",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "half",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0153",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1.5,
+     "lyric": "ihm",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0154",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 7,
+     "beat": 2,
+     "lyric": "doch",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0155",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 2.75,
+     "lyric": "kein",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0156",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1,
+     "lyric": "Weh",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0157",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0158",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.5,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0159",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0160",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 8,
+     "beat": 2,
+     "lyric": "Ach,",
+     "syllabic": "single",
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    9,
+    10
+   ],
+   "verse": 3,
+   "lyrics": "musst’ es eben leiden.",
+   "translation": "玫瑰反抗并刺了他，可哀叹也没用，只得忍受。",
+   "events": [
+    {
+     "id": "heidenroslein-e0161",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "musst’",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0162",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0163",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "es",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0164",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0165",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2,
+     "lyric": "e",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0166",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0167",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "ben",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0168",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0169",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "lei",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0170",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0171",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 2,
+     "lyric": "den.",
+     "syllabic": "end",
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    11,
+    12
+   ],
+   "verse": 3,
+   "lyrics": "Röslein, Röslein, Röslein rot,",
+   "translation": "玫瑰，玫瑰，红玫瑰，荒野上的小玫瑰。",
+   "events": [
+    {
+     "id": "heidenroslein-e0172",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "Rös",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0173",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.5,
+     "lyric": "lein,",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0174",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2,
+     "lyric": "Rös",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0175",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "lein,",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0176",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "Rös",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0177",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "lein",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0178",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0179",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1,
+     "measure": 12,
+     "beat": 2,
+     "lyric": "rot,",
+     "syllabic": "single",
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "measures": [
+    13,
+    16
+   ],
+   "verse": 3,
+   "lyrics": "Röslein auf der Heiden.",
+   "translation": "玫瑰，玫瑰，红玫瑰，荒野上的小玫瑰。",
+   "events": [
+    {
+     "id": "heidenroslein-e0180",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "Rös",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0181",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "lein",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0182",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2,
+     "lyric": "auf",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0183",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "der",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0184",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "Hei",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0185",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0186",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0187",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "den.",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0188",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "heidenroslein-e0189",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    }
+   ]
+  }
+ ],
+ "eventCount": 189,
+ "restCount": 9,
+ "lyricNoteCount": 138,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 19,
+  "slowScale": 1.45
+ }
+}

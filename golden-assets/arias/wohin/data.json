@@ -1,0 +1,4060 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "wohin",
+ "title": "Wohin?",
+ "titleZh": "去哪里？",
+ "composer": "F. Schubert",
+ "opera": "Die schöne Müllerin D.795 No.2（美丽的磨坊女第2首，1823；诗：W. Müller）",
+ "language": "德语",
+ "voice": "男高音",
+ "difficulty": "基础",
+ "tempoBpm": 72,
+ "timeSignature": "2/4",
+ "coverage": {
+  "measures": [
+   1,
+   81
+  ],
+  "firstSungMeasure": 2,
+  "complete": true,
+  "note": "完整声乐旋律（G大调，2/4，中等速度，约54小节）。学徒跟着小溪走——小溪的流水声贯穿全曲。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "D4",
+  "high": "G5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "磨坊学徒（追随溪流的少年）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Ich hört' ein Bächlein rauschen",
+   "zh": "我听到一条小溪在潺潺流淌"
+  },
+  {
+   "text": "wohl aus dem Felsenquell,",
+   "zh": "从岩石泉眼中涌出，"
+  },
+  {
+   "text": "hinab zum Tale rauschen",
+   "zh": "哗哗地流向山谷，"
+  },
+  {
+   "text": "so frisch und wunderhell.",
+   "zh": "如此清新而明亮。"
+  },
+  {
+   "text": "Ich weiß nicht, wie mir wurde,",
+   "zh": "我不知道自己怎么了，"
+  },
+  {
+   "text": "nicht, wer den Rat mir gab,",
+   "zh": "也不知道是谁给我出的主意，"
+  },
+  {
+   "text": "ich mußte auch hinunter",
+   "zh": "我也必须走下去，"
+  },
+  {
+   "text": "mit meinem Wanderstab.",
+   "zh": "带着我的旅行杖。"
+  },
+  {
+   "text": "Ist es denn meine Straße?",
+   "zh": "这是我该走的路吗？"
+  },
+  {
+   "text": "O Bächlein, sprich, wohin?",
+   "zh": "哦小溪，告诉我，去哪里？"
+  },
+  {
+   "text": "Du hast mit deinem Rauschen",
+   "zh": "你用你的潺潺声"
+  },
+  {
+   "text": "mir ganz berauscht den Sinn.",
+   "zh": "完全迷住了我的心。"
+  }
+ ],
+ "story": {
+  "background": "套曲第二首。学徒听到小溪的声音，不由自主地跟着它走。小溪将带他去磨坊——在那里他将遇见磨坊女。钢琴的十六分音符自始至终模仿小溪流水的声音——这是舒伯特最经典的音画手法之一。",
+  "situation": "山间的小路。学徒听到清澈的溪水声，像着了迷一样跟着它走。他问小溪：你要带我去哪里？但其实他已经心甘情愿地跟上了。",
+  "relationships": "学徒与小溪——小溪是他的引路人，带他走向命运（磨坊女）。此时学徒还不知道前方等待他的是什么。",
+  "intent": "轻快而好奇。声音要清澈、年轻，和小溪的音色呼应。最后的'berauscht den Sinn'带着微微的眩晕感——被美丽的事物迷住了。",
+  "plain30": "我听到小溪在岩石间潺潺流淌，忍不住跟着它走。小溪啊，你要带我去哪里？你的声音完全迷住了我。",
+  "arc": "G大调，2/4。钢琴的十六分音符像流水，贯穿全曲。声乐旋律在流水上方展开，清澈流畅。结尾'berauscht den Sinn'稍微减速——学徒沉醉在溪水声中。",
+  "motif": "流水动机：钢琴持续的十六分音符。声乐的'rauschen'用旋律的起伏模仿水声。'Wohin?' 的上行问句是好奇的标志。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "'Ich hört' ein Bächlein rauschen' 流水开场"
+   },
+   {
+    "phrase": "9",
+    "note": "'Ist es denn meine Straße?' 疑问——这是我的路吗？"
+   },
+   {
+    "phrase": "10",
+    "note": "'O Bächlein, sprich, wohin?' 核心问题——充满期待"
+   }
+  ],
+  "technique": "声音要清亮——模仿清泉的质感。十六分音符伴奏上的歌唱不要拖拍。'Bächlein' 的 ch 要轻。呼吸点在每两行之间自然换气。",
+  "classroom": [
+   "先读中文：学徒跟着小溪走——去哪里？",
+   "朗读德语：注意 Bächlein、rauschen 的发音。",
+   "听钢琴伴奏——那是小溪的声音，你的声音要在上面漂浮。",
+   "旋律清澈简单——先哼唱，再配词。",
+   "'Wohin?' 是关键——语气要有好奇心。",
+   "完整演唱，保持年轻人的愉快和好奇。",
+   "这首歌和第一首《漫游》可以连唱——出发→跟着小溪走。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "Bächlein 的 ä 短 [ɛ]，ch 是软 [ç]",
+    "rauschen 的 au 读 [aʊ]",
+    "wunderhell 的 u 短 [ʊ]，e 长 [ɛ]",
+    "Wanderstab 的 a 都是短 [a]"
+   ]
+  },
+  {
+   "title": "歌唱风格",
+   "items": [
+    "钢琴的十六分音符像小溪的流水——你的声音在水声上面漂浮",
+    "语气好奇而愉快——学徒跟着小溪走，心情轻松",
+    "'O Bächlein, sprich, wohin?' 是关键问题——语气带着期待"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    2,
+    6
+   ],
+   "lyrics": "Ich hört' ein Bächlein rauschen wohl aus dem Felsenquell,",
+   "translation": "我听到一条小溪在潺潺流淌",
+   "events": [
+    {
+     "id": "wohin-e0003",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0004",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 2.5,
+     "lyric": "Ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0005",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0006",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "hört'",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0007",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 1.5,
+     "lyric": "ein",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0008",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "Bäch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0009",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2.5,
+     "lyric": "lein",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0010",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "rau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0011",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0012",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.0,
+     "lyric": "schen",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0013",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "wohl",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0014",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0015",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "aus",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0016",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.5,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0017",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "Fel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0018",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0019",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "sen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "wohin-e0020",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0021",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "quell,",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0022",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    6,
+    10
+   ],
+   "lyrics": "hinab zum Thale rauschen so frisch und wunderhell.",
+   "translation": "如此清新而明亮。",
+   "events": [
+    {
+     "id": "wohin-e0023",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 2.5,
+     "lyric": "hin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0024",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0025",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "ab",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0026",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1.5,
+     "lyric": "zum",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0027",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "Tha",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0028",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0029",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "rau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0030",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0031",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "schen",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0032",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0033",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0034",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "frisch",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0035",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0036",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "wun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0037",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0038",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "der",
+     "syllabic": "middle"
+    },
+    {
+     "id": "wohin-e0039",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0040",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "hell.",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0041",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    10,
+    12
+   ],
+   "lyrics": "Ich weiss nicht, wie mir wurde,",
+   "translation": "我不知道自己怎么了，",
+   "events": [
+    {
+     "id": "wohin-e0042",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "Ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0043",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "wohin-e0044",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "weiss",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0045",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.5,
+     "lyric": "nicht,",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0046",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "wie",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0047",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0048",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "wohin-e0049",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "wur",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0050",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "de,",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0051",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    12,
+    14
+   ],
+   "lyrics": "nicht, wer den Rat mirgab,",
+   "translation": "也不知道是谁给我出的主意，",
+   "events": [
+    {
+     "id": "wohin-e0052",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "nicht,",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0053",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "wer",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0054",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "den",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0055",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "Rat",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0056",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0057",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0058",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "gab,",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0059",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    14,
+    18
+   ],
+   "lyrics": "ich musste auch hinunter mit meinem Wanderstab,",
+   "translation": "我也必须走下去，",
+   "events": [
+    {
+     "id": "wohin-e0060",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0061",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "muss",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0062",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0063",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.5,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0064",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0065",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "auch",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0066",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "hin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0067",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "un",
+     "syllabic": "middle"
+    },
+    {
+     "id": "wohin-e0068",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0069",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0070",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0071",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0072",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0073",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.5,
+     "lyric": "nem",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0074",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "Wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0075",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0076",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "der",
+     "syllabic": "middle"
+    },
+    {
+     "id": "wohin-e0077",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0078",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "stab,",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0079",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    18,
+    22
+   ],
+   "lyrics": "ich musste auch hinunter mit meinem Wanderstab.",
+   "translation": "带着我的旅行杖。",
+   "events": [
+    {
+     "id": "wohin-e0080",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0081",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0082",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "muss",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0083",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1.5,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0084",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "auch",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0085",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "wohin-e0086",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "hin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0087",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0088",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "un",
+     "syllabic": "middle"
+    },
+    {
+     "id": "wohin-e0089",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0090",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0091",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2.5,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0092",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0093",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0094",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 1.5,
+     "lyric": "nem",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0095",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "Wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0096",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0097",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 2.5,
+     "lyric": "der",
+     "syllabic": "middle"
+    },
+    {
+     "id": "wohin-e0098",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0099",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "stab.",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0100",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    22,
+    24
+   ],
+   "lyrics": "Hinunter und immer weiter,",
+   "translation": "我也必须走下去，",
+   "events": [
+    {
+     "id": "wohin-e0101",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "Hin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0102",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "un",
+     "syllabic": "middle"
+    },
+    {
+     "id": "wohin-e0103",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.5,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0104",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.75,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0105",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "im",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0106",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.5,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0107",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "wei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0108",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.0,
+     "lyric": "ter,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    24,
+    26
+   ],
+   "lyrics": "und immer dem Bache nach,",
+   "translation": "我也必须走下去，",
+   "events": [
+    {
+     "id": "wohin-e0109",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0110",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0111",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "im",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0112",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 1.5,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0113",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 1.75,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0114",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "Ba",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0115",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.5,
+     "lyric": "che",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0116",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "nach,",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0117",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    26,
+    30
+   ],
+   "lyrics": "und immer heller rauschte und immer heller der Bach,",
+   "translation": "我也必须走下去，",
+   "events": [
+    {
+     "id": "wohin-e0118",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0119",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "im",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0120",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 1.5,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0121",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "hel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0122",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0123",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 2.5,
+     "lyric": "ler",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0124",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0125",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "rausch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0126",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0127",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0128",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0129",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "im",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0130",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 1.75,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0131",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 2.0,
+     "lyric": "hel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0132",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0133",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 2.5,
+     "lyric": "ler",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0134",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 2.75,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0135",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "wohin-e0136",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "Bach,",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0137",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    30,
+    35
+   ],
+   "lyrics": "und immer heller rauschte und immer heller der Bach.",
+   "translation": "我也必须走下去，",
+   "events": [
+    {
+     "id": "wohin-e0138",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0139",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "im",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0140",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.5,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0141",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "hel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0142",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0143",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.5,
+     "lyric": "ler",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0144",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0145",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "rausch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0146",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0147",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0148",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0149",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "im",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0150",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0151",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.5,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0152",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0153",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.0,
+     "lyric": "hel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0154",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0155",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.5,
+     "lyric": "ler",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0156",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.75,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0157",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "Bach.",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0158",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0159",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0160",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    35,
+    37
+   ],
+   "lyrics": "Ist das denn meine Strasse?",
+   "translation": "这是我该走的路吗？",
+   "events": [
+    {
+     "id": "wohin-e0161",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.5,
+     "lyric": "Ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0162",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0163",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.5,
+     "lyric": "denn",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0164",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 2.0,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0165",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 2.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0166",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "Stra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0167",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 1.5,
+     "lyric": "sse?",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0168",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0169",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 37,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    37,
+    39
+   ],
+   "lyrics": "O Bächlein sprich, wohin?",
+   "translation": "哦小溪，告诉我，去哪里？",
+   "events": [
+    {
+     "id": "wohin-e0170",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 37,
+     "beat": 2.75,
+     "lyric": "O",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0171",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "Bäch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0172",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1.5,
+     "lyric": "lein",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0173",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "sprich,",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0174",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 38,
+     "beat": 2.75,
+     "lyric": "wo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0175",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "hin?",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0176",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    39,
+    40
+   ],
+   "lyrics": "wohin?",
+   "translation": "哦小溪，告诉我，去哪里？",
+   "events": [
+    {
+     "id": "wohin-e0177",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.5,
+     "lyric": "wo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0178",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "hin?",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0179",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    40,
+    41
+   ],
+   "lyrics": "sprich, wo- hin?",
+   "translation": "哦小溪，告诉我，去哪里？",
+   "events": [
+    {
+     "id": "wohin-e0180",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 40,
+     "beat": 2.0,
+     "lyric": "sprich,",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0181",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 40,
+     "beat": 2.75,
+     "lyric": "wo-",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0182",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "hin?",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0183",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0184",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    41,
+    45
+   ],
+   "lyrics": "Du hast mit dei- nem Rauschen mir ganz berauscht den Sinn,",
+   "translation": "完全迷住了我的心。",
+   "events": [
+    {
+     "id": "wohin-e0185",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.5,
+     "lyric": "Du",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0186",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "hast",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0187",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 1.5,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0188",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.0,
+     "lyric": "dei-",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0189",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.5,
+     "lyric": "nem",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0190",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "Rau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0191",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.0,
+     "lyric": "schen",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0192",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.5,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0193",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "wohin-e0194",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "ganz",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0195",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.5,
+     "lyric": "be",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0196",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.0,
+     "lyric": "rauscht",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0197",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.5,
+     "lyric": "den",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0198",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "Sinn,",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0199",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    45,
+    49
+   ],
+   "lyrics": "du hast mit deinem Rauschen mir ganz berauscht den Sinn.",
+   "translation": "完全迷住了我的心。",
+   "events": [
+    {
+     "id": "wohin-e0200",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0201",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "hast",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0202",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 1.5,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0203",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 2.0,
+     "lyric": "dei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0204",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0205",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 2.5,
+     "lyric": "nem",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0206",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0207",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "Rau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0208",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.0,
+     "lyric": "schen",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0209",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 2.5,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0210",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0211",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "ganz",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0212",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 48,
+     "beat": 1.75,
+     "lyric": "be",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0213",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 48,
+     "beat": 2.0,
+     "lyric": "rauscht",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0214",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 48,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0215",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 48,
+     "beat": 2.5,
+     "lyric": "den",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0216",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 48,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0217",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "Sinn.",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0218",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    49,
+    51
+   ],
+   "lyrics": "Was sag ich denn vom Rauschen?",
+   "translation": "你用你的潺潺声",
+   "events": [
+    {
+     "id": "wohin-e0219",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.5,
+     "lyric": "Was",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0220",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "sag",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0221",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 50,
+     "beat": 1.75,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0222",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.0,
+     "lyric": "denn",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0223",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.5,
+     "lyric": "vom",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0224",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "Rau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0225",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 1.5,
+     "lyric": "schen?",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0226",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    51,
+    57
+   ],
+   "lyrics": "das kann kein Rauschen sein Es singen wohl die Nixen tief unten ihren Reih'n,",
+   "translation": "你用你的潺潺声",
+   "events": [
+    {
+     "id": "wohin-e0227",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0228",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "kann",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0229",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 1.5,
+     "lyric": "kein",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0230",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 52,
+     "beat": 2.0,
+     "lyric": "Rau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0231",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 52,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0232",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 52,
+     "beat": 2.5,
+     "lyric": "schen",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0233",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 52,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0234",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "sein",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0235",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0236",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 53,
+     "beat": 2.5,
+     "lyric": "Es",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0237",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 53,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0238",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 1.0,
+     "lyric": "sin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0239",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 1.5,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0240",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 2.0,
+     "lyric": "wohl",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0241",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "wohin-e0242",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 2.5,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0243",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0244",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 55,
+     "beat": 1.0,
+     "lyric": "Ni",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0245",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 55,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0246",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 2.0,
+     "lyric": "xen",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0247",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 55,
+     "beat": 2.5,
+     "lyric": "tief",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0248",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 55,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0249",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 1.0,
+     "lyric": "un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0250",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 1.5,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0251",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 56,
+     "beat": 2.0,
+     "lyric": "ih",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0252",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 56,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0253",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 56,
+     "beat": 2.5,
+     "lyric": "ren",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0254",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 56,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0255",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 57,
+     "beat": 1.0,
+     "lyric": "Reih'n,",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0256",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "measures": [
+    57,
+    61
+   ],
+   "lyrics": "es singen wohl die Nixen tief unten ihren Reih'n.",
+   "translation": "你用你的潺潺声",
+   "events": [
+    {
+     "id": "wohin-e0257",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 57,
+     "beat": 2.5,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0258",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 57,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0259",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 1.0,
+     "lyric": "sin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0260",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 1.5,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0261",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.0,
+     "lyric": "wohl",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0262",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 58,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "wohin-e0263",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 58,
+     "beat": 2.5,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0264",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 58,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0265",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 59,
+     "beat": 1.0,
+     "lyric": "Ni",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0266",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 59,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0267",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 2.0,
+     "lyric": "xen",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0268",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 59,
+     "beat": 2.5,
+     "lyric": "tief",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0269",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 59,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0270",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 1.0,
+     "lyric": "un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0271",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 1.5,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0272",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 60,
+     "beat": 2.0,
+     "lyric": "ih",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0273",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 60,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0274",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 60,
+     "beat": 2.5,
+     "lyric": "ren",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0275",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 60,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0276",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 61,
+     "beat": 1.0,
+     "lyric": "Reih'n.",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0277",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "measures": [
+    61,
+    63
+   ],
+   "lyrics": "Lass singen, Gesell, lass rauschen,",
+   "translation": "你用你的潺潺声",
+   "events": [
+    {
+     "id": "wohin-e0278",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 2.5,
+     "lyric": "Lass",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0279",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 1.0,
+     "lyric": "sin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0280",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 62,
+     "beat": 1.5,
+     "lyric": "gen,",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0281",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 62,
+     "beat": 1.75,
+     "lyric": "Ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0282",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 2.0,
+     "lyric": "sell,",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0283",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 2.5,
+     "lyric": "lass",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0284",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 63,
+     "beat": 1.0,
+     "lyric": "rau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0285",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 2.0,
+     "lyric": "schen,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "measures": [
+    63,
+    65
+   ],
+   "lyrics": "und wan- d're fröhlich nach!",
+   "translation": "完全迷住了我的心。",
+   "events": [
+    {
+     "id": "wohin-e0286",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 63,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0287",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 63,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0288",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 1.0,
+     "lyric": "wan-",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0289",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 1.5,
+     "lyric": "d're",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0290",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 2.0,
+     "lyric": "fröh",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0291",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 2.5,
+     "lyric": "lich",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0292",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 65,
+     "beat": 1.0,
+     "lyric": "nach!",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0293",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 22,
+   "measures": [
+    65,
+    69
+   ],
+   "lyrics": "Es geh'n ja Mühlenräder in jedem klaren Bach,",
+   "translation": "完全迷住了我的心。",
+   "events": [
+    {
+     "id": "wohin-e0294",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 2.5,
+     "lyric": "Es",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0295",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 66,
+     "beat": 1.0,
+     "lyric": "geh'n",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0296",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 66,
+     "beat": 1.5,
+     "lyric": "ja",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0297",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 66,
+     "beat": 2.0,
+     "lyric": "Müh",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0298",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 66,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0299",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 66,
+     "beat": 2.5,
+     "lyric": "len",
+     "syllabic": "middle"
+    },
+    {
+     "id": "wohin-e0300",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 66,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0301",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 67,
+     "beat": 1.0,
+     "lyric": "rä",
+     "syllabic": "middle"
+    },
+    {
+     "id": "wohin-e0302",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 2.0,
+     "lyric": "der",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0303",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 67,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0304",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 67,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0305",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 68,
+     "beat": 1.0,
+     "lyric": "je",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0306",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 68,
+     "beat": 1.75,
+     "lyric": "dem",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0307",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 68,
+     "beat": 2.0,
+     "lyric": "kla",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0308",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 68,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0309",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 68,
+     "beat": 2.5,
+     "lyric": "ren",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0310",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 68,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0311",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 69,
+     "beat": 1.0,
+     "lyric": "Bach,",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0312",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 69,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0313",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 69,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 23,
+   "measures": [
+    69,
+    73
+   ],
+   "lyrics": "es geh'n ja Mühlenräder in jedem kla ren Bach.",
+   "translation": "完全迷住了我的心。",
+   "events": [
+    {
+     "id": "wohin-e0314",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 69,
+     "beat": 2.5,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0315",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 1.0,
+     "lyric": "geh'n",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0316",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 1.5,
+     "lyric": "ja",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0317",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 70,
+     "beat": 2.0,
+     "lyric": "Müh",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0318",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 70,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0319",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 70,
+     "beat": 2.5,
+     "lyric": "len",
+     "syllabic": "middle"
+    },
+    {
+     "id": "wohin-e0320",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 70,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0321",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 71,
+     "beat": 1.0,
+     "lyric": "rä",
+     "syllabic": "middle"
+    },
+    {
+     "id": "wohin-e0322",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 71,
+     "beat": 2.0,
+     "lyric": "der",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0323",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 71,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0324",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 71,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0325",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 71,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0326",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 72,
+     "beat": 1.0,
+     "lyric": "je",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0327",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 72,
+     "beat": 1.75,
+     "lyric": "dem",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0328",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 72,
+     "beat": 2.0,
+     "lyric": "kla",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0329",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 72,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0330",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 72,
+     "beat": 2.5,
+     "lyric": "ren",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0331",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 72,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0332",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 73,
+     "beat": 1.0,
+     "lyric": "Bach.",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0333",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 24,
+   "measures": [
+    73,
+    75
+   ],
+   "lyrics": "Lass singen, Gesell, lass rauschen,",
+   "translation": "你用你的潺潺声",
+   "events": [
+    {
+     "id": "wohin-e0334",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 73,
+     "beat": 2.5,
+     "lyric": "Lass",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0335",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 73,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0336",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 74,
+     "beat": 1.0,
+     "lyric": "sin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0337",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 1.5,
+     "lyric": "gen,",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0338",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 1.75,
+     "lyric": "Ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0339",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 2.0,
+     "lyric": "sell,",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0340",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0341",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 2.5,
+     "lyric": "lass",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0342",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0343",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 75,
+     "beat": 1.0,
+     "lyric": "rau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0344",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 2.0,
+     "lyric": "schen,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 25,
+   "measures": [
+    75,
+    77
+   ],
+   "lyrics": "und wand're fröhlich nach,",
+   "translation": "你用你的潺潺声",
+   "events": [
+    {
+     "id": "wohin-e0345",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 75,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0346",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 75,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0347",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 1.0,
+     "lyric": "wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0348",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 1.5,
+     "lyric": "d're",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0349",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 76,
+     "beat": 2.0,
+     "lyric": "fröh",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0350",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 76,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0351",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 76,
+     "beat": 2.5,
+     "lyric": "lich",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0352",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 76,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0353",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 77,
+     "beat": 1.0,
+     "lyric": "nach,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 26,
+   "measures": [
+    77,
+    81
+   ],
+   "lyrics": "fröhlich nach, fröhlich nach!",
+   "translation": "你用你的潺潺声",
+   "events": [
+    {
+     "id": "wohin-e0354",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 77,
+     "beat": 2.0,
+     "lyric": "fröh",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0355",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 77,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0356",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 77,
+     "beat": 2.5,
+     "lyric": "lich",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0357",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 77,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0358",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 78,
+     "beat": 1.0,
+     "lyric": "nach,",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0359",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 78,
+     "beat": 2.0,
+     "lyric": "fröh",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wohin-e0360",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 78,
+     "beat": 2.5,
+     "lyric": "lich",
+     "syllabic": "end"
+    },
+    {
+     "id": "wohin-e0361",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 79,
+     "beat": 1.0,
+     "lyric": "nach!",
+     "syllabic": "single"
+    },
+    {
+     "id": "wohin-e0362",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 80,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wohin-e0363",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 81,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 361,
+ "restCount": 27,
+ "lyricNoteCount": 251,
+ "pages": 2,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 26,
+  "slowScale": 1.45
+ }
+}

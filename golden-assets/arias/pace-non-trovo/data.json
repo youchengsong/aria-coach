@@ -1,0 +1,3230 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "pace-non-trovo",
+ "title": "Pace non trovo",
+ "titleZh": "我找不到安宁",
+ "composer": "F. Liszt",
+ "opera": "Tre sonetti di Petrarca S.270（彼特拉克三首十四行诗，1838/1861 修订版）",
+ "language": "意大利语",
+ "voice": "男高音",
+ "difficulty": "高阶",
+ "tempoBpm": 60,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   111
+  ],
+  "firstSungMeasure": 14,
+  "complete": true,
+  "note": "完整声乐旋律（MXL 含意大利语/德语双语歌词，导入时取第一语言层=意大利语），180 个音节；OpenScore 转写。"
+ },
+ "range": {
+  "low": "D3",
+  "high": "D#4"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主体：被爱情撕裂的诗人",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Liszt, Pace non trovo",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；180 个音节，意大利语/德语双语（取 verse 1 = 意大利语）",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  },
+  {
+   "name": "IMSLP · Tre Sonetti di Petrarca (Liszt)",
+   "url": "https://imslp.org/wiki/3_Sonetti_del_Petrarca,_S.270_(Liszt,_Franz)",
+   "format": "PDF 声乐谱",
+   "status": "用于交叉核对",
+   "role": "参照原谱",
+   "grade": "A",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Pace non trovo, e non ho da far guerra;",
+   "zh": "我找不到安宁，却无力去作战；"
+  },
+  {
+   "text": "e temo, e spero; ed ardo, e son un ghiaccio;",
+   "zh": "我恐惧，又希望；我燃烧，又化为冰；"
+  },
+  {
+   "text": "e volo sopra 'l cielo, e giaccio in terra;",
+   "zh": "我飞升到天空之上，又匍匐于大地；"
+  },
+  {
+   "text": "e nulla stringo, e tutto 'l mondo abbraccio.",
+   "zh": "我什么也抓不住，却拥抱了整个世界。"
+  },
+  {
+   "text": "Tal m'ha in prigion, che non m'apre né serra,",
+   "zh": "她把我囚禁着，却既不打开也不锁上；"
+  },
+  {
+   "text": "né per suo mi riten, né scioglie il laccio;",
+   "zh": "既不据为己有，也不解开绳索；"
+  },
+  {
+   "text": "e non m'ancide Amore, e non mi sferra,",
+   "zh": "爱情既不杀死我，也不释放我，"
+  },
+  {
+   "text": "né mi vuol vivo, né mi trae d'impaccio.",
+   "zh": "既不让我活，也不解救我的困境。"
+  },
+  {
+   "text": "Veggio senz'occhi, e non ho lingua, e grido;",
+   "zh": "我没有眼睛却看见，没有舌头却呐喊；"
+  },
+  {
+   "text": "e bramo di perir, e chieggio aita;",
+   "zh": "我渴望毁灭，又乞求救助；"
+  },
+  {
+   "text": "ed ho in odio me stesso, ed amo altrui.",
+   "zh": "我憎恨自己，却爱着别人。"
+  },
+  {
+   "text": "Pascomi di dolor, piangendo rido;",
+   "zh": "我以痛苦为食，哭泣中大笑；"
+  },
+  {
+   "text": "egualmente mi spiace morte e vita:",
+   "zh": "死亡与生命同样令我不快："
+  },
+  {
+   "text": "in questo stato son, donna, per vui.",
+   "zh": "女士，因为你，我陷入了这种境地。"
+  }
+ ],
+ "story": {
+  "background": "彼特拉克（1304-1374）是意大利文艺复兴时期最伟大的诗人之一。他的《歌集》（Canzoniere）中收录了 366 首诗，大多献给他终生暗恋的女子劳拉（Laura）。第 134 首十四行诗「Pace non trovo」是其中最著名的一首，以一连串矛盾对比（oxymoron）表达爱情的痛苦与迷狂。李斯特于 1838-1839 年首次为声乐与钢琴谱曲，1861 年修订为更精炼的版本。这是浪漫主义声乐文学中钢琴与声乐最具戏剧张力的作品之一。",
+  "situation": "诗人面对无法得到的爱人，发现自己陷入了一种不可能的状态：他同时燃烧又冰冷，飞翔又匍匐，被囚禁却既不被关上也不被打开。爱情把他变成了一个行走的矛盾体。这不是一首讲故事的歌——而是一声被爱情折磨到极限的呐喊。",
+  "relationships": "诗人与「donna」（女士）——即劳拉。她是他爱慕的对象，但在彼特拉克的诗中，劳拉永远是不可及的。她既不接受也不拒绝，既不杀死爱情也不成全。「Amore」（爱情）在诗中被人格化为第三方——一个残酷的狱卒。",
+  "intent": "开头「Pace non trovo」要以沉重的宣告开始——这不是抱怨，是在陈述一个不可逃避的事实。随后每一对矛盾都需要声音上的对比：「e temo」轻、「e spero」亮、「ed ardo」火热、「e son un ghiaccio」冰冷。中间八行（监狱意象）音色变暗。「Veggio senz'occhi」开始的三联句是最疯狂的段落——矛盾堆叠到极限。最后一行「in questo stato son, donna, per vui」是全诗唯一直接对她说话的地方——从呐喊回到低语，但这低语比呐喊更有力。",
+  "plain30": "诗人被爱情折磨到发疯：他同时燃烧又冰冷、飞翔又匍匐、渴望死亡又乞求活命。最后他对那个女人说：因为你，我变成了这样。这是一首用矛盾表达极端爱情痛苦的诗。",
+  "arc": "变化多端的速度与调性是李斯特的标志。开头 Agitato assai 在小调上以强烈的钢琴和弦宣告主题。声乐线在低音区沉重开始，每一对矛盾推动旋律向上。中段（监狱意象）暂时安静，像被困住的窒息感。「Veggio senz'occhi」爆发为全曲高潮——钢琴的八度与声乐的高音同时冲顶。最后两行突然安静，「per vui」像一声叹息落在主和弦上。",
+  "motif": "矛盾对比动机：每一对矛盾（战争/和平、冰/火、飞/落）在音乐上用上行-下行的对比体现。李斯特用减七和弦的不稳定感贯穿全曲，只在最后一个字「vui」上给出一个意外的大三和弦——解决、释然、和投降同时发生。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "「Pace non trovo」主题宣告——沉重的下行，钢琴震音"
+   },
+   {
+    "phrase": "2",
+    "note": "「e temo, e spero; ed ardo」四组矛盾对比，旋律在每对之间做方向性变化"
+   },
+   {
+    "phrase": "5",
+    "note": "「Tal m'ha in prigion」转为更暗的音色——监狱意象"
+   },
+   {
+    "phrase": "9",
+    "note": "「Veggio senz'occhi」全曲高潮爆发——最疯狂的矛盾堆叠"
+   },
+   {
+    "phrase": "14",
+    "note": "「in questo stato son, donna, per vui」突然安静——全诗唯一对她说话"
+   }
+  ],
+  "technique": "这是极具挑战性的曲目。音域跨度大（可能低至 C3、高至 A4 或更高视版本），需要在极端力度变化（ppp 到 fff）之间快速切换。每一对矛盾需要截然不同的音色：「ardo」（燃烧）要亮而开放，紧接着「ghiaccio」（冰）要暗而收缩——这一切发生在一个乐句之内。钢琴部分是真正的钢琴协奏曲级难度，合作时需要严格的速度协商。呼吸安排是难点——长乐句中间几乎没有换气机会，需要提前在分号处微停。意大利语的古体词汇（chieggio、Pascomi、vui）不要读成现代发音。",
+  "classroom": [
+   "先读中文翻译，理解每一对矛盾——战争与和平、冰与火、飞翔与匍匐。这不是故事，是一连串不可能同时存在的状态。",
+   "慢速朗读意大利语。注意十四行诗的节奏——每行 11 个音节，重音在第 4 和第 10 音节。",
+   "练习对比咬字：「ardo」的 a 开口、明亮；紧接「ghiaccio」的 ia 向暗处收。",
+   "按李斯特标注的速度（Agitato assai）说词，感受每组矛盾的推进力。",
+   "听旋律参考：注意低音区的沉重和高潮处的爆发。",
+   "分段练习：先练第一个四联句（矛盾宣告），再练监狱段，最后练高潮和结尾。",
+   "完整演唱。最后一行「per vui」是关键——从最大的爆发回到最安静的直白，这个对比就是整首诗的精髓。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "意大利语中的双辅音与重音",
+   "items": [
+    "「guerra」的 rr 需要明确的颤舌双辅音",
+    "「ghiaccio」的 cc [ttʃ] 是双辅音，「giaccio」同理",
+    "「abbraccio」的 bb 和 cc 都是双辅音——abb-rac-cio",
+    "「impaccio」「laccio」的 cc 也是双辅音"
+   ]
+  },
+  {
+   "title": "诗体省音与古意大利语",
+   "items": [
+    "「'l cielo」「'l mondo」= il cielo / il mondo 的诗体缩写",
+    "「m'ha」= mi ha；「m'apre」= mi apre；「m'ancide」= mi ancide",
+    "「chieggio」是古意大利语的 chiedo（我请求）",
+    "「Pascomi」= Mi pasco（我以...为食），古体倒装",
+    "「vui」= voi（你），古普罗旺斯/古意大利语形式"
+   ]
+  },
+  {
+   "title": "元音与节奏",
+   "items": [
+    "十四行诗每行 11 个音节（endecasillabo），重音落在第 4 和第 10 音节",
+    "「e temo, e spero; ed ardo, e son un ghiaccio」一行中四组矛盾对比，每组之间有微停",
+    "「Pace」的 a 为开口 [a]，ce 为闭口 [tʃe]"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    14,
+    17
+   ],
+   "lyrics": "Pace non trovo,",
+   "translation": "我找不到安宁，却无力去作战；",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0014",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0015",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 2,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "Pa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0016",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 15,
+     "beat": 3,
+     "lyric": "ce",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0017",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 15,
+     "beat": 4,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0018",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "tro",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0019",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0020",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1,
+     "measure": 16,
+     "beat": 3,
+     "lyric": "vo,",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0021",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 16,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0022",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    17,
+    20
+   ],
+   "lyrics": "e non ho da far guerra,",
+   "translation": "我找不到安宁，却无力去作战；",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0023",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.5,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0024",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1,
+     "measure": 17,
+     "beat": 2,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0025",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 17,
+     "beat": 3,
+     "lyric": "ho",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0026",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 18,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0027",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 18,
+     "beat": 2,
+     "lyric": "da",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0028",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 18,
+     "beat": 3,
+     "lyric": "far",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0029",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 2,
+     "measure": 19,
+     "beat": 1,
+     "lyric": "guer",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0030",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 19,
+     "beat": 3,
+     "lyric": "ra,",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0031",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 20,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0032",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 20,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    20,
+    21
+   ],
+   "lyrics": "e temo,",
+   "translation": "我恐惧，又希望；我燃烧，又化为冰；",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0033",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 20,
+     "beat": 3,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0034",
+     "pitch": "E#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 21,
+     "beat": 1,
+     "lyric": "te",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0035",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 21,
+     "beat": 2,
+     "lyric": "mo,",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0036",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 21,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    21,
+    23
+   ],
+   "lyrics": "e spero,",
+   "translation": "我恐惧，又希望；我燃烧，又化为冰；",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0037",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 21,
+     "beat": 4,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0038",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 22,
+     "beat": 1,
+     "lyric": "spe",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0039",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0040",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1,
+     "measure": 22,
+     "beat": 3,
+     "lyric": "ro,",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0041",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 22,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0042",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    23,
+    26
+   ],
+   "lyrics": "ed ardo, e son un ghiaccio,",
+   "translation": "我恐惧，又希望；我燃烧，又化为冰；",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0043",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.5,
+     "lyric": "ed",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0044",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1,
+     "measure": 23,
+     "beat": 2,
+     "lyric": "ar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0045",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 23,
+     "beat": 3,
+     "lyric": "do,",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0046",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0047",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 1.5,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0048",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1,
+     "measure": 24,
+     "beat": 2,
+     "lyric": "son",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0049",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1,
+     "measure": 24,
+     "beat": 3,
+     "lyric": "un",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0050",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 25,
+     "beat": 1,
+     "lyric": "ghiac",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0051",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 25,
+     "beat": 2,
+     "lyric": "cio,",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0052",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 25,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0053",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 26,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0054",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 26,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    26,
+    31
+   ],
+   "lyrics": "e volo sopra’l cielo e giaccio in terra e nulla",
+   "translation": "我飞升到天空之上，又匍匐于大地；",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0055",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 26,
+     "beat": 3,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0056",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 27,
+     "beat": 1,
+     "lyric": "vo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0057",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.5,
+     "lyric": "lo",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0058",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 3,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0059",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 3.5,
+     "lyric": "pra’l",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0060",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 2,
+     "measure": 28,
+     "beat": 1,
+     "lyric": "cie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0061",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 1,
+     "measure": 28,
+     "beat": 3,
+     "lyric": "lo",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0062",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0063",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.5,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0064",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 29,
+     "beat": 2,
+     "lyric": "giac",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0065",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 29,
+     "beat": 3,
+     "lyric": "cio in",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0066",
+     "pitch": "Fb3",
+     "rest": false,
+     "duration": 2,
+     "measure": 30,
+     "beat": 1,
+     "lyric": "ter",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0067",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 30,
+     "beat": 3,
+     "lyric": "ra",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0068",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 31,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0069",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0070",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.5,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0071",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 3,
+     "lyric": "nul",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0072",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 3.5,
+     "lyric": "la",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    32,
+    39
+   ],
+   "lyrics": "stringo e tutto il mondo abbraccio,",
+   "translation": "我什么也抓不住，却拥抱了整个世界。",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0073",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 2,
+     "measure": 32,
+     "beat": 1,
+     "lyric": "strin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0074",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 1,
+     "measure": 32,
+     "beat": 3,
+     "lyric": "go",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0075",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0076",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 1.5,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0077",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2,
+     "lyric": "tut",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0078",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0079",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 3,
+     "lyric": "to",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0080",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 3.5,
+     "lyric": "il",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0081",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1,
+     "lyric": "mon",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0082",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0083",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 34,
+     "beat": 2,
+     "lyric": "do",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0084",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1,
+     "measure": 34,
+     "beat": 3,
+     "lyric": "ab",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0085",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 3,
+     "measure": 35,
+     "beat": 1,
+     "lyric": "brac",
+     "syllabic": "middle"
+    },
+    {
+     "id": "pace-non-trovo-e0086",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 1,
+     "measure": 36,
+     "beat": 1,
+     "lyric": "cio,",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0087",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 36,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0088",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 36,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0089",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 37,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0090",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 38,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0091",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 39,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    39,
+    41
+   ],
+   "lyrics": "m’ha in prigion che non m’apre,",
+   "translation": "她把我囚禁着，却既不打开也不锁上；",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0092",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 2,
+     "measure": 39,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0093",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 39,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0094",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 39,
+     "beat": 3.5,
+     "lyric": "m’ha",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0095",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 4.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0096",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1,
+     "lyric": "pri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0097",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 2,
+     "measure": 40,
+     "beat": 1,
+     "lyric": "gion",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0098",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 40,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0099",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 4,
+     "lyric": "che",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0100",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 4.5,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0101",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 41,
+     "beat": 1,
+     "lyric": "m’a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0102",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2,
+     "lyric": "pre,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    41,
+    42
+   ],
+   "lyrics": "nè serra,",
+   "translation": "她把我囚禁着，却既不打开也不锁上；",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0103",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.5,
+     "lyric": "nè",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0104",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1,
+     "measure": 41,
+     "beat": 3,
+     "lyric": "ser",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0105",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 41,
+     "beat": 4,
+     "lyric": "ra,",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0106",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 42,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    42,
+    44
+   ],
+   "lyrics": "nè per suo mi ritien,",
+   "translation": "既不据为己有，也不解开绳索；",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0107",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 42,
+     "beat": 3,
+     "lyric": "nè",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0108",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 42,
+     "beat": 4,
+     "lyric": "per",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0109",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 2,
+     "measure": 43,
+     "beat": 1,
+     "lyric": "su",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0110",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 43,
+     "beat": 3,
+     "lyric": "o",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0111",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 4,
+     "lyric": "mi",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0112",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 4.5,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0113",
+     "pitch": "D#3",
+     "rest": false,
+     "duration": 2,
+     "measure": 44,
+     "beat": 1,
+     "lyric": "tien,",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0114",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 44,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    44,
+    48
+   ],
+   "lyrics": "nè scioglie il laccio e non m’ancide amor,",
+   "translation": "既不据为己有，也不解开绳索；",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0115",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 44,
+     "beat": 4,
+     "lyric": "nè",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0116",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 45,
+     "beat": 1,
+     "lyric": "scio",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0117",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.5,
+     "lyric": "glie il",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0118",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1,
+     "measure": 45,
+     "beat": 3,
+     "lyric": "lac",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0119",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 45,
+     "beat": 4,
+     "lyric": "cio",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0120",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 46,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0121",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1,
+     "measure": 46,
+     "beat": 2,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0122",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 46,
+     "beat": 3,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0123",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 4,
+     "lyric": "m’an",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0124",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0125",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 3,
+     "measure": 47,
+     "beat": 1,
+     "lyric": "ci",
+     "syllabic": "middle"
+    },
+    {
+     "id": "pace-non-trovo-e0126",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 47,
+     "beat": 4,
+     "lyric": "de a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "pace-non-trovo-e0127",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 2,
+     "measure": 48,
+     "beat": 1,
+     "lyric": "mor,",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0128",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    48,
+    50
+   ],
+   "lyrics": "e non mi sferra",
+   "translation": "爱情既不杀死我，也不释放我，",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0129",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 3.5,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0130",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 4,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0131",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 4.5,
+     "lyric": "mi",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0132",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 49,
+     "beat": 1,
+     "lyric": "sfer",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0133",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1,
+     "measure": 49,
+     "beat": 2,
+     "lyric": "ra",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0134",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 49,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0135",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 50,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    50,
+    52
+   ],
+   "lyrics": "nè mi vuol vivo",
+   "translation": "既不让我活，也不解救我的困境。",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0136",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1,
+     "measure": 50,
+     "beat": 2,
+     "lyric": "nè",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0137",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 50,
+     "beat": 3,
+     "lyric": "mi",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0138",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 4,
+     "lyric": "vuol",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0139",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0140",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 2,
+     "measure": 51,
+     "beat": 1,
+     "lyric": "vi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0141",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 51,
+     "beat": 3,
+     "lyric": "vo",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0142",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 51,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0143",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 52,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    52,
+    57
+   ],
+   "lyrics": "nè mi trahe d’impaccio.",
+   "translation": "既不让我活，也不解救我的困境。",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0144",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 2,
+     "lyric": "nè",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0145",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 2.5,
+     "lyric": "mi",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0146",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 52,
+     "beat": 3,
+     "lyric": "tra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0147",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 4,
+     "lyric": "he",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0148",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 4.5,
+     "lyric": "d’im",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0149",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 53,
+     "beat": 1,
+     "lyric": "pac",
+     "syllabic": "middle"
+    },
+    {
+     "id": "pace-non-trovo-e0150",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1,
+     "measure": 53,
+     "beat": 2,
+     "lyric": "cio.",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0151",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 53,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0152",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 54,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0153",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 55,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0154",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 56,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0155",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 57,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    57,
+    61
+   ],
+   "lyrics": "Veggio senz’ occhi e non ho lingua e grido",
+   "translation": "我没有眼睛却看见，没有舌头却呐喊；",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0156",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 57,
+     "beat": 2,
+     "lyric": "Veg",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0157",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 3.5,
+     "lyric": "gio",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0158",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1,
+     "measure": 57,
+     "beat": 4,
+     "lyric": "senz’",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0159",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 58,
+     "beat": 1,
+     "lyric": "oc",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0160",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0161",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1,
+     "measure": 58,
+     "beat": 3,
+     "lyric": "chi",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0162",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 58,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0163",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0164",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 1.5,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0165",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 2,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0166",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 2.5,
+     "lyric": "ho",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0167",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 59,
+     "beat": 3,
+     "lyric": "lin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0168",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 4,
+     "lyric": "gua",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0169",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 4.5,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0170",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 2,
+     "measure": 60,
+     "beat": 1,
+     "lyric": "gri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0171",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1,
+     "measure": 60,
+     "beat": 3,
+     "lyric": "do",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0172",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 60,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0173",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 61,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    61,
+    63
+   ],
+   "lyrics": "e bramo di perir",
+   "translation": "我渴望毁灭，又乞求救助；",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0174",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 1,
+     "measure": 61,
+     "beat": 2,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0175",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 3,
+     "measure": 61,
+     "beat": 3,
+     "lyric": "bra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0176",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 62,
+     "beat": 2,
+     "lyric": "mo",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0177",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 62,
+     "beat": 3,
+     "lyric": "di",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0178",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 4.5,
+     "lyric": "pe",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0179",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 1,
+     "measure": 63,
+     "beat": 1,
+     "lyric": "rir",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0180",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 63,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0181",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 63,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    63,
+    66
+   ],
+   "lyrics": "e chiegio aita",
+   "translation": "我渴望毁灭，又乞求救助；",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0182",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 63,
+     "beat": 4,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0183",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 2,
+     "measure": 64,
+     "beat": 1,
+     "lyric": "chie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0184",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 64,
+     "beat": 3,
+     "lyric": "gio",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0185",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 64,
+     "beat": 4,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0186",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 65,
+     "beat": 1,
+     "lyric": "i",
+     "syllabic": "middle"
+    },
+    {
+     "id": "pace-non-trovo-e0187",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0188",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 65,
+     "beat": 3,
+     "lyric": "ta",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0189",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 65,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0190",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 66,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    66,
+    69
+   ],
+   "lyrics": "ed ho in odio me stesso",
+   "translation": "我憎恨自己，却爱着别人。",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0191",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 66,
+     "beat": 2,
+     "lyric": "ed",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0192",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1,
+     "measure": 66,
+     "beat": 3,
+     "lyric": "ho",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0193",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 66,
+     "beat": 4,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0194",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 2,
+     "measure": 67,
+     "beat": 1,
+     "lyric": "o",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0195",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 67,
+     "beat": 3,
+     "lyric": "dio",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0196",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 67,
+     "beat": 4,
+     "lyric": "me",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0197",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 68,
+     "beat": 1,
+     "lyric": "stes",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0198",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 68,
+     "beat": 2,
+     "lyric": "so",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0199",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 68,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0200",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 69,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "measures": [
+    69,
+    75
+   ],
+   "lyrics": "ed amo altrui.",
+   "translation": "我憎恨自己，却爱着别人。",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0201",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 69,
+     "beat": 2,
+     "lyric": "ed",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0202",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 3,
+     "measure": 69,
+     "beat": 3,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0203",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1,
+     "measure": 70,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0204",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 70,
+     "beat": 3,
+     "lyric": "mo",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0205",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 70,
+     "beat": 4,
+     "lyric": "al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0206",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 3,
+     "measure": 71,
+     "beat": 1,
+     "lyric": "trui.",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0207",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 71,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0208",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 72,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0209",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 73,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0210",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 74,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0211",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 75,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "measures": [
+    76,
+    76
+   ],
+   "lyrics": "Pascomi di dolor",
+   "translation": "我以痛苦为食，哭泣中大笑；",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0212",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 3,
+     "measure": 76,
+     "beat": 1,
+     "lyric": "Pas",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0213",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 76,
+     "beat": 4,
+     "lyric": "co",
+     "syllabic": "middle"
+    },
+    {
+     "id": "pace-non-trovo-e0214",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 76,
+     "beat": 5,
+     "lyric": "mi",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0215",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 76,
+     "beat": 6,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0216",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 76,
+     "beat": 7,
+     "lyric": "di",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0217",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 76,
+     "beat": 8,
+     "lyric": "do",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0218",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 2,
+     "measure": 76,
+     "beat": 9,
+     "lyric": "lor",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0219",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 76,
+     "beat": 11,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0220",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 76,
+     "beat": 12,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0221",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 76,
+     "beat": 13,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "measures": [
+    76,
+    77
+   ],
+   "lyrics": "piangendo io rido",
+   "translation": "我以痛苦为食，哭泣中大笑；",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0222",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 2,
+     "measure": 76,
+     "beat": 15,
+     "lyric": "pian",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0223",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 4,
+     "measure": 76,
+     "beat": 17,
+     "lyric": "gen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "pace-non-trovo-e0224",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 2,
+     "measure": 76,
+     "beat": 21,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0225",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 76,
+     "beat": 23,
+     "lyric": "do",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0226",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 76,
+     "beat": 24,
+     "lyric": "io",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0227",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 2,
+     "measure": 76,
+     "beat": 25,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0228",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 76,
+     "beat": 27,
+     "lyric": "do",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0229",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 76,
+     "beat": 28,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0230",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 77,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 22,
+   "measures": [
+    77,
+    80
+   ],
+   "lyrics": "egualmente mi spiace morte e",
+   "translation": "死亡与生命同样令我不快：",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0231",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 2,
+     "measure": 77,
+     "beat": 2,
+     "lyric": "e",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0232",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1,
+     "measure": 77,
+     "beat": 4,
+     "lyric": "gual",
+     "syllabic": "middle"
+    },
+    {
+     "id": "pace-non-trovo-e0233",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1,
+     "measure": 78,
+     "beat": 1,
+     "lyric": "men",
+     "syllabic": "middle"
+    },
+    {
+     "id": "pace-non-trovo-e0234",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 78,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0235",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1,
+     "measure": 78,
+     "beat": 3,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0236",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 78,
+     "beat": 4,
+     "lyric": "mi",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0237",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 3,
+     "measure": 79,
+     "beat": 1,
+     "lyric": "spia",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0238",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1,
+     "measure": 79,
+     "beat": 4,
+     "lyric": "ce",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0239",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 2,
+     "measure": 80,
+     "beat": 1,
+     "lyric": "mor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0240",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1,
+     "measure": 80,
+     "beat": 3,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0241",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1,
+     "measure": 80,
+     "beat": 4,
+     "lyric": "e",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 23,
+   "measures": [
+    81,
+    87
+   ],
+   "lyrics": "vita. In",
+   "translation": "女士，因为你，我陷入了这种境地。",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0242",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 4,
+     "measure": 81,
+     "beat": 1,
+     "lyric": "vi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0243",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 82,
+     "beat": 1,
+     "lyric": "ta.",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0244",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 82,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0245",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 82,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0246",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 83,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0247",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 84,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0248",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 85,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0249",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 86,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0250",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 87,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0251",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 2,
+     "measure": 87,
+     "beat": 3,
+     "lyric": "In",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 24,
+   "measures": [
+    88,
+    91
+   ],
+   "lyrics": "questo stato",
+   "translation": "女士，因为你，我陷入了这种境地。",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0252",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 2,
+     "measure": 88,
+     "beat": 1,
+     "lyric": "ques",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0253",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 2,
+     "measure": 88,
+     "beat": 3,
+     "lyric": "to",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0254",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 3,
+     "measure": 89,
+     "beat": 1,
+     "lyric": "sta",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0255",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 89,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0256",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 2,
+     "measure": 90,
+     "beat": 1,
+     "lyric": "to",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0257",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 90,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0258",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 91,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 25,
+   "measures": [
+    91,
+    95
+   ],
+   "lyrics": "son, Donna,",
+   "translation": "女士，因为你，我陷入了这种境地。",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0259",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 3,
+     "measure": 91,
+     "beat": 3,
+     "lyric": "son,",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0260",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 92,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0261",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 5,
+     "measure": 92,
+     "beat": 3,
+     "lyric": "Don",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0262",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1,
+     "measure": 93,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0263",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 2,
+     "measure": 94,
+     "beat": 1,
+     "lyric": "na,",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0264",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 94,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0265",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 95,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 26,
+   "measures": [
+    95,
+    97
+   ],
+   "lyrics": "per voi,",
+   "translation": "女士，因为你，我陷入了这种境地。",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0266",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 2,
+     "measure": 95,
+     "beat": 3,
+     "lyric": "per",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0267",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 2,
+     "measure": 96,
+     "beat": 1,
+     "lyric": "vo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0268",
+     "pitch": "A#3",
+     "rest": false,
+     "duration": 2,
+     "measure": 96,
+     "beat": 3,
+     "lyric": "i,",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0269",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 97,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 27,
+   "measures": [
+    97,
+    99
+   ],
+   "lyrics": "per voi,",
+   "translation": "女士，因为你，我陷入了这种境地。",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0270",
+     "pitch": "A#3",
+     "rest": false,
+     "duration": 2,
+     "measure": 97,
+     "beat": 3,
+     "lyric": "per",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0271",
+     "pitch": "A#3",
+     "rest": false,
+     "duration": 2,
+     "measure": 98,
+     "beat": 1,
+     "lyric": "vo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0272",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 2,
+     "measure": 98,
+     "beat": 3,
+     "lyric": "i,",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0273",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 99,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 28,
+   "measures": [
+    99,
+    111
+   ],
+   "lyrics": "per voi.",
+   "translation": "女士，因为你，我陷入了这种境地。",
+   "events": [
+    {
+     "id": "pace-non-trovo-e0274",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 2,
+     "measure": 99,
+     "beat": 3,
+     "lyric": "per",
+     "syllabic": "single"
+    },
+    {
+     "id": "pace-non-trovo-e0275",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 6,
+     "measure": 100,
+     "beat": 1,
+     "lyric": "vo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "pace-non-trovo-e0276",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 2,
+     "measure": 101,
+     "beat": 3,
+     "lyric": "i.",
+     "syllabic": "end"
+    },
+    {
+     "id": "pace-non-trovo-e0277",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 102,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0278",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 103,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0279",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 104,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0280",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 105,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0281",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 106,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0282",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 107,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0283",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 108,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0284",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 109,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0285",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 110,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "pace-non-trovo-e0286",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 111,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 273,
+ "restCount": 80,
+ "lyricNoteCount": 177,
+ "pages": 2,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 28,
+  "slowScale": 1.45
+ }
+}

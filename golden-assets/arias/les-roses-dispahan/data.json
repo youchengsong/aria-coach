@@ -1,0 +1,2651 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "les-roses-dispahan",
+ "title": "Les roses d'Ispahan",
+ "titleZh": "伊斯法罕的玫瑰",
+ "composer": "G. Fauré",
+ "opera": "Op. 39, No. 4（1884；诗：Leconte de Lisle）",
+ "language": "法语",
+ "voice": "男高音",
+ "difficulty": "中级",
+ "tempoBpm": 60,
+ "timeSignature": "2/4",
+ "coverage": {
+  "measures": [
+   1,
+   81
+  ],
+  "firstSungMeasure": 7,
+  "complete": true,
+  "note": "完整声乐旋律（D 大调，2/4，带东方色彩的优美旋律）。福雷最受欢迎的歌曲之一。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "D4",
+  "high": "F#5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主人公（向爱人献诗者）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Les roses d'Ispahan dans leur gaine de mousse,",
+   "zh": "伊斯法罕的玫瑰在苔藓的花苞中，"
+  },
+  {
+   "text": "les jasmins de Mossoul, les fleurs de l'oranger,",
+   "zh": "摩苏尔的茉莉，橙花，"
+  },
+  {
+   "text": "ont un parfum moins frais, ont une odeur moins douce,",
+   "zh": "它们的芬芳不如你清新，香气不如你甜美，"
+  },
+  {
+   "text": "ô blanche Leïlah! que ton souffle léger.",
+   "zh": "哦，白皙的蕾拉！不如你轻盈的气息。"
+  },
+  {
+   "text": "Ta lèvre est de corail et ton rire léger",
+   "zh": "你的嘴唇是珊瑚色的，你轻盈的笑声"
+  },
+  {
+   "text": "sonne mieux que l'eau vive et d'une voix plus douce,",
+   "zh": "比活水更悦耳，声音更甜美，"
+  },
+  {
+   "text": "mieux que le vent joyeux qui berce l'oranger,",
+   "zh": "比摇晃橙树的欢快之风更动听，"
+  },
+  {
+   "text": "mieux que l'oiseau qui chante au bord d'un nid de mousse.",
+   "zh": "比在苔藓巢边歌唱的鸟儿更美妙。"
+  },
+  {
+   "text": "Ô Leïlah! depuis que de leur vol léger",
+   "zh": "哦蕾拉！自从所有的亲吻"
+  },
+  {
+   "text": "tous les baisers ont fui de ta lèvre si douce,",
+   "zh": "都从你甜美的嘴唇上飞走以来，"
+  },
+  {
+   "text": "il n'est plus de parfum dans le pâle oranger,",
+   "zh": "苍白的橙树不再有芬芳，"
+  },
+  {
+   "text": "ni de céleste arôme aux roses dans leur mousse.",
+   "zh": "苔藓中的玫瑰也不再有天堂的香气。"
+  },
+  {
+   "text": "Oh! que ton jeune amour, ce papillon léger,",
+   "zh": "哦！愿你年轻的爱情，那轻盈的蝴蝶，"
+  },
+  {
+   "text": "revienne vers mon cœur d'une aile prompte et douce,",
+   "zh": "展开轻快而温柔的翅膀飞回我的心中，"
+  },
+  {
+   "text": "et qu'il parfume encor les roses d'Ispahan,",
+   "zh": "让它再次为伊斯法罕的玫瑰添上芬芳，"
+  },
+  {
+   "text": "les roses d'Ispahan dans leur gaine de mousse!",
+   "zh": "苔藓花苞中伊斯法罕的玫瑰！"
+  }
+ ],
+ "story": {
+  "background": "《伊斯法罕的玫瑰》是福雷 1884 年的作品，诗人勒孔特·德·利尔是帕纳斯派（高蹈派）的领袖，擅长以精致的形式描绘异域风情。伊斯法罕是波斯古都（今伊朗），以玫瑰闻名。诗中用波斯花园的意象——玫瑰、茉莉、橙花——来衬托蕾拉（阿拉伯/波斯女性名）的美丽。这是法国沙龙歌曲中东方主义美学的典型代表。",
+  "situation": "歌者将爱人蕾拉比作波斯花园中的一切美好事物——玫瑰不如她芬芳，流水不如她的笑声悦耳。然而第三段转折：自从她的亲吻离去，花园也失去了香气。最后一段是祈愿：愿你的爱像蝴蝶一样飞回来。",
+  "relationships": "歌者与蕾拉——一段正在（或已经）失去的爱情。蕾拉始终被比作自然界的美好事物，但永远「更好」——她超越了一切比喻。",
+  "intent": "第一段陶醉地描绘花园和蕾拉的美丽，声音要芬芳、明亮。第二段继续赞美但更热烈。第三段是转折——「tous les baisers ont fui」——亲吻飞走了，花园也枯萎了，声音要变得空旷、苍白。第四段是祈求——愿蝴蝶般的爱情飞回来。最后重复开头的「les roses d'Ispahan」要比开头更温柔、更渴望。",
+  "plain30": "波斯花园的玫瑰和茉莉都比不上蕾拉的美。但她的亲吻飞走了，花园也失去了香气。歌者祈愿爱情像蝴蝶一样飞回来，让玫瑰重新芬芳。一首用花来说爱的歌。",
+  "arc": "D 大调，2/4，如歌的行板。旋律线极其优美，以上行级进开始，在中高音区流动。前两段在 D 大调中温暖明亮。第三段转入 b 小调——花园凋零的失落。第四段回到 D 大调，但有更多的渴望和不确定。结尾在 D 大调上渐弱——玫瑰的香气在空气中慢慢消散。",
+  "motif": "玫瑰动机：开头「Les roses d'Ispahan」的上行级进旋律——这个旋律在结尾完整再现，形成完美的首尾呼应。轻盈动机：「léger」一词反复出现（四次），每次都在旋律的高点上——蕾拉的一切都是轻盈的。钢琴的花纹式伴奏像花园中水流的声音。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "开头「Les roses d'Ispahan」——玫瑰动机，温暖的上行"
+   },
+   {
+    "phrase": "4",
+    "note": "「ô blanche Leïlah」——第一次高潮，呼唤蕾拉"
+   },
+   {
+    "phrase": "9",
+    "note": "「Ô Leïlah! depuis que...」——转折，亲吻飞走的失落"
+   },
+   {
+    "phrase": "15",
+    "note": "结尾再现「les roses d'Ispahan」——首尾呼应，更深的渴望"
+   }
+  ],
+  "technique": "这首歌要求纯净的抒情线条和精致的法语咬字。长旋律线需要良好的气息管理——每个乐句都在中高音区流动，不能有气息中断的感觉。「Leïlah」这个词的三音节要清晰但不生硬。从 D 大调到 b 小调的转换要在声音色彩上有相应变化——从温暖明亮到略带苍白。整体要保持法语歌曲的优雅感，不要用意大利式的大音量。",
+  "classroom": [
+   "先读中文——理解三层结构：赞美→失去→祈愿回归。找出「轻盈」这个反复出现的关键词。",
+   "朗读法语——注意鼻化元音和词尾不发音的辅音。「Ispahan」的重音在最后一个音节。",
+   "练习「léger」和「douce」——这两个词反复出现，元音要始终一致。",
+   "用 2/4 拍的节奏轻轻说词——感受诗的韵律（每段的韵脚：mousse/douce, léger/oranger）。",
+   "哼唱旋律——标记开头和结尾的玫瑰动机是如何呼应的。",
+   "半速演唱，特别注意第三段到第四段的情绪转变。",
+   "原速演唱。想象自己在一个芬芳的花园里——声音本身就应该有香气。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "法语鼻化元音",
+   "items": [
+    "Ispahan 的 an [ɑ̃] 和 parfum 的 um [œ̃] 是不同的鼻化元音",
+    "oranger 的 an [ɑ̃]、vent 的 en [ɑ̃]——在旋律的长音上要保持鼻化",
+    "papillon 的 on [ɔ̃]——蝴蝶这个词需要轻巧"
+   ]
+  },
+  {
+   "title": "元音与声音色彩",
+   "items": [
+    "mousse 的 ou [u] 要圆润，douce 的 ou [u] 同样",
+    "léger 反复出现四次——每次的 é [e] 要一致、明亮",
+    "Leïlah 的两音节 [le.i.la] 注意分音符号——不是 Lei"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    7,
+    10
+   ],
+   "lyrics": "Les roses d’Ispahan dans leur gaine de mousse,",
+   "translation": "伊斯法罕的玫瑰在苔藓的花苞中，",
+   "events": [
+    {
+     "id": "les-roses-dispahan-e0008",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0009",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "Les",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0010",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "ro",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0011",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "ses",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0012",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "d’Is",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0013",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.75,
+     "lyric": "pa",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0014",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "han",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0015",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "dans",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0016",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.75,
+     "lyric": "leur",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0017",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "gai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0018",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0019",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.75,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0020",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "mous",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0021",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "se,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    10,
+    15
+   ],
+   "lyrics": "Les jasmins de Mossoul, les fleurs de l’oranger,",
+   "translation": "摩苏尔的茉莉，橙花，",
+   "events": [
+    {
+     "id": "les-roses-dispahan-e0022",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "Les",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0023",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.75,
+     "lyric": "jas",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0024",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "mins",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0025",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.5,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0026",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.75,
+     "lyric": "Mos",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0027",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "soul,",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0028",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 2.75,
+     "lyric": "les",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0029",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.25,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "fleurs",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0030",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.25,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0031",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "l’o",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0032",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.75,
+     "lyric": "ran",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0033",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "ger,",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0034",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0035",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    16,
+    18
+   ],
+   "lyrics": "Ont un parfum moins fruis, ont une odeur moins douce,",
+   "translation": "它们的芬芳不如你清新，香气不如你甜美，",
+   "events": [
+    {
+     "id": "les-roses-dispahan-e0036",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "Ont",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0037",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.5,
+     "lyric": "un",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0038",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.75,
+     "lyric": "par",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0039",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "fum",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0040",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 2.75,
+     "lyric": "moins",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0041",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "fruis,",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0042",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.5,
+     "lyric": "ont",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0043",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "u",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0044",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.25,
+     "lyric": "ne o",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0045",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "deur",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0046",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.75,
+     "lyric": "moins",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0047",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "dou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0048",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "ce,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    19,
+    20
+   ],
+   "lyrics": "Ô blanche Leïlah !",
+   "translation": "哦，白皙的蕾拉！不如你轻盈的气息。",
+   "events": [
+    {
+     "id": "les-roses-dispahan-e0049",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "Ô",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0050",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 1.5,
+     "lyric": "blan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0051",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "che",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0052",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "Le",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0053",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 1.25,
+     "lyric": "ï",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0054",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 20,
+     "beat": 1.5,
+     "lyric": "lah !",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    21,
+    26
+   ],
+   "lyrics": "que ton souffle léger.",
+   "translation": "哦，白皙的蕾拉！不如你轻盈的气息。",
+   "events": [
+    {
+     "id": "les-roses-dispahan-e0055",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "que",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0056",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 1.25,
+     "lyric": "ton",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0057",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 1.5,
+     "lyric": "souf",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0058",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 2.5,
+     "lyric": "fle",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0059",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 2.75,
+     "lyric": "lé",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0060",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "ger.",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0061",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0062",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0063",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0064",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0065",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    26,
+    34
+   ],
+   "lyrics": "Ta lèvre est de corail et ton rire léger Sonne mieux que l’eau vive et d’une voix plus douce.",
+   "translation": "你的嘴唇是珊瑚色的，你轻盈的笑声",
+   "events": [
+    {
+     "id": "les-roses-dispahan-e0066",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.5,
+     "lyric": "Ta",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0067",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "lè",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0068",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "vre est",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0069",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0070",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 2.75,
+     "lyric": "co",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0071",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "rail",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0072",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 1.5,
+     "lyric": "et",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0073",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 1.75,
+     "lyric": "ton",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0074",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0075",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 2.5,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0076",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 2.75,
+     "lyric": "lé",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0077",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "ger",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0078",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 2.5,
+     "lyric": "Son",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0079",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 2.75,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0080",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "mieux",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0081",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 1.5,
+     "lyric": "que",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0082",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 1.75,
+     "lyric": "l’eau",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0083",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 30,
+     "beat": 2.0,
+     "lyric": "vi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0084",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.5,
+     "lyric": "ve et",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0085",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "d’u",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0086",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.25,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0087",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.5,
+     "lyric": "voix",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0088",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.75,
+     "lyric": "plus",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0089",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "dou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0090",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "ce.",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0091",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0092",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    35,
+    37
+   ],
+   "lyrics": "Mieux que le vent joyeux qui berce l’oranger,",
+   "translation": "比摇晃橙树的欢快之风更动听，",
+   "events": [
+    {
+     "id": "les-roses-dispahan-e0093",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "Mieux",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0094",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 35,
+     "beat": 1.5,
+     "lyric": "que",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0095",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 35,
+     "beat": 1.75,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0096",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 35,
+     "beat": 2.0,
+     "lyric": "vent",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0097",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 35,
+     "beat": 2.75,
+     "lyric": "joy",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0098",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "eux",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0099",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.5,
+     "lyric": "qui",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0100",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 2.0,
+     "lyric": "ber",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0101",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 2.25,
+     "lyric": "ce",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0102",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 2.5,
+     "lyric": "l’o",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0103",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 2.75,
+     "lyric": "ran",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0104",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "ger,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    38,
+    43
+   ],
+   "lyrics": "Mieux que l’oiseau qui chante au bord d’un nid de mousse",
+   "translation": "比在苔藓巢边歌唱的鸟儿更美妙。",
+   "events": [
+    {
+     "id": "les-roses-dispahan-e0105",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "Mieux",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0106",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 38,
+     "beat": 1.5,
+     "lyric": "que",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0107",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 38,
+     "beat": 1.75,
+     "lyric": "l’oi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0108",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "seau",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0109",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 38,
+     "beat": 2.75,
+     "lyric": "qui",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0110",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "chan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0111",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.5,
+     "lyric": "te au",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0112",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "bord",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0113",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 40,
+     "beat": 1.75,
+     "lyric": "d’un",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0114",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.0,
+     "lyric": "nid",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0115",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 40,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0116",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 40,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0117",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "mous",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0118",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "se",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0119",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0120",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    43,
+    44
+   ],
+   "lyrics": "O Leïlah !",
+   "translation": "哦蕾拉！自从所有的亲吻",
+   "events": [
+    {
+     "id": "les-roses-dispahan-e0121",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 2.0,
+     "lyric": "O",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0122",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "Le",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0123",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 44,
+     "beat": 1.25,
+     "lyric": "ï",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0124",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 44,
+     "beat": 1.5,
+     "lyric": "lah !",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    44,
+    51
+   ],
+   "lyrics": "depuis que de leur voi léger Tous les baisers ont fui de ta lèvre si douce",
+   "translation": "都从你甜美的嘴唇上飞走以来，",
+   "events": [
+    {
+     "id": "les-roses-dispahan-e0125",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0126",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "puis",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0127",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 1.5,
+     "lyric": "que",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0128",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.0,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0129",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 2.5,
+     "lyric": "leur",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0130",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0131",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "voi",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0132",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 1.5,
+     "lyric": "lé",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0133",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0134",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 46,
+     "beat": 2.0,
+     "lyric": "ger",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0135",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 1.5,
+     "lyric": "Tous",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0136",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.0,
+     "lyric": "les",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0137",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 2.5,
+     "lyric": "bai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0138",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0139",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "sers",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0140",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1.5,
+     "lyric": "ont",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0141",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 48,
+     "beat": 2.0,
+     "lyric": "fui",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0142",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 49,
+     "beat": 1.5,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0143",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 49,
+     "beat": 1.75,
+     "lyric": "ta",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0144",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.0,
+     "lyric": "lè",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0145",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 49,
+     "beat": 2.5,
+     "lyric": "vre",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0146",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 49,
+     "beat": 2.75,
+     "lyric": "si",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0147",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "dou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0148",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 50,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0149",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 50,
+     "beat": 2.0,
+     "lyric": "ce",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0150",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    52,
+    54
+   ],
+   "lyrics": "Il n’est plus de parfums dans le pâle oranger,",
+   "translation": "苍白的橙树不再有芬芳，",
+   "events": [
+    {
+     "id": "les-roses-dispahan-e0151",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "Il",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0152",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 52,
+     "beat": 1.75,
+     "lyric": "n’est",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0153",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 2.0,
+     "lyric": "plus",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0154",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 52,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0155",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 52,
+     "beat": 2.75,
+     "lyric": "par",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0156",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "fums",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0157",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 53,
+     "beat": 1.5,
+     "lyric": "dans",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0158",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 53,
+     "beat": 1.75,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0159",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.0,
+     "lyric": "pâ",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0160",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 53,
+     "beat": 2.5,
+     "lyric": "le o",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0161",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 53,
+     "beat": 2.75,
+     "lyric": "ran",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0162",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 54,
+     "beat": 1.0,
+     "lyric": "ger,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    55,
+    62
+   ],
+   "lyrics": "Ni de céleste aromeaux roses dans leur mousse.",
+   "translation": "苔藓中的玫瑰也不再有天堂的香气。",
+   "events": [
+    {
+     "id": "les-roses-dispahan-e0163",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 1.0,
+     "lyric": "Ni",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0164",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 55,
+     "beat": 1.5,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0165",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 55,
+     "beat": 1.75,
+     "lyric": "cé",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0166",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 55,
+     "beat": 2.0,
+     "lyric": "les",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0167",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 55,
+     "beat": 2.75,
+     "lyric": "te a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0168",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 1.0,
+     "lyric": "ro",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0169",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 1.5,
+     "lyric": "meaux",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0170",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 56,
+     "beat": 2.0,
+     "lyric": "ro",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0171",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 56,
+     "beat": 2.25,
+     "lyric": "ses",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0172",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 56,
+     "beat": 2.5,
+     "lyric": "dans",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0173",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 56,
+     "beat": 2.75,
+     "lyric": "leur",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0174",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 57,
+     "beat": 1.0,
+     "lyric": "mous",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0175",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 58,
+     "beat": 1.0,
+     "lyric": "se.",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0176",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0177",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 59,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0178",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 60,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0179",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 61,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0180",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 62,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    62,
+    69
+   ],
+   "lyrics": "Oh ! que ton jeune amour ce papillon léger Revienne vers mon cœur d’une aile prompte et douce.",
+   "translation": "展开轻快而温柔的翅膀飞回我的心中，",
+   "events": [
+    {
+     "id": "les-roses-dispahan-e0181",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 62,
+     "beat": 2.0,
+     "lyric": "Oh !",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0182",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 1.0,
+     "lyric": "que",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0183",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 1.5,
+     "lyric": "ton",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0184",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 2.0,
+     "lyric": "jeu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0185",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 63,
+     "beat": 2.5,
+     "lyric": "ne a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0186",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 63,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0187",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 1.0,
+     "lyric": "mour",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0188",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 1.5,
+     "lyric": "ce",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0189",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 2.0,
+     "lyric": "pa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0190",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 2.25,
+     "lyric": "pil",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0191",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 2.5,
+     "lyric": "lon",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0192",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 2.75,
+     "lyric": "lé",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0193",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 65,
+     "beat": 1.0,
+     "lyric": "ger",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0194",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 2.5,
+     "lyric": "Re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0195",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 66,
+     "beat": 1.0,
+     "lyric": "vien",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0196",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 66,
+     "beat": 1.25,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0197",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 66,
+     "beat": 1.5,
+     "lyric": "vers",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0198",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 66,
+     "beat": 1.75,
+     "lyric": "mon",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0199",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 66,
+     "beat": 2.0,
+     "lyric": "cœur",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0200",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 66,
+     "beat": 2.75,
+     "lyric": "d’u",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0201",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 67,
+     "beat": 1.0,
+     "lyric": "ne ai",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0202",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0203",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 67,
+     "beat": 2.5,
+     "lyric": "promp",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0204",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 67,
+     "beat": 2.75,
+     "lyric": "te et",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0205",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 68,
+     "beat": 1.0,
+     "lyric": "dou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0206",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 69,
+     "beat": 1.0,
+     "lyric": "ce.",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0207",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 69,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    69,
+    72
+   ],
+   "lyrics": "Et qu’il parfume encor la fleur de l’oranger,",
+   "translation": "让它再次为伊斯法罕的玫瑰添上芬芳，",
+   "events": [
+    {
+     "id": "les-roses-dispahan-e0208",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 69,
+     "beat": 2.5,
+     "lyric": "Et",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0209",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 1.0,
+     "lyric": "qu’il",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0210",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 70,
+     "beat": 1.5,
+     "lyric": "par",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0211",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 70,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0212",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 70,
+     "beat": 2.0,
+     "lyric": "fu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0213",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 70,
+     "beat": 2.75,
+     "lyric": "me en",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0214",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 1.0,
+     "lyric": "cor",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0215",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 1.5,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0216",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 71,
+     "beat": 2.0,
+     "lyric": "fleur",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0217",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 71,
+     "beat": 2.25,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0218",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 71,
+     "beat": 2.5,
+     "lyric": "l’o",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0219",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 71,
+     "beat": 2.75,
+     "lyric": "ran",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0220",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 72,
+     "beat": 1.0,
+     "lyric": "ger,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    73,
+    81
+   ],
+   "lyrics": "Les roses d’Ispahan dans leur gaine de mousse !",
+   "translation": "苔藓花苞中伊斯法罕的玫瑰！",
+   "events": [
+    {
+     "id": "les-roses-dispahan-e0221",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 1.0,
+     "lyric": "Les",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0222",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 73,
+     "beat": 1.5,
+     "lyric": "ro",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0223",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 2.5,
+     "lyric": "ses",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0224",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 1.0,
+     "lyric": "d’Is",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0225",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 1.25,
+     "lyric": "pa",
+     "syllabic": "middle"
+    },
+    {
+     "id": "les-roses-dispahan-e0226",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 74,
+     "beat": 1.5,
+     "lyric": "han",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0227",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 75,
+     "beat": 1.0,
+     "lyric": "dans",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0228",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 75,
+     "beat": 1.25,
+     "lyric": "leur",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0229",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 75,
+     "beat": 1.5,
+     "lyric": "gai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0230",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 75,
+     "beat": 2.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0231",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 75,
+     "beat": 2.75,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "les-roses-dispahan-e0232",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 76,
+     "beat": 1.0,
+     "lyric": "mous",
+     "syllabic": "begin"
+    },
+    {
+     "id": "les-roses-dispahan-e0233",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 77,
+     "beat": 1.0,
+     "lyric": "se !",
+     "syllabic": "end"
+    },
+    {
+     "id": "les-roses-dispahan-e0234",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 77,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0235",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 78,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0236",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 79,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0237",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 80,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "les-roses-dispahan-e0238",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 81,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 231,
+ "restCount": 24,
+ "lyricNoteCount": 200,
+ "pages": 1,
+ "speech": {
+  "voice": "fr_FR-siwis-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 15,
+  "slowScale": 1.45
+ }
+}

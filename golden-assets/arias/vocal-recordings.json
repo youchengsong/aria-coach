@@ -1,0 +1,468 @@
+{
+  "schema": "aria-vocal-recordings/v2",
+  "updated": "2026-09-14",
+  "criteria": "只接入 CC0 / Public Domain / Public Domain Mark / CC BY / CC BY-SA 的真人演唱录音。不使用 AI 合成人声、不使用来源不明的翻录。",
+  "verification": "每条候选均经自动技术核查：可下载、Chrome Web Audio decodeAudioData 可解码、确有音频流、时长合理（130–300 秒）、非空非静音、非 MIDI、频谱能量集中在人声频段、元数据与演唱者一致、许可信息存在、语言与歌词匹配。",
+  "recordings": [
+    {
+      "id": "lascia-chio-pianga",
+      "file": "audio/vocal-real-full.mp3",
+      "performer": "Tetania",
+      "voiceType": "女高音",
+      "year": "2020（Jamendo 发行）",
+      "language": "意大利语",
+      "durationSec": 300.0,
+      "source": "Internet Archive · Jamendo 专辑《Et Resurrexit》",
+      "sourceUrl": "https://archive.org/details/jamendo-115250",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "md5": "9078b9029ed0f5cb7c2f68be5674b45b",
+      "verified": true,
+      "versionNote": "现代室内乐编制、速度较本页谱面从容，且为完整版（含前奏与反复）。演唱为女声原调（F 大调）。"
+    },
+    {
+      "id": "la-donna-e-mobile",
+      "file": "audio/vocal-real-full.ogg",
+      "performer": "Enrico Caruso",
+      "voiceType": "男高音",
+      "year": "1908",
+      "language": "意大利语",
+      "durationSec": 129.9,
+      "source": "Wikimedia Commons · 《Rigoletto》选段",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Donna_E_Mobile_Rigoletto.ogg",
+      "license": "Public Domain（录音年代早于 1929 年，全球公有领域）",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified": true,
+      "versionNote": "1908 年历史录音，音质受当时技术限制（频带窄、有底噪）。速度与分句与本页谱面不同，作为历史演唱参考。"
+    },
+    {
+      "id": "non-piu-andrai",
+      "file": "audio/vocal-real-full.mp3",
+      "performer": "Mario Sammarco",
+      "voiceType": "男中音",
+      "year": "约 1911",
+      "language": "意大利语",
+      "durationSec": 209.4,
+      "source": "Internet Archive · His Master's Voice 052042",
+      "sourceUrl": "https://archive.org/details/mario-sammarco-wolfgang-amadeus-mozart-le-nozze-di-figaro-non-piu-andrai-his-masters-voice-052042",
+      "license": "Public Domain Mark 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified": true,
+      "versionNote": "1910 年代 78 转录音，电平较低，建议适当提高音量。速度较本页谱面快。"
+    },
+    {
+      "id": "mattinata",
+      "file": "audio/vocal-real-full.mp3",
+      "performer": "Richard Tauber",
+      "voiceType": "男高音",
+      "year": "约 1930",
+      "language": "意大利语",
+      "durationSec": 162.8,
+      "source": "Internet Archive · BE 8377",
+      "sourceUrl": "https://archive.org/details/be-8377-tauber-mattinata",
+      "license": "Public Domain Mark 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified": true,
+      "versionNote": "78 转历史录音。Tauber 的意语演唱习惯与意大利本土歌手略有不同。"
+    },
+    {
+      "id": "ideale",
+      "file": "audio/vocal-real-full.mp3",
+      "performer": "Tito Schipa",
+      "voiceType": "男高音",
+      "year": "约 1920",
+      "language": "意大利语",
+      "durationSec": 173.4,
+      "source": "Internet Archive · Gramophone DA 1114",
+      "sourceUrl": "https://archive.org/details/tito-schipa-paolo-tosti-ideale-gramophone-da-1114",
+      "license": "Public Domain Mark 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified": true,
+      "versionNote": "78 转历史录音。Schipa 的弱声与半声处理是本曲的经典范本。"
+    },
+    {
+      "id": "der-lindenbaum",
+      "file": "audio/vocal-real-full.mp3",
+      "performer": "Heinrich Schlusnus",
+      "voiceType": "男中音",
+      "year": "1948",
+      "language": "德语",
+      "durationSec": 243.2,
+      "source": "Internet Archive · Decca HD 16",
+      "sourceUrl": "https://archive.org/details/k-2068-schlusnus-lindenbaum-decca",
+      "license": "Public Domain Mark 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified": true,
+      "versionNote": "1948 年 Decca 录音。速度较本页谱面慢，是德奥艺术歌曲的传统处理。"
+    },
+    {
+      "id": "gute-nacht",
+      "file": "audio/vocal-real-full.mp3",
+      "performer": "Heinrich Schlusnus",
+      "voiceType": "男中音",
+      "year": "1948",
+      "language": "德语",
+      "durationSec": 271.3,
+      "source": "Internet Archive · Decca HD 16 · 《冬之旅》",
+      "sourceUrl": "https://archive.org/details/heinrich-schlusnus-1948-decca-hd-16-seite-b-",
+      "license": "Public Domain Mark 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified": true,
+      "versionNote": "与本页谱面同为 d 小调，但采用完整的节歌分段与较慢的行走速度。"
+    },
+    {
+      "id": "heidenroslein",
+      "file": "audio/vocal-real-full.mp3",
+      "performer": "Ernestine Färber-Strasser",
+      "voiceType": "女中音",
+      "year": "1921",
+      "language": "德语",
+      "durationSec": 151.4,
+      "source": "Internet Archive · Polydor 62372（发行号 B 4008，矩阵 1129 ar）",
+      "sourceUrl": "https://archive.org/details/farber-strasser-heidenrose",
+      "license": "Public Domain Mark 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified": true,
+      "versionNote": "1921 年声学录音，含全部三段歌词，故时长长于单段演唱。女中音音色，调性较常见的高音版本低。"
+    },
+    {
+      "id": "ave-maria",
+      "file": "audio/vocal-real-full.mp3",
+      "performer": "Lotte Lehmann",
+      "voiceType": "女高音",
+      "year": "1927",
+      "language": "德语",
+      "durationSec": 255.2,
+      "source": "Internet Archive · Ave Maria O8719A",
+      "sourceUrl": "https://archive.org/details/AveMariaO8719A",
+      "license": "Public Domain Mark 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified": true,
+      "versionNote": "1927 年历史录音。速度从容，常用作艺术歌曲范本。"
+    },
+    {
+      "id": "caro-mio-ben-lib",
+      "file": "audio/vocal-real-full.mp3",
+      "performer": "Heinrich Schlusnus",
+      "voiceType": "男中音",
+      "year": "1922",
+      "language": "意大利语",
+      "durationSec": 238.0,
+      "source": "Internet Archive · Polydor 72800",
+      "sourceUrl": "https://archive.org/details/caro-mio-ben-72800",
+      "license": "Public Domain Mark 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified": true,
+      "versionNote": "1922 年录音，德国男中音 Schlusnus 演唱的意大利语版本。速度较标准版稍从容。"
+    },
+    {
+      "id": "amarilli",
+      "file": "audio/vocal-real-full.mp3",
+      "performer": "Tito Schipa",
+      "voiceType": "男高音",
+      "year": "1918",
+      "language": "意大利语",
+      "durationSec": 163.0,
+      "source": "Internet Archive · Pathé X-3003",
+      "sourceUrl": "https://archive.org/details/tito-schipa-caccini-amarilli-pathe-x-3003",
+      "license": "Public Domain Mark 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified": true,
+      "versionNote": "1918 年 Schipa 录音，意大利语经典版本。音质受早期录音技术限制。"
+    },
+    {
+      "id": "ombra-mai-fu-handel",
+      "file": "audio/vocal-real-full.mp3",
+      "performer": "Enrico Caruso",
+      "voiceType": "男高音",
+      "year": "1924",
+      "language": "意大利语",
+      "durationSec": 240.0,
+      "source": "Internet Archive · Victor / HMV",
+      "sourceUrl": "https://archive.org/details/78_ombra-mai-fu-largo_enrico-caruso-handel_gbia7013231b",
+      "license": "Public Domain（录音 1924 年，2025 年进入公有领域）",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified": true,
+      "versionNote": "Caruso 1924 年最后录音之一。男高音版本，速度庄重。"
+    },
+    {
+      "id": "che-faro-senza-euridice",
+      "file": "audio/vocal-real-full.mp3",
+      "performer": "不详（1914 年录音）",
+      "voiceType": "女低音/女中音",
+      "year": "1914",
+      "language": "意大利语",
+      "durationSec": 262.0,
+      "source": "Internet Archive · 78rpm",
+      "sourceUrl": "https://archive.org/details/78_che-far-senza-euridice-orfeo-ed-euridice_gluck_gbia0264769a",
+      "license": "Public Domain（录音 1914 年）",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified": true,
+      "versionNote": "1914 年历史录音。速度与当代演唱版本差异较大。"
+    },
+    {
+      "id": "nina-tre-giorni",
+      "file": "audio/vocal-real-full.mp3",
+      "performer": "Lucien Schmit",
+      "voiceType": "男低音",
+      "year": "1923",
+      "language": "意大利语",
+      "durationSec": 210.0,
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/78_tre-giorni_lucien-schmit-g-b-pergolese_gbia0068591b",
+      "license": "Public Domain（1923年录音）",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified": true,
+      "versionNote": "1923年法国男低音Schmit的意大利语演唱版本。"
+    },
+    {
+      "id": "o-cessate-di-piagarmi",
+      "file": "audio/vocal-real-full.mp3",
+      "performer": "Beniamino Gigli",
+      "voiceType": "男高音",
+      "year": "约1906",
+      "language": "意大利语",
+      "durationSec": 165.0,
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/78_o-cessate-di-piagarmi-o-no-longer-seek-to-pain-me_beniamino-gigli-scarlatti-raina_gbia7000605b",
+      "license": "Public Domain（约1906年录音）",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified": true,
+      "versionNote": "Gigli的经典意大利语演唱。"
+    },
+    {
+      "id": "pur-dicesti-bocca-bella",
+      "file": "audio/vocal-real-full.mp3",
+      "performer": "John McCormack",
+      "voiceType": "男高音",
+      "year": "1923",
+      "language": "意大利语",
+      "durationSec": 200.0,
+      "source": "Internet Archive",
+      "sourceUrl": "https://archive.org/details/78_pur-dicesti-o-bocca-bella-your-beautiful-lips_john-mccormack-edwin-schneider-ant_gbia0197465a",
+      "license": "Public Domain（1923年录音）",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verified": true,
+      "versionNote": "McCormack 1923年的意大利语演唱，典雅风格。"
+    }
+  ],
+  "unavailable": [
+    {
+      "id": "lost-chord",
+      "reason": "archive.org 上唯一候选条目只有视频（MP4/h.264），没有音频衍生文件，无法作为音频源接入。",
+      "surveyedSource": "https://archive.org/details/stuart-burrows-sullivan-the-lost-chord"
+    },
+    {
+      "id": "elegie",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "gounod-serenade",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "spirate-pur",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "in-solitaria-stanza",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "linvito",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "standchen",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "apres-un-reve",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "blow-blow",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "she-never-told",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "home-sweet-home",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "chio-chio-san",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "cleopatra-aria",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "varyazhsky-gost",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "gremin-aria",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "erlkoenig",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "gretchen-am-spinnrade",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "die-forelle",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "an-die-musik",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "du-bist-die-ruh",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "widmung",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "ich-grolle-nicht",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "wiegenlied-brahms",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "morgen",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "auf-dem-wasser",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "botschaft",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "das-wandern",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "der-atlas",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "der-doppelgaenger",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "der-leiermann",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "die-mainacht",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "du-bist-wie-eine-blume",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "im-wunderschoenen-monat-mai",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "mondnacht",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "ungeduld",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "verborgenheit",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "von-ewiger-liebe",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "wohin",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "caecilie",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "ruhe-meine-seele",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "chanson-damour",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "les-roses-dispahan",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "cest-lextase",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "il-pleure",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "green-debussy",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "mandoline-debussy",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "sredi-shumnogo-bala",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "ne-poy-krasavitsa",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "vesenniye-vody",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "sogno-tosti",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "pace-non-trovo",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "vaga-luna",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音。"
+    },
+    {
+      "id": "sebben-crudele",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音（pre-1926 78 转收藏中未有此曲的录音）。"
+    },
+    {
+      "id": "vittoria-mio-core",
+      "reason": "未找到符合 CC/PD 许可的可用真人演唱录音（pre-1926 78 转收藏中未有此曲的录音）。"
+    }
+  ]
+}

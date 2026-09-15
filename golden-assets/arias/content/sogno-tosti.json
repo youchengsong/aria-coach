@@ -1,0 +1,106 @@
+{
+  "title": "Sogno",
+  "titleZh": "梦",
+  "composer": "F.P. Tosti",
+  "opera": "独立艺术歌曲（Romanza da salotto，约 1887）",
+  "role": "抒情主体：在梦中看见爱人跪在自己面前的人",
+  "genre": "浪漫曲",
+  "language": "意大利语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "tempoBpm": 60,
+  "complete": true,
+  "sourceGrade": "B",
+  "coverageNote": "完整声乐旋律（4/4，约 50 小节），155 个意大利语音节；OpenScore 据 Ricordi 版转写。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus · Tosti, Sogno",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MXL（MuseScore 转写，CC0）",
+      "status": "已解析；155 个音节",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    },
+    {
+      "name": "IMSLP · Sogno (Tosti)",
+      "url": "https://imslp.org/wiki/Sogno_(Tosti,_Francesco_Paolo)",
+      "format": "PDF 声乐谱（公有领域出版）",
+      "status": "用于交叉核对",
+      "role": "参照原谱",
+      "grade": "A",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {"text": "Ho sognato che stavi a ginocchi", "zh": "我梦见你跪在地上"},
+    {"text": "come un santo che prega il Signor,", "zh": "像一个向上帝祈祷的圣徒，"},
+    {"text": "mi guardavi nel fondo degli occhi,", "zh": "你凝视我双眼的深处，"},
+    {"text": "sfavillava il tuo sguardo d'amor.", "zh": "你爱的目光闪烁着光芒。"},
+    {"text": "Tu parlavi e la voce sommessa", "zh": "你说着话，那低沉的声音"},
+    {"text": "mi parea quella d'un cherubino,", "zh": "在我听来就像天使的声音，"},
+    {"text": "e m'inondava l'anima oppressa", "zh": "我沉重的灵魂被淹没在"},
+    {"text": "una forte dolcezza divin.", "zh": "一种强烈而神圣的甜蜜之中。"},
+    {"text": "Ho sognato che stavi a ginocchi", "zh": "我梦见你跪在地上"},
+    {"text": "come un santo che prega il Signor,", "zh": "像一个向上帝祈祷的圣徒，"},
+    {"text": "mi guardavi nel fondo degli occhi,", "zh": "你凝视我双眼的深处，"},
+    {"text": "sfavillava il tuo sguardo d'amor.", "zh": "你爱的目光闪烁着光芒。"}
+  ],
+  "hints": [
+    {
+      "title": "双辅音与「gn」音",
+      "items": [
+        "「sognato」「ginocchi」中的 gn 发 [ɲ]（类似汉语「女」的声母），舌面贴硬腭",
+        "「ginocchi」的 cch 是双辅音 [kk]，停顿后爆破",
+        "「sfavillava」的 ll 双辅音需要明确拉长",
+        "「sommessa」的 ss、mm 都是双辅音"
+      ]
+    },
+    {
+      "title": "开闭口元音",
+      "items": [
+        "「prega」「sommessa」「oppressa」的 e 为开口 [ɛ]",
+        "「che」「dolcezza」的 e 为闭口 [e]",
+        "「fondo」「amor」的 o 为开口 [ɔ]",
+        "「come」「voce」的 o 为闭口 [o]"
+      ]
+    },
+    {
+      "title": "连读与诗体省略",
+      "items": [
+        "「d'un」= di un，省音连读",
+        "「m'inondava」= mi inondava，省音",
+        "「l'anima」= la anima，省音",
+        "「d'amor」= di amor，诗体省音"
+      ]
+    }
+  ],
+  "story": {
+    "background": "弗朗切斯科·保罗·托斯蒂（1846-1916）是意大利最重要的沙龙歌曲作曲家之一，长期在伦敦担任英国王室的声乐教师。《梦》是他最受欢迎的浪漫曲之一，旋律优美、感情真挚，是男高音学习意大利语抒情线条的经典入门曲目。与他的《理想》（Ideale）一样，这首歌展现了托斯蒂将高雅的声乐技巧与沙龙亲切感完美融合的能力。",
+    "situation": "叙述者从一个美丽的梦中醒来，在梦中他看见爱人像圣徒一样跪在自己面前，目光中闪烁着爱的光芒。那低语的声音像天使一般，让他沉重的灵魂充满了神圣的甜蜜。歌曲的结构是 ABA'——第一段描述梦境，第二段深入内心感受，第三段回到梦境的画面，但带着更深的眷恋。",
+    "relationships": "歌者与梦中的爱人。这个爱人被描绘成几乎超凡脱俗的存在——跪着祈祷如圣徒，声音如天使。歌曲没有说明这是现实中的人还是纯粹的幻想，这种模糊正是浪漫曲的魅力：梦境比现实更美。",
+    "intent": "开头以叙述语气回忆梦境（「Ho sognato」），像在对朋友讲述昨晚的梦。「Mi guardavi」处旋律上升，重温那凝视的感觉。第二段「Tu parlavi」转为更内在的体验，「m'inondava l'anima oppressa」是情感最深处——被甜蜜淹没。第三段重复开头，但因为已经经历了中段的深入，演唱应更加眷恋、更不舍得从梦中醒来。",
+    "plain30": "一个人从梦中醒来，回忆梦里爱人跪在面前，目光闪耀，声音像天使。那梦太美了，他忍不住再讲一遍。这是一首关于比现实更美的梦的歌。",
+    "arc": "降B大调，4/4 Andante。钢琴以柔和的琶音开场，声乐线条以级进为主、偶有跳进。第一段在中音区平稳展开，「sfavillava」处有小高潮；第二段「Tu parlavi」转为更连绵的长线条，「una forte dolcezza divin」到达情感顶点和音域高点；第三段回到开头的旋律，但钢琴伴奏更丰满，结尾以渐弱消失，仿佛梦境在晨光中消散。",
+    "motif": "核心动机是「Ho sognato」的三音下行后上扬——叙述的语气。这个动机在第一句确立，第五句「Tu parlavi」以相似的下行开始但随后持续上行，表达从叙述到沉浸的转变。第三段重现时，同样的「Ho sognato」因为已知结局而带有更多留恋。",
+    "motifPositions": [
+      {"phrase": "1", "note": "「Ho sognato che stavi a ginocchi」叙述动机首次出现——平静的回忆"},
+      {"phrase": "4", "note": "「sfavillava il tuo sguardo」旋律上行至第一段高点——闪耀的目光"},
+      {"phrase": "5", "note": "「Tu parlavi e la voce sommessa」第二段开始——更内在、更连绵"},
+      {"phrase": "8", "note": "「una forte dolcezza divin」全曲情感顶点——被甜蜜淹没"},
+      {"phrase": "9", "note": "「Ho sognato」再现——相同的旋律，更深的眷恋"}
+    ],
+    "technique": "呼吸：长乐句需要充足的气息支撑，「m'inondava l'anima oppressa / una forte dolcezza divin」是最长的连续段落，在「oppressa」之前换气。咬字：双辅音（ginocchi, sfavillava, sommessa）需要精确的停顿；gn [ɲ] 音要柔和自然。换声区：男高音在 E4-F4 区域经过换声点，保持元音通道统一。高音：「divin」上的高音靠前句的上行推上去，不突然加力；第三段重复时可以稍弱于第一次，体现梦境消散的感觉。整体：bel canto 的连贯线条是核心——每个音节之间不断开，像一条不间断的丝线。",
+    "classroom": [
+      "先读中文翻译，理解这是一个人在回忆美丽的梦——梦中的爱人像圣徒、像天使。",
+      "慢速朗读意大利语原文。注意 gn 的发音（sognato、ginocchi）和双辅音的停顿。",
+      "分离元音：区分开口 e/o 和闭口 e/o；练习省音连读（d'un, m'inondava, l'anima）。",
+      "按 4/4 说词，每拍一个音节的节奏感。",
+      "听旋律参考，注意第一段的平稳和第二段的上行扩展。",
+      "把歌词放回旋律，先练第一段的叙述语气，再练第二段的情感深入。",
+      "完整演唱。第三段重复时比第一次更轻柔、更不舍——你在讲一个即将消散的梦。"
+    ]
+  }
+}

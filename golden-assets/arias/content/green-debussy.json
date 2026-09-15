@@ -1,0 +1,134 @@
+{
+  "title": "Green",
+  "titleZh": "绿",
+  "composer": "C. Debussy",
+  "opera": "Ariettes oubliées, No. 5（1888；诗：P. Verlaine）",
+  "language": "法语",
+  "script": "latin",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "genre": "艺术歌曲",
+  "tempoBpm": 66,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（降A 大调，4/4，温柔而热切）。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Voici des fruits, des fleurs, des feuilles et des branches",
+      "zh": "这是水果、鲜花、树叶和枝条，"
+    },
+    {
+      "text": "et puis voici mon cœur qui ne bat que pour vous.",
+      "zh": "还有我的心——它只为你跳动。"
+    },
+    {
+      "text": "Ne le déchirez pas avec vos deux mains blanches",
+      "zh": "请不要用你白皙的双手将它撕碎，"
+    },
+    {
+      "text": "et qu'à vos yeux si beaux l'humble présent soit doux.",
+      "zh": "愿这谦卑的礼物在你美丽的眼中是甜蜜的。"
+    },
+    {
+      "text": "J'arrive tout couvert encore de rosée",
+      "zh": "我来到这里，还沾满露水——"
+    },
+    {
+      "text": "que le vent du matin vient glacer à mon front.",
+      "zh": "清晨的风把它凝在我的额头上。"
+    },
+    {
+      "text": "Souffrez que ma fatigue à vos pieds reposée",
+      "zh": "请允许我的疲惫在你脚边安歇，"
+    },
+    {
+      "text": "rêve des chers instants qui la délasseront.",
+      "zh": "梦见那些将使它得到安息的美好时刻。"
+    },
+    {
+      "text": "Sur votre jeune sein laissez rouler ma tête",
+      "zh": "让我的头靠在你年轻的胸前，"
+    },
+    {
+      "text": "toute sonore encor de vos derniers baisers;",
+      "zh": "它还回响着你最后的亲吻；"
+    },
+    {
+      "text": "laissez-la s'apaiser de la bonne tempête,",
+      "zh": "让它从美好的风暴中平息，"
+    },
+    {
+      "text": "et que je dorme un peu puisque vous reposez.",
+      "zh": "让我小睡一会儿，因为你也在休息。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "法语元音",
+      "items": [
+        "fruits [fʁɥi]——半元音 [ɥ] 接 [i]，唇形从圆到展",
+        "feuilles [fœj]——eu [œ] 接半元音 [j]",
+        "cœur [kœʁ]——开口的 œ，与 fleurs [flœʁ] 相同",
+        "beaux [bo]——闭口 o，不是鼻化"
+      ]
+    },
+    {
+      "title": "法语联诵",
+      "items": [
+        "des fruits [defʁɥi] 不联诵，但 des branches [debʁɑ̃ʃ] 也不联诵",
+        "vos yeux [vozjø]——s 联诵为 [z]",
+        "tout couvert [tukuvɛʁ]——t 联诵到 c"
+      ]
+    }
+  ],
+  "story": {
+    "background": "德布西为魏尔兰的「绿」谱曲时，这首诗已经有福雷的版本（Op.58 No.3）。两个版本风格截然不同：福雷的版本热烈奔放，德布西的版本则更内敛、更私密。魏尔兰的诗描绘了一个清晨带着花果和露水来到爱人身边的人——他献出一切，然后请求安歇。",
+    "situation": "清晨。歌者穿过花园和露水来到爱人身边，带来了水果、花朵和枝条——以及他的心。他请求她温柔地对待他的心，允许他把疲惫的头靠在她的胸前小睡。这是一个经历了整夜相思或旅程的人在黎明到达的时刻。",
+    "relationships": "歌者与爱人——用「vous」（您）而非「tu」（你），保持一种尊敬而热切的距离。他既大胆（带来心和亲吻）又谦卑（称礼物为「humble présent」，请求「laissez」允许）。",
+    "intent": "开头要有节奏感和热切——像是气喘吁吁地带来礼物。「Voici des fruits」一个一个列举，声音越来越温柔。第二段转入疲惫——「tout couvert encore de rosée」声音放慢、变轻。第三段是最亲密的时刻——「Sur votre jeune sein」要极度温柔，「et que je dorme un peu」像是真的要睡着了。",
+    "plain30": "清晨带着花果和露水来到你身边：这是我的心，它只为你跳动。我还沾着露水，让我的头靠在你胸前，让我小睡一会儿。一首关于献出一切然后在爱人身边安歇的歌。",
+    "arc": "降A 大调，4/4，中速。开头有推进力——一连串的「des...des...des...」像是在列举。钢琴的伴奏起初活跃，到第二段放缓。第三段是最安静的部分——旋律在中低音区轻轻流动，钢琴变成摇篮般的和弦。最后在降A 大调上以 ppp 消失——入睡。",
+    "motif": "献礼动机：开头「Voici des fruits」的列举式旋律——每个「des」都在同一音高，像在一件件展示礼物。心跳动机：「mon cœur qui ne bat que pour vous」的脉动节奏。安歇动机：第三段的下行旋律——从高音缓缓落下，像头慢慢靠在枕头上。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "「Voici des fruits, des fleurs」——献礼动机，热切的列举"
+      },
+      {
+        "phrase": "2",
+        "note": "「mon cœur qui ne bat que pour vous」——全曲最深情的告白"
+      },
+      {
+        "phrase": "5",
+        "note": "「J'arrive tout couvert encore de rosée」——清晨的露水，节奏放缓"
+      },
+      {
+        "phrase": "11",
+        "note": "「et que je dorme un peu」——入睡动机，消失在安宁中"
+      }
+    ],
+    "technique": "需要在热切和温柔之间快速切换。开头的列举需要清晰的法语咬字和向前的推力。第二段需要在放慢速度时保持声音的连贯。第三段的极弱演唱要保持气息支撑——「Sur votre jeune sein」的长乐句不能中断。最后渐弱到消失的控制是全曲的难点。",
+    "classroom": [
+      "先读中文——这首歌讲的是「带着礼物来到你身边，然后在你怀里睡着」。",
+      "朗读法语，用两种语速：前四行快（热切），后四行慢（疲惫→安歇）。",
+      "练习「Voici des...des...des...」的列举——每个词都清晰但不生硬。",
+      "练习半元音 [ɥ] 在 fruits 中的发音——唇形从圆到展要迅速。",
+      "哼唱旋律——标记从热切到安歇的转折点。",
+      "半速完整演唱——注意第三段的渐弱控制。",
+      "原速演唱。这首歌和福雷的同名版本是一对很好的比较——可以先后演唱，感受两位作曲家的不同处理。"
+    ]
+  },
+  "role": "抒情主人公（献上花果的恋人）"
+}

@@ -1,0 +1,1584 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "mondnacht",
+ "title": "Mondnacht",
+ "titleZh": "月夜",
+ "composer": "R. Schumann",
+ "opera": "Liederkreis Op.39 No.5（歌曲集，1840；诗：J. von Eichendorff）",
+ "language": "德语",
+ "voice": "女高音",
+ "difficulty": "中级",
+ "tempoBpm": 60,
+ "timeSignature": "3/8",
+ "coverage": {
+  "measures": [
+   1,
+   68
+  ],
+  "firstSungMeasure": 6,
+  "complete": true,
+  "note": "完整声乐旋律（E大调，3/8，柔和而梦幻，约68小节，三段分节歌）。舒曼最受喜爱的歌曲之一。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "E4",
+  "high": "F#5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主人公（夜行者）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Es war, als hätt' der Himmel",
+   "zh": "仿佛天空"
+  },
+  {
+   "text": "die Erde still geküßt,",
+   "zh": "静静地亲吻了大地，"
+  },
+  {
+   "text": "daß sie im Blütenschimmer",
+   "zh": "使她在花的微光中"
+  },
+  {
+   "text": "von ihm nun träumen müßt'.",
+   "zh": "不得不梦见他。"
+  },
+  {
+   "text": "Die Luft ging durch die Felder,",
+   "zh": "微风穿过田野，"
+  },
+  {
+   "text": "die Ähren wogten sacht,",
+   "zh": "麦穗轻轻摇曳，"
+  },
+  {
+   "text": "es rauschten leis die Wälder,",
+   "zh": "森林轻声低语，"
+  },
+  {
+   "text": "so sternklar war die Nacht.",
+   "zh": "夜晚如此星光灿烂。"
+  },
+  {
+   "text": "Und meine Seele spannte",
+   "zh": "而我的灵魂"
+  },
+  {
+   "text": "weit ihre Flügel aus,",
+   "zh": "张开了宽阔的翅膀，"
+  },
+  {
+   "text": "flog durch die stillen Lande,",
+   "zh": "飞过寂静的大地，"
+  },
+  {
+   "text": "als flöge sie nach Haus.",
+   "zh": "仿佛飞向了家。"
+  }
+ ],
+ "story": {
+  "background": "《月夜》选自舒曼《歌曲集》Op.39，取艾兴多夫的浪漫主义诗歌。这是德国艺术歌曲中最著名的'夜曲'之一——三段诗描绘天空亲吻大地、微风穿过田野、灵魂展翅飞翔的意象。舒曼用E大调的宁静和声和钢琴的琶音织出一个星光下的梦境。",
+  "situation": "一个宁静的月夜。诗人站在田野间，看到天空仿佛亲吻了大地，一切都在月光中安睡。微风、麦穗、森林——大自然的一切都在轻声呼吸。在这寂静中，诗人的灵魂张开翅膀飞翔，飞向一个叫做'家'的地方——也许是天堂，也许是灵魂的归宿。",
+  "relationships": "诗人与大自然、与自己的灵魂之间的对话。天空与大地是一对恋人（亲吻的意象），而诗人的灵魂在这宇宙的宁静中找到了自由。",
+  "intent": "三段递进：第一段是客观的自然描写（天空亲吻大地）；第二段加入感官细节（风、麦穗、森林）；第三段突然转向内心——'我的灵魂'展翅飞翔。最后的'als flöge sie nach Haus'是全曲最深沉的一刻——'回家'在这里意味着灵魂的归宿。",
+  "plain30": "月夜里，天空亲吻大地，微风穿过田野，星光灿烂。在这宁静中，诗人的灵魂张开翅膀飞过大地，仿佛飞向了家。",
+  "arc": "E大调，3/8，柔和的三拍摇摆。三段用相似旋律但渐次加深。钢琴的分解和弦像月光洒落。第三段'Und meine Seele'处旋律升高，情感由外在的自然转入内心的飞翔。结尾在主音上安静地解决——灵魂找到了归宿。",
+  "motif": "月光琶音：钢琴的分解和弦像月光的柔波。声乐的下行级进动机象征安宁——'Es war, als hätt' der Himmel' 从高处温柔下落，像月光降临大地。第三段的上行跳进是灵魂的'展翅'动机。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "'Es war, als hätt' der Himmel' 月光降临——温柔的下行"
+   },
+   {
+    "phrase": "5",
+    "note": "'Die Luft ging durch die Felder' 微风穿过——旋律的流动"
+   },
+   {
+    "phrase": "9",
+    "note": "'Und meine Seele spannte' 灵魂展翅——上行跳进，情感高点"
+   },
+   {
+    "phrase": "9",
+    "note": "'als flöge sie nach Haus' 回家——安静的解决"
+   }
+  ],
+  "technique": "全曲在 pianissimo 到 mezzo-piano 之间。3/8 拍不要打成明显的强拍——要像呼吸一样自然流动。'Seele' 的长音需要稳定的气息支撑。最后的 'nach Haus' 不要渐弱到听不见——要有'到达'的踏实感。",
+  "classroom": [
+   "先读中文：天空亲吻大地，微风穿过田野，灵魂飞向了家。",
+   "朗读德语：注意 'geküßt' 的 ü、'Ähren' 的 ä、'Seele' 的长 e。",
+   "听钢琴前奏的琶音——你的声音要像月光一样轻盈地落在上面。",
+   "三段旋律相似：先学一段，再配三段不同的歌词。",
+   "第三段是关键——'Und meine Seele' 开始时可以稍微加一点力度。",
+   "'als flöge sie nach Haus' 是目的地——唱到'Haus'时要有'到了'的安心感。",
+   "完整演唱。在一个安静的夜晚练习效果最好。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "Himmel 的 i 短促 [ɪ]",
+    "geküßt 的 ü 是圆唇 [ʏ]",
+    "Blütenschimmer 的 ü 是长 [yː]",
+    "Ähren 的 ä 读 [ɛː]，接近'艾'",
+    "Seele 的 ee 是长 [eː]"
+   ]
+  },
+  {
+   "title": "歌唱风格",
+   "items": [
+    "全曲像一个悬浮的梦——声音要轻盈、透明",
+    "3/8 拍的摇摆感像月光下的微风",
+    "最后一段'Und meine Seele spannte'是情感高潮——灵魂展翅飞翔",
+    "'als flöge sie nach Haus' 要唱出回家的温暖与安宁"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    6,
+    14
+   ],
+   "lyrics": "Es war, als hätt' der Himmel die Erde still geküsst,",
+   "translation": "仿佛天空",
+   "events": [
+    {
+     "id": "mondnacht-e0007",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0008",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 1.667,
+     "lyric": "Es",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0009",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "war,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0010",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1.667,
+     "lyric": "als",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0011",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "hätt'",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0012",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0013",
+     "pitch": "E#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0014",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.833,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0015",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "Him",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0016",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.667,
+     "lyric": "mel",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0017",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0018",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0019",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.667,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0020",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "Er",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0021",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.667,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0022",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "still",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0023",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0024",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.833,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0025",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "küsst,",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0026",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    15,
+    28
+   ],
+   "lyrics": "dass sie im Blütenschimmer von ihm nur träumen müsst'.",
+   "translation": "使她在花的微光中",
+   "events": [
+    {
+     "id": "mondnacht-e0027",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "dass",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0028",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.333,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0029",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0030",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.833,
+     "lyric": "im",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0031",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "Blü",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0032",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0033",
+     "pitch": "E#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0034",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.833,
+     "lyric": "ten",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mondnacht-e0035",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "schim",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mondnacht-e0036",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.667,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0037",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0038",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0039",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.667,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0040",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "ihm",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0041",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1.667,
+     "lyric": "nur",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0042",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "träu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0043",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0044",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 1.833,
+     "lyric": "men",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0045",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "müsst'.",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0046",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0047",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0048",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0049",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0050",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0051",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0052",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0053",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    28,
+    32
+   ],
+   "lyrics": "Die Luft ging durch die Felder,",
+   "translation": "微风穿过田野，",
+   "events": [
+    {
+     "id": "mondnacht-e0054",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.667,
+     "lyric": "Die",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0055",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "Luft",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0056",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.667,
+     "lyric": "ging",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0057",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "durch",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0058",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0059",
+     "pitch": "E#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0060",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 1.833,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0061",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "Fel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0062",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.667,
+     "lyric": "der,",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0063",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0064",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    32,
+    36
+   ],
+   "lyrics": "die Aehren wogten sacht,",
+   "translation": "麦穗轻轻摇曳，",
+   "events": [
+    {
+     "id": "mondnacht-e0065",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.667,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0066",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "Aeh",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0067",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 1.667,
+     "lyric": "ren",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0068",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "wog",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0069",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 34,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0070",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 34,
+     "beat": 1.833,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0071",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "sacht,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0072",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0073",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    36,
+    40
+   ],
+   "lyrics": "es rauschten leis' die Wälder,",
+   "translation": "森林轻声低语，",
+   "events": [
+    {
+     "id": "mondnacht-e0074",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.667,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0075",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "rausch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0076",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 1.667,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0077",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "leis'",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0078",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 38,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0079",
+     "pitch": "E#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 38,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0080",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 38,
+     "beat": 1.833,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0081",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "Wäl",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0082",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.667,
+     "lyric": "der,",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0083",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0084",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    40,
+    44
+   ],
+   "lyrics": "so sternklar war die Nacht.",
+   "translation": "夜晚如此星光灿烂。",
+   "events": [
+    {
+     "id": "mondnacht-e0085",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.667,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0086",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "stern",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0087",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.667,
+     "lyric": "klar",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0088",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "war",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0089",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0090",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 1.833,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0091",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "Nacht.",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0092",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0093",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    44,
+    52
+   ],
+   "lyrics": "Und meine Seele spannte weit ihre Flügel aus,",
+   "translation": "而我的灵魂",
+   "events": [
+    {
+     "id": "mondnacht-e0094",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.667,
+     "lyric": "Und",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0095",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0096",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 1.667,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0097",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "See",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0098",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0099",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "mondnacht-e0100",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "mondnacht-e0101",
+     "pitch": "E#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0102",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 1.833,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0103",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "spann",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0104",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 1.667,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0105",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0106",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "weit",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0107",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 49,
+     "beat": 1.333,
+     "lyric": "ih",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0108",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 49,
+     "beat": 1.833,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0109",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "Flü",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0110",
+     "pitch": "B#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 1.667,
+     "lyric": "gel",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0111",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "aus,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0112",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    53,
+    56
+   ],
+   "lyrics": "flog durch die stillen Lande,",
+   "translation": "飞过寂静的大地，",
+   "events": [
+    {
+     "id": "mondnacht-e0113",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "flog",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0114",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 53,
+     "beat": 1.333,
+     "lyric": "durch",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0115",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 53,
+     "beat": 1.833,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0116",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 54,
+     "beat": 1.0,
+     "lyric": "stil",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0117",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0118",
+     "pitch": "E#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0119",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 1.833,
+     "lyric": "len",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0120",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 55,
+     "beat": 1.0,
+     "lyric": "Lan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0121",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 1.667,
+     "lyric": "de,",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0122",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0123",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    56,
+    68
+   ],
+   "lyrics": "als flöge sie nach Haus.",
+   "translation": "仿佛飞向了家。",
+   "events": [
+    {
+     "id": "mondnacht-e0124",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 1.667,
+     "lyric": "als",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0125",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 57,
+     "beat": 1.0,
+     "lyric": "flö",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mondnacht-e0126",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 57,
+     "beat": 1.667,
+     "lyric": "ge",
+     "syllabic": "end"
+    },
+    {
+     "id": "mondnacht-e0127",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 1.333,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0128",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 1.667,
+     "lyric": "nach",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0129",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 59,
+     "beat": 1.0,
+     "lyric": "Haus.",
+     "syllabic": "single"
+    },
+    {
+     "id": "mondnacht-e0130",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0131",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 61,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0132",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 62,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0133",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 63,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0134",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 64,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0135",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 65,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0136",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 66,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0137",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 67,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mondnacht-e0138",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 68,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 132,
+ "restCount": 36,
+ "lyricNoteCount": 78,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 9,
+  "slowScale": 1.45
+ }
+}

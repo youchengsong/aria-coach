@@ -1,0 +1,81 @@
+{
+  "title": "Beau soir",
+  "titleZh": "美丽的黄昏",
+  "composer": "C. Debussy",
+  "opera": "L. 6（独立艺术歌曲，约 1878；诗：P. Bourget）",
+  "language": "法语",
+  "script": "latin",
+  "voice": "女高音",
+  "difficulty": "基础",
+  "genre": "艺术歌曲",
+  "tempoBpm": 54,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（E 大调，4/4 Andante ma non troppo，约 30 小节）。德彪西青年时期最优美的歌曲之一。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {"text": "Lorsque au soleil couchant les rivières sont roses", "zh": "当落日映红了河流，"},
+    {"text": "et qu'un tiède frisson court sur les champs de blé,", "zh": "一阵温暖的微风掠过麦田，"},
+    {"text": "un conseil d'être heureux semble sortir des choses", "zh": "万物间似乎传来一个「要快乐」的忠告，"},
+    {"text": "et monter vers le cœur troublé.", "zh": "升向那不安的心灵。"},
+    {"text": "Un conseil de goûter le charme d'être au monde", "zh": "一个劝你品尝人世美好的忠告，"},
+    {"text": "cependant qu'on est jeune et que le soir est beau,", "zh": "趁你还年轻，趁黄昏还美丽，"},
+    {"text": "car nous nous en allons, comme s'en va cette onde:", "zh": "因为我们终将离去，如同流水一般："},
+    {"text": "elle à la mer, nous au tombeau.", "zh": "它流向大海，我们走向坟墓。"}
+  ],
+  "hints": [
+    {
+      "title": "法语元音与鼻化",
+      "items": [
+        "couchant, champs, frisson 的鼻化元音：-ant [ɑ̃]，-amps [ɑ̃]，-on [ɔ̃]",
+        "roses, choses 的 o 是闭口 [o]，不要读成 [ɔ]",
+        "tombeau 的 -eau 读 [o]，像英语 'oh' 但嘴更圆",
+        "rivières 的 -iè 读 [jɛ]，双音节"
+      ]
+    },
+    {
+      "title": "法语歌唱风格",
+      "items": [
+        "法语 mélodie 要求柔和的发声——不要用意大利式的开放共鸣",
+        "辅音要轻柔：法语的 r 在歌唱中可以用小舌颤音 [ʁ] 或轻弹",
+        "最后一句'elle à la mer, nous au tombeau'要平静——接受死亡，不是恐惧死亡"
+      ]
+    }
+  ],
+  "story": {
+    "background": "《美丽的黄昏》是德彪西约 16 岁时的作品（约 1878 年），在他还未形成印象派风格之前。保尔·布尔热的诗用田园黄昏的美景引出一个存在主义的思考：趁年轻，趁黄昏还美丽，要品尝生命的美好——因为我们终将像流水一样消逝。旋律优美而直接，是学习法语 mélodie 的理想入门曲目。",
+    "situation": "黄昏时分。落日把河流染成玫瑰色，微风拂过麦田。万物似乎在说：要快乐。趁你年轻，趁黄昏还美——因为生命如流水，终将消逝。水流向大海，我们走向坟墓。",
+    "relationships": "歌者与自然/时间——诗中没有具体的人际关系，是一个人面对黄昏景色时的内省。自然是无声的劝告者。",
+    "intent": "前半部分描绘黄昏美景——温暖、明亮、流动。'Un conseil d'être heureux' 是核心——自然在劝你快乐。后半部分转入感伤——'car nous nous en allons'——我们终将离去。最后一句 'elle à la mer, nous au tombeau' 要平静而坦然——不是悲剧，是对生命有限性的温柔接受。",
+    "plain30": "落日把河染红了，风吹过麦田。一切都在说：趁年轻，要快乐。因为我们终将离去——流水奔向大海，我们走向坟墓。这是一首关于「活在当下」的法语歌，旋律美得像一幅水彩画。",
+    "arc": "E 大调，4/4，行板。旋律从中音区开始，以级进和小跳为主，流畅如溪水。'un conseil d'être heureux'处旋律上行到高点——像阳光最后的温暖。后半段转向降调——'car nous nous en allons'——色彩变暗但不绝望。最后两句回到平静的主调，在低音区结束——像落日沉入地平线。",
+    "motif": "流水动机：钢琴伴奏中连续流动的分解和弦——像河水在夕阳下流淌，贯穿全曲。上行希望动机：'un conseil d'être heureux' 的旋律上行——自然在鼓励你。下行消逝动机：'comme s'en va cette onde' 的旋律下行——一切终将流逝。",
+    "motifPositions": [
+      {"phrase": "1", "note": "开头：'les rivières sont roses' 温暖的风景描绘，建立黄昏色调"},
+      {"phrase": "3", "note": "'un conseil d'être heureux' 核心句——自然的劝告，旋律上升"},
+      {"phrase": "7", "note": "'car nous nous en allons' 转折——从美景到感伤"},
+      {"phrase": "8", "note": "'elle à la mer, nous au tombeau' 结尾——平静的接受"}
+    ],
+    "technique": "这首歌技巧上比较简单——音域适中、节奏规整。重点是法语发音的准确性和音色的柔和。连诵（liaison）要自然：'les‿rivières sont‿roses'。气息要够长——每行诗一口气。最后两句的对比是演唱的关键：'elle à la mer'（流向大海）要流动，'nous au tombeau'（走向坟墓）要沉静。",
+    "classroom": [
+      "先读中文——两个画面：落日下的美景 → 生命终将消逝的感悟。",
+      "慢速朗读法语——享受法语的音乐性：roses, choses, onde, tombeau。",
+      "练习鼻元音：couchant, champs, frisson, tombeau 中的不同鼻化音。",
+      "哼唱旋律——感受从温暖到感伤的色彩变化。",
+      "先练前四行（黄昏美景），再练后四行（生命感悟）。",
+      "完整演唱。想象你站在一条被落日染红的河边，感受到时间在流逝——但你并不害怕。",
+      "这首歌非常适合作为第一首法语 mélodie 来学习。"
+    ]
+  }
+}

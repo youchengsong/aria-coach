@@ -1,0 +1,117 @@
+{
+ "title": "La serenata",
+ "titleZh": "小夜曲",
+ "composer": "F. P. Tosti",
+ "opera": "独立声乐曲（1884；词 G. A. Cesareo）",
+ "role": "抒情主体：在月下对窗前恋人唱小夜曲的人",
+ "genre": "小夜曲",
+ "language": "意大利语",
+ "script": "latin",
+ "voice": "男高音",
+ "difficulty": "中级",
+ "tempoBpm": 63,
+ "complete": true,
+ "sourceGrade": "C",
+ "coverageNote": "完整声乐旋律（3/4），依据 Ricordi 标准版编码。",
+ "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+ "sources": [
+  {
+   "name": "手工编码 MusicXML",
+   "url": "https://imslp.org/wiki/La_serenata_(Tosti,_Francesco_Paolo)",
+   "format": "MusicXML",
+   "role": "声乐旋律线",
+   "status": "依据 Ricordi 出版版本编码",
+   "grade": "C"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Vola, o serenata: la mia diletta e sola,",
+   "zh": "飞吧，小夜曲：我的爱人独自一人，"
+  },
+  {
+   "text": "e con la bella testa abbandonata,",
+   "zh": "她美丽的头低垂着，"
+  },
+  {
+   "text": "posa tra le lenzuola.",
+   "zh": "靠在枕头上。"
+  },
+  {
+   "text": "O serenata, vola.",
+   "zh": "小夜曲啊，飞吧。"
+  },
+  {
+   "text": "O serenata, vola.",
+   "zh": "小夜曲啊，飞吧。"
+  },
+  {
+   "text": "Splende pura la luna, l'ale il silenzio stende,",
+   "zh": "明月皎洁，寂静展开翅膀，"
+  },
+  {
+   "text": "e dietro i veli dell'alcova bruna",
+   "zh": "在暗色闺阁帷幕的后面，"
+  },
+  {
+   "text": "la lampada s'accende.",
+   "zh": "灯亮了。"
+  },
+  {
+   "text": "Pura la luna splende.",
+   "zh": "明月皎洁地照耀着。"
+  }
+ ],
+ "hints": [
+  {
+   "title": "意大利语 l 的发音",
+   "items": [
+    "vola 的 l 是齿龈侧音 [l]，轻柔而清晰",
+    "bella 双 l",
+    "lenzuola：z 发 [ts]",
+    "alcova 重音在第二音节 al-CÒ-va"
+   ]
+  },
+  {
+   "title": "3/4 小夜曲风格",
+   "items": [
+    "典型的意大利小夜曲摇摆感",
+    "不要太慢——Andantino 保持流动",
+    "结尾的'vola'渐弱飘远"
+   ]
+  }
+ ],
+ "story": {
+  "background": "托斯蒂的《小夜曲》（1884）是意大利沙龙歌曲的经典代表。它描绘了一个月夜场景：歌者请求自己的小夜曲飞向窗前独自入睡的恋人。托斯蒂以其优美的旋律线和完美的词曲结合著称，这首歌是男高音音乐会的常备曲目。",
+  "situation": "月夜。歌者站在恋人的窗下，唱起小夜曲。他看到她窗后的灯亮了，想象她美丽的头靠在枕头上。他请求歌声飞过去，代替自己陪伴她。",
+  "relationships": "歌者与恋人之间有物理距离（窗外/窗内），但感情亲密。整首歌的张力来自'想要靠近但只能用歌声'。",
+  "intent": "温柔、梦幻、带着浪漫的渴望。'Vola, o serenata'要像在放飞一只鸟。'la mia diletta e sola'充满怜爱。'Splende pura la luna'描绘月色——声音要变得更透明。结尾'vola'渐弱消失，像歌声飘向远方。",
+  "plain30": "月夜里，一个人对窗前的恋人唱：飞吧，小夜曲，代我去陪她。月光皎洁，她的灯亮了。这是意大利最美的小夜曲之一。",
+  "arc": "3/4 Andantino。开头的'Vola'以温柔的上行开始。中段描绘月色时旋律变得更透明。每段结尾的'vola'或'splende'是抒情高点。全曲在渐弱中结束。",
+  "motif": "核心动机是'Vola'的上行——放飞的动作。它在每段结尾出现。'la mia diletta'的下行级进表达温柔。月色段的旋律更加平静和透明。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "'Vola, o serenata'——放飞动机，上行"
+   },
+   {
+    "phrase": 4,
+    "note": "'O serenata, vola'——放飞动机再现，更轻更远"
+   },
+   {
+    "phrase": 6,
+    "note": "'Splende pura la luna'——月色动机，透明而静谧"
+   }
+  ],
+  "technique": "需要柔美的高音区控制——许多乐句在中高音区展开。3/4 的摇摆要自然不刻意。'vola'的渐弱到消失是最难的技术点——需要完美的气息控制。适合练习 mezza voce（半声）技巧。",
+  "classroom": [
+   "先读中文——月夜窗下的浪漫场景。",
+   "慢速朗读意大利语，感受每个词的音乐性。",
+   "练习 3/4 拍的自然摇摆——不要机械地数拍。",
+   "用'啊'哼唱旋律，练习柔美的高音区。",
+   "听旋律参考。",
+   "放入歌词，先练'Vola'的放飞感，再练月色段的透明感。",
+   "完整演唱。结尾让声音像月光一样慢慢消失。"
+  ]
+ }
+}

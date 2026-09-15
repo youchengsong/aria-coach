@@ -1,0 +1,137 @@
+{
+  "title": "Die Forelle",
+  "titleZh": "鳟鱼",
+  "composer": "F. Schubert",
+  "opera": "D. 550（独立艺术歌曲，约 1817；诗：C.F.D. Schubart）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "genre": "艺术歌曲",
+  "tempoBpm": 66,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（降 D 大调，2/4 Etwas lebhaft，约 62 小节）。三段式，钢琴模拟溪流中鳟鱼的跳跃。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "In einem Bächlein helle, da schoss in froher Eil'",
+      "zh": "在一条清澈的小溪里，一条鳟鱼欢快地"
+    },
+    {
+      "text": "die launische Forelle vorüber wie ein Pfeil.",
+      "zh": "像箭一般游过。"
+    },
+    {
+      "text": "Ich stand an dem Gestade und sah in süßer Ruh'",
+      "zh": "我站在岸边，甜蜜而安静地"
+    },
+    {
+      "text": "des muntern Fischleins Bade im klaren Bächlein zu.",
+      "zh": "看着那活泼的小鱼在清溪中嬉戏。"
+    },
+    {
+      "text": "Ein Fischer mit der Rute wohl an dem Ufer stand,",
+      "zh": "一个渔夫拿着鱼竿站在岸边，"
+    },
+    {
+      "text": "und sah's mit kaltem Blute, wie sich das Fischlein wand.",
+      "zh": "冷漠地看着小鱼游来游去。"
+    },
+    {
+      "text": "So lang' dem Wasser Helle, so dacht' ich, nicht gebricht,",
+      "zh": "我想，只要溪水还是清澈的，"
+    },
+    {
+      "text": "so fängt er die Forelle mit seiner Angel nicht.",
+      "zh": "他就钓不到这条鳟鱼。"
+    },
+    {
+      "text": "Doch endlich ward dem Diebe die Zeit zu lang.",
+      "zh": "可最终小偷等不下去了。"
+    },
+    {
+      "text": "Er macht' das Bächlein tückisch trübe,",
+      "zh": "他把溪水搅浑，"
+    },
+    {
+      "text": "und eh' ich es gedacht, so zuckte seine Rute,",
+      "zh": "我还没反应过来，鱼竿就一抖——"
+    },
+    {
+      "text": "das Fischlein zappelt dran,",
+      "zh": "小鱼在鱼钩上挣扎，"
+    },
+    {
+      "text": "und ich mit regem Blute sah die Betrog'ne an.",
+      "zh": "而我满怀激愤地看着这被欺骗的鱼儿。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "Bächlein 的 ä 读开口 [ɛ]，Ruh' 的 u 保持深圆 [uː]",
+        "trübe 的 ü 是圆唇前元音 [yː]",
+        "Forelle 的 o 是短元音 [ɔ]，e 读 [ɛ]"
+      ]
+    },
+    {
+      "title": "节奏与语气",
+      "items": [
+        "2/4 拍，节奏轻快——前两段像田园诗，最后一段语气转为愤怒",
+        "Bächlein、Fischlein 的 -lein 缩小后缀要轻柔，表达小巧可爱",
+        "'tückisch trübe' 的 t/tr 辅音组要有力，体现欺诈的愤怒"
+      ]
+    }
+  ],
+  "story": {
+    "background": "《鳟鱼》是舒伯特最受欢迎的艺术歌曲之一，旋律广为传唱。Schubart 的原诗是一首寓言——表面写鱼和渔夫，实际暗指纯真少女被狡猾男子诱骗（'搅浑水'比喻蒙蔽心智）。舒伯特后来还以这首歌的旋律为主题写了著名的《鳟鱼五重奏》（D. 667）。",
+    "situation": "叙述者站在溪边，看一条鳟鱼在清水中快乐游弋。一个渔夫在岸边等待。叙述者心想，只要水是清的，鳟鱼就安全。可渔夫把水搅浑了，鳟鱼就上钩了。叙述者看到这一幕，满心愤怒——因为他知道这个寓言的含义。",
+    "relationships": "叙述者是旁观者，同情鳟鱼；渔夫是'小偷'（Dieb）；鳟鱼是'被欺骗者'（Betrog'ne）。三者的关系是一个道德寓言的框架。",
+    "intent": "前两段要唱得轻快、天真，像描绘一幅阳光下的溪流画面。第三段语气转变——'Doch endlich ward dem Diebe die Zeit zu lang' 开始变得紧张，音乐从大调短暂转向小调。最后的'mit regem Blute sah die Betrog'ne an'要有道德愤慨感。",
+    "plain30": "一条快乐的鳟鱼在清溪里游，一个渔夫钓不到它。于是渔夫把水搅浑，鳟鱼就上钩了。旁观者很愤怒——这其实是一个关于纯真被欺骗的寓言。",
+    "arc": "降 D 大调，2/4，稍快。前两段使用相同的欢快旋律（分节歌形式），钢琴模拟溪水流动。第三段调性暗淡（降 b 小调过渡），节奏加快，旋律变得不安。结尾回到大调但音色已变，留下道德寓言的余韵。",
+    "motif": "鳟鱼跳跃动机：钢琴前奏中上行的十六分音符音型——轻快、闪亮，模拟鳟鱼在阳光下的溪水中跳跃。这个动机在第三段被打乱（水被搅浑），然后以变形的方式回来。声乐的主旋律以大跳开始（五度或六度），像鳟鱼跃出水面。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "开头：'In einem Bächlein helle' 欢快的大调旋律，鳟鱼动机的声乐版本"
+      },
+      {
+        "phrase": "5",
+        "note": "第二段开始：同一旋律但渔夫出场，暗示不祥"
+      },
+      {
+        "phrase": "9",
+        "note": "'Doch endlich' 调性变化，鳟鱼动机被打乱——水被搅浑"
+      },
+      {
+        "phrase": "13",
+        "note": "结尾的道德愤慨：'die Betrog'ne' 回到大调但语气完全不同"
+      }
+    ],
+    "technique": "这是学习德语艺术歌曲的理想入门曲目。旋律优美、音域适中、节奏规整。重点：保持 2/4 拍的轻快流动感，不要唱得太重。第三段的语气转变是演唱的核心——从天真到愤怒的过渡要自然。德语咬字要清晰但不僵硬。",
+    "classroom": [
+      "先读中文，理解三段的情节：看鱼→渔夫搅浑水→鱼被骗上钩。",
+      "慢速朗读德语，体会 Bächlein/Fischlein 的可爱感和 tückisch/trübe 的愤怒感。",
+      "按 2/4 拍拍手读词，保持轻快节奏。",
+      "先练前两段（旋律相同）——唱得像在讲一个快乐的故事。",
+      "再练第三段——注意从大调到小调的色彩变化。",
+      "完整演唱，注意三段之间的情感对比。",
+      "如果你学过《鳟鱼五重奏》，对比一下主题旋律——完全相同！"
+    ]
+  },
+  "role": "叙事者（抒情主人公）"
+}

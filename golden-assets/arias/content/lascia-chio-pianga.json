@@ -1,0 +1,206 @@
+{
+ "title": "Lascia ch’io pianga",
+ "titleZh": "让我哭泣",
+ "composer": "G. F. Händel",
+ "opera": "Rinaldo（《里纳尔多》，HWV 7，1711）",
+ "language": "意大利语",
+ "voice": "女高音",
+ "difficulty": "基础",
+ "tempoBpm": 60,
+ "complete": true,
+ "coverageNote": "咏叹调主体（Largo，3/4，42 小节）完整导入，已移调至标准 F 大调（来源文件为 D 大调，+3 半音）。小节从咏叹调起点重新编号为 1。来源文件前 12 小节为宣叙调，按项目规则不作为主线。",
+ "sourceStatus": "MusicXML 原谱 · 已核验",
+ "sources": [
+  {
+   "name": "music21 corpus · handel/rinaldo/Lascia_chio_pianga.mxl",
+   "url": "https://github.com/cuthbertLab/music21/tree/master/music21/corpus/handel/rinaldo",
+   "format": "MXL (MuseScore 1.x 编码)",
+   "status": "已解析并核对小节数与歌词",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "IMSLP · Rinaldo, HWV 7 (Händel)",
+   "url": "https://imslp.org/wiki/Rinaldo,_HWV_7_(Handel,_George_Frideric)",
+   "format": "PDF 总谱/声乐谱",
+   "status": "用于核对调性、拍号与歌词",
+   "role": "参照原谱",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "Wikipedia · Lascia ch’io pianga",
+   "url": "https://en.wikipedia.org/wiki/Lascia_ch%27io_pianga",
+   "format": "网页",
+   "status": "背景与歌词校对",
+   "role": "剧情与文本",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Lascia ch’io pianga la dura sorte,",
+   "zh": "让我为自己艰苦的命运哭泣，"
+  },
+  {
+   "text": "e che sospiri la libertà.",
+   "zh": "让我叹息着渴望自由。"
+  },
+  {
+   "text": "Il duolo infranga queste ritorte",
+   "zh": "愿悲痛打碎这些枷锁，"
+  },
+  {
+   "text": "de’ miei martiri sol per pietà.",
+   "zh": "只求怜悯我所受的苦难。"
+  }
+ ],
+ "story": {
+  "background": "《里纳尔多》是亨德尔为伦敦写的第一部意大利歌剧，1711 年在女王剧院首演，剧本由 Giacomo Rossi 据塔索史诗《被解放的耶路撒冷》改编。这段咏叹调出现在第二幕第四场：十字军女主角阿尔米雷娜被女巫阿尔米达囚于魔法花园，异教国王阿尔干特向她求爱，她转身向天祈求。旋律来自亨德尔早年的萨拉班德舞曲（歌剧《阿尔米拉》，1705）与清唱剧《时间与真理的胜利》，1711 年在此处定型为最著名的版本。",
+  "situation": "阿尔米雷娜刚被强行带离爱人里纳尔多，眼前是心怀不轨的阿尔干特。她没有力量反抗，能做的只是请求：至少让我哭，让我为自由叹息。她害怕的是被迫屈从，想要的是尊严和自由。",
+  "relationships": "阿尔米雷娜是十字军统帅戈弗雷多之女、里纳尔多的恋人；阿尔干特是耶路撒冷国王、阿尔米达的情人，此刻却对囚徒动心。这段独唱让阿尔干特一时软化，也让观众看到女主角柔弱外表下的坚持，为第三幕里纳尔多的营救铺垫。",
+  "intent": "开口要像轻声祈祷，而不是哭喊：气息安静、元音圆润。中段 “Il duolo infranga” 情绪上扬，可以稍加重量；再现 “Lascia ch’io pianga” 时回到最初的克制，让结尾的 “libertà” 像一声长长的、放下的叹息。",
+  "plain30": "一个被囚禁的女孩对逼迫她的人说：你可以关住我，但请让我哭，让我为自由叹一口气。全曲只有一个愿望——不被夺走内心的自由。",
+  "arc": "F 大调，3/4 Largo，萨拉班德节奏（第二拍略重）。旋律以级进和小跳为主，多用长音起句、下行结束，形成 “抬头—叹息” 的呼吸感。A 段克制哀伤，B 段 “Il duolo infranga” 转向关系小调、节奏更紧，情绪从祈求变为渴望，随后 A 段返回，整体为 da capo 结构。",
+  "motif": "核心动机是开头的下行叹息音型：“La-scia” 从长音落到低音，再在 “pian-ga” 上重复。它在每个乐句开头以不同起音再现；演唱时把重音放在长音上，下行的第二个音要轻，像松开的气息，不要把每个音唱得同样重。",
+  "classroom": [
+   "先读中文译文，说清楚 “她想要什么、害怕什么”。",
+   "慢速朗读意大利语原文，标出每个词的重音音节（LA-scia, PIAN-ga, sor-TE 除外为 SOR-te）。",
+   "分离元音：只唱 a-i-o-e 的元音链，让口型稳定。",
+   "按节拍说话：用 3/4 拍数着念词，感受第二拍的萨拉班德重音。",
+   "听单音旋律，注意每句结尾的下行音是轻声收束。",
+   "把歌词放回旋律，先按乐句，再合并。",
+   "用正常速度完整演唱，注意 da capo 返回时的音色更轻。"
+  ],
+  "technique": "呼吸：每个乐句两小节，长音后必有休止，在休止处换气，不在 “li-ber-tà” 中途换。咬字：意大利语双辅音（lascia 的 sc [ʃ]、sospiri 的 sp）前元音略短、辅音略长；“ch’io” 连读为 [kjo]。换声区：女高音在 “sospiri” 的 D5–E5 处经过换声区，用更多头腔、保持元音竖直。高音：最高音 E5 只在 “libertà” 与 B 段出现，是渐强后的释放而不是猛击，先想象长音再开口。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Lascia ch’io pianga” 首次呈示下行叹息音型（长音落到低音）。"
+   },
+   {
+    "phrase": 2,
+    "note": "第 2 句 “e che sospiri la libertà” 动机上移一级再下行，情绪略抬。"
+   },
+   {
+    "phrase": 7,
+    "note": "第 7 句 “Il duolo infranga” B 段转入关系小调，叹息音型收紧为更短的下行。"
+   },
+   {
+    "phrase": 10,
+    "note": "第 10 句 “per pietà” 以最完整的下行结束，da capo 返回时用更轻的音色再现第 1 句。"
+   }
+  ]
+ },
+ "syllables": [
+  "La-",
+  "scia",
+  "ch’io",
+  "pian-",
+  "ga",
+  "la",
+  "du-",
+  "ra",
+  "sor-",
+  "te,",
+  "e",
+  "che",
+  "so-",
+  "spi-",
+  "ri",
+  "la",
+  "li-",
+  "ber-",
+  "tà,",
+  "e",
+  "che",
+  "so-",
+  "spi-",
+  "ri,",
+  "e",
+  "che",
+  "so-",
+  "spi-",
+  "ri",
+  "la",
+  "li-",
+  "ber-",
+  "tà;",
+  "la-",
+  "scia",
+  "ch’io",
+  "pian-",
+  "ga",
+  "la",
+  "du-",
+  "ra",
+  "sor-",
+  "te,",
+  "e",
+  "che",
+  "so-",
+  "spi-",
+  "ri",
+  "la",
+  "li-",
+  "ber-",
+  "tà.",
+  "Il",
+  "duo-",
+  "lo in-",
+  "fran-",
+  "ga",
+  "que-",
+  "ste",
+  "ri-",
+  "tor-",
+  "te",
+  "de’",
+  "miei",
+  "mar-",
+  "ti-",
+  "ri",
+  "sol",
+  "per",
+  "pie-",
+  "tà,",
+  "sì,",
+  "de’",
+  "miei",
+  "mar-",
+  "ti-",
+  "ri",
+  "sol,",
+  "per",
+  "pie-",
+  "tà."
+ ],
+ "sourceGrade": "B",
+ "role": "阿尔米雷娜（Almirena）：被女巫囚禁的十字军少女",
+ "genre": "歌剧咏叹调",
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "LÀ-scia、PIÀN-ga、DÙ-ra、SÒR-te、so-SPÌ-ri、li-ber-TÀ（重音在最后，带重音符）、DUÒ-lo、in-FRÀN-ga、QUÉ-ste、ri-TÒR-te、MÀR-ti-ri、pie-TÀ。",
+    "本曲双辅音少：“sospiri” 的 sp 是辅音群不是双辅音；“infranga” 的 nfr 三辅音连读要清楚。"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "pianga、infranga 的 a 开而亮；sorte、ritorte 的 o 开口 [ɔ]；duolo 的 uo 双元音重音在 o。",
+    "che、che 的 e 闭口 [e]；pietà 的 e 开口 [ɛ]；miei 读 [mjɛi]。"
+   ]
+  },
+  {
+   "title": "r、连读与省略",
+   "items": [
+    "r 全部弹舌：dura、sorte、sospiri、ritorte、martiri。",
+    "“ch’io” 省音读 [kjo]；“de’ miei” 的 de’ 是 dei 的截略；“lascia” 的 sc 在 i 前读 [ʃ]。"
+   ]
+  }
+ ]
+}

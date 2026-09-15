@@ -1,0 +1,942 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "du-bist-wie-eine-blume",
+ "title": "Du bist wie eine Blume",
+ "titleZh": "你像一朵花",
+ "composer": "R. Schumann",
+ "opera": "Myrthen Op.25 No.24（桃金娘，1840；诗：H. Heine）",
+ "language": "德语",
+ "voice": "男高音",
+ "difficulty": "基础",
+ "tempoBpm": 56,
+ "timeSignature": "2/4",
+ "coverage": {
+  "measures": [
+   1,
+   20
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "完整声乐旋律（降A大调，2/4，缓慢而深情，约24小节）。海涅最著名的短诗之一，舒曼的设定简洁而深情。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "G4",
+  "high": "F5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主人公（恋人）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Du bist wie eine Blume,",
+   "zh": "你像一朵花，"
+  },
+  {
+   "text": "so hold und schön und rein;",
+   "zh": "如此可爱、美丽而纯洁；"
+  },
+  {
+   "text": "ich schau' dich an, und Wehmut",
+   "zh": "我凝视着你，惆怅"
+  },
+  {
+   "text": "schleicht mir ins Herz hinein.",
+   "zh": "悄悄溜进了我的心。"
+  },
+  {
+   "text": "Mir ist, als ob ich die Hände",
+   "zh": "我觉得我应该"
+  },
+  {
+   "text": "aufs Haupt dir legen sollt',",
+   "zh": "把双手放在你的头上，"
+  },
+  {
+   "text": "betend, daß Gott dich erhalte",
+   "zh": "祈祷上帝保佑你"
+  },
+  {
+   "text": "so rein und schön und hold.",
+   "zh": "永远如此纯洁、美丽而可爱。"
+  }
+ ],
+ "story": {
+  "background": "这首歌选自舒曼的《桃金娘》Op.25——他作为婚礼礼物送给妻子克拉拉的歌曲集。海涅的诗只有八行，极其简洁：看着眼前这个美丽纯洁的人，心中涌起的不是欢乐而是惆怅——因为美好的事物总让人想到它的脆弱与短暂。",
+  "situation": "诗人凝视着心爱的人，被她的纯洁美丽所打动。但美丽引发的不是快乐，而是一种温柔的忧伤——他想伸出双手放在她头上，祈祷上帝保护这份美好。",
+  "relationships": "诗人对爱人的温柔凝视。这不是热烈的爱情告白，而是一种近乎虔诚的柔情——看着美好，心生怜惜。",
+  "intent": "极简的表达。'Du bist wie eine Blume' 像一声轻叹。中间的 'Wehmut schleicht mir ins Herz' 是唯一的情感波动——惆怅悄悄地进来。结尾的祈祷要真诚而安静。",
+  "plain30": "你像一朵花那样纯洁美丽，可我看着你，心里却涌上了惆怅。我只想伸手放在你头上，祈祷上帝保佑你永远这样美好。",
+  "arc": "降A大调，2/4，慢速。旋律在极窄的音域内移动，像低声的倾诉。'Wehmut schleicht' 处有微妙的和声暗转。结尾'so rein und schön und hold'回到主调，像一个温柔的祈祷。",
+  "motif": "叹息动机：开头的'Du bist wie eine Blume'用级进下行——像一声带着怜爱的叹息。全曲几乎没有跳进，旋律线条极度平滑，象征温柔的凝视。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "'Du bist wie eine Blume' 级进下行，温柔的叹息"
+   },
+   {
+    "phrase": "3",
+    "note": "'Wehmut schleicht mir ins Herz' 惆怅的暗流——和声微转"
+   },
+   {
+    "phrase": "6",
+    "note": "'so rein und schön und hold' 祈祷——回到主调"
+   }
+  ],
+  "technique": "全曲在 piano 范围内。最大的挑战是保持声音的温度同时不用力——要'说'而不是'唱'。呼吸要无声。'Wehmut' 的 W 用柔和的唇齿摩擦，不要过重。",
+  "classroom": [
+   "先读中文——八行诗，一分钟读完，理解'美丽引发惆怅'的核心。",
+   "朗读德语：注意 ö、ü、ä 的圆唇和前元音。",
+   "这首歌旋律非常简单——先用'嗯'哼唱一遍。",
+   "配上歌词。全程用轻声——不要超过 mezzo-piano。",
+   "'Wehmut schleicht' 是关键——'惆怅悄悄溜进来'，声音也要'溜'进去。",
+   "完整演唱。用最真诚的轻声。",
+   "这首歌短到可以当热身用——每次练声前唱一遍。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "Blume 的 u 是长 [uː]",
+    "schön 的 ö 是圆唇 [øː]",
+    "rein 的 ei 读 [aɪ]",
+    "Wehmut 的 eh 是长 [eː]，mut 的 u 短 [ʊ]",
+    "Hände 的 ä 读 [ɛ]"
+   ]
+  },
+  {
+   "title": "歌唱风格",
+   "items": [
+    "这是一首极其简短、温柔的歌——不需要任何力度变化",
+    "从头到尾保持轻声——像在对一个熟睡的人说话",
+    "'Wehmut schleicht' 是情感的核心——美丽中隐藏的忧伤"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    1,
+    3
+   ],
+   "lyrics": "Du bist wie eine Blume,",
+   "translation": "你像一朵花，",
+   "events": [
+    {
+     "id": "du-bist-wie-eine-blume-e0002",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0003",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 2.5,
+     "lyric": "Du",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0004",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.25,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "bist",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0005",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 2.25,
+     "lyric": "wie",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0006",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 2,
+     "beat": 2.5,
+     "lyric": "ei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0007",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 2,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0008",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 2,
+     "beat": 2.833,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0009",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "Blu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0010",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 1.5,
+     "lyric": "me,",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0011",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    3,
+    6
+   ],
+   "lyrics": "so schön, so rein, und hold,",
+   "translation": "如此可爱、美丽而纯洁；",
+   "events": [
+    {
+     "id": "du-bist-wie-eine-blume-e0012",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2.5,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0013",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "schön,",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0014",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 1.75,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0015",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.0,
+     "lyric": "rein,",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0016",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0017",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0018",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0019",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.75,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0020",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "hold,",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0021",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0022",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    6,
+    9
+   ],
+   "lyrics": "ich schau’ dich an und Wehmut schleicht mir in’s Herz hinein.",
+   "translation": "我凝视着你，惆怅",
+   "events": [
+    {
+     "id": "du-bist-wie-eine-blume-e0023",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.25,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0024",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.5,
+     "lyric": "schau’",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0025",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.75,
+     "lyric": "dich",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0026",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "an",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0027",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 2.75,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0028",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "Weh",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0029",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 7,
+     "beat": 1.5,
+     "lyric": "mut",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0030",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "schleicht",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0031",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.5,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0032",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.75,
+     "lyric": "in’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0033",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "Herz",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0034",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.75,
+     "lyric": "hin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0035",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "ein.",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0036",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    9,
+    13
+   ],
+   "lyrics": "Mir ist, als ob ich die Hände auf’s Haupt dir legen sollt’,",
+   "translation": "我觉得我应该",
+   "events": [
+    {
+     "id": "du-bist-wie-eine-blume-e0037",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "Mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0038",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.25,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "ist,",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0039",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.25,
+     "lyric": "als",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0040",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "ob",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0041",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.667,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0042",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.833,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0043",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "Hän",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0044",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.5,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0045",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "auf’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0046",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "Haupt",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0047",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.75,
+     "lyric": "dir",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0048",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0049",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0050",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0051",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0052",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.75,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0053",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "sollt’,",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0054",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    14,
+    16
+   ],
+   "lyrics": "betend, dass Gott dich erhalte so schön,",
+   "translation": "祈祷上帝保佑你",
+   "events": [
+    {
+     "id": "du-bist-wie-eine-blume-e0055",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "be",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0056",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "tend,",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0057",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.75,
+     "lyric": "dass",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0058",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "Gott",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0059",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.5,
+     "lyric": "dich",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0060",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.75,
+     "lyric": "er",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0061",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "hal",
+     "syllabic": "middle"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0062",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.5,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0063",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0064",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0065",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.25,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0066",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.5,
+     "lyric": "schön,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    16,
+    20
+   ],
+   "lyrics": "so rein und hold.",
+   "translation": "永远如此纯洁、美丽而可爱。",
+   "events": [
+    {
+     "id": "du-bist-wie-eine-blume-e0067",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.75,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0068",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "rein",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0069",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 2.75,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0070",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "hold.",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0071",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0072",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0073",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-wie-eine-blume-e0074",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 73,
+ "restCount": 12,
+ "lyricNoteCount": 54,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 6,
+  "slowScale": 1.45
+ }
+}

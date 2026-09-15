@@ -1,0 +1,151 @@
+{
+ "title": "Home, Sweet Home",
+ "titleZh": "甜蜜的家",
+ "composer": "H. R. Bishop",
+ "opera": "Clari, or the Maid of Milan（《克拉丽，米兰少女》，1823）第一幕",
+ "role": "克拉丽（Clari）：被公爵带离乡村、思念家的少女",
+ "genre": "歌剧歌曲",
+ "language": "英语",
+ "voice": "女高音",
+ "difficulty": "基础",
+ "tempoBpm": 76,
+ "complete": true,
+ "sourceGrade": "B",
+ "coverageNote": "完整声乐旋律（2/4 与 6/8，99 小节，含反复展开的三段），172 个英语音节；OpenScore 据 19 世纪版本转写，已与 IMSLP 核对。",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Bishop,_Henry/_/Home,_Sweet_Home",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Bishop,_Henry/_/Home,_Sweet_Home",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；172 个音节与 19 世纪版本核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/6486038"
+  },
+  {
+   "name": "IMSLP · Home, Sweet Home (Bishop, Henry Rowley)",
+   "url": "https://imslp.org/wiki/Home,_Sweet_Home_(Bishop,_Henry_Rowley)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "Wikipedia · Home! Sweet Home!",
+   "url": "https://en.wikipedia.org/wiki/Home!_Sweet_Home!",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "’Mid pleasures and palaces though we may roam,",
+   "zh": "纵然我们漫游在欢乐与宫殿之间，"
+  },
+  {
+   "text": "be it ever so humble, there’s no place like home!",
+   "zh": "哪怕再简陋，也没有地方比得上家！"
+  },
+  {
+   "text": "A charm from the skies seems to hallow us there,",
+   "zh": "一种来自天上的魅力仿佛在那里祝福我们，"
+  },
+  {
+   "text": "which, seek through the world, is ne’er met with elsewhere.",
+   "zh": "走遍世界，也不会在别处遇到。"
+  },
+  {
+   "text": "Home! Home, sweet, sweet home! There’s no place like home! There’s no place like home!",
+   "zh": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！"
+  },
+  {
+   "text": "An exile from home, splendour dazzles in vain!",
+   "zh": "离家的游子，再耀眼的荣华也是徒然！"
+  },
+  {
+   "text": "Oh, give me my lowly thatched cottage again!",
+   "zh": "啊，把我低矮的茅屋还给我吧！"
+  },
+  {
+   "text": "The birds singing gaily, that came at my call,",
+   "zh": "那些听我呼唤就飞来的欢唱的鸟儿，"
+  },
+  {
+   "text": "give me them with that peace of mind, dearer than all.",
+   "zh": "把它们和那比一切都珍贵的安宁还给我。"
+  },
+  {
+   "text": "Home! Home, sweet, sweet home! There’s no place like home! There’s no place like home!",
+   "zh": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！"
+  }
+ ],
+ "hints": [
+  {
+   "title": "重读与弱读",
+   "items": [
+    "’mid PLEA-sures and PAL-a-ces——pleasures、palaces 重音在第一音节；there’s、no、like 弱读，HOME 重读。",
+    "EX-ile、SPLEN-dour、COT-tage、DEAR-er。"
+   ]
+  },
+  {
+   "title": "舞台英语",
+   "items": [
+    "英式舞台发音：home [həʊm]、roam [rəʊm]、there [ðɛə] 词尾 r 不卷；“thatched” 读 [θætʃt]。",
+    "“ne’er” 读 [nɛə]（never 的诗体缩略）；“’Mid” = amid。"
+   ]
+  },
+  {
+   "title": "元音与长音",
+   "items": [
+    "home 的 [əʊ] 双元音在长音上要保持第一成分，不要过早滑到 [ʊ]。",
+    "sweet [iː]、vain [eɪ]、call [ɔː]、all [ɔː]。"
+   ]
+  }
+ ],
+ "story": {
+  "background": "《甜蜜的家》出自亨利·毕晓普 1823 年的歌剧《克拉丽，米兰少女》（词 John Howard Payne），首演于伦敦科文特花园。它迅速脱离歌剧成为英语世界最流行的家庭歌曲之一，珍妮·林德、阿德利娜·帕蒂都以它作为压轴。旋律先以 2/4 陈述，副歌转 6/8。",
+  "situation": "乡村少女克拉丽被公爵以结婚为诺言带到宫殿，却迟迟不成婚。在华丽的宫殿里她唱起这首歌：欢乐与宫殿再多，也不如简陋的家。她想要的是回家，害怕的是名誉已毁、回不去了。",
+  "relationships": "克拉丽（歌者）、诱拐她的公爵维瓦尔迪（不在场）、远方的父母与家乡。歌曲是她在宫廷中的第一次流露真情，也推动她后来逃回家乡的决定。",
+  "intent": "开口要朴素、真诚，像说话一样，不加装饰；“be it ever so humble” 略带温柔的坚定。副歌 “Home! Home, sweet, sweet home!” 是情感中心，第一个 “Home” 可放宽，之后每次 “there’s no place like home” 更轻、更内心。第二段 “An exile from home” 更痛，“Oh, give me” 是请求。",
+  "plain30": "一个被带进宫殿的乡下女孩唱：再多欢乐和宫殿，也不如我那间小茅屋。这首歌从歌剧里走出来，成了全世界的“家”之歌。",
+  "arc": "主歌 2/4 Andante，旋律以级进为主、朴素如民歌；副歌转 6/8，“Home! Home” 以上行跳进起句，“sweet, sweet home” 回落，“there’s no place like home” 反复两次。两段相同，第二段可更内心。情绪：怀念—坚定—思乡的温暖。",
+  "motif": "核心动机是副歌 “Home! Home” 的上行跳进加 “sweet, sweet home” 的下行回落：呼唤家，再回到家。它在两段副歌出现，尾声反复 “there’s no place like home” 时被压缩为级进。主歌 “’Mid pleasures” 的级进上行是它的预备。演唱时 “Home” 的双元音要保持第一成分。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “’Mid pleasures and palaces” 主歌级进动机，朴素陈述。"
+   },
+   {
+    "phrase": 5,
+    "note": "第 5 句副歌 “Home! Home, sweet, sweet home” 跳进呼唤动机首次出现。"
+   },
+   {
+    "phrase": 6,
+    "note": "第 6 句 “An exile from home” 主歌动机再现，更痛。"
+   },
+   {
+    "phrase": 10,
+    "note": "第 10 句副歌再现并反复 “there’s no place like home”，逐次放轻。"
+   }
+  ],
+  "technique": "呼吸：主歌两小节一句；副歌 “Home! Home, sweet, sweet home” 一口气。咬字：英语词尾辅音（roam、home 的 m，thatched 的 tʃt）收清；弱读词不吞。换声区：女高音在 E5–F5（“home”“vain”）经过换声区，保持自然。高音：最高音 E5–F5 在副歌 “Home!”，是温暖的呼唤，不要撑。",
+  "classroom": [
+   "先读中文，理解“宫殿”与“茅屋”的对比。",
+   "慢速读英语，标出重读音节与缩略词（’mid、ne’er）。",
+   "分离元音：练 home 的双元音 [əʊ]。",
+   "按 2/4 说主歌，按 6/8 说副歌，感受节拍变化。",
+   "听单音旋律，注意副歌的跳进。",
+   "把歌词放回旋律，先练主歌，再练副歌。",
+   "用正常速度完整演唱，第二段更内心。"
+  ]
+ },
+ "phraseFixes": {
+  "thatch’d": "thatched"
+ }
+}

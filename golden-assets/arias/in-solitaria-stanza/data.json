@@ -1,0 +1,2864 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "in-solitaria-stanza",
+ "title": "In solitaria stanza",
+ "titleZh": "在孤寂的房间",
+ "composer": "G. Verdi",
+ "opera": "6 Romanze (1838), No. 3（意大利语浪漫曲，词 Jacopo Vittorelli）",
+ "language": "意大利语",
+ "voice": "女高音",
+ "difficulty": "中级",
+ "tempoBpm": 66,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   55
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "完整声乐旋律（4/4，55 小节），193 个意大利语音节；OpenScore 据 Ricordi 版转写，已与 IMSLP 核对。"
+ },
+ "range": {
+  "low": "Eb4",
+  "high": "Gb5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主体：为病重爱人伊蕾内向神求救的人",
+ "genre": "浪漫曲",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Verdi,_Giuseppe/6_Romanze/3_In_solitaria_stanza",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Verdi,_Giuseppe/6_Romanze/3_In_solitaria_stanza",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；193 个音节与 Ricordi 版逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/29477486"
+  },
+  {
+   "name": "IMSLP · 6 Romanze (1838) (Verdi, Giuseppe)",
+   "url": "https://imslp.org/wiki/6_Romanze_(1838)_(Verdi,_Giuseppe)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "LiederNet · In solitaria stanza (Vittorelli)",
+   "url": "https://www.lieder.net/lieder/get_text.html?TextId=16862",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "In solitaria stanza langue per doglia atroce;",
+   "zh": "在孤寂的房间里，她因剧痛而憔悴；"
+  },
+  {
+   "text": "il labbro è senza voce, senza respiro il sen,",
+   "zh": "嘴唇没有声音，胸口没有呼吸，"
+  },
+  {
+   "text": "come in deserta aiuola, che di rugiade è priva,",
+   "zh": "像荒芜花坛里得不到露水的花，"
+  },
+  {
+   "text": "sotto alla vampa estiva molle narcisso svien.",
+   "zh": "在夏日的炙热下，柔弱的水仙枯萎。"
+  },
+  {
+   "text": "Io, dall’affanno oppresso, corro per vie rimote",
+   "zh": "我被忧虑压垮，奔向偏远的小路，"
+  },
+  {
+   "text": "e grido in suon che puote le rupi intenerir:",
+   "zh": "用能让岩石动容的声音呼喊："
+  },
+  {
+   "text": "Salvate, o Dei pietosi, quella beltà celeste;",
+   "zh": "救救她吧，仁慈的神明，那天国般的美人；"
+  },
+  {
+   "text": "voi forse non sapreste un’altra Irene ordir.",
+   "zh": "你们恐怕再也造不出另一个伊蕾内了。"
+  }
+ ],
+ "story": {
+  "background": "这是威尔第 1838 年出版的第一部作品集《六首浪漫曲》中的第三首，词为 18 世纪诗人雅各布·维托雷利的抒情诗。当时威尔第 25 岁，尚未写出第一部歌剧，但这首歌已显露他日后歌剧咏叹调的戏剧性写法：从压抑的描述到向神呼喊的高潮。",
+  "situation": "叙述者的爱人伊蕾内（Irene）在孤寂的房间里病重，无声无息。他无法忍受，跑到荒野向神明呼喊：救救她——你们再也造不出第二个她。他想要的是奇迹，害怕的是失去她。",
+  "relationships": "“我”、病中的 “Irene”，以及被呼喊的 “Dei pietosi”（仁慈的众神）。前半是对伊蕾内的旁观描述，后半是对神的直接呼求，人物关系由旁观转为祈求。",
+  "intent": "前四句（描述病房与枯萎的花）要压抑、暗、几乎不带表情；“Io, dall’affanno oppresso” 起情绪外露，声音变宽；“e grido” 是呼喊的预告；“Salvate, o Dei pietosi” 是全曲高潮，要用全部气息；反复的 “un’altra Irene ordir” 逐次放轻，像祈求变成哀求。",
+  "plain30": "他心爱的伊蕾内病得快要死了。他跑到野外对神喊：救救她，你们再也造不出第二个她。威尔第 25 岁写的这首歌，已经像一首歌剧咏叹调。",
+  "arc": "4/4 Andante。前半（病房）旋律在低音区以短小的下行音型低语，钢琴节奏压抑；“Io, dall’affanno oppresso” 起旋律拉宽、音区上升；“Salvate, o Dei pietosi” 以跳进达到高音区，随后多次反复 “un’altra Irene ordir”，每次力度递减；结尾回到 “Salvate” 作最后一次呼喊。情绪：压抑—激动—呼喊—哀求。",
+  "motif": "核心动机是 “Salvate, o Dei” 的上行跳进呼喊：从低音直接跳到高音，像伸出手。它在前半以暗示形式（“langue per doglia” 的小跳）出现，在后半成为主导，反复变形。演唱时每次 “Salvate” 的跳进都要落在气息上。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “In solitaria stanza” 以下行低语开始，跳进动机只作暗示。"
+   },
+   {
+    "phrase": 5,
+    "note": "第 5 句 “Io, dall’affanno oppresso” 音区上升，动机开始成形。"
+   },
+   {
+    "phrase": 7,
+    "note": "第 7 句 “Salvate, o Dei pietosi” 上行跳进呼喊，全曲高潮。"
+   },
+   {
+    "phrase": 8,
+    "note": "第 8 句起 “un’altra Irene ordir” 反复，力度逐次递减。"
+   }
+  ],
+  "technique": "呼吸：前半句子短、气息安静；“Salvate” 前需深吸并保持支撑。咬字：双辅音多（labbro、affanno、narcisso），前元音短；呼喊段元音要开。换声区：女高音在 E5–F♯5（“Salvate”“celeste”）经过换声区，用头腔避免撑。高音：最高音在 “Salvate” 或 “celeste”，是戏剧性的呼喊，靠气息推上，之后反复段逐次放轻，练习控制渐弱。",
+  "classroom": [
+   "先读中文，分清“描述病房”与“向神呼喊”两部分。",
+   "慢速读原文，标出重音与双辅音。",
+   "分离元音：练呼喊段的开口 a、o。",
+   "按 4/4 说词，前半轻、后半重。",
+   "听单音旋律，注意 “Salvate” 的跳进。",
+   "把歌词放回旋律，先练压抑段，再练高潮。",
+   "用正常速度完整演唱，反复段每次更轻。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "soliTÀria、STANza、LÀNgue、aTRÒce、LÀBbro（bb）、aFFANno（ff）、rugIÀde、narCÌSso（ss）、salVÀte、pieTÒsi。",
+    "“Irene” 重音在 re：i-RÈ-ne。"
+   ]
+  },
+  {
+   "title": "连读与省略",
+   "items": [
+    "“dall’affanno”“un’altra” 省音；“doglia‿atroce”“deserta‿aiuola” 元音连读。",
+    "“puote” 是古体 può；“svien” 是 sviene 的截略。"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "voce、croce 的 o 开口 [ɔ]；sen、ben 的 e 开口 [ɛ]；celeste 两个 e 均闭口。",
+    "r 弹舌：rupi、rimote、Irene。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    1,
+    5
+   ],
+   "lyrics": "In solitaria stanza Langue per doglia atroce Il",
+   "translation": "在孤寂的房间里，她因剧痛而憔悴；",
+   "events": [
+    {
+     "id": "in-solitaria-stanza-e0001",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 1,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0002",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 2,
+     "beat": 1,
+     "lyric": "In",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0003",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 2,
+     "beat": 2,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0004",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 2.75,
+     "lyric": "li",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0005",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 2,
+     "beat": 3,
+     "lyric": "ta",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0006",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 4.75,
+     "lyric": "ria",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0007",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 3,
+     "beat": 1,
+     "lyric": "stan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0008",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0009",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 3,
+     "beat": 3,
+     "lyric": "za",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0010",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 3,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0011",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 4,
+     "beat": 1,
+     "lyric": "Lan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0012",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 4,
+     "beat": 2,
+     "lyric": "gue",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0013",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.75,
+     "lyric": "per",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0014",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 4,
+     "beat": 3,
+     "lyric": "do",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0015",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4.75,
+     "lyric": "glia a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0016",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 5,
+     "beat": 1,
+     "lyric": "tro",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0017",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0018",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 5,
+     "beat": 3,
+     "lyric": "ce",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0019",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0020",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 4.5,
+     "lyric": "Il",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    6,
+    7
+   ],
+   "lyrics": "labbro è senza voce,",
+   "translation": "嘴唇没有声音，胸口没有呼吸，",
+   "events": [
+    {
+     "id": "in-solitaria-stanza-e0021",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 6,
+     "beat": 1,
+     "lyric": "lab",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0022",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0023",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.5,
+     "lyric": "bro è",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0024",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 6,
+     "beat": 3,
+     "lyric": "sen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0025",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0026",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 4.5,
+     "lyric": "za",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0027",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "vo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0028",
+     "pitch": "Fb4",
+     "rest": false,
+     "duration": 2,
+     "measure": 7,
+     "beat": 3,
+     "lyric": "ce,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    8,
+    9
+   ],
+   "lyrics": "Senza respiro il sen,",
+   "translation": "嘴唇没有声音，胸口没有呼吸，",
+   "events": [
+    {
+     "id": "in-solitaria-stanza-e0029",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 8,
+     "beat": 1,
+     "lyric": "Sen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0030",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 8,
+     "beat": 2,
+     "lyric": "za",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0031",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.75,
+     "lyric": "res",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0032",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 8,
+     "beat": 3,
+     "lyric": "pi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0033",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 8,
+     "beat": 4,
+     "lyric": "ro",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0034",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 4.75,
+     "lyric": "il",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0035",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 3,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "sen,",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0036",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 9,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    10,
+    11
+   ],
+   "lyrics": "Come in deserta aiuola,",
+   "translation": "像荒芜花坛里得不到露水的花，",
+   "events": [
+    {
+     "id": "in-solitaria-stanza-e0037",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "Com",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0038",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 2,
+     "lyric": "me in",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0039",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.75,
+     "lyric": "de",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0040",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 3,
+     "lyric": "ser",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0041",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 4,
+     "lyric": "ta a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0042",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "iuo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0043",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0044",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0045",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 11,
+     "beat": 3,
+     "lyric": "la,",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0046",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 11,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    12,
+    13
+   ],
+   "lyrics": "Che di rugiade è priva,",
+   "translation": "像荒芜花坛里得不到露水的花，",
+   "events": [
+    {
+     "id": "in-solitaria-stanza-e0047",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "Che",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0048",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 2,
+     "lyric": "di",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0049",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.75,
+     "lyric": "ru",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0050",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 12,
+     "beat": 3,
+     "lyric": "gia",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0051",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 4,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0052",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 4.75,
+     "lyric": "è",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0053",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "pri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0054",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0055",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 13,
+     "beat": 3,
+     "lyric": "va,",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0056",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 13,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    14,
+    16
+   ],
+   "lyrics": "Sotto alla vampa estiva Molle narcisso",
+   "translation": "在夏日的炙热下，柔弱的水仙枯萎。",
+   "events": [
+    {
+     "id": "in-solitaria-stanza-e0057",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "Sot",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0058",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "to al",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0059",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.75,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0060",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 3,
+     "lyric": "vam",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0061",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 14,
+     "beat": 4,
+     "lyric": "pa",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0062",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 4.75,
+     "lyric": "e",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0063",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 3,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "sti",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0064",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 4,
+     "lyric": "va",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0065",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0066",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "Mol",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0067",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0068",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0069",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 2.75,
+     "lyric": "nar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0070",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 16,
+     "beat": 3,
+     "lyric": "cis",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0071",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0072",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0073",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 4.75,
+     "lyric": "so",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    17,
+    20
+   ],
+   "lyrics": "svien. Io, dall’affanno oppresso,",
+   "translation": "我被忧虑压垮，奔向偏远的小路，",
+   "events": [
+    {
+     "id": "in-solitaria-stanza-e0074",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "svien.",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0075",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 17,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0076",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 18,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0077",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 19,
+     "beat": 1,
+     "lyric": "Io,",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0078",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 2,
+     "lyric": "dal",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0079",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.75,
+     "lyric": "l’af",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0080",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 19,
+     "beat": 3,
+     "lyric": "fan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0081",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 4.5,
+     "lyric": "no op",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0082",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 20,
+     "beat": 1,
+     "lyric": "pres",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0083",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0084",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 20,
+     "beat": 3,
+     "lyric": "so,",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0085",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 20,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    21,
+    23
+   ],
+   "lyrics": "Corro per vie rimote E grido in suon che",
+   "translation": "用能让岩石动容的声音呼喊：",
+   "events": [
+    {
+     "id": "in-solitaria-stanza-e0086",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 1,
+     "lyric": "Cor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0087",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 1.5,
+     "lyric": "ro",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0088",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0089",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.5,
+     "lyric": "per",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0090",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3,
+     "lyric": "vi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0091",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3.5,
+     "lyric": "e",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0092",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0093",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 4.5,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0094",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 22,
+     "beat": 1,
+     "lyric": "mo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0095",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0096",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 22,
+     "beat": 3,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0097",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0098",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 4.5,
+     "lyric": "E",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0099",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 23,
+     "beat": 1,
+     "lyric": "gri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0100",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.5,
+     "lyric": "do in",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0101",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 23,
+     "beat": 3,
+     "lyric": "suon",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0102",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 4.5,
+     "lyric": "che",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    24,
+    28
+   ],
+   "lyrics": "puote Le rupi intenerir Salvate, o Dei pietosi,",
+   "translation": "救救她吧，仁慈的神明，那天国般的美人；",
+   "events": [
+    {
+     "id": "in-solitaria-stanza-e0103",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2,
+     "measure": 24,
+     "beat": 1,
+     "lyric": "puo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0104",
+     "pitch": "Fb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 24,
+     "beat": 3,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0105",
+     "pitch": "Fb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 4.5,
+     "lyric": "Le",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0106",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 25,
+     "beat": 1,
+     "lyric": "ru",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0107",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 25,
+     "beat": 2,
+     "lyric": "pi",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0108",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 2.75,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0109",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 25,
+     "beat": 3,
+     "lyric": "te",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0110",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 1,
+     "measure": 25,
+     "beat": 4,
+     "lyric": "ne",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0111",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 3,
+     "measure": 26,
+     "beat": 1,
+     "lyric": "rir",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0112",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 26,
+     "beat": 4,
+     "lyric": "Sal",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0113",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1,
+     "measure": 27,
+     "beat": 1,
+     "lyric": "va",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0114",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 27,
+     "beat": 2,
+     "lyric": "te, o",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0115",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1,
+     "measure": 27,
+     "beat": 3,
+     "lyric": "Dei",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0116",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 27,
+     "beat": 4,
+     "lyric": "pie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0117",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.3333,
+     "measure": 28,
+     "beat": 1,
+     "lyric": "to",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0118",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 28,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0119",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 28,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0120",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 28,
+     "beat": 3,
+     "lyric": "si,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    29,
+    34
+   ],
+   "lyrics": "Quella beltà celeste Voi forse non sapreste Un’altra Irene ordir.",
+   "translation": "你们恐怕再也造不出另一个伊蕾内了。",
+   "events": [
+    {
+     "id": "in-solitaria-stanza-e0121",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1,
+     "lyric": "Quel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0122",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0123",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 29,
+     "beat": 2,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0124",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 2.75,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0125",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 3,
+     "lyric": "tà",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0126",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0127",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 29,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0128",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 4.75,
+     "lyric": "ce",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0129",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 30,
+     "beat": 1,
+     "lyric": "le",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0130",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0131",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 3,
+     "lyric": "ste",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0132",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0133",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 30,
+     "beat": 4,
+     "lyric": "Voi",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0134",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1,
+     "measure": 31,
+     "beat": 1,
+     "lyric": "for",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0135",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 31,
+     "beat": 2,
+     "lyric": "se",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0136",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1,
+     "measure": 31,
+     "beat": 3,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0137",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 31,
+     "beat": 4,
+     "lyric": "sa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0138",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.3333,
+     "measure": 32,
+     "beat": 1,
+     "lyric": "pre",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0139",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 32,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0140",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 32,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0141",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 32,
+     "beat": 3,
+     "lyric": "ste",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0142",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 4.5,
+     "lyric": "U",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0143",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 1,
+     "lyric": "n’al",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0144",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0145",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 33,
+     "beat": 2,
+     "lyric": "tra",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0146",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.75,
+     "lyric": "I",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0147",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 3,
+     "lyric": "re",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0148",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0149",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 33,
+     "beat": 4,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0150",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 4.75,
+     "lyric": "or",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0151",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2,
+     "measure": 34,
+     "beat": 1,
+     "lyric": "dir.",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0152",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 34,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    34,
+    36
+   ],
+   "lyrics": "Salvate, o Dei pietosi,",
+   "translation": "救救她吧，仁慈的神明，那天国般的美人；",
+   "events": [
+    {
+     "id": "in-solitaria-stanza-e0153",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 34,
+     "beat": 4,
+     "lyric": "Sal",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0154",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 35,
+     "beat": 1,
+     "lyric": "va",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0155",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 35,
+     "beat": 2,
+     "lyric": "te, o",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0156",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 35,
+     "beat": 3,
+     "lyric": "Dei",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0157",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 35,
+     "beat": 4,
+     "lyric": "pie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0158",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 36,
+     "beat": 1,
+     "lyric": "to",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0159",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0160",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 36,
+     "beat": 3,
+     "lyric": "si,",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0161",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 36,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    37,
+    42
+   ],
+   "lyrics": "Quella beltà celeste Voi forse non sapreste Un’altra Irene ordir.",
+   "translation": "你们恐怕再也造不出另一个伊蕾内了。",
+   "events": [
+    {
+     "id": "in-solitaria-stanza-e0162",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 37,
+     "beat": 1,
+     "lyric": "Quel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0163",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 37,
+     "beat": 2,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0164",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 37,
+     "beat": 2.75,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0165",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 37,
+     "beat": 3,
+     "lyric": "tà",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0166",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 37,
+     "beat": 4,
+     "lyric": "ce",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0167",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 38,
+     "beat": 1,
+     "lyric": "le",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0168",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 38,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0169",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 38,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0170",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 38,
+     "beat": 3,
+     "lyric": "ste",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0171",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 38,
+     "beat": 4,
+     "lyric": "Voi",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0172",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1,
+     "measure": 39,
+     "beat": 1,
+     "lyric": "for",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0173",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 39,
+     "beat": 2,
+     "lyric": "se",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0174",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1,
+     "measure": 39,
+     "beat": 3,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0175",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 39,
+     "beat": 4,
+     "lyric": "sa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0176",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.3333,
+     "measure": 40,
+     "beat": 1,
+     "lyric": "pre",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0177",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 40,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0178",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 40,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0179",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 40,
+     "beat": 3,
+     "lyric": "ste",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0180",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 4.5,
+     "lyric": "U",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0181",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1,
+     "lyric": "n’al",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0182",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0183",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 41,
+     "beat": 2,
+     "lyric": "tra",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0184",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 41,
+     "beat": 2.75,
+     "lyric": "I",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0185",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 3,
+     "lyric": "re",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0186",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0187",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 41,
+     "beat": 4,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0188",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 41,
+     "beat": 4.75,
+     "lyric": "or",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0189",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2,
+     "measure": 42,
+     "beat": 1,
+     "lyric": "dir.",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0190",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    42,
+    45
+   ],
+   "lyrics": "Voi non sapreste, Voi non sapreste Un’altra Irene,",
+   "translation": "你们恐怕再也造不出另一个伊蕾内了。",
+   "events": [
+    {
+     "id": "in-solitaria-stanza-e0191",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 3.5,
+     "lyric": "Voi",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0192",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 4,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0193",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 4.5,
+     "lyric": "sa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0194",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 43,
+     "beat": 1,
+     "lyric": "pre",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0195",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 43,
+     "beat": 2,
+     "lyric": "ste,",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0196",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0197",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 3.5,
+     "lyric": "Voi",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0198",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 4,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0199",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 4.5,
+     "lyric": "sa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0200",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1,
+     "measure": 44,
+     "beat": 1,
+     "lyric": "pre",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0201",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 44,
+     "beat": 2,
+     "lyric": "ste",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0202",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0203",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 3.5,
+     "lyric": "U",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0204",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 4,
+     "lyric": "n’al",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0205",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 4.5,
+     "lyric": "tra I",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0206",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 1,
+     "lyric": "re",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0207",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0208",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2,
+     "lyric": "ne,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    45,
+    48
+   ],
+   "lyrics": "Un’altra Irene ordir, Voi non sapreste Un’altra Irene,",
+   "translation": "你们恐怕再也造不出另一个伊蕾内了。",
+   "events": [
+    {
+     "id": "in-solitaria-stanza-e0209",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.5,
+     "lyric": "U",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0210",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 3,
+     "lyric": "n’al",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0211",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 3.5,
+     "lyric": "tra I",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0212",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 4,
+     "lyric": "re",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0213",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 4.5,
+     "lyric": "ne or",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0214",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2,
+     "measure": 46,
+     "beat": 1,
+     "lyric": "dir,",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0215",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0216",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 3.5,
+     "lyric": "Voi",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0217",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 4,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0218",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 4.5,
+     "lyric": "sa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0219",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 47,
+     "beat": 1,
+     "lyric": "pre",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0220",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 47,
+     "beat": 2,
+     "lyric": "ste",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0221",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0222",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 3.5,
+     "lyric": "U",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0223",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 4,
+     "lyric": "n’al",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0224",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 4.5,
+     "lyric": "tra I",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0225",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1,
+     "measure": 48,
+     "beat": 1,
+     "lyric": "re",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0226",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 48,
+     "beat": 2,
+     "lyric": "ne,",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0227",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    48,
+    50
+   ],
+   "lyrics": "Un’altra Irene, Un’altra Irene ordir,",
+   "translation": "你们恐怕再也造不出另一个伊蕾内了。",
+   "events": [
+    {
+     "id": "in-solitaria-stanza-e0228",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 3.5,
+     "lyric": "U",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0229",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 4,
+     "lyric": "n’al",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0230",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 4.5,
+     "lyric": "tra I",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0231",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 1,
+     "lyric": "re",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0232",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0233",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2,
+     "lyric": "ne,",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0234",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.5,
+     "lyric": "U",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0235",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 3,
+     "lyric": "n’al",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0236",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 3.5,
+     "lyric": "tra I",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0237",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 4,
+     "lyric": "re",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0238",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 4.5,
+     "lyric": "ne or",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0239",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2,
+     "measure": 50,
+     "beat": 1,
+     "lyric": "dir,",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0240",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 50,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    50,
+    55
+   ],
+   "lyrics": "Salvate, o Dei pietosi!",
+   "translation": "救救她吧，仁慈的神明，那天国般的美人；",
+   "events": [
+    {
+     "id": "in-solitaria-stanza-e0241",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1,
+     "measure": 50,
+     "beat": 4,
+     "lyric": "Sal",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0242",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 5,
+     "measure": 51,
+     "beat": 1,
+     "lyric": "va",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0243",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 52,
+     "beat": 2,
+     "lyric": "te, o",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0244",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1,
+     "measure": 52,
+     "beat": 3,
+     "lyric": "Dei",
+     "syllabic": "single"
+    },
+    {
+     "id": "in-solitaria-stanza-e0245",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1,
+     "measure": 52,
+     "beat": 4,
+     "lyric": "pie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "in-solitaria-stanza-e0246",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 53,
+     "beat": 1,
+     "lyric": "to",
+     "syllabic": "middle"
+    },
+    {
+     "id": "in-solitaria-stanza-e0247",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 53,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0248",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 53,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0249",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 53,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0250",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 53,
+     "beat": 4.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "in-solitaria-stanza-e0251",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 4,
+     "measure": 54,
+     "beat": 1,
+     "lyric": "si!",
+     "syllabic": "end"
+    },
+    {
+     "id": "in-solitaria-stanza-e0252",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 55,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 252,
+ "restCount": 26,
+ "lyricNoteCount": 193,
+ "pages": 1,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 16,
+  "slowScale": 1.45
+ }
+}

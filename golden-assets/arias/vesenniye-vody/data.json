@@ -1,0 +1,1788 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "vesenniye-vody",
+ "title": "Весенние воды",
+ "titleZh": "春潮",
+ "composer": "С.В. Рахманинов",
+ "opera": "Op. 14, No. 11（十二首浪漫曲，1896；诗：Ф.И. Тютчев）",
+ "language": "俄语",
+ "voice": "男高音",
+ "difficulty": "高阶",
+ "tempoBpm": 80,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   38
+  ],
+  "firstSungMeasure": 3,
+  "complete": true,
+  "note": "完整浪漫曲（降D大调，12/8，约 42 小节）。来源为 Tarakanov OMR 自动识别 MusicXML，声乐声部 109 音符，80% 带歌词；OCR 乱码已用 fixes 映射修正。"
+ },
+ "range": {
+  "low": "Ab2",
+  "high": "G#4"
+ },
+ "state": "published",
+ "sourceGrade": "D",
+ "role": "抒情主人公（欢呼春天到来的歌者）",
+ "genre": "浪漫曲",
+ "sourceStatus": "Tarakanov OMR MusicXML · 歌词已修正",
+ "sources": [
+  {
+   "name": "Tarakanov Notes",
+   "url": "https://notes.tarakanov.net/",
+   "format": "MXL (OMR 自动识别)",
+   "role": "声乐谱面（MusicXML 结构化数据）",
+   "status": "Part 0 为声乐线，109 音符，80% 带歌词；约 20% 音节为 OCR 乱码，已用 fixes 映射修正",
+   "grade": "D",
+   "accessed": "2026-09-11"
+  },
+  {
+   "name": "IMSLP — Рахманинов, 12 романсов Op.14",
+   "url": "https://imslp.org/wiki/12_Romances,_Op.14_(Rachmaninoff,_Sergei)",
+   "format": "PDF",
+   "role": "歌词与音高校验参考",
+   "status": "Gutheil 原版（公有领域）",
+   "grade": "A",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Ещё в полях белеет снег,",
+   "zh": "田野上仍然白雪皑皑，"
+  },
+  {
+   "text": "А воды уж весной шумят —",
+   "zh": "但春天的水流已经喧响——"
+  },
+  {
+   "text": "Бегут и будят сонный брег,",
+   "zh": "奔涌着唤醒沉睡的河岸，"
+  },
+  {
+   "text": "Бегут и блещут, и гласят...",
+   "zh": "奔涌着闪耀，高声宣告……"
+  },
+  {
+   "text": "Они гласят во все концы:",
+   "zh": "它们向四面八方宣告："
+  },
+  {
+   "text": "Весна идёт, весна идёт!",
+   "zh": "春天来了，春天来了！"
+  },
+  {
+   "text": "Мы молодой весны гонцы,",
+   "zh": "我们是青春之春的信使，"
+  },
+  {
+   "text": "Она нас выслала вперёд!",
+   "zh": "是她派我们先行出发！"
+  },
+  {
+   "text": "Весна идёт! Весна идёт!",
+   "zh": "春天来了！春天来了！"
+  },
+  {
+   "text": "И тихих, тёплых, майских дней",
+   "zh": "那宁静、温暖的五月时光"
+  },
+  {
+   "text": "Румяный, светлый хоровод",
+   "zh": "红润而明亮的圆舞"
+  },
+  {
+   "text": "Толпится весело за ней.",
+   "zh": "欢快地簇拥在她身后。"
+  }
+ ],
+ "story": {
+  "background": "《春潮》是拉赫玛尼诺夫 1896 年创作的 Op.14 十二首浪漫曲的终曲，也是他最著名的浪漫曲之一。歌词选自费奥多尔·丘特切夫（1803–1873）的同名诗作，描写冬末春初冰雪消融、溪流奔涌的景象。丘特切夫是俄国最重要的抒情诗人之一，以简练而有力的自然意象著称。拉赫玛尼诺夫的谱曲将诗歌的生命力转化为滚滚奔腾的钢琴音流和高亢激昂的声乐线。",
+  "situation": "初春的旷野。田野上的积雪尚未完全融化，但溪流已经开始奔涌——它们是春天的先锋，向四方宣告冬天的结束。这不是一个具体的人物场景，而是一幅充满生命力的自然画卷。",
+  "relationships": "诗中的'角色'是春水（весенние воды）本身——它们是拟人化的信使，代表春天向世界宣告自己的到来。歌者是这幅景象的见证者，也是春天能量的传导者——从第一人称观察（'田野上仍然白雪皑皑'）到直接引用春水的呼喊（'春天来了！'），歌者与自然融为一体。",
+  "intent": "演唱应从一幅静态的冬景开始（'田野上白雪皑皑'），然后像解冻的河流一样迅速加速。'春天来了！'的呼喊是全曲的核心——不是优雅的宣言，而是大自然不可阻挡的力量的爆发。结尾的'欢快地簇拥在她身后'应该像洪流终于汇入大河，宽广而辉煌。",
+  "plain30": "冬末春初，虽然田野上还有积雪，溪流已经奔涌起来，向四方宣告：春天来了！我们是春天的信使！这是一首关于自然复苏的生命力赞歌。",
+  "arc": "降D大调，12/8 拍，Allegro vivace。钢琴从第一个小节开始就建立起奔腾的十六分音符音流——这是春水的声音，从头到尾不停歇。声乐线在开头相对平稳（描写静态的雪景），随后迅速上行（'但春水已经喧响'）。'它们向四面八方宣告'处调性偏向属方向，积蓄张力。'春天来了！'是全曲高潮——降D大调的辉煌主和弦，声部攀升到降A5甚至更高。结尾部分稍有缓和但不失光辉，在'欢快地簇拥'中以壮丽的终止收束。",
+  "motif": "滚滚奔腾的十六分音符是全曲的核心动机——钢琴双手都在弹奏急速的分解和弦，模仿春水的奔涌。声乐线的上行跳进（从低音区冲向高音区）代表水流冲破冰层的力量。'Весна идёт!'的呼喊动机以纯四度或纯五度上行跳进出现，像号角一样宣告春天——这个动机在全曲中反复出现，每次都更加辉煌。",
+  "technique": "这是拉赫玛尼诺夫最具技术挑战性的浪漫曲之一。声乐要求：(1) 极宽的音域——从低音区的 F3 到高音区的降A5/B5，跨度超过两个八度。(2) 在钢琴急速音流之上保持清晰的咬字——12/8 拍中每个俄语音节都要准确落在拍点上。(3) 'Весна идёт!'的反复呼喊需要充沛的气息和开放的高音——不要为了安全而收缩。(4) 结尾的长乐句需要在高音区保持强有力的支撑。建议先慢速练习钢琴与声乐的配合，再逐步提速。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "开头：'Ещё в полях белеет снег' 相对平稳的叙述，冬景"
+   },
+   {
+    "phrase": "2",
+    "note": "'А воды уж весной шумят' 旋律开始上行——春水登场"
+   },
+   {
+    "phrase": "6",
+    "note": "'Весна идёт, весна идёт!' 全曲第一个高潮——号角式呼喊"
+   },
+   {
+    "phrase": "9",
+    "note": "再现'Весна идёт!' 更加辉煌的第二次呼喊"
+   },
+   {
+    "phrase": "11",
+    "note": "'Румяный, светлый хоровод' 壮丽的终止段，音域最宽"
+   }
+  ],
+  "classroom": [
+   "先阅读中文翻译，体会诗歌的画面：白雪→溪流→呼喊→春天的队列。这是一首'自然力量'的赞歌，不是柔情的抒情。",
+   "慢速朗读俄语原文。注意丘特切夫诗歌的节奏感：'Бегут и будят сонный брег, / Бегут и блещут, и гласят' —— 重复的'Бегут'（奔跑）就像水流的节拍。",
+   "分离元音：'белеет' [бʲɪ-лʲе́-ɪт]（三个音节），'гласят' [гла-ся́т]。'ё' 在 'идёт' 中永远重读。",
+   "按节拍说词：用节拍器在 ♩.=80 的速度下朗读（注意是复合拍），感受 12/8 拍中每组三个音节的自然分组。",
+   "听合成旋律参考：感受从平稳开头到'春天来了！'呼喊的巨大能量弧线。",
+   "把歌词放回旋律，先用一半速度唱。重点练习'Весна идёт!'的高音跳进——用充分的气息支撑，不要害怕音量。",
+   "以正常速度完整演唱。想象自己站在春天的原野上，冰雪融化的溪流在你脚下奔涌——你是这股力量的一部分。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "俄语元音弱化",
+   "items": [
+    "'о' 在非重读位置弱化为 [ɐ]：'весной' [вʲɪсно́й]，第一个 'е' 弱化为 [ɪ]",
+    "'е' 在 'белеет' 中第一个弱化，第二个重读保持 [е]",
+    "'я' 在 'румяный' 中弱化为 [ɪ]"
+   ]
+  },
+  {
+   "title": "重音位置",
+   "items": [
+    "белее́т — 重音在第三音节",
+    "весно́й — 重音在第二音节",
+    "глася́т — 重音在第二音节",
+    "молодо́й — 重音在第三音节",
+    "вы́слала — 重音在第一音节",
+    "хорово́д — 重音在第三音节"
+   ]
+  },
+  {
+   "title": "软硬辅音与连读",
+   "items": [
+    "'ещё' 的 'щ' 是长软音 [щʲ:]，像延长的 'ш' 但更前",
+    "'бегут' 的 'г' 在 'у' 前是硬音 [г]",
+    "'блещут' 的 'щ' 同样是长软音",
+    "'гонцы' 的 'ц' 永远是硬音",
+    "12/8 拍中每组三个八分音符形成自然的语言节奏——俄语词组往往恰好填满一组"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    3,
+    4
+   ],
+   "lyrics": "Еще в полях белеет снег,",
+   "translation": "田野上仍然白雪皑皑，",
+   "events": [
+    {
+     "id": "vesenniye-vody-e0003",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0004",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 1.5,
+     "lyric": "Е",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0005",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "ще",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0006",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 2.75,
+     "lyric": "в",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0007",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 3.0,
+     "lyric": "полях",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0008",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 3.5,
+     "lyric": "бе",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0009",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 4.0,
+     "lyric": "ле",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vesenniye-vody-e0010",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 4.5,
+     "lyric": "ет",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0011",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "снег,",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0012",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0013",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0014",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    4,
+    7
+   ],
+   "lyrics": "а воды уж весной шумят,",
+   "translation": "但春天的水流已经喧响——",
+   "events": [
+    {
+     "id": "vesenniye-vody-e0015",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 4.5,
+     "lyric": "а",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0016",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "во",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0017",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "ды",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0018",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "уж",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0019",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.5,
+     "lyric": "вес",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0020",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 5,
+     "beat": 4.0,
+     "lyric": "ной",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0021",
+     "pitch": "Ab2",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 4.75,
+     "lyric": "шу",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0022",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 4.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0023",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "мят,",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0024",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0025",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0026",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0027",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0028",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    7,
+    9
+   ],
+   "lyrics": "бегут И будят сонный брег,",
+   "translation": "奔涌着唤醒沉睡的河岸，",
+   "events": [
+    {
+     "id": "vesenniye-vody-e0029",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 4.5,
+     "lyric": "бе",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0030",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "гут",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0031",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "И",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0032",
+     "pitch": "Fb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "бу",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0033",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.5,
+     "lyric": "дят",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0034",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 8,
+     "beat": 4.0,
+     "lyric": "сон",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0035",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 4.75,
+     "lyric": "ный",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0036",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "брег,",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0037",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0038",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    9,
+    15
+   ],
+   "lyrics": "бегут И блешут, И глаи rnасят во все концы:",
+   "translation": "它们向四面八方宣告：",
+   "events": [
+    {
+     "id": "vesenniye-vody-e0039",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 4.5,
+     "lyric": "бе",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0040",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "гут",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0041",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "И",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0042",
+     "pitch": "Fb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "бле",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0043",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 3.5,
+     "lyric": "шут,",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0044",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 4.0,
+     "lyric": "И",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0045",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 4.75,
+     "lyric": "гла",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0046",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0047",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0048",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0049",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0050",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0051",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "и",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0052",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 4.5,
+     "lyric": "rnа",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0053",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "сят",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0054",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "во",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0055",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "все",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0056",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 4.0,
+     "lyric": "кон",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0057",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "цы:",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0058",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0059",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0060",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    15,
+    16
+   ],
+   "lyrics": "Весна Идёт!",
+   "translation": "春天来了，春天来了！",
+   "events": [
+    {
+     "id": "vesenniye-vody-e0061",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.5,
+     "lyric": "Вес",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0062",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "на",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0063",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "И",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0064",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "дёт!",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0065",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    16,
+    17
+   ],
+   "lyrics": "Весна Идёт!",
+   "translation": "春天来了，春天来了！",
+   "events": [
+    {
+     "id": "vesenniye-vody-e0066",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.5,
+     "lyric": "Вес",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0067",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "на",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0068",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "И",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0069",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "дёт!",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0070",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    17,
+    22
+   ],
+   "lyrics": "Мы молодой весны гонцы, оНа НаС выслала вперёд.",
+   "translation": "我们是青春之春的信使，",
+   "events": [
+    {
+     "id": "vesenniye-vody-e0071",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.5,
+     "lyric": "Мы",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0072",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "мо",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0073",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "ло",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vesenniye-vody-e0074",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "дой",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0075",
+     "pitch": "Fb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3.5,
+     "lyric": "вес",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0076",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 4.0,
+     "lyric": "ны",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0077",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 4.75,
+     "lyric": "гон",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0078",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "цы,",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0079",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0080",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.5,
+     "lyric": "о",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0081",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 4.0,
+     "lyric": "На",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0082",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 4.5,
+     "lyric": "НаС",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0083",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "вы",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0084",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1.5,
+     "lyric": "сла",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vesenniye-vody-e0085",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "ла",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0086",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.75,
+     "lyric": "впе",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0087",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "рёд.",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0088",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0089",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0090",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0091",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    22,
+    24
+   ],
+   "lyrics": "",
+   "translation": "",
+   "events": [
+    {
+     "id": "vesenniye-vody-e0092",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0093",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0094",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0095",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 22,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0096",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0097",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0098",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0099",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 23,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0100",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    24,
+    27
+   ],
+   "lyrics": "Весна иДёт!",
+   "translation": "春天来了！春天来了！",
+   "events": [
+    {
+     "id": "vesenniye-vody-e0101",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 1.5,
+     "lyric": "Вес",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0102",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 24,
+     "beat": 2.0,
+     "lyric": "на",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0103",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 2.75,
+     "lyric": "и",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0104",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 24,
+     "beat": 3.0,
+     "lyric": "Дёт!",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0105",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0106",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0107",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0108",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0109",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0110",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0111",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    27,
+    30
+   ],
+   "lyrics": "И тихих, тёплых майских дней румяный,",
+   "translation": "那宁静、温暖的五月时光",
+   "events": [
+    {
+     "id": "vesenniye-vody-e0112",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 4.0,
+     "lyric": "И",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0113",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "ти",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0114",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "хих,",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0115",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 3.0,
+     "lyric": "тёп",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0116",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 3.5,
+     "lyric": "лых",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0117",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 4.0,
+     "lyric": "май",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0118",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 4.5,
+     "lyric": "ских",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0119",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "дней",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0120",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0121",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0122",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 4.5,
+     "lyric": "ру",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0123",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "мя",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vesenniye-vody-e0124",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.0,
+     "lyric": "ный,",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0125",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    30,
+    33
+   ],
+   "lyrics": "светлый хоро за",
+   "translation": "红润而明亮的圆舞",
+   "events": [
+    {
+     "id": "vesenniye-vody-e0126",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 3.0,
+     "lyric": "свет",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0127",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 3.5,
+     "lyric": "лый",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0128",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 4.0,
+     "lyric": "хо",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vesenniye-vody-e0129",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 4.5,
+     "lyric": "ро",
+     "syllabic": "end"
+    },
+    {
+     "id": "vesenniye-vody-e0130",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0131",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0132",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0133",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0134",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0135",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0136",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0137",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 32,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0138",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0139",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0140",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0141",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0142",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0143",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 33,
+     "beat": 3.0,
+     "lyric": "за",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0144",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    34,
+    38
+   ],
+   "lyrics": "ней.",
+   "translation": "欢快地簇拥在她身后。",
+   "events": [
+    {
+     "id": "vesenniye-vody-e0145",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "ней.",
+     "syllabic": "single"
+    },
+    {
+     "id": "vesenniye-vody-e0146",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0147",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0148",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vesenniye-vody-e0149",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 147,
+ "restCount": 46,
+ "lyricNoteCount": 83,
+ "pages": 1,
+ "speech": {
+  "voice": "ru_RU-irina-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 11,
+  "slowScale": 1.45
+ }
+}

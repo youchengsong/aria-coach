@@ -1,0 +1,151 @@
+{
+  "title": "Mandoline",
+  "titleZh": "曼陀林",
+  "composer": "C. Debussy",
+  "opera": "Fêtes galantes I（1882/1891；诗：P. Verlaine）",
+  "language": "法语",
+  "script": "latin",
+  "voice": "女高音",
+  "difficulty": "基础",
+  "genre": "艺术歌曲",
+  "tempoBpm": 72,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（G 大调，3/8，轻快的小夜曲风格）。德布西早期最迷人的小品之一。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Les donneurs de sérénades",
+      "zh": "那些唱小夜曲的人们"
+    },
+    {
+      "text": "et les belles écouteuses",
+      "zh": "和美丽的聆听者们"
+    },
+    {
+      "text": "échangent des propos fades",
+      "zh": "交换着平淡的话语，"
+    },
+    {
+      "text": "sous les ramures chanteuses.",
+      "zh": "在歌唱的枝叶下面。"
+    },
+    {
+      "text": "C'est Tircis et c'est Aminte,",
+      "zh": "那是蒂尔西和阿曼特，"
+    },
+    {
+      "text": "et c'est l'éternel Clitandre,",
+      "zh": "还有永恒的克利坦德，"
+    },
+    {
+      "text": "et c'est Damis qui pour mainte",
+      "zh": "还有达米斯——他为了许多"
+    },
+    {
+      "text": "cruelle fait maint vers tendre.",
+      "zh": "残忍的美人写了许多温柔的诗。"
+    },
+    {
+      "text": "Leurs courtes vestes de soie,",
+      "zh": "他们短短的丝绸外衣，"
+    },
+    {
+      "text": "leurs longues robes à queues,",
+      "zh": "她们拖地的长裙，"
+    },
+    {
+      "text": "leur élégance, leur joie",
+      "zh": "他们的优雅、他们的欢乐——"
+    },
+    {
+      "text": "et leurs molles ombres bleues",
+      "zh": "还有他们柔和的蓝色影子——"
+    },
+    {
+      "text": "tourbillonnent dans l'extase",
+      "zh": "都在狂喜中旋转，"
+    },
+    {
+      "text": "d'une lune rose et grise,",
+      "zh": "在一轮玫瑰色和灰色的月亮下，"
+    },
+    {
+      "text": "et la mandoline jase",
+      "zh": "曼陀林在喋喋不休——"
+    },
+    {
+      "text": "parmi les frissons de brise.",
+      "zh": "在微风的颤栗之中。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "法语节奏与咬字",
+      "items": [
+        "sérénades [seʁenad]——三个音节的 é 要清晰",
+        "écouteuses [ekutøz]——ou [u] 和 eu [ø] 的交替",
+        "tourbillonnent [tuʁbijɔnɛ]——四个音节要在快速节奏中保持清楚",
+        "la mandoline jase [ʒaz]——j 是 [ʒ]，不是英语的 [dʒ]"
+      ]
+    },
+    {
+      "title": "轻快的演唱风格",
+      "items": [
+        "整首歌像一幅华托的画——18 世纪的贵族在月光下嬉戏",
+        "不要用太多声音「重量」——应该像曼陀林的拨弦一样轻盈",
+        "3/8 的节拍要有舞蹈感——一强两弱，但不要过重",
+        "最后两行可以渐弱——场景慢慢消失在月光和微风中"
+      ]
+    }
+  ],
+  "story": {
+    "background": "魏尔兰的「曼陀林」出自诗集《雅宴》（Fêtes galantes, 1869），灵感来自华托和弗拉戈纳尔的洛可可绘画——18 世纪的贵族在花园中弹琴、歌唱、调情。德布西在 1882 年（20 岁）为它谱曲，1891 年出版。这是他最早成熟的歌曲之一，轻快的曼陀林拨弦节奏和精致的声乐线完美再现了洛可可的优雅。",
+    "situation": "月光下的花园。年轻的贵族男女在枝叶下弹着曼陀林唱小夜曲。诗人点名了几个牧歌传统中的角色——蒂尔西、阿曼特、克利坦德、达米斯——他们穿着丝绸衣裳，在月色中旋转起舞。一切都是美丽的、虚幻的、不太认真的。",
+    "relationships": "没有真正的人物关系——这是一幅群像画。「les donneurs de sérénades et les belles écouteuses」是一群匿名的情人们。具名角色（Tircis, Aminte, Clitandre, Damis）都是意大利喜剧/法国牧歌的传统名字，不是真人。这首歌关注的是场景的整体美感，不是任何个人的情感。",
+    "intent": "轻盈、调皮、带一点讽刺。不要把这首歌唱得太认真——魏尔兰的诗带有一种温和的嘲讽：这些人的小夜曲是「平淡的」（fades），他们的爱情是游戏。声音要像曼陀林——清脆、快速、不深沉。结尾的场景消散要自然——不是悲伤的消失，而是画面慢慢走远。",
+    "plain30": "月光下的花园派对：年轻的贵族弹着曼陀林唱小夜曲，穿着丝绸旋转起舞。一切都很美，但不太认真。曼陀林在微风中喋喋不休。一幅18世纪洛可可画的声音版。",
+    "arc": "G 大调，3/8，活泼。钢琴模仿曼陀林的拨弦——轻快的八分音符分解和弦。声乐线在中高音区跳跃，像轻巧的舞步。四段诗的处理基本统一——没有戏剧性转折，始终保持轻快。最后几小节的渐弱像场景在月光中渐渐远去。",
+    "motif": "曼陀林拨弦动机：钢琴的连续八分音符分解和弦——模仿拨弦乐器的音响，贯穿全曲不间断。旋转动机：「tourbillonnent dans l'extase」处旋律快速上下运动，像裙摆在旋转。列举动机：「C'est Tircis et c'est Aminte」的重复「c'est...c'est...」——像在逐一指认画中的人物。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "开头「Les donneurs de sérénades」——场景铺开，轻快自在"
+      },
+      {
+        "phrase": "5",
+        "note": "「C'est Tircis et c'est Aminte」——列举动机，一个个点名"
+      },
+      {
+        "phrase": "13",
+        "note": "「tourbillonnent dans l'extase」——旋转动机，最活跃的时刻"
+      },
+      {
+        "phrase": "15",
+        "note": "「la mandoline jase」——回到曼陀林，场景开始消散"
+      }
+    ],
+    "technique": "速度较快（3/8），需要清晰的法语咬字在快节奏中保持。音域适中（大约 D4 到 G5），没有极端高音。最大的挑战是保持整首歌的轻盈感——不能用太多的声音重量，也不能让节奏变重。把自己想象成一把曼陀林而不是一架钢琴。连音和断音的交替要灵活——有些音节需要短促，有些需要连贯。",
+    "classroom": [
+      "先读中文——这是一幅画的描述，不是个人的情感表达。想象华托的画。",
+      "朗读法语，用轻快的 3/8 节奏——像在快速跳跃。",
+      "练习快速列举：「C'est Tircis et c'est Aminte et c'est l'éternel Clitandre」——每个名字都要清楚。",
+      "用「la la la」替代歌词哼唱旋律——感受曼陀林般的轻快。",
+      "加入歌词，半速——确保每个音节都清晰。",
+      "原速演唱——保持微笑的感觉，声音像在闪烁。",
+      "这首歌可以和福雷的「Mandoline」（Op.58 No.1）比较——同一首诗，完全不同的音乐处理。"
+    ]
+  },
+  "role": "旁观者（描绘欢愉场景的叙事者）"
+}

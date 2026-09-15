@@ -1,0 +1,1989 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "spirate-pur",
+ "title": "Spirate pur, spirate",
+ "titleZh": "轻风啊，吹吧",
+ "composer": "S. Donaudy",
+ "opera": "36 Arie di stile antico, No. 10（1918；仿古风格咏叹调，词 Alberto Donaudy）",
+ "language": "意大利语",
+ "voice": "女高音",
+ "difficulty": "基础",
+ "tempoBpm": 76,
+ "timeSignature": "3/4",
+ "coverage": {
+  "measures": [
+   1,
+   67
+  ],
+  "firstSungMeasure": 8,
+  "complete": true,
+  "note": "完整声乐旋律（3/4，67 小节），84 个意大利语音节；OpenScore 据 Ricordi 版转写，已与 IMSLP 声乐谱核对。"
+ },
+ "range": {
+  "low": "Eb4",
+  "high": "G5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主体：托轻风探问爱人心意的人",
+ "genre": "仿古咏叹调",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Donaudy,_Stefano/36_Arie_di_Stile_Antico/10_Spirate_pur,_spirate",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Donaudy,_Stefano/36_Arie_di_Stile_Antico/10_Spirate_pur,_spirate",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；84 个音节与 Ricordi 版逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/29420288"
+  },
+  {
+   "name": "IMSLP · 36 Arie di stile antico (Donaudy, Stefano)",
+   "url": "https://imslp.org/wiki/36_Arie_di_stile_antico_(Donaudy,_Stefano)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "LiederNet · Spirate pur, spirate (A. Donaudy)",
+   "url": "https://www.lieder.net/lieder/get_text.html?TextId=62533",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Spirate pur, spirate attorno a lo mio bene, aurette,",
+   "zh": "吹吧，轻风啊，在我爱人的身边吹拂，"
+  },
+  {
+   "text": "e v’accertate s’ella nel cor mi tiene.",
+   "zh": "去探明她是否把我放在心里。"
+  },
+  {
+   "text": "Spirate, spirate pur, spirate, aurette!",
+   "zh": "吹吧，吹吧，轻风啊！"
+  },
+  {
+   "text": "Se nel suo cor mi tiene, v’accertate, aure beate, aure lievi e beate!",
+   "zh": "若她把我放在心里，请去探明，幸福的风、轻盈而幸福的风！"
+  }
+ ],
+ "story": {
+  "background": "斯泰法诺·多纳乌迪的《36 首仿古风格咏叹调》（1918）是 20 世纪初意大利作曲家模仿 17–18 世纪 arie antiche 风格的歌集，歌词由其兄弟阿尔贝托·多纳乌迪用古体意大利语写成。第 10 首《轻风啊，吹吧》是其中最轻快的一首，常作为声乐初学者的入门曲。",
+  "situation": "恋人不在身边，叙述者对轻风说话：请你们吹到她那里去，看看她心里有没有我。如果有，就告诉我。这是一段把不安藏在轻快里的独白：他想要确认，又不敢直接问。",
+  "relationships": "“我”、缺席的“我的爱人”（lo mio bene，阴性 “ella”）与被拟人化的“轻风”（aurette）。风是信使，也是听众；整首歌是对第三方的请求。",
+  "intent": "开口要轻巧、明亮，像对风说话；“e v’accertate” 略带急切。反复的 “spirate” 每次都可以稍变音色（更轻、更远）。结尾 “aure lievi e beate” 是满足的想象，声音放宽后轻轻收住。全曲不要过重——它是三拍的舞蹈。",
+  "plain30": "恋人不在身边，他对风说：去我爱人那儿吹一吹，看看她心里有没有我；如果有，就回来告诉我。轻快的三拍子里藏着一点不安，这是一首把等待唱成舞曲的歌。",
+  "arc": "3/4 Allegretto，仿巴洛克的小步舞曲节奏。旋律以级进与三度跳进构成短小的两小节单位，“Spirate pur” 反复出现像风的回旋；中段 “Se nel suo cor mi tiene” 转入略暗的和声，尾段回到明亮的主题并延长 “beate”。情绪：轻快—期待—轻快。",
+  "motif": "核心动机是 “Spi-ra-te” 的三音上行加下行回落，模拟风的一起一落。它反复出现十余次，每次起音略有变化；中段被拉长为 “Se nel suo cor” 的长线条。演唱时每个 “spirate” 的第一个音节都要轻起，像风刚吹起。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Spirate pur, spirate” 风的动机首次出现，连续两次。"
+   },
+   {
+    "phrase": 2,
+    "note": "第 2 句 “e v’accertate” 动机延长为请求的长线。"
+   },
+   {
+    "phrase": 3,
+    "note": "第 3 句 “Spirate, spirate pur” 动机密集反复，像风的回旋。"
+   },
+   {
+    "phrase": 4,
+    "note": "第 4 句 “aure lievi e beate” 动机拉宽为尾声长音。"
+   }
+  ],
+  "technique": "呼吸：两小节一句，句间短换气；“aure lievi e beate” 的长音前吸足。咬字：双辅音 tt、cc、ll 要清楚，元音短促轻盈。换声区：女高音在 E5–F5（“aurette”“beate”）经过换声区，保持轻机能。高音：最高音 G5 在 “beate” 上，是明亮的装饰音，不要用力。",
+  "classroom": [
+   "先读中文，理解“请风去探问”的比喻。",
+   "慢速读原文，标出重音与双辅音。",
+   "分离元音：练 e 的开闭口。",
+   "按 3/4 说词，第一拍轻起。",
+   "听单音旋律，数一数 “spirate” 出现几次。",
+   "把歌词放回旋律，先练主题，再练中段。",
+   "用正常速度完整演唱，保持轻快。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "spiRÀte、atTÒRno（rn 非双辅音但 r 弹舌）、auRÉTte（tt 双辅音）、accerTÀte（cc 读 [tt͜ʃ]）、beÀte。",
+    "“s’ella” 的 ll 双辅音要延长。"
+   ]
+  },
+  {
+   "title": "连读与省略",
+   "items": [
+    "“a lo mio bene” 是仿古写法（= al mio bene）；“v’accertate”“s’ella” 省音。",
+    "“lievi‿e beate” 在同一音上连读。"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "bene、tiene 的 e 开口 [ɛ]；aurette 的 e 闭口 [e]；cor 的 o 开口 [ɔ]。",
+    "“aure” 的 au 双元音，重音在 a。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    8,
+    10
+   ],
+   "lyrics": "Spirate pur,",
+   "translation": "吹吧，轻风啊，在我爱人的身边吹拂，",
+   "events": [
+    {
+     "id": "spirate-pur-e0009",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 8,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0010",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 8,
+     "beat": 3,
+     "lyric": "Spi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0011",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "ra",
+     "syllabic": "middle"
+    },
+    {
+     "id": "spirate-pur-e0012",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 9,
+     "beat": 3,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0013",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "pur,",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0014",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    10,
+    14
+   ],
+   "lyrics": "spirate attorno a lo mio",
+   "translation": "吹吧，轻风啊，在我爱人的身边吹拂，",
+   "events": [
+    {
+     "id": "spirate-pur-e0015",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 3,
+     "lyric": "spi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0016",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "ra",
+     "syllabic": "middle"
+    },
+    {
+     "id": "spirate-pur-e0017",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0018",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 4,
+     "measure": 11,
+     "beat": 2,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0019",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 12,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0020",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "at",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0021",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 13,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0022",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 13,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0023",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1,
+     "measure": 13,
+     "beat": 2,
+     "lyric": "tor",
+     "syllabic": "middle"
+    },
+    {
+     "id": "spirate-pur-e0024",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 13,
+     "beat": 3,
+     "lyric": "no a",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0025",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "lo",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0026",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 14,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0027",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 14,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0028",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0029",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 3,
+     "lyric": "mio",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    15,
+    16
+   ],
+   "lyrics": "bene,",
+   "translation": "吹吧，轻风啊，在我爱人的身边吹拂，",
+   "events": [
+    {
+     "id": "spirate-pur-e0030",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "be",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0031",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0032",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 3,
+     "measure": 15,
+     "beat": 2,
+     "lyric": "ne,",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0033",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 16,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    16,
+    20
+   ],
+   "lyrics": "aurette, e v’accertate",
+   "translation": "去探明她是否把我放在心里。",
+   "events": [
+    {
+     "id": "spirate-pur-e0034",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 16,
+     "beat": 3,
+     "lyric": "au",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0035",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "ret",
+     "syllabic": "middle"
+    },
+    {
+     "id": "spirate-pur-e0036",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 17,
+     "beat": 2,
+     "lyric": "te,",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0037",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 17,
+     "beat": 3,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0038",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 18,
+     "beat": 1,
+     "lyric": "v’ac",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0039",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 18,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0040",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 18,
+     "beat": 3,
+     "lyric": "cer",
+     "syllabic": "middle"
+    },
+    {
+     "id": "spirate-pur-e0041",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1,
+     "lyric": "ta",
+     "syllabic": "middle"
+    },
+    {
+     "id": "spirate-pur-e0042",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0043",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 4,
+     "measure": 19,
+     "beat": 2,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0044",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 20,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    21,
+    24
+   ],
+   "lyrics": "s’ella nel cor mi tiene,",
+   "translation": "去探明她是否把我放在心里。",
+   "events": [
+    {
+     "id": "spirate-pur-e0045",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1,
+     "measure": 21,
+     "beat": 1,
+     "lyric": "s’el",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0046",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 21,
+     "beat": 2,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0047",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 21,
+     "beat": 3,
+     "lyric": "nel",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0048",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2,
+     "measure": 22,
+     "beat": 1,
+     "lyric": "cor",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0049",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 22,
+     "beat": 3,
+     "lyric": "mi",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0050",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1,
+     "lyric": "tie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0051",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0052",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 4,
+     "measure": 23,
+     "beat": 2,
+     "lyric": "ne,",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0053",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 24,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    25,
+    28
+   ],
+   "lyrics": "s’ella nel cor mi tiene,",
+   "translation": "去探明她是否把我放在心里。",
+   "events": [
+    {
+     "id": "spirate-pur-e0054",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1,
+     "measure": 25,
+     "beat": 1,
+     "lyric": "s’el",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0055",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 25,
+     "beat": 2,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0056",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 25,
+     "beat": 3,
+     "lyric": "nel",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0057",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2,
+     "measure": 26,
+     "beat": 1,
+     "lyric": "cor",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0058",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 26,
+     "beat": 3,
+     "lyric": "mi",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0059",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 1,
+     "lyric": "tie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0060",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0061",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 3,
+     "measure": 27,
+     "beat": 2,
+     "lyric": "ne,",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0062",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 28,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    28,
+    32
+   ],
+   "lyrics": "Spirate,",
+   "translation": "吹吧，吹吧，轻风啊！",
+   "events": [
+    {
+     "id": "spirate-pur-e0063",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 28,
+     "beat": 3,
+     "lyric": "Spi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0064",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 9,
+     "measure": 29,
+     "beat": 1,
+     "lyric": "ra",
+     "syllabic": "middle"
+    },
+    {
+     "id": "spirate-pur-e0065",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2,
+     "measure": 32,
+     "beat": 1,
+     "lyric": "te,",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0066",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 32,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    33,
+    36
+   ],
+   "lyrics": "spirate, spirate pur,",
+   "translation": "吹吧，吹吧，轻风啊！",
+   "events": [
+    {
+     "id": "spirate-pur-e0067",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 1,
+     "lyric": "spi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0068",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0069",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0070",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0071",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0072",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0073",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1,
+     "lyric": "ra",
+     "syllabic": "middle"
+    },
+    {
+     "id": "spirate-pur-e0074",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0075",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 34,
+     "beat": 2,
+     "lyric": "te,",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0076",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 34,
+     "beat": 3,
+     "lyric": "spi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0077",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2,
+     "measure": 35,
+     "beat": 1,
+     "lyric": "ra",
+     "syllabic": "middle"
+    },
+    {
+     "id": "spirate-pur-e0078",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1,
+     "measure": 35,
+     "beat": 3,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0079",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 36,
+     "beat": 1,
+     "lyric": "pur,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    36,
+    42
+   ],
+   "lyrics": "spirate,",
+   "translation": "吹吧，吹吧，轻风啊！",
+   "events": [
+    {
+     "id": "spirate-pur-e0080",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 36,
+     "beat": 3,
+     "lyric": "spi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0081",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 1,
+     "lyric": "ra",
+     "syllabic": "middle"
+    },
+    {
+     "id": "spirate-pur-e0082",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0083",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0084",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0085",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0086",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0087",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0088",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0089",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0090",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0091",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0092",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0093",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0094",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0095",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0096",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0097",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0098",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0099",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0100",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0101",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0102",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0103",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0104",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0105",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0106",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0107",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0108",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0109",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0110",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0111",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 2,
+     "measure": 42,
+     "beat": 1,
+     "lyric": "te,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    42,
+    51
+   ],
+   "lyrics": "aurette!",
+   "translation": "吹吧，吹吧，轻风啊！",
+   "events": [
+    {
+     "id": "spirate-pur-e0112",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 42,
+     "beat": 3,
+     "lyric": "au",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0113",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2,
+     "measure": 43,
+     "beat": 1,
+     "lyric": "ret",
+     "syllabic": "middle"
+    },
+    {
+     "id": "spirate-pur-e0114",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 43,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0115",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 44,
+     "beat": 1,
+     "lyric": "te!",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0116",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 44,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0117",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 44,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0118",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 45,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0119",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 46,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0120",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 47,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0121",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 48,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0122",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 49,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0123",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 50,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0124",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 51,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    52,
+    55
+   ],
+   "lyrics": "Se nel suo cor mi tiene,",
+   "translation": "若她把我放在心里，请去探明，幸福的风、轻盈而幸福的风！",
+   "events": [
+    {
+     "id": "spirate-pur-e0125",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 1,
+     "lyric": "Se",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0126",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0127",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 2,
+     "lyric": "nel",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0128",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0129",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 3,
+     "lyric": "suo",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0130",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0131",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 1,
+     "lyric": "cor",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0132",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0133",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0134",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0135",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 53,
+     "beat": 3,
+     "lyric": "mi",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0136",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 3,
+     "measure": 54,
+     "beat": 1,
+     "lyric": "tie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0137",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2,
+     "measure": 55,
+     "beat": 1,
+     "lyric": "ne,",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0138",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 55,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    56,
+    60
+   ],
+   "lyrics": "Se nel suo cor mi tiene,",
+   "translation": "若她把我放在心里，请去探明，幸福的风、轻盈而幸福的风！",
+   "events": [
+    {
+     "id": "spirate-pur-e0139",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 1,
+     "lyric": "Se",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0140",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0141",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 2,
+     "lyric": "nel",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0142",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0143",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 3,
+     "lyric": "suo",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0144",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0145",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 1,
+     "lyric": "cor",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0146",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0147",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 57,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0148",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 57,
+     "beat": 3,
+     "lyric": "mi",
+     "syllabic": "single"
+    },
+    {
+     "id": "spirate-pur-e0149",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 3,
+     "measure": 58,
+     "beat": 1,
+     "lyric": "tie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0150",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 3,
+     "measure": 59,
+     "beat": 1,
+     "lyric": "ne,",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0151",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 60,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    60,
+    63
+   ],
+   "lyrics": "V’accertate aure beate,",
+   "translation": "若她把我放在心里，请去探明，幸福的风、轻盈而幸福的风！",
+   "events": [
+    {
+     "id": "spirate-pur-e0152",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1,
+     "measure": 60,
+     "beat": 2,
+     "lyric": "V’ac",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0153",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 60,
+     "beat": 3,
+     "lyric": "cer",
+     "syllabic": "middle"
+    },
+    {
+     "id": "spirate-pur-e0154",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1,
+     "measure": 61,
+     "beat": 1,
+     "lyric": "ta",
+     "syllabic": "middle"
+    },
+    {
+     "id": "spirate-pur-e0155",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1,
+     "measure": 61,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0156",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1,
+     "measure": 61,
+     "beat": 3,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0157",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 62,
+     "beat": 1,
+     "lyric": "au",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0158",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 62,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "spirate-pur-e0159",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1,
+     "measure": 62,
+     "beat": 2,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0160",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 62,
+     "beat": 3,
+     "lyric": "be",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0161",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1,
+     "measure": 63,
+     "beat": 1,
+     "lyric": "a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "spirate-pur-e0162",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 63,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0163",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 63,
+     "beat": 3,
+     "lyric": "te,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    64,
+    67
+   ],
+   "lyrics": "aure lievi e beate!",
+   "translation": "若她把我放在心里，请去探明，幸福的风、轻盈而幸福的风！",
+   "events": [
+    {
+     "id": "spirate-pur-e0164",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 64,
+     "beat": 1,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0165",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 64,
+     "beat": 2,
+     "lyric": "u",
+     "syllabic": "middle"
+    },
+    {
+     "id": "spirate-pur-e0166",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 64,
+     "beat": 3,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0167",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 65,
+     "beat": 1,
+     "lyric": "lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0168",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 65,
+     "beat": 2,
+     "lyric": "vi e",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0169",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 65,
+     "beat": 3,
+     "lyric": "be",
+     "syllabic": "begin"
+    },
+    {
+     "id": "spirate-pur-e0170",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 2,
+     "measure": 66,
+     "beat": 1,
+     "lyric": "a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "spirate-pur-e0171",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 66,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "spirate-pur-e0172",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 66,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "spirate-pur-e0173",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 67,
+     "beat": 1,
+     "lyric": "te!",
+     "syllabic": "end"
+    },
+    {
+     "id": "spirate-pur-e0174",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 67,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    67,
+    67
+   ],
+   "lyrics": "Spi",
+   "translation": "若她把我放在心里，请去探明，幸福的风、轻盈而幸福的风！",
+   "events": [
+    {
+     "id": "spirate-pur-e0175",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 67,
+     "beat": 3,
+     "lyric": "Spi",
+     "syllabic": "single"
+    }
+   ]
+  }
+ ],
+ "eventCount": 167,
+ "restCount": 19,
+ "lyricNoteCount": 84,
+ "pages": 1,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 15,
+  "slowScale": 1.45
+ }
+}

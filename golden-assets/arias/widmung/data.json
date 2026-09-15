@@ -1,0 +1,2082 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "widmung",
+ "title": "Widmung",
+ "titleZh": "奉献",
+ "composer": "R. Schumann",
+ "opera": "Myrthen, Op. 25, No. 1（《桃金娘》，1840；诗：F. Rückert）",
+ "language": "德语",
+ "voice": "男高音",
+ "difficulty": "中级",
+ "tempoBpm": 72,
+ "timeSignature": "3/2",
+ "coverage": {
+  "measures": [
+   1,
+   44
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "完整声乐旋律（降 A 大调，3/4 Innig, lebhaft，约 56 小节，ABA 三段体）。舒曼在婚礼前夕献给克拉拉的第一首歌。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "B3",
+  "high": "Gb5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主人公（恋人）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Du meine Seele, du mein Herz,",
+   "zh": "你是我的灵魂，你是我的心，"
+  },
+  {
+   "text": "du meine Wonn', o du mein Schmerz,",
+   "zh": "你是我的欢乐，啊，你是我的痛苦，"
+  },
+  {
+   "text": "du meine Welt, in der ich lebe,",
+   "zh": "你是我生活其中的世界，"
+  },
+  {
+   "text": "mein Himmel du, darein ich schwebe,",
+   "zh": "你是我翱翔其中的天空，"
+  },
+  {
+   "text": "o du mein Grab, in das hinab",
+   "zh": "啊，你是我的坟墓——我将"
+  },
+  {
+   "text": "ich ewig meinen Kummer gab!",
+   "zh": "永远把我的忧愁埋葬在那里！"
+  },
+  {
+   "text": "Du bist die Ruh, du bist der Frieden,",
+   "zh": "你是安宁，你是平和，"
+  },
+  {
+   "text": "du bist vom Himmel mir beschieden.",
+   "zh": "你是上天赐予我的。"
+  },
+  {
+   "text": "Dass du mich liebst, macht mich mir wert,",
+   "zh": "你爱我，使我有了自己的价值，"
+  },
+  {
+   "text": "dein Blick hat mich vor mir verklärt,",
+   "zh": "你的目光在我面前把我变得崇高，"
+  },
+  {
+   "text": "du hebst mich liebend über mich,",
+   "zh": "你以爱把我举起，超越了我自己，"
+  },
+  {
+   "text": "mein guter Geist, mein bess'res Ich!",
+   "zh": "你是我的守护神，我更好的自我！"
+  }
+ ],
+ "story": {
+  "background": "舒曼在 1840 年与克拉拉·维克终于结婚（经过多年与克拉拉父亲的法律斗争）。婚前他创作了大量歌曲，包括这套《桃金娘》（Op.25）——桃金娘是传统的新娘花冠植物。《奉献》是这套 26 首歌的开篇，也是舒曼全部歌曲中最有名的一首。吕克特的诗列举了爱人在歌者生命中的全部意义。",
+  "situation": "歌者对爱人直接表白：你是我的一切——灵魂、心、欢乐、痛苦、世界、天空，甚至坟墓。然后语气突然平静下来：你是安宁，你是上天的恩赐。最后回到开头的热烈：你的爱让我找到了自己的价值。",
+  "relationships": "歌者与爱人之间是全然奉献的关系。在舒曼的语境中，爱人就是克拉拉——这不是虚构的情感，而是真实的爱情宣言。",
+  "intent": "A 段要热烈而急切——'du meine Seele, du mein Herz' 像连珠炮般的爱情宣言。B 段'Du bist die Ruh'突然变得极其平静和虔诚——像从风暴中找到了港湾。A'再现段回到热烈，但更加宽广和确信——已经从表白变成了感恩。钢琴结尾引用了舒伯特的《致音乐》——舒曼以此向两位伟大的艺术致敬：音乐和爱。",
+  "plain30": "你是我的灵魂、我的心、我的一切。然后突然安静下来：你是上天赐予我的安宁。最后：你的爱让我超越了自己。这是舒曼在婚礼前写给克拉拉的情书。",
+  "arc": "降 A 大调，3/4，热烈而亲密。ABA 三段体。A 段（降 A 大调）是热烈的倾诉，旋律以连续的三拍子节奏向前推进。B 段（E 大调）突然转调——'Du bist die Ruh' 旋律变得平稳、宽广，像祈祷。A'段回到降 A 大调，旋律与开头相同但更宽广。钢琴尾奏引用舒伯特《致音乐》(An die Musik)的旋律。",
+  "motif": "奉献动机：开头'Du meine Seele'的大跳上行——从主音跳到高八度，像伸出双手。每个'du mein(e)...'都以这个大跳开始，越来越高、越来越激动。安宁动机：B 段'Du bist die Ruh'的级进下行——与 A 段的大跳形成对比，一切突然平静。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "'Du meine Seele' 大跳上行——奉献动机首次出现，热烈的开始"
+   },
+   {
+    "phrase": "5",
+    "note": "'o du mein Grab' 奉献动机推到极端——连死亡都属于你"
+   },
+   {
+    "phrase": "7",
+    "note": "'Du bist die Ruh' 突然转 E 大调——安宁动机，全曲的情感中心"
+   },
+   {
+    "phrase": "11",
+    "note": "'du hebst mich liebend über mich' 再现——同样的旋律但更加确信"
+   }
+  ],
+  "technique": "A 段需要良好的气息管理——连续的'du mein(e)...'每次都在更高的音上开始，容易耗气。B 段的转调需要耳朵的适应——从降 A 大调到 E 大调的关系很远，但舒曼的过渡非常自然。3/4 拍要保持推进感——这是一首激动的歌，不要唱成慢板。",
+  "classroom": [
+   "先读中文——这是一封列举爱人对你意味着什么的信：灵魂、心、欢乐、痛苦、世界、天空。",
+   "朗读德语——注意每个'du mein(e)'的重复结构，像在一遍遍加强表白。",
+   "先只练 A 段的前半部分——学会大跳上行的奉献动机。",
+   "单独练 B 段——感受从热烈到安宁的转换。",
+   "完整演唱——关键是 ABA 三段的情感弧线：热烈→安宁→确信。",
+   "听李斯特的钢琴改编版（S.566）——他保留了所有歌声线条，可以帮助理解旋律结构。",
+   "了解舒曼和克拉拉的故事——知道这首歌是真实的婚前情书，会让演唱更有分量。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "Seele 的 ee 是长 [eː]，Herz 的 e 是短 [ɛ]",
+    "Wonn' 的 o 是短 [ɔ]，保持圆润但不拉长",
+    "Himmel 的 i 是短 [ɪ]，schwebe 的 e 是弱化 [ə]",
+    "Ruh 的 u 长 [uː]，Kummer 的 u 短 [ʊ]"
+   ]
+  },
+  {
+   "title": "音乐性格",
+   "items": [
+    "这首歌是一封情书——语气要热烈但真诚，不要太戏剧化",
+    "中段'Du bist die Ruh'突然变得平静——像从激动中找到了安宁",
+    "最后再现A段时，同样的旋律要比开头更加确信和宽广"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    1,
+    3
+   ],
+   "lyrics": "Du meine Seele, du mein Herz,",
+   "translation": "你是我的灵魂，你是我的心，",
+   "events": [
+    {
+     "id": "widmung-e0001",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 1,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "widmung-e0002",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "Du",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0003",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 1.5,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0004",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 1.75,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0005",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 2,
+     "beat": 2.0,
+     "lyric": "See",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0006",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 2.75,
+     "lyric": "le,",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0007",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 3.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0008",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 3.5,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0009",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "Herz,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0010",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    3,
+    5
+   ],
+   "lyrics": "du meine Wonn’, o du mein Schmerz,",
+   "translation": "你是我的欢乐，啊，你是我的痛苦，",
+   "events": [
+    {
+     "id": "widmung-e0011",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 3.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0012",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 3.5,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0013",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 3.75,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0014",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "Wonn’,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0015",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "o",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0016",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0017",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 3.5,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0018",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "Schmerz,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0019",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    5,
+    7
+   ],
+   "lyrics": "du meine Welt, in der ich lebe,",
+   "translation": "你是我生活其中的世界，",
+   "events": [
+    {
+     "id": "widmung-e0020",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0021",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.5,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0022",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.75,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0023",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "Welt,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0024",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0025",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 6,
+     "beat": 3.0,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0026",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3.75,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0027",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "le",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0028",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "be,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    7,
+    9
+   ],
+   "lyrics": "mein Himmel du, darein ich schwebe,",
+   "translation": "你是我翱翔其中的天空，",
+   "events": [
+    {
+     "id": "widmung-e0029",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0030",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 7,
+     "beat": 3.0,
+     "lyric": "Him",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0031",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 3.75,
+     "lyric": "mel",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0032",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "du,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0033",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "da",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0034",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "rein",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0035",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.75,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0036",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "schwe",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0037",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "be,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    9,
+    10
+   ],
+   "lyrics": "o du mein Grab,",
+   "translation": "啊，你是我的坟墓——我将",
+   "events": [
+    {
+     "id": "widmung-e0038",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "o",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0039",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0040",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 3.5,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0041",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "Grab,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0042",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    10,
+    12
+   ],
+   "lyrics": "in das hinab ich ewig meinen Kummer",
+   "translation": "永远把我的忧愁埋葬在那里！",
+   "events": [
+    {
+     "id": "widmung-e0043",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0044",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0045",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 3.5,
+     "lyric": "hin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0046",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "ab",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0047",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0048",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "e",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0049",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 3.5,
+     "lyric": "wig",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0050",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0051",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "nen",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0052",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "widmung-e0053",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "Kum",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0054",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 3.5,
+     "lyric": "mer",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    13,
+    14
+   ],
+   "lyrics": "gab! Du bist die",
+   "translation": "你是安宁，你是平和，",
+   "events": [
+    {
+     "id": "widmung-e0055",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "gab!",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0056",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "widmung-e0057",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "Du",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0058",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "bist",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0059",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 3.5,
+     "lyric": "die",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    15,
+    16
+   ],
+   "lyrics": "Ruh, du bist der",
+   "translation": "你是安宁，你是平和，",
+   "events": [
+    {
+     "id": "widmung-e0060",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "Ruh,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0061",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0062",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 5.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "bist",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0063",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 3.5,
+     "lyric": "der",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    17,
+    18
+   ],
+   "lyrics": "Frieden, du bist vom",
+   "translation": "你是安宁，你是平和，",
+   "events": [
+    {
+     "id": "widmung-e0064",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "Frie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0065",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "den,",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0066",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "widmung-e0067",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0068",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "bist",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0069",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 3.5,
+     "lyric": "vom",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    19,
+    20
+   ],
+   "lyrics": "Himmel mir",
+   "translation": "你是上天赐予我的。",
+   "events": [
+    {
+     "id": "widmung-e0070",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "Him",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0071",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "mel",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0072",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0073",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "widmung-e0074",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "widmung-e0075",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2.625,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "widmung-e0076",
+     "pitch": "E#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "widmung-e0077",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2.875,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "widmung-e0078",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 20,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "widmung-e0079",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 20,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    20,
+    21
+   ],
+   "lyrics": "beschieden.",
+   "translation": "你是上天赐予我的。",
+   "events": [
+    {
+     "id": "widmung-e0080",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3.75,
+     "lyric": "be",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0081",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "schie",
+     "syllabic": "middle"
+    },
+    {
+     "id": "widmung-e0082",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "den.",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0083",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    21,
+    22
+   ],
+   "lyrics": "Dass du mich liebst,",
+   "translation": "你爱我，使我有了自己的价值，",
+   "events": [
+    {
+     "id": "widmung-e0084",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 3.0,
+     "lyric": "Dass",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0085",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0086",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3.75,
+     "lyric": "mich",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0087",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "liebst,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0088",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    22,
+    25
+   ],
+   "lyrics": "macht mich mir wert, dein Blick hat mich vor mir verklärt,",
+   "translation": "你的目光在我面前把我变得崇高，",
+   "events": [
+    {
+     "id": "widmung-e0089",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "macht",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0090",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 22,
+     "beat": 3.0,
+     "lyric": "mich",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0091",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3.75,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0092",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "wert,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0093",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "widmung-e0094",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 2.5,
+     "lyric": "dein",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0095",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 23,
+     "beat": 3.0,
+     "lyric": "Blick",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0096",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 3.75,
+     "lyric": "hat",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0097",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "mich",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0098",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 2.5,
+     "lyric": "vor",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0099",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 24,
+     "beat": 3.0,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0100",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3.75,
+     "lyric": "ver",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0101",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "klärt,",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0102",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    25,
+    27
+   ],
+   "lyrics": "du hebst mich liebend über mich,",
+   "translation": "你以爱把我举起，超越了我自己，",
+   "events": [
+    {
+     "id": "widmung-e0103",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 2.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0104",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "hebst",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0105",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 3.5,
+     "lyric": "mich",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0106",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0107",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 2.5,
+     "lyric": "bend",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0108",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "ü",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0109",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 3.75,
+     "lyric": "ber",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0110",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "mich,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0111",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    27,
+    29
+   ],
+   "lyrics": "mein guter Geist, mein bessres Ich!",
+   "translation": "你是我的守护神，我更好的自我！",
+   "events": [
+    {
+     "id": "widmung-e0112",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0113",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "gu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0114",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.75,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0115",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "Geist,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0116",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 2.5,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0117",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 3.0,
+     "lyric": "bess",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0118",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 3.5,
+     "lyric": "res",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0119",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "Ich!",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0120",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 29,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    30,
+    31
+   ],
+   "lyrics": "Du meine Seele, du mein Herz,",
+   "translation": "你是我的守护神，我更好的自我！",
+   "events": [
+    {
+     "id": "widmung-e0121",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "Du",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0122",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1.5,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0123",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1.75,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0124",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 30,
+     "beat": 2.0,
+     "lyric": "See",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0125",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.75,
+     "lyric": "le,",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0126",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 3.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0127",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 3.5,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0128",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "Herz,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0129",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    31,
+    33
+   ],
+   "lyrics": "du meine Wonn’, o du mein Schmerz,",
+   "translation": "你是我的守护神，我更好的自我！",
+   "events": [
+    {
+     "id": "widmung-e0130",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 3.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0131",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 3.5,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0132",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 3.75,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0133",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "Wonn’,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0134",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "o",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0135",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 3.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0136",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 3.5,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0137",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "Schmerz,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0138",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 33,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    33,
+    35
+   ],
+   "lyrics": "du meine Welt, in der ich lebe,",
+   "translation": "你是我的守护神，我更好的自我！",
+   "events": [
+    {
+     "id": "widmung-e0139",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 3.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0140",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 3.5,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0141",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 3.75,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0142",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "Welt,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0143",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0144",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 34,
+     "beat": 3.0,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0145",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 3.75,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0146",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "le",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0147",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 2.0,
+     "lyric": "be,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "measures": [
+    35,
+    37
+   ],
+   "lyrics": "mein Himmel du, darein ich schwebe,",
+   "translation": "你是我的守护神，我更好的自我！",
+   "events": [
+    {
+     "id": "widmung-e0148",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 2.5,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0149",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 35,
+     "beat": 3.0,
+     "lyric": "Him",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0150",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 3.75,
+     "lyric": "mel",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0151",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "du,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0152",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 2.5,
+     "lyric": "da",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0153",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 3.0,
+     "lyric": "rein",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0154",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 3.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0155",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "schwe",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0156",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 2.0,
+     "lyric": "be,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "measures": [
+    37,
+    44
+   ],
+   "lyrics": "mein guter Geist, mein bess’res Ich!",
+   "translation": "你是我的守护神，我更好的自我！",
+   "events": [
+    {
+     "id": "widmung-e0157",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 2.5,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0158",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 3.0,
+     "lyric": "gu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0159",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 3.5,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0160",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "Geist,",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0161",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 1.5,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0162",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "bess’",
+     "syllabic": "begin"
+    },
+    {
+     "id": "widmung-e0163",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 3.5,
+     "lyric": "res",
+     "syllabic": "end"
+    },
+    {
+     "id": "widmung-e0164",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "Ich!",
+     "syllabic": "single"
+    },
+    {
+     "id": "widmung-e0165",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 39,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "widmung-e0166",
+     "pitch": null,
+     "rest": true,
+     "duration": 6.0,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "widmung-e0167",
+     "pitch": null,
+     "rest": true,
+     "duration": 6.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "widmung-e0168",
+     "pitch": null,
+     "rest": true,
+     "duration": 6.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "widmung-e0169",
+     "pitch": null,
+     "rest": true,
+     "duration": 6.0,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "widmung-e0170",
+     "pitch": null,
+     "rest": true,
+     "duration": 6.0,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 170,
+ "restCount": 19,
+ "lyricNoteCount": 142,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 20,
+  "slowScale": 1.45
+ }
+}

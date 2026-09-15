@@ -1,0 +1,120 @@
+{
+  "title": "Das Wandern",
+  "titleZh": "漫游",
+  "composer": "F. Schubert",
+  "opera": "Die schöne Müllerin D.795 No.1（美丽的磨坊女第1首，1823；诗：W. Müller）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "genre": "艺术歌曲",
+  "tempoBpm": 108,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（降B大调，2/4，轻快的行走速度，约52小节，分节歌五段）。舒伯特《美丽的磨坊女》开篇——年轻磨坊学徒出发漫游的欢快之歌。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Das Wandern ist des Müllers Lust,",
+      "zh": "漫游是磨坊工人的乐趣，"
+    },
+    {
+      "text": "das Wandern!",
+      "zh": "漫游！"
+    },
+    {
+      "text": "Das muß ein schlechter Müller sein,",
+      "zh": "那一定是个糟糕的磨坊工人，"
+    },
+    {
+      "text": "dem niemals fiel das Wandern ein,",
+      "zh": "如果他从未想过要去漫游，"
+    },
+    {
+      "text": "das Wandern.",
+      "zh": "漫游。"
+    },
+    {
+      "text": "Vom Wasser haben wir's gelernt,",
+      "zh": "我们从流水那里学到了这一点，"
+    },
+    {
+      "text": "vom Wasser!",
+      "zh": "从流水！"
+    },
+    {
+      "text": "Das hat nicht Rast bei Tag und Nacht,",
+      "zh": "它日夜不停地奔流，"
+    },
+    {
+      "text": "ist stets auf Wanderschaft bedacht,",
+      "zh": "总是想着漫游，"
+    },
+    {
+      "text": "das Wasser.",
+      "zh": "流水。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "Wandern 的 a 短 [a]",
+        "Müller 的 ü 短 [ʏ]",
+        "schlechter 的 e 短 [ɛ]",
+        "niemals 的 ie 长 [iː]",
+        "Wanderschaft 的 a 短 [a]"
+      ]
+    },
+    {
+      "title": "歌唱风格",
+      "items": [
+        "这是一首行走歌——想象你一边走路一边唱",
+        "节奏要有弹性，像脚步声",
+        "每一段最后的'das Wandern/Wasser/Steine/Meister/Wandern'要有收束感",
+        "声音要年轻、明亮——这是一个快乐出发的学徒"
+      ]
+    }
+  ],
+  "story": {
+    "background": "《美丽的磨坊女》是舒伯特根据威廉·缪勒诗集创作的声乐套曲，讲述一个年轻磨坊学徒的故事。《漫游》是开篇——学徒带着青春的热情出发，跟着小溪走向未知的远方。曲风欢快简洁，分节歌五段，像民歌一样朗朗上口。",
+    "situation": "年轻的磨坊学徒准备出发去远方学艺。他唱道：漫游是磨坊人的天性——流水在走，石头在转，连车轮都不停——我也要走！",
+    "relationships": "学徒与世界——这是一段旅程的开始。此时还没有出现磨坊女或情感纠葛——只有年轻人对未知世界的渴望。",
+    "intent": "全曲保持明亮欢快。五段歌词分别用水、石头、车轮、磨坊主人来类比漫游的必然。最后一段回到'漫游是磨坊人的乐趣'——首尾呼应。",
+    "plain30": "一个快乐的年轻磨坊学徒准备出发去远方学艺。他用五段歌词告诉你：漫游是磨坊人的天性——流水在走，石头在转，车轮不停歇，连磨坊师傅也闲不住。我也要跟着小溪的方向走！这是舒伯特套曲《美丽的磨坊女》的开篇，整个故事从这一刻欢快地开始。",
+    "arc": "降B大调，2/4，快步行走的速度。旋律简洁明快，像一首民歌。五段歌词用相同旋律，每段以'das Wandern/Wasser...' 结束。钢琴的伴奏像转动的水车。",
+    "motif": "行走动机：旋律的规律跳进像脚步声。钢琴的六连音伴奏像水车的转动。'Das Wandern' 的上行四度是全曲的标志——出发的号角。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "'Das Wandern ist des Müllers Lust' 出发动机——上行四度"
+      },
+      {
+        "phrase": "6",
+        "note": "'Vom Wasser haben wir's gelernt' 第二段——同旋律，水的意象"
+      }
+    ],
+    "technique": "轻快的吐字——不要因为速度快而含糊。'Wandern' 的 W 要柔和。每段结尾的重复词要稍微减弱——像脚步渐远。",
+    "classroom": [
+      "先读中文：年轻人快乐地出发漫游——一首简单的行走歌。",
+      "朗读德语：跟着节拍走路的感觉。",
+      "旋律很简单——五段歌词用同一旋律，先学一段。",
+      "配合走路的节奏唱——2/4拍，每拍一步。",
+      "五段歌词背得越熟越好——这首歌经常出现在考试和比赛中。",
+      "完整演唱。保持年轻人出发时的兴奋和快乐。",
+      "这首歌是套曲的开始——后面还有19首歌讲述学徒的故事。"
+    ]
+  },
+  "role": "磨坊学徒（流浪者）"
+}

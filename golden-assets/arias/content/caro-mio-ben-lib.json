@@ -1,0 +1,112 @@
+{
+  "title": "Caro mio ben",
+  "titleZh": "亲爱的，请相信我",
+  "composer": "T. Giordani",
+  "opera": "独立咏叹调（Arietta，约 1783；词作者不详）",
+  "role": "抒情主体：恳求恋人相信自己忠贞的人",
+  "genre": "小咏叹调",
+  "language": "意大利语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "tempoBpm": 60,
+  "complete": true,
+  "sourceGrade": "C",
+  "coverageNote": "完整声乐旋律（F 大调，4/4 Larghetto），依据 Parisotti 版标准声乐教学谱手工编码。",
+  "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+  "sources": [
+    {
+      "name": "手工编码 MusicXML",
+      "url": "https://imslp.org/wiki/Caro_mio_ben_(Giordani,_Giuseppe)",
+      "format": "MusicXML",
+      "role": "声乐旋律线",
+      "status": "依据 Parisotti 编辑的标准声乐教学版本编码",
+      "grade": "C",
+      "accessed": "2026-09-15"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Caro mio ben, credimi almen,",
+      "zh": "亲爱的，至少请相信我，"
+    },
+    {
+      "text": "senza di te languisce il cor.",
+      "zh": "没有你，我的心在枯萎。"
+    },
+    {
+      "text": "Il tuo fedel sospira ognor.",
+      "zh": "你的忠实爱人时刻叹息。"
+    },
+    {
+      "text": "Cessa, crudel, tanto rigor!",
+      "zh": "够了，残忍的人，别再这样冷酷！"
+    },
+    {
+      "text": "Caro mio ben, credimi almen,",
+      "zh": "亲爱的，至少请相信我，"
+    },
+    {
+      "text": "senza di te languisce il cor.",
+      "zh": "没有你，我的心在枯萎。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "双辅音与重音",
+      "items": [
+        "credimi 重音在第一音节 CRE-di-mi",
+        "languisce 重音在第二音节 lan-GUÌ-sce，sc 发 [ʃ]",
+        "sospira 重音在第二音节 so-SPÌ-ra"
+      ]
+    },
+    {
+      "title": "元音",
+      "items": [
+        "ben 的 e 是闭口 [e]，cor 的 o 是开口 [ɔ]",
+        "crudel 的 e 是开口 [ɛ]",
+        "rigor 的 o 是闭口 [o]"
+      ]
+    },
+    {
+      "title": "连读",
+      "items": [
+        "senza di te：三个词连成一个语流单元",
+        "credimi almen：i-a 连读但元音分明"
+      ]
+    }
+  ],
+  "story": {
+    "background": "这首小咏叹调长期归于托马索·焦尔达尼（Tommaso Giordani）名下，后来有学者认为作者可能是朱塞佩·焦尔达尼（Giuseppe Giordani）。无论如何，它经 Parisotti 编入《17 和 18 世纪意大利歌曲与咏叹调集》后，成为全世界声乐学生的入门必修曲目。旋律优美、音域适中、歌词简短，是意大利美声入门的理想选择。",
+    "situation": "歌者对恋人倾诉：你不在我身边，我的心在枯萎，我时刻为你叹息。请停止你的冷酷，至少相信我的真心。这不是愤怒的控诉，而是温柔的恳求。",
+    "relationships": "歌者与恋人之间有距离或隔阂——恋人似乎不信任歌者的感情。歌者用最简洁的方式反复表达：我是忠诚的，没有你我活不下去。",
+    "intent": "全曲保持温柔而恳切的语气。开头的长线条要柔和连贯，像在轻声说话。中段'Il tuo fedel sospira ognor'稍有推进。'Cessa, crudel'是情感最强的一句——不是喊叫，而是更深的恳求。结尾回到开头，音量逐渐减弱。",
+    "plain30": "一个人对恋人说：请相信我，没有你我的心在枯萎。你的忠实爱人时刻叹息。别再这样冷酷了。这是声乐学生的第一首意大利歌——温柔、简单、真诚。",
+    "arc": "F 大调，4/4 Larghetto。钢琴以简单的分解和弦开始，声乐在第 5 小节轻轻进入。旋律以级进为主，音域不超过一个八度半。中段有一次短暂的转调暗示，'Cessa, crudel'处旋律上行到最高点，然后回归主调结束。整体情绪：恳求—叹息—恳求。",
+    "motif": "核心动机是开头的下行级进'Ca-ro mio ben'——从主音下行到属音的叹息。这个形态在每次'Caro mio ben'回归时重现。中段'sospira ognor'的旋律也以同样的下行级进结束，呼应主题。'Cessa, crudel'处旋律上行打破了级进模式，形成全曲唯一的情感高潮。",
+    "motifPositions": [
+      {
+        "phrase": 1,
+        "note": "开头'Caro mio ben'下行级进——全曲的叹息动机"
+      },
+      {
+        "phrase": 3,
+        "note": "'Il tuo fedel sospira ognor'——叹息动机的回应"
+      },
+      {
+        "phrase": 4,
+        "note": "'Cessa, crudel, tanto rigor'——上行打破级进，情感高潮"
+      }
+    ],
+    "technique": "这是一首训练连音（legato）的基础曲目。每个乐句都要求饱满、均匀的气息支撑。不要在'ben''cor''ognor'等词尾切断——让元音自然延续到下一个音。'languisce'的 sc [ʃ] 发音要柔和。整首歌的音量不超过 mf，结尾回到 pp。",
+    "classroom": [
+      "先读中文，理解这是一首简单的爱情恳求——温柔而非激烈。",
+      "慢速朗读意大利语，标出重音：CAro, creDImi, lanGUIsce, soSPIra, cruDEL。",
+      "练习元音：a-o-i-e 四个元音要清晰饱满，不要含糊。",
+      "按节拍说词，用节拍器在 ♩=60 下朗读，感受 Larghetto 的从容。",
+      "听合成旋律参考，注意下行级进的连贯线条。",
+      "把歌词放回旋律，用一半速度唱。重点：每个音之间不要断开。",
+      "以正常速度完整演唱。想象自己在对一个不相信你的人轻声说话。"
+    ]
+  }
+}

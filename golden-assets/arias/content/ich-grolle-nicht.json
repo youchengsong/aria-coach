@@ -1,0 +1,130 @@
+{
+  "title": "Ich grolle nicht",
+  "titleZh": "我不怨恨",
+  "composer": "R. Schumann",
+  "opera": "Dichterliebe, Op. 48, No. 7（《诗人之恋》，1840；诗：H. Heine）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "genre": "艺术歌曲",
+  "tempoBpm": 108,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（C 大调，4/4 Nicht zu schnell，约 32 小节）。声乐线几乎全部在同一个音高区域反复——压抑的愤怒。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Ich grolle nicht, und wenn das Herz auch bricht,",
+      "zh": "我不怨恨，即使心已经碎了，"
+    },
+    {
+      "text": "ewig verlor'nes Lieb! Ich grolle nicht.",
+      "zh": "永远失去的爱人！我不怨恨。"
+    },
+    {
+      "text": "Wie du auch strahlst in Diamantenpracht,",
+      "zh": "尽管你在钻石的光芒中闪耀，"
+    },
+    {
+      "text": "es fällt kein Strahl in deines Herzens Nacht.",
+      "zh": "却没有一丝光落入你心灵的黑夜。"
+    },
+    {
+      "text": "Das weiß ich längst.",
+      "zh": "这我早就知道了。"
+    },
+    {
+      "text": "Ich grolle nicht, und wenn das Herz auch bricht.",
+      "zh": "我不怨恨，即使心已经碎了。"
+    },
+    {
+      "text": "Ich sah dich ja im Traume,",
+      "zh": "我在梦中见到了你，"
+    },
+    {
+      "text": "und sah die Nacht in deines Herzens Raume,",
+      "zh": "看到了你心灵空间里的黑暗，"
+    },
+    {
+      "text": "und sah die Schlang', die dir am Herzen frisst,",
+      "zh": "看到了噬食你心灵的蛇，"
+    },
+    {
+      "text": "ich sah, mein Lieb, wie sehr du elend bist.",
+      "zh": "我看到了，我的爱人，你有多么不幸。"
+    },
+    {
+      "text": "Ich grolle nicht, ich grolle nicht.",
+      "zh": "我不怨恨，我不怨恨。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音与重音",
+      "items": [
+        "grolle 的 o 是短 [ɔ]，'不怨恨'的 g 要用力——这个词是反话",
+        "Herz 的 e 短促 [ɛ]，bricht 的 i 短 [ɪ]",
+        "Diamantenpracht 的 a 是开口长 [aː]，pracht 的 a 也是长音",
+        "Schlang' 的 a 是长 [aː]，'蛇'这个意象要咬字清晰"
+      ]
+    },
+    {
+      "title": "反讽与音色",
+      "items": [
+        "'Ich grolle nicht' 反复出现——但他显然在怨恨。音色要控制：表面平静，内在翻涌",
+        "每次重复'Ich grolle nicht'都应该有不同的色彩——否认、压抑、爆发、最终的冷漠",
+        "钢琴的和弦像拳头一样沉重——歌手的声音也应该有这种分量"
+      ]
+    }
+  ],
+  "story": {
+    "background": "《诗人之恋》是舒曼 1840 年根据海涅的 16 首诗创作的声乐套曲，讲述一位诗人从坠入爱河到被抛弃的全过程。第 7 首《我不怨恨》是套曲中最有名的一首——海涅式的反讽在此达到顶峰：说'不怨恨'的人显然比任何人都怨恨。",
+    "situation": "诗人被爱人抛弃了。他说'我不怨恨'，但接下来描述的一切都证明他在怨恨——他看到她华丽的外表下心灵的黑暗，看到噬食她内心的蛇。最后一句'我不怨恨'已经变成了冰冷的宣判。",
+    "relationships": "诗人与前恋人之间——他已被抛弃，她过着华丽的新生活。诗人的态度表面上是宽容的（'我不怨恨'），实际上充满了愤怒和对她的诅咒式洞察（'你心里有蛇'）。",
+    "intent": "开头的'Ich grolle nicht'要唱得克制但沉重——像在试图说服自己。'Wie du auch strahlst in Diamantenpracht'要有嘲讽的锋利。'die Schlang', die dir am Herzen frisst'是残忍的真相——音色要冷。最后的'ich grolle nicht'几乎是耳语——否认已经变成了比任何呐喊都更可怕的冷漠。",
+    "plain30": "一个被抛弃的男人反复说'我不怨恨'，但他描述的每一个细节都在证明他有多怨恨。他看到了她光鲜外表下的空虚，看到了噬食她内心的蛇。最后那句'我不怨恨'已经变成了诅咒。",
+    "arc": "C 大调，4/4，不太快。声乐旋律大部分在 E4–G4 之间的狭窄音域反复——像被困在一个情绪里出不来。钢琴以沉重的和弦进行支撑。'die Schlang'' 处声乐终于上行到高音区——积压的愤怒爆发。最后两句'ich grolle nicht'回到低音区，渐弱结束——否认与冷漠。",
+    "motif": "否认动机：'Ich grolle nicht' 的反复——音高几乎不变，像一块石头压在胸口。钢琴的沉重和弦动机：八分音符的柱式和弦贯穿全曲——像心跳，也像锤击。对比动机：'die Schlang'' 处突然的高音爆发——唯一一次情感的泄漏。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "'Ich grolle nicht' 首次出现——表面平静，声音应该沉稳"
+      },
+      {
+        "phrase": "3",
+        "note": "'Diamantenpracht' 讽刺的华丽——你外表闪亮，心里是黑的"
+      },
+      {
+        "phrase": "9",
+        "note": "'die Schlang'' 爆发——全曲的情感顶点，压抑的愤怒终于泄露"
+      },
+      {
+        "phrase": "11",
+        "note": "最后的 'ich grolle nicht' 耳语——比呐喊更可怕的冷漠"
+      }
+    ],
+    "technique": "这首歌的难度在于情感控制而非技巧。声乐线条大部分在中音区的狭窄范围内——需要极好的音色控制力来表达反讽。钢琴的重和弦要求歌手有足够的声量穿透。'die Schlang'' 处的高音爆发需要事先准备好气息。最后的渐弱要控制到极致——声音几乎消失但不能断。",
+    "classroom": [
+      "先读中文——理解海涅的反讽：说'不怨恨'的人最怨恨。",
+      "大声朗读德语'Ich grolle nicht'——试试不同的语气：平静、压抑、爆发、冷漠。",
+      "这首歌的音域不宽——难点在于在有限的音域内表达丰富的情感变化。",
+      "先不带情感地学会旋律——注意声乐线大部分都在几个音之间反复。",
+      "再加入情感层次——每次'Ich grolle nicht'都不一样。",
+      "特别练习'die Schlang'' 的高音——这是唯一的情感爆发点。",
+      "完整演唱。问自己：如果你被一个深爱的人抛弃了，你会怎么说'我不怨恨'？"
+    ]
+  },
+  "role": "抒情主人公（被拒的恋人）"
+}

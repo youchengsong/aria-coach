@@ -1,0 +1,134 @@
+{
+  "title": "Der Doppelgänger",
+  "titleZh": "幽灵替身",
+  "composer": "F. Schubert",
+  "opera": "Schwanengesang D.957 No.13（天鹅之歌第13首，1828；诗：H. Heine）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男中音",
+  "difficulty": "高阶",
+  "genre": "艺术歌曲",
+  "tempoBpm": 58,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（b小调，3/4，极慢，约64小节）。舒伯特最阴暗的歌曲之一——诗人在月夜看见自己的替身。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Still ist die Nacht, es ruhen die Gassen,",
+      "zh": "夜很寂静，街道在沉睡，"
+    },
+    {
+      "text": "in diesem Hause wohnte mein Schatz;",
+      "zh": "我的爱人曾住在这幢房子里；"
+    },
+    {
+      "text": "sie hat schon längst die Stadt verlassen,",
+      "zh": "她早已离开了这座城市，"
+    },
+    {
+      "text": "doch steht noch das Haus auf demselben Platz.",
+      "zh": "但房子还站在老地方。"
+    },
+    {
+      "text": "Da steht auch ein Mensch und starrt in die Höhe,",
+      "zh": "那里还站着一个人，仰望着高处，"
+    },
+    {
+      "text": "und ringt die Hände vor Schmerzensgewalt;",
+      "zh": "因痛苦而绞着双手；"
+    },
+    {
+      "text": "mir graust es, wenn ich sein Antlitz sehe —",
+      "zh": "当我看到他的面容时——我不寒而栗——"
+    },
+    {
+      "text": "der Mond zeigt mir meine eig'ne Gestalt.",
+      "zh": "月光让我看到那是我自己的身影。"
+    },
+    {
+      "text": "Du Doppelgänger, du bleicher Geselle!",
+      "zh": "你这替身，你这苍白的同伴！"
+    },
+    {
+      "text": "Was äffst du nach mein Liebesleid,",
+      "zh": "你为什么要模仿我爱情的痛苦，"
+    },
+    {
+      "text": "das mich gequält auf dieser Stelle",
+      "zh": "那痛苦曾在这个地方"
+    },
+    {
+      "text": "so manche Nacht in alter Zeit?",
+      "zh": "折磨了我那么多个夜晚？"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "注意长短元音的区别",
+        "ö 和 ü 需要圆唇",
+        "ei 读 [aɪ]，ie 读 [iː]",
+        "ch 在 i/e 后读软 [ç]，在 a/o/u 后读硬 [x]"
+      ]
+    },
+    {
+      "title": "歌唱风格",
+      "items": [
+        "注意德语歌曲中词与音的密切关系",
+        "每个词的语气要和旋律的走向一致",
+        "德语辅音要清晰但不过重"
+      ]
+    }
+  ],
+  "story": {
+    "background": "海涅的诗写的是一个人深夜回到前恋人的房子前——她已经不在了。他看到一个人站在那里绞着手痛苦——月光照亮了那个人的脸：那是他自己。这个'Doppelgänger'（替身/幽灵）是他过去的痛苦的化身。舒伯特用固定和弦（同一个和弦反复出现）创造了一种不祥的、近乎催眠的氛围。",
+    "situation": "深夜的街道。诗人站在前恋人的房子前——她早已离开。他看到另一个人也站在那里，望着窗户绞着手。月光照亮了那个人的脸——是他自己。他在对自己的替身说话：你为什么要模仿我的痛苦？",
+    "relationships": "诗人与他自己的分身——海涅描写了一个恐怖的场景：深夜，诗人站在曾经恋人的旧居前，看到一个影子也站在那里，扭绞着双手。月光照亮了那张脸——那是他自己的脸。这不是鬼故事，而是诗人对自我的凝视：过去的痛苦如此深刻，以至于他的悲伤凝结成了一个可见的幽灵。",
+    "intent": "以近乎耳语的恐惧开始——'Still ist die Nacht'只有钢琴的四个低音和弦，像心跳，像脚步。声乐线几乎是朗诵，没有旋律的温暖。当诗人认出那个影子是自己（'du Doppelgänger, du bleicher Geselle!'），音乐从pp爆发到fff——这是全曲的灵魂，一声对着自己的灵魂的尖叫。最后'so manche Nacht, in alter Zeit'回到耳语，但更空洞——他已经不是在向影子说话，而是向虚空。",
+    "plain30": "深夜，我回到她曾经住过的房子前。一个人站在那里痛苦地绞着手——月光照亮了他的脸：那是我自己。你为什么要模仿我的痛苦？",
+    "arc": "b小调，非常缓慢（Sehr langsam），近乎宣叙调。钢琴的低音固定音型（B-A#-B-D）像一个执念的循环——从头到尾只有这四个和弦，翻来覆去，像困在噩梦里。声乐线从低沉的叙述缓缓上行，到'du Doppelgänger'时达到G5的尖叫，然后跌落。终曲在钢琴的低沉和弦上慢慢消失——影子是否还站在那里？没有答案。",
+    "motif": "固定和弦动机：钢琴反复弹奏同一个暗淡的和弦（b小调），像催眠、像鬼魂的脚步。声乐从低沉的吟诵逐渐上升，在'Du Doppelgänger!'处爆发到最高音——恐惧与愤怒的顶点。然后又回到虚无。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "开头「Still ist die Nacht」——钢琴的 b 小调持续低音 ostinato（B–A♯–B–D）贯穿全曲，声乐几乎贴着说话音高进入"
+      },
+      {
+        "phrase": "8",
+        "note": "「und ringt die Hände vor Schmerzensgewalt」——旋律在 Schmerzensgewalt 上突然扩张到高音区，是幽灵扭绞双手的画面"
+      },
+      {
+        "phrase": "11",
+        "note": "「der Mond zeigt mir meine eig'ne Gestalt」——eig'ne Gestalt 上的半音下行是恐怖认出的瞬间"
+      },
+      {
+        "phrase": "12",
+        "note": "「Du Doppelgänger, du bleicher Geselle!」——爆发式的高音呼喊，和声在减七和弦上撕开"
+      }
+    ],
+    "technique": "极端的动态控制是这首歌的核心挑战——从pp到fff再回到pp，范围之大在舒伯特歌曲中首屈一指。在静态和声（始终围绕同一组和弦）上保持精准音高极其困难，因为没有和声进行提供方向感。声乐的质感应该接近'说唱'（Sprechgesang），而非美声——舒伯特在这里要求的是真实感而非美丽。'du Doppelgänger!'的高音必须是撕裂的喊叫，不是优雅的高音。",
+    "classroom": [
+      "先读中文翻译，理解歌曲的核心情感。",
+      "慢速朗读德语原文，注意元音和辅音的准确发音。",
+      "分离元音和辅音，按音节练习。",
+      "用节拍器按标注速度朗读歌词。",
+      "听合成旋律参考，注意旋律走向。",
+      "配上歌词，先用一半速度练唱。",
+      "以正常速度完整演唱。"
+    ]
+  },
+  "role": "抒情主人公（与自己的幽灵相遇者）"
+}

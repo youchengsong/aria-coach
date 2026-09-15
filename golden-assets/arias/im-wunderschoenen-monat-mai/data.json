@@ -1,0 +1,1046 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "im-wunderschoenen-monat-mai",
+ "title": "Im wunderschönen Monat Mai",
+ "titleZh": "在美丽的五月",
+ "composer": "R. Schumann",
+ "opera": "Dichterliebe Op.48 No.1（诗人之恋第1首，1840；诗：H. Heine）",
+ "language": "德语",
+ "voice": "男高音",
+ "difficulty": "基础",
+ "tempoBpm": 66,
+ "timeSignature": "2/4",
+ "coverage": {
+  "measures": [
+   1,
+   27
+  ],
+  "firstSungMeasure": 5,
+  "complete": true,
+  "note": "完整声乐旋律（升F小调—A大调，2/4，不太快，约26小节）。舒曼《诗人之恋》开篇，以不解决的和声结尾暗示爱情的悬念。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "F#4",
+  "high": "G5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主人公（初恋者）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Im wunderschönen Monat Mai,",
+   "zh": "在美丽的五月，"
+  },
+  {
+   "text": "als alle Knospen sprangen,",
+   "zh": "当所有花蕾绽放，"
+  },
+  {
+   "text": "da ist in meinem Herzen",
+   "zh": "在我的心中"
+  },
+  {
+   "text": "die Liebe aufgegangen.",
+   "zh": "爱情苏醒了。"
+  },
+  {
+   "text": "Im wunderschönen Monat Mai,",
+   "zh": "在美丽的五月，"
+  },
+  {
+   "text": "als alle Vögel sangen,",
+   "zh": "当所有鸟儿歌唱，"
+  },
+  {
+   "text": "da hab' ich ihr gestanden",
+   "zh": "我向她倾诉了"
+  },
+  {
+   "text": "mein Sehnen und Verlangen.",
+   "zh": "我的渴望与思念。"
+  }
+ ],
+ "story": {
+  "background": "《诗人之恋》是舒曼在1840年'歌曲之年'创作的套曲，取海涅诗集。这首开篇曲以钢琴的琶音构建春天的画面，声乐线条优美而克制。全曲在升F小调和A大调间游移，最终结束在不解决的属七和弦上——爱情刚刚萌芽，一切还悬而未决。",
+  "situation": "诗人回忆五月的那一天。花蕾绽放、鸟儿歌唱——大自然的苏醒唤起了心中的爱情。第一段说爱情在心中苏醒；第二段说他终于向她倾诉了渴望。但和声的不解决暗示：这份爱的结局未知。",
+  "relationships": "诗人与'她'——这是一段刚刚开始的、充满期待但尚未确定的爱。海涅的诗带有微妙的反讽：表面是甜蜜的春天，底下是不安。",
+  "intent": "用梦幻般的轻声开始。'Im wunderschönen Monat Mai' 像是从远处传来的回忆。两段歌词用相同的旋律，但第二段'gestanden mein Sehnen'处可以稍微推动一点情感。结尾保持'悬浮'——不要唱得太满。",
+  "plain30": "五月的一天，花开鸟鸣，诗人的心中爱情苏醒了。他向她倾诉了渴望——但歌曲没有结束在主音上，像一个悬而未决的问号。",
+  "arc": "升F小调/A大调，2/4。钢琴的琶音前奏建立梦幻基调。声乐线条在中音区平稳展开，'aufgegangen'处轻轻上行到高点。第二段旋律相同但歌词转向倾诉。结尾停在属和弦——整首曲子像一个未完成的叹息。",
+  "motif": "琶音上行动机：钢琴的分解和弦像春风吹过。声乐的'Im wunderschönen'用级进和小跳构建温柔的叙述。'aufgegangen'（苏醒）处的上行是情感的核心——爱情在心中像花蕾一样绽放。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "'Im wunderschönen Monat Mai' 梦幻的开场，级进上行"
+   },
+   {
+    "phrase": "4",
+    "note": "'die Liebe aufgegangen' 爱情苏醒——轻柔的高点"
+   },
+   {
+    "phrase": "5",
+    "note": "'mein Sehnen und Verlangen' 结尾悬浮在属和弦上"
+   }
+  ],
+  "technique": "全曲在 piano 到 mezzo-piano 之间。呼吸要深但轻——不要让气息的声音打破梦幻氛围。'wunderschönen' 的 ö 需要保持圆唇不松。最后一个音不要加重——让它自然消失在钢琴的余韵中。",
+  "classroom": [
+   "先读中文：这是一首关于春天里爱情苏醒的歌——甜蜜但悬而未决。",
+   "朗读德语：注意 'wunderschönen' 的圆唇元音和 'Verlangen' 的长 a。",
+   "听钢琴前奏——它建立了整首歌的'飘浮'氛围，你的声音要融入其中。",
+   "轻声练唱旋律。这首歌不需要大声——像在回忆一个美好的瞬间。",
+   "两段歌词配同一旋律：第一段讲心中的苏醒，第二段讲口中的倾诉。",
+   "注意结尾——没有解决感。保持期待的语气，像话说到一半。",
+   "完整演唱。想象自己在窗边回忆那个五月的午后。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "wunderschönen 的 ö 是圆唇前元音 [øː]，像说'饿'时嘴唇圆起",
+    "Mai 读 [maɪ]，类似英语 'my'",
+    "Knospen 的 o 短促 [ɔ]",
+    "Sehnen 的 eh 是长 [eː]，Verlangen 的 a 是长 [aː]"
+   ]
+  },
+  {
+   "title": "歌唱风格",
+   "items": [
+    "这是一首梦幻般的开场白——声音要柔和、飘浮",
+    "钢琴前奏建立了'悬浮'的氛围，声乐进入时不要打破它",
+    "结尾没有解决（停在属和弦上）——声音要保持'未完成'的期待感"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    5,
+    7
+   ],
+   "lyrics": "Im wunderschönen Monat Mai,",
+   "translation": "在美丽的五月，",
+   "events": [
+    {
+     "id": "im-wunderschoenen-monat-mai-e0007",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0008",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 2.75,
+     "lyric": "Im",
+     "syllabic": "single"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0009",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "wun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0010",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.75,
+     "lyric": "der",
+     "syllabic": "middle"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0011",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "schö",
+     "syllabic": "middle"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0012",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 2.25,
+     "lyric": "nen",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0013",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 2.5,
+     "lyric": "Mo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0014",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 2.75,
+     "lyric": "nat",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0015",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "Mai,",
+     "syllabic": "single"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0016",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0017",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    7,
+    9
+   ],
+   "lyrics": "als alle Knospen sprangen,",
+   "translation": "当所有花蕾绽放，",
+   "events": [
+    {
+     "id": "im-wunderschoenen-monat-mai-e0018",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 2.75,
+     "lyric": "als",
+     "syllabic": "single"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0019",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0020",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.75,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0021",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "Knos",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0022",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0023",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0024",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.75,
+     "lyric": "pen",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0025",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "spran",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0026",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "gen,",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0027",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0028",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    9,
+    16
+   ],
+   "lyrics": "da ist in meinem Herzen die Liebe aufgegangen.",
+   "translation": "在我的心中",
+   "events": [
+    {
+     "id": "im-wunderschoenen-monat-mai-e0029",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.75,
+     "lyric": "da",
+     "syllabic": "single"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0030",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0031",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.75,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0032",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0033",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.75,
+     "lyric": "nem",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0034",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "Her",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0035",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.5,
+     "lyric": "zen",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0036",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0037",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0038",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 2.75,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0039",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "Lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0040",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.75,
+     "lyric": "be",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0041",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "auf",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0042",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.75,
+     "lyric": "ge",
+     "syllabic": "middle"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0043",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "gan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0044",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "gen.",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0045",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0046",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0047",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0048",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0049",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0050",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    16,
+    18
+   ],
+   "lyrics": "Im wunderschönen Monat Mai,",
+   "translation": "在美丽的五月，",
+   "events": [
+    {
+     "id": "im-wunderschoenen-monat-mai-e0051",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 2.75,
+     "lyric": "Im",
+     "syllabic": "single"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0052",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "wun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0053",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.75,
+     "lyric": "der",
+     "syllabic": "middle"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0054",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "schö",
+     "syllabic": "middle"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0055",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.25,
+     "lyric": "nen",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0056",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "Mo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0057",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.75,
+     "lyric": "nat",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0058",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "Mai,",
+     "syllabic": "single"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0059",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0060",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    18,
+    27
+   ],
+   "lyrics": "als alle Vögel sangen da hab' ich ihr gestanden mein Sehnen und Verlangen.",
+   "translation": "我向她倾诉了",
+   "events": [
+    {
+     "id": "im-wunderschoenen-monat-mai-e0061",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.75,
+     "lyric": "als",
+     "syllabic": "single"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0062",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0063",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 1.75,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0064",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "Vö",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0065",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0066",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0067",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.75,
+     "lyric": "gel",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0068",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "san",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0069",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.5,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0070",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0071",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0072",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2.75,
+     "lyric": "da",
+     "syllabic": "single"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0073",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "hab'",
+     "syllabic": "single"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0074",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 1.75,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0075",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "ihr",
+     "syllabic": "single"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0076",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 2.75,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0077",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "stan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0078",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.5,
+     "lyric": "den",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0079",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0080",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0081",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 2.75,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0082",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "Seh",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0083",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.75,
+     "lyric": "nen",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0084",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0085",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 2.75,
+     "lyric": "Ver",
+     "syllabic": "begin"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0086",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "lan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0087",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 1.5,
+     "lyric": "gen.",
+     "syllabic": "end"
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0088",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0089",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0090",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "im-wunderschoenen-monat-mai-e0091",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 85,
+ "restCount": 23,
+ "lyricNoteCount": 58,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 5,
+  "slowScale": 1.45
+ }
+}

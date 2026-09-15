@@ -1,0 +1,6033 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "non-piu-andrai",
+ "title": "Non più andrai",
+ "titleZh": "你再不能去飞了",
+ "composer": "W. A. Mozart",
+ "opera": "Le nozze di Figaro（《费加罗的婚礼》，K. 492，1786）",
+ "language": "意大利语",
+ "voice": "男中音",
+ "difficulty": "中级",
+ "tempoBpm": 108,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   103
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "完整咏叹调（Vivace，4/4，101 小节）的声乐旋律与逐音节歌词。来源为俄语资料库中的结构化 MusicXML；已核对为 441 个歌词音节与标准歌词一致。"
+ },
+ "range": {
+  "low": "C3",
+  "high": "E4"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "费加罗（Figaro）：伯爵的男仆",
+ "genre": "歌剧咏叹调",
+ "sourceStatus": "MusicXML 原谱 · 已核验",
+ "sources": [
+  {
+   "name": "Нотный архив Бориса Тараканова · Ария Фигаро",
+   "url": "https://notes.tarakanov.net/katalog/kompozitsii/ariya-figaro/",
+   "format": "MusicXML（声乐与钢琴）",
+   "status": "已解析；音节数与标准歌词逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "IMSLP · Le nozze di Figaro, K. 492",
+   "url": "https://imslp.org/wiki/Le_nozze_di_Figaro,_K.492_(Mozart,_Wolfgang_Amadeus)",
+   "format": "PDF 总谱/声乐谱",
+   "status": "用于核对调性、拍号与歌词",
+   "role": "参照原谱",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "Wikipedia · Non più andrai",
+   "url": "https://en.wikipedia.org/wiki/Non_pi%C3%B9_andrai",
+   "format": "网页",
+   "status": "背景与歌词校对",
+   "role": "剧情与文本",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Non più andrai, farfallone amoroso,",
+   "zh": "你再不能去飞了，多情的大蝴蝶，"
+  },
+  {
+   "text": "notte e giorno d’intorno girando,",
+   "zh": "再不能日夜到处转来转去，"
+  },
+  {
+   "text": "delle belle turbando il riposo,",
+   "zh": "搅乱美人们的安宁，"
+  },
+  {
+   "text": "Narcisetto, Adoncino d’amor.",
+   "zh": "小纳西索斯、小阿多尼斯。"
+  },
+  {
+   "text": "Non più avrai questi bei pennacchini,",
+   "zh": "你再没有这漂亮的羽饰，"
+  },
+  {
+   "text": "quel cappello leggero e galante,",
+   "zh": "那顶轻巧而风流的帽子，"
+  },
+  {
+   "text": "quella chioma, quell’aria brillante,",
+   "zh": "那头长发、那副神采，"
+  },
+  {
+   "text": "quel vermiglio donnesco color.",
+   "zh": "那女人般红润的脸色。"
+  },
+  {
+   "text": "Tra guerrieri, poffar Bacco!",
+   "zh": "到了士兵中间，我的天！"
+  },
+  {
+   "text": "Gran mustacchi, stretto sacco,",
+   "zh": "大胡子、紧军装，"
+  },
+  {
+   "text": "schioppo in spalla, sciabla al fianco,",
+   "zh": "枪在肩上、刀在腰间，"
+  },
+  {
+   "text": "collo dritto, muso franco,",
+   "zh": "脖子挺直、板着脸，"
+  },
+  {
+   "text": "un gran casco, o un gran turbante,",
+   "zh": "戴大头盔或大头巾，"
+  },
+  {
+   "text": "molto onor, poco contante,",
+   "zh": "荣誉很多、钞票很少，"
+  },
+  {
+   "text": "ed invece del fandango una marcia per il fango,",
+   "zh": "跳的不是凡丹戈舞，而是踩着泥泞行军，"
+  },
+  {
+   "text": "per montagne, per valloni, colle nevi e i sollioni,",
+   "zh": "翻山越谷，顶着大雪和烈日，"
+  },
+  {
+   "text": "al concerto di tromboni, di bombarde, di cannoni,",
+   "zh": "伴着长号、火炮和大炮的合奏，"
+  },
+  {
+   "text": "che le palle in tutti i tuoni all’orecchio fan fischiar.",
+   "zh": "子弹在耳边用各种调门呼啸。"
+  },
+  {
+   "text": "Cherubino, alla vittoria, alla gloria militar!",
+   "zh": "凯鲁比诺，去争胜利，去争军人的荣光吧！"
+  }
+ ],
+ "story": {
+  "background": "《费加罗的婚礼》由莫扎特作曲、达·蓬特据博马舍喜剧改编，1786 年在维也纳城堡剧院首演。这段咏叹调是第一幕的终曲：伯爵刚把少年侍从凯鲁比诺打发去参军，费加罗趁机以一支进行曲 “送行”。莫扎特后来在《唐·乔万尼》第二幕的晚宴中自引了这段旋律，作为乐队演奏的 “流行曲”。",
+  "situation": "费加罗看着年轻、爱情泛滥、刚被赶走的凯鲁比诺，半是同情、半是嘲弄。他想让这个少年明白：花花公子的日子结束了，前面是泥泞、火炮和纪律。他并不真正害怕什么，只是借机在伯爵面前显示自己的机智。",
+  "relationships": "费加罗是伯爵的贴身男仆，即将与苏珊娜成婚；凯鲁比诺是迷恋伯爵夫人、也调戏苏珊娜的少年侍从；伯爵刚以军职为名把他支开。这段独唱结束第一幕，把喜剧的节奏推向高潮，也让费加罗的领袖气质第一次完整亮相。",
+  "intent": "开口要像讲话，带着揶揄的笑：短促、清晰的咬字比大音量重要。中段列举军旅生活时越来越快、越来越夸张，像连珠炮。结尾 “alla gloria militar” 转为真正的进行曲式号角，声音放宽、放亮，把嘲讽变成了带点温情的鼓励。",
+  "plain30": "费加罗对刚被派去当兵的小少年说：以后没有羽毛帽子和女孩子了，只有泥巴、大胡子和炮声——凯鲁比诺，去当英雄吧！嘴上在笑，心里其实有点心疼。",
+  "arc": "C 大调，4/4 Vivace，进行曲体。旋律以号角式的四、五度跳进和重复音为主，节奏方正。结构为回旋式：主题 “Non più andrai” 反复出现，中间插入列举军旅细节的插段，节奏越来越密；尾声 “Cherubino, alla vittoria” 加入军号式的三连音与齐奏。情绪从戏谑到夸张再到豪迈。",
+  "motif": "核心动机是号角式跳进：“Non più an-drai” 从主音跳到三音再落回，像军号信号。它在每次主题返回时都以同样形式出现，尾声 “alla gloria militar” 把跳进放大为整个乐队的号角。演唱时把跳进的两个音都唱得干净、有弹性，用说话般的咬字推动喜剧节奏。",
+  "classroom": [
+   "先读中文译文，找出所有 “嘲笑” 与 “鼓励” 的句子。",
+   "慢速读原文，标出双辅音（farfallone, cappello, mustacchi）并延长它们。",
+   "分离元音和辅音：练 “schioppo in spalla, sciabla al fianco” 的连读与爆破音。",
+   "按 4/4 进行曲节拍说词，一、三拍重，像踏步。",
+   "听单音旋律，注意每次主题返回时的号角跳进。",
+   "把歌词放回旋律，逐句加速练插段。",
+   "用正常速度完整演唱，结尾 “alla gloria militar” 放宽音色。"
+  ],
+  "technique": "呼吸：句子短、语速快，在逗号处快速换气，避免大口吸气打断节奏。咬字：这是全曲的核心——双辅音（farfallone、cappello、mustacchi、schioppo）要“停一下再爆”，元音短；快速插段先按说话速度练清晰再加速。换声区：男中音在 D4–E4（“Cherubino alla vittoria”）处经过换声区，用说话式的开放音色即可。高音：最高音 E4 出现在结尾 “gloria militar”，是号角式的宣告，靠支撑放亮，不要往后撤。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Non più andrai” 号角式跳进首次出现。"
+   },
+   {
+    "phrase": 7,
+    "note": "第 7 句 “Non più avrai questi bei pennacchini” 动机变为列举式的重复音，节奏更密。"
+   },
+   {
+    "phrase": 21,
+    "note": "第 21 句起 “Tra guerrieri, poffar Bacco” 插段：跳进换成短促的同音反复，模拟军鼓。"
+   },
+   {
+    "phrase": 49,
+    "note": "最后几句 “Cherubino, alla vittoria” 把跳进放大为进行曲号角，全曲最亮处。"
+   }
+  ]
+ },
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "an-DRÀI、far-fal-LÓ-ne（ll）、gi-RÀN-do、tur-BÀN-do、ri-PÒ-so、Nar-ci-SÉT-to（tt）、pen-nac-CHÌ-ni（nn、cc）、cap-PÈL-lo（pp、ll）、mu-STÀC-chi（cc）、SCHIÒP-po（pp）、SCIÀ-bla、tur-BÀN-te、fan-DÀN-go、mon-TÀ-gne（gn）、trom-BÓ-ni、can-NÓ-ni（nn）、vit-TÒ-ria（tt）、mi-li-TÀR。",
+    "本曲双辅音极多，是咬字练习的核心：每个双辅音都要有短暂的停顿。"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "belle、bello 的 e 开口 [ɛ]；riposo、amoroso 的 o 闭口 [o]；onor、color、amor 的 o 开口 [ɔ]。",
+    "“Bacco”“casco” 的 a 亮而开。"
+   ]
+  },
+  {
+   "title": "r、连读与省略",
+   "items": [
+    "r 弹舌，快速插段里也不能省：guerrieri（rr 双 r）、Narcisetto、turbante。",
+    "“più‿andrai”“notte‿e giorno”“turbando‿il”“schioppo‿in spalla”“sciabla‿al fianco”“molto‿onor”“Cherubino‿alla” 都在同一音上连读；“d’intorno”“d’amor”“quell’aria”“all’orecchio” 省音。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    1,
+    3
+   ],
+   "lyrics": "Non Più andrai, farfallone amoroso,",
+   "translation": "你再不能去飞了，多情的大蝴蝶，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0002",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 1,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0003",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 1,
+     "beat": 4.0,
+     "lyric": "Non",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0004",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 1,
+     "beat": 4.75,
+     "lyric": "Più an",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0005",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "drai,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0006",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 2,
+     "beat": 2.0,
+     "lyric": "far",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0007",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 2.75,
+     "lyric": "fal",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0008",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 3.0,
+     "lyric": "lo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0009",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 2,
+     "beat": 4.0,
+     "lyric": "ne a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0010",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 4.75,
+     "lyric": "mo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0011",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "ro",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0012",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "so,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0013",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    3,
+    5
+   ],
+   "lyrics": "notte e giorno d'intorno girando,",
+   "translation": "再不能日夜到处转来转去，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0014",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 3,
+     "beat": 4.0,
+     "lyric": "not",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0015",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 4.75,
+     "lyric": "te e",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0016",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "gior",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0017",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 4,
+     "beat": 2.0,
+     "lyric": "no",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0018",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.75,
+     "lyric": "d'in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0019",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "tor",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0020",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 4,
+     "beat": 4.0,
+     "lyric": "no",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0021",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4.75,
+     "lyric": "gi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0022",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "ran",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0023",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "do,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0024",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    5,
+    7
+   ],
+   "lyrics": "delle belle turbando il riposo,",
+   "translation": "搅乱美人们的安宁，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0025",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 5,
+     "beat": 4.0,
+     "lyric": "del",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0026",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 4.75,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0027",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0028",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0029",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 2.75,
+     "lyric": "tur",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0030",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 3.0,
+     "lyric": "ban",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0031",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 4.0,
+     "lyric": "do il",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0032",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 4.75,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0033",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "po",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0034",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "so,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    7,
+    9
+   ],
+   "lyrics": "Narcisetto, Adoncino d'amor,",
+   "translation": "小纳西索斯、小阿多尼斯。",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0035",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 7,
+     "beat": 4.0,
+     "lyric": "Nar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0036",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 4.75,
+     "lyric": "ci",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0037",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "set",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0038",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "to, A",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0039",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.75,
+     "lyric": "don",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0040",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "ci",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0041",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 8,
+     "beat": 4.0,
+     "lyric": "no",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0042",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 4.75,
+     "lyric": "d'a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0043",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "mor,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0044",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0045",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    9,
+    11
+   ],
+   "lyrics": "delle belle turbando il riposo,",
+   "translation": "搅乱美人们的安宁，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0046",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 4.0,
+     "lyric": "del",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0047",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 4.75,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0048",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0049",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0050",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.75,
+     "lyric": "tur",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0051",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "ban",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0052",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 4.0,
+     "lyric": "do il",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0053",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 4.75,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0054",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "po",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0055",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "so,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    11,
+    15
+   ],
+   "lyrics": "Narcisetto, Adoncino d'amor.",
+   "translation": "小纳西索斯、小阿多尼斯。",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0056",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 4.0,
+     "lyric": "Nar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0057",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 4.75,
+     "lyric": "ci",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0058",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "set",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0059",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "to, A",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0060",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.75,
+     "lyric": "don",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0061",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "ci",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0062",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 4.0,
+     "lyric": "no",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0063",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 4.75,
+     "lyric": "d'a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0064",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "mor.",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0065",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0066",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0067",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0068",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    15,
+    18
+   ],
+   "lyrics": "Non più avrai questi bei pennacchini,",
+   "translation": "你再没有这漂亮的羽饰，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0069",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "Non",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0070",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 4.0,
+     "lyric": "più a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0071",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "vrai",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0072",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "que",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0073",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "sti",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0074",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "bei",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0075",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 4.0,
+     "lyric": "pen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0076",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 4.5,
+     "lyric": "nac",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0077",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "chi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0078",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "ni,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0079",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0080",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    18,
+    20
+   ],
+   "lyrics": "quel cappello leggero, galante,",
+   "translation": "那顶轻巧而风流的帽子，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0081",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "quel",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0082",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 4.0,
+     "lyric": "cap",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0083",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "pel",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0084",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "lo",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0085",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "leg",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0086",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "ge",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0087",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 4.0,
+     "lyric": "ro,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0088",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 4.5,
+     "lyric": "ga",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0089",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "lan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0090",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "te,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0091",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    20,
+    22
+   ],
+   "lyrics": "quella chioma, quell'aria brillante,",
+   "translation": "那头长发、那副神采，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0092",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 4.0,
+     "lyric": "quel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0093",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 4.5,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0094",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "chio",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0095",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "ma,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0096",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.5,
+     "lyric": "quel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0097",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 3.0,
+     "lyric": "l'a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0098",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 4.0,
+     "lyric": "ria",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0099",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 4.5,
+     "lyric": "bril",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0100",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "lan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0101",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "te,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0102",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    22,
+    24
+   ],
+   "lyrics": "quel vermiglio donnesco color,",
+   "translation": "那女人般红润的脸色。",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0103",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 4.0,
+     "lyric": "quel",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0104",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 4.5,
+     "lyric": "ver",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0105",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "mi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0106",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "glio",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0107",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.5,
+     "lyric": "don",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0108",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 3.0,
+     "lyric": "ne",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0109",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 4.0,
+     "lyric": "sco",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0110",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 4.5,
+     "lyric": "co",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0111",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "lor,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0112",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    24,
+    26
+   ],
+   "lyrics": "quel vermiglio donnesco color.",
+   "translation": "那女人般红润的脸色。",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0113",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 24,
+     "beat": 3.0,
+     "lyric": "quel",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0114",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 4.5,
+     "lyric": "ver",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0115",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "mi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0116",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "glio",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0117",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.5,
+     "lyric": "don",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0118",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "ne",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0119",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 4.0,
+     "lyric": "sco",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0120",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 4.5,
+     "lyric": "co",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0121",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "lor.",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0122",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0123",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    26,
+    28
+   ],
+   "lyrics": "Non più a vrai quei pennacchini,",
+   "translation": "那女人般红润的脸色。",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0124",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 4.0,
+     "lyric": "Non",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0125",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 4.5,
+     "lyric": "più a",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0126",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "vrai",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0127",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0128",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0129",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 3.5,
+     "lyric": "quei",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0130",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 4.0,
+     "lyric": "pen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0131",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 4.5,
+     "lyric": "nac",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0132",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "chi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0133",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.5,
+     "lyric": "ni,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0134",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0135",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    28,
+    29
+   ],
+   "lyrics": "quel cappello,",
+   "translation": "那顶轻巧而风流的帽子，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0136",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 4.0,
+     "lyric": "quel",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0137",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 4.5,
+     "lyric": "cap",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0138",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "pel",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0139",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.5,
+     "lyric": "lo,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0140",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0141",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    29,
+    31
+   ],
+   "lyrics": "quella chioma, quell'aria brillante.",
+   "translation": "那头长发、那副神采，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0142",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 4.0,
+     "lyric": "quel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0143",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 4.5,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0144",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "chio",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0145",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1.5,
+     "lyric": "ma,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0146",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0147",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.5,
+     "lyric": "quel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0148",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 3.0,
+     "lyric": "l'a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0149",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 4.0,
+     "lyric": "ria",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0150",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 4.5,
+     "lyric": "bril",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0151",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "lan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0152",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "te.",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    31,
+    33
+   ],
+   "lyrics": "Non piùandrai, farfallone amoroso,",
+   "translation": "那女人般红润的脸色。",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0153",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 31,
+     "beat": 4.0,
+     "lyric": "Non",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0154",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 4.75,
+     "lyric": "piùan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0155",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "drai,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0156",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "far",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0157",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 2.75,
+     "lyric": "fal",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0158",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 3.0,
+     "lyric": "lo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0159",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 32,
+     "beat": 4.0,
+     "lyric": "ne a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0160",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 4.75,
+     "lyric": "mo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0161",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "ro",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0162",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 2.0,
+     "lyric": "so,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0163",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    33,
+    35
+   ],
+   "lyrics": "notte e giorno d'intorno girando,",
+   "translation": "那女人般红润的脸色。",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0164",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 33,
+     "beat": 4.0,
+     "lyric": "not",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0165",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 4.75,
+     "lyric": "te e",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0166",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "gior",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0167",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 34,
+     "beat": 2.0,
+     "lyric": "no",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0168",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 34,
+     "beat": 2.75,
+     "lyric": "d'in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0169",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 3.0,
+     "lyric": "tor",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0170",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 34,
+     "beat": 4.0,
+     "lyric": "no",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0171",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 34,
+     "beat": 4.75,
+     "lyric": "gi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0172",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "ran",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0173",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 2.0,
+     "lyric": "do,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0174",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    35,
+    37
+   ],
+   "lyrics": "delle belle turbando il riposo,",
+   "translation": "那女人般红润的脸色。",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0175",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 35,
+     "beat": 4.0,
+     "lyric": "del",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0176",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 35,
+     "beat": 4.75,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0177",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0178",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 36,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0179",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 2.75,
+     "lyric": "tur",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0180",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 3.0,
+     "lyric": "ban",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0181",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 36,
+     "beat": 4.0,
+     "lyric": "do il",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0182",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 4.75,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0183",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "po",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0184",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 37,
+     "beat": 2.0,
+     "lyric": "so,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    37,
+    39
+   ],
+   "lyrics": "Narcisetto, A doncino d'amor,",
+   "translation": "那女人般红润的脸色。",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0185",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 37,
+     "beat": 4.0,
+     "lyric": "Nar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0186",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 37,
+     "beat": 4.75,
+     "lyric": "ci",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0187",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "set",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0188",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "to, A",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0189",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 38,
+     "beat": 2.75,
+     "lyric": "don",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0190",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 3.0,
+     "lyric": "ci",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0191",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 38,
+     "beat": 4.0,
+     "lyric": "no",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0192",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 38,
+     "beat": 4.75,
+     "lyric": "d'a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0193",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "mor,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0194",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0195",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "measures": [
+    39,
+    41
+   ],
+   "lyrics": "delle belle turbando il riposo,",
+   "translation": "那女人般红润的脸色。",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0196",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 39,
+     "beat": 4.0,
+     "lyric": "del",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0197",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 39,
+     "beat": 4.75,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0198",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0199",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 40,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0200",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 40,
+     "beat": 2.75,
+     "lyric": "tur",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0201",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 3.0,
+     "lyric": "ban",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0202",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 40,
+     "beat": 4.0,
+     "lyric": "do il",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0203",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 40,
+     "beat": 4.75,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0204",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "po",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0205",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 41,
+     "beat": 2.0,
+     "lyric": "so,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "measures": [
+    41,
+    44
+   ],
+   "lyrics": "Narcisetto, A doncino d'amor.",
+   "translation": "那女人般红润的脸色。",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0206",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 41,
+     "beat": 4.0,
+     "lyric": "Nar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0207",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 41,
+     "beat": 4.75,
+     "lyric": "ci",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0208",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "set",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0209",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 42,
+     "beat": 2.0,
+     "lyric": "to, A",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0210",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 2.75,
+     "lyric": "don",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0211",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 3.0,
+     "lyric": "ci",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0212",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 42,
+     "beat": 4.0,
+     "lyric": "no",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0213",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 4.75,
+     "lyric": "d'a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0214",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "mor.",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0215",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0216",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 43,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0217",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "measures": [
+    44,
+    46
+   ],
+   "lyrics": "Tra guerrieri, poffar Bacco!",
+   "translation": "到了士兵中间，我的天！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0218",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.0,
+     "lyric": "Tra",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0219",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.5,
+     "lyric": "guer",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0220",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 3.0,
+     "lyric": "rie",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0221",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 3.5,
+     "lyric": "ri,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0222",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 4.0,
+     "lyric": "pof",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0223",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 4.5,
+     "lyric": "far",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0224",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "Bac",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0225",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 1.5,
+     "lyric": "co!",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0226",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0227",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 45,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0228",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 22,
+   "measures": [
+    46,
+    47
+   ],
+   "lyrics": "gran mustacchi, stretto sacco,",
+   "translation": "大胡子、紧军装，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0229",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 2.0,
+     "lyric": "gran",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0230",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 2.5,
+     "lyric": "mu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0231",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 3.0,
+     "lyric": "stac",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0232",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 3.5,
+     "lyric": "chi,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0233",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 4.0,
+     "lyric": "stret",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0234",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 4.5,
+     "lyric": "to",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0235",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "sac",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0236",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 1.5,
+     "lyric": "co,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0237",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 47,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0238",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 47,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 23,
+   "measures": [
+    47,
+    48
+   ],
+   "lyrics": "schioppo in spalla,",
+   "translation": "枪在肩上、刀在腰间，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0239",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 4.0,
+     "lyric": "schiop",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0240",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 4.5,
+     "lyric": "po in",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0241",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "spal",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0242",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 2.0,
+     "lyric": "la,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0243",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 24,
+   "measures": [
+    48,
+    49
+   ],
+   "lyrics": "sciabla al fianco,",
+   "translation": "枪在肩上、刀在腰间，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0244",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 4.0,
+     "lyric": "scia",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0245",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 4.5,
+     "lyric": "bla al",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0246",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "fian",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0247",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 49,
+     "beat": 2.0,
+     "lyric": "co,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0248",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 49,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 25,
+   "measures": [
+    49,
+    50
+   ],
+   "lyrics": "collo dritto,",
+   "translation": "脖子挺直、板着脸，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0249",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 4.0,
+     "lyric": "col",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0250",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 4.5,
+     "lyric": "lo",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0251",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "drit",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0252",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 50,
+     "beat": 2.0,
+     "lyric": "to,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0253",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 50,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 26,
+   "measures": [
+    50,
+    51
+   ],
+   "lyrics": "muso franco,",
+   "translation": "脖子挺直、板着脸，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0254",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 4.0,
+     "lyric": "mu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0255",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 4.5,
+     "lyric": "so",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0256",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "fran",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0257",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 51,
+     "beat": 2.0,
+     "lyric": "co,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0258",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 51,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 27,
+   "measures": [
+    51,
+    53
+   ],
+   "lyrics": "un gran casco, un gran turbante,",
+   "translation": "戴大头盔或大头巾，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0259",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 4.0,
+     "lyric": "un",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0260",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 4.5,
+     "lyric": "gran",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0261",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "cas",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0262",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 52,
+     "beat": 2.0,
+     "lyric": "co,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0263",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0264",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 3.5,
+     "lyric": "un",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0265",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 4.0,
+     "lyric": "gran",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0266",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 4.5,
+     "lyric": "tur",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0267",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "ban",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0268",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 53,
+     "beat": 2.0,
+     "lyric": "te,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0269",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 53,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 28,
+   "measures": [
+    53,
+    54
+   ],
+   "lyrics": "molto onor,",
+   "translation": "荣誉很多、钞票很少，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0270",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 4.0,
+     "lyric": "mol",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0271",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 4.5,
+     "lyric": "to o",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0272",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 54,
+     "beat": 1.0,
+     "lyric": "nor,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0273",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 54,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0274",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 29,
+   "measures": [
+    54,
+    56
+   ],
+   "lyrics": "poco contante, poco contante,",
+   "translation": "荣誉很多、钞票很少，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0275",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 3.5,
+     "lyric": "po",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0276",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 4.0,
+     "lyric": "co",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0277",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 4.5,
+     "lyric": "con",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0278",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 55,
+     "beat": 1.0,
+     "lyric": "tan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0279",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 55,
+     "beat": 2.0,
+     "lyric": "te,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0280",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 55,
+     "beat": 3.0,
+     "lyric": "po",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0281",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 4.0,
+     "lyric": "co",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0282",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 4.5,
+     "lyric": "con",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0283",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 56,
+     "beat": 1.0,
+     "lyric": "tan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0284",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 56,
+     "beat": 2.0,
+     "lyric": "te,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 30,
+   "measures": [
+    56,
+    59
+   ],
+   "lyrics": "poco contante, ed invece del fandango una",
+   "translation": "跳的不是凡丹戈舞，而是踩着泥泞行军，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0285",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 56,
+     "beat": 3.0,
+     "lyric": "po",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0286",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 4.0,
+     "lyric": "co",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0287",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 4.5,
+     "lyric": "con",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0288",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 57,
+     "beat": 1.0,
+     "lyric": "tan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0289",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 57,
+     "beat": 2.0,
+     "lyric": "te,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0290",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 4.0,
+     "lyric": "ed",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0291",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 4.5,
+     "lyric": "in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0292",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 58,
+     "beat": 1.0,
+     "lyric": "ve",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0293",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.5,
+     "lyric": "ce",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0294",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 58,
+     "beat": 3.0,
+     "lyric": "del",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0295",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 4.5,
+     "lyric": "fan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0296",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 59,
+     "beat": 1.0,
+     "lyric": "dan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0297",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 59,
+     "beat": 2.0,
+     "lyric": "go",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0298",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 59,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0299",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 4.0,
+     "lyric": "u",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0300",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 4.5,
+     "lyric": "na",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 31,
+   "measures": [
+    60,
+    62
+   ],
+   "lyrics": "marcia per il fango,",
+   "translation": "跳的不是凡丹戈舞，而是踩着泥泞行军，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0301",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 60,
+     "beat": 1.0,
+     "lyric": "mar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0302",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 2.5,
+     "lyric": "cia",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0303",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 60,
+     "beat": 3.0,
+     "lyric": "per",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0304",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 4.5,
+     "lyric": "il",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0305",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 61,
+     "beat": 1.0,
+     "lyric": "fan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0306",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 61,
+     "beat": 2.0,
+     "lyric": "go,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0307",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 61,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0308",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 62,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 32,
+   "measures": [
+    62,
+    64
+   ],
+   "lyrics": "per montagne, per valloni",
+   "translation": "翻山越谷，顶着大雪和烈日，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0309",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 2.0,
+     "lyric": "per",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0310",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 2.5,
+     "lyric": "mon",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0311",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 3.0,
+     "lyric": "ta",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0312",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 3.5,
+     "lyric": "gne,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0313",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 4.0,
+     "lyric": "per",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0314",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 4.5,
+     "lyric": "val",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0315",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 1.0,
+     "lyric": "lo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0316",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 1.5,
+     "lyric": "ni",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0317",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 63,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0318",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 63,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0319",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 64,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 33,
+   "measures": [
+    64,
+    66
+   ],
+   "lyrics": "colle nevi e i sollioni, al concerto di tromboni,",
+   "translation": "翻山越谷，顶着大雪和烈日，",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0320",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 2.0,
+     "lyric": "col",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0321",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 2.5,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0322",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 3.0,
+     "lyric": "ne",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0323",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 3.5,
+     "lyric": "vi",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0324",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 4.0,
+     "lyric": "e i",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0325",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 4.5,
+     "lyric": "sol",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0326",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 1.0,
+     "lyric": "lio",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0327",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 1.5,
+     "lyric": "ni,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0328",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 2.0,
+     "lyric": "al",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0329",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 2.5,
+     "lyric": "con",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0330",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 3.0,
+     "lyric": "cer",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0331",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 3.5,
+     "lyric": "to",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0332",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 4.0,
+     "lyric": "di",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0333",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 4.5,
+     "lyric": "trom",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0334",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 66,
+     "beat": 1.0,
+     "lyric": "bo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0335",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 66,
+     "beat": 1.5,
+     "lyric": "ni,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 34,
+   "measures": [
+    66,
+    69
+   ],
+   "lyrics": "di bombarde, di cannoni, che le palle in tutti i toni all'o- recchio fan fischiar.",
+   "translation": "子弹在耳边用各种调门呼啸。",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0336",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 66,
+     "beat": 2.0,
+     "lyric": "di",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0337",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 66,
+     "beat": 2.5,
+     "lyric": "bom",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0338",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 66,
+     "beat": 3.0,
+     "lyric": "bar",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0339",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 66,
+     "beat": 3.5,
+     "lyric": "de,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0340",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 66,
+     "beat": 4.0,
+     "lyric": "di",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0341",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 66,
+     "beat": 4.5,
+     "lyric": "can",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0342",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 1.0,
+     "lyric": "no",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0343",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 1.5,
+     "lyric": "ni,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0344",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 2.0,
+     "lyric": "che",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0345",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 2.5,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0346",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 3.0,
+     "lyric": "pal",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0347",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 3.5,
+     "lyric": "le in",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0348",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 4.0,
+     "lyric": "tut",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0349",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 4.5,
+     "lyric": "ti i",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0350",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 1.0,
+     "lyric": "to",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0351",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 1.5,
+     "lyric": "ni",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0352",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 2.0,
+     "lyric": "al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0353",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 2.5,
+     "lyric": "l'o-",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0354",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 3.0,
+     "lyric": "rec",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0355",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 3.5,
+     "lyric": "chio",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0356",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 4.0,
+     "lyric": "fan",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0357",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 4.5,
+     "lyric": "fi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0358",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 69,
+     "beat": 1.0,
+     "lyric": "schiar.",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0359",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 69,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0360",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 69,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 35,
+   "measures": [
+    69,
+    71
+   ],
+   "lyrics": "Non più avrai quei pennacchini,",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0361",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 69,
+     "beat": 4.0,
+     "lyric": "Non",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0362",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 69,
+     "beat": 4.5,
+     "lyric": "più a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0363",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 70,
+     "beat": 1.0,
+     "lyric": "vrai",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0364",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 70,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0365",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0366",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 3.5,
+     "lyric": "quei",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0367",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 4.0,
+     "lyric": "pen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0368",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 4.5,
+     "lyric": "nac",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0369",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 1.0,
+     "lyric": "chi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0370",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 1.5,
+     "lyric": "ni,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0371",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 71,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0372",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 71,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 36,
+   "measures": [
+    71,
+    72
+   ],
+   "lyrics": "non più avrai",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0373",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 4.0,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0374",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 4.5,
+     "lyric": "più a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0375",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 72,
+     "beat": 1.0,
+     "lyric": "vrai",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0376",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 72,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0377",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 72,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 37,
+   "measures": [
+    72,
+    73
+   ],
+   "lyrics": "quel cappello,",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0378",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 72,
+     "beat": 4.0,
+     "lyric": "quel",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0379",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 72,
+     "beat": 4.5,
+     "lyric": "cap",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0380",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 1.0,
+     "lyric": "pel",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0381",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 1.5,
+     "lyric": "lo,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0382",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 73,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0383",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 73,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 38,
+   "measures": [
+    73,
+    74
+   ],
+   "lyrics": "non più avrai",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0384",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 4.0,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0385",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 4.5,
+     "lyric": "più a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0386",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 74,
+     "beat": 1.0,
+     "lyric": "vrai",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0387",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 74,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0388",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 74,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 39,
+   "measures": [
+    74,
+    75
+   ],
+   "lyrics": "quella chioma,",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0389",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 74,
+     "beat": 4.0,
+     "lyric": "quel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0390",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 74,
+     "beat": 4.5,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0391",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 1.0,
+     "lyric": "chio",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0392",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 1.5,
+     "lyric": "ma,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0393",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 75,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0394",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 75,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 40,
+   "measures": [
+    75,
+    77
+   ],
+   "lyrics": "non più avrai quell'aria brillante.",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0395",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 4.0,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0396",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 4.5,
+     "lyric": "più a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0397",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 76,
+     "beat": 1.0,
+     "lyric": "vrai",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0398",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0399",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 2.5,
+     "lyric": "quel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0400",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 76,
+     "beat": 3.0,
+     "lyric": "l'a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0401",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 4.0,
+     "lyric": "ria",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0402",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 4.5,
+     "lyric": "bril",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0403",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 77,
+     "beat": 1.0,
+     "lyric": "lan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0404",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 77,
+     "beat": 2.0,
+     "lyric": "te.",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 41,
+   "measures": [
+    77,
+    79
+   ],
+   "lyrics": "Non piùandrai, farfallone amoroso,",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0405",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 77,
+     "beat": 4.0,
+     "lyric": "Non",
+     "syllabic": "single"
+    },
+    {
+     "id": "non-piu-andrai-e0406",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 77,
+     "beat": 4.75,
+     "lyric": "piùan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0407",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 78,
+     "beat": 1.0,
+     "lyric": "drai,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0408",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 78,
+     "beat": 2.0,
+     "lyric": "far",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0409",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 2.75,
+     "lyric": "fal",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0410",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 78,
+     "beat": 3.0,
+     "lyric": "lo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0411",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 78,
+     "beat": 4.0,
+     "lyric": "ne a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0412",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 4.75,
+     "lyric": "mo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0413",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 79,
+     "beat": 1.0,
+     "lyric": "ro",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0414",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 79,
+     "beat": 2.0,
+     "lyric": "so,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0415",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 79,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 42,
+   "measures": [
+    79,
+    81
+   ],
+   "lyrics": "notte e giorno d'intorno girando,",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0416",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 79,
+     "beat": 4.0,
+     "lyric": "not",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0417",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 79,
+     "beat": 4.75,
+     "lyric": "te e",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0418",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 80,
+     "beat": 1.0,
+     "lyric": "gior",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0419",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 80,
+     "beat": 2.0,
+     "lyric": "no",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0420",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 80,
+     "beat": 2.75,
+     "lyric": "d'in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0421",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 80,
+     "beat": 3.0,
+     "lyric": "tor",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0422",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 80,
+     "beat": 4.0,
+     "lyric": "no",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0423",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 80,
+     "beat": 4.75,
+     "lyric": "gi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0424",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 81,
+     "beat": 1.0,
+     "lyric": "ran",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0425",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 81,
+     "beat": 2.0,
+     "lyric": "do,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0426",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 81,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 43,
+   "measures": [
+    81,
+    83
+   ],
+   "lyrics": "delle belle turbando il riposo,",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0427",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 81,
+     "beat": 4.0,
+     "lyric": "del",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0428",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 81,
+     "beat": 4.75,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0429",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 82,
+     "beat": 1.0,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0430",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 82,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0431",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 82,
+     "beat": 2.75,
+     "lyric": "tur",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0432",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 82,
+     "beat": 3.0,
+     "lyric": "ban",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0433",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 82,
+     "beat": 4.0,
+     "lyric": "do il",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0434",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 82,
+     "beat": 4.75,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0435",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 83,
+     "beat": 1.0,
+     "lyric": "po",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0436",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 83,
+     "beat": 2.0,
+     "lyric": "so,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 44,
+   "measures": [
+    83,
+    85
+   ],
+   "lyrics": "Narcisetto, Adoncino d'amor,",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0437",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 83,
+     "beat": 4.0,
+     "lyric": "Nar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0438",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 83,
+     "beat": 4.75,
+     "lyric": "ci",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0439",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 84,
+     "beat": 1.0,
+     "lyric": "set",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0440",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 84,
+     "beat": 2.0,
+     "lyric": "to, A",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0441",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 84,
+     "beat": 2.75,
+     "lyric": "don",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0442",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 84,
+     "beat": 3.0,
+     "lyric": "ci",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0443",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 84,
+     "beat": 4.0,
+     "lyric": "no",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0444",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 84,
+     "beat": 4.75,
+     "lyric": "d'a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0445",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 85,
+     "beat": 1.0,
+     "lyric": "mor,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0446",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 85,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0447",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 85,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 45,
+   "measures": [
+    85,
+    87
+   ],
+   "lyrics": "delle belle turbando il riposo,",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0448",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 85,
+     "beat": 4.0,
+     "lyric": "del",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0449",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 85,
+     "beat": 4.75,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0450",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 86,
+     "beat": 1.0,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0451",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 86,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0452",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 86,
+     "beat": 2.75,
+     "lyric": "tur",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0453",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 86,
+     "beat": 3.0,
+     "lyric": "ban",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0454",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 86,
+     "beat": 4.0,
+     "lyric": "do il",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0455",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 86,
+     "beat": 4.75,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0456",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 87,
+     "beat": 1.0,
+     "lyric": "po",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0457",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 87,
+     "beat": 2.0,
+     "lyric": "so,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 46,
+   "measures": [
+    87,
+    90
+   ],
+   "lyrics": "Narcisetto, A doncino d'amor.",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0458",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 87,
+     "beat": 4.0,
+     "lyric": "Nar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0459",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 87,
+     "beat": 4.75,
+     "lyric": "ci",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0460",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 88,
+     "beat": 1.0,
+     "lyric": "set",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0461",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 88,
+     "beat": 2.0,
+     "lyric": "to, A",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0462",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 88,
+     "beat": 2.75,
+     "lyric": "don",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0463",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 88,
+     "beat": 3.0,
+     "lyric": "ci",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0464",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 88,
+     "beat": 4.0,
+     "lyric": "no",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0465",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 88,
+     "beat": 4.75,
+     "lyric": "d'a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0466",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 89,
+     "beat": 1.0,
+     "lyric": "mor.",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0467",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 89,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0468",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 89,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0469",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 90,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 47,
+   "measures": [
+    90,
+    92
+   ],
+   "lyrics": "Cherubino alla vittoria,",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0470",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 2.0,
+     "lyric": "Che",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0471",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 2.5,
+     "lyric": "ru",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0472",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 3.0,
+     "lyric": "bi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0473",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 3.5,
+     "lyric": "no al",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0474",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 4.0,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0475",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 4.5,
+     "lyric": "vit",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0476",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 91,
+     "beat": 1.0,
+     "lyric": "to",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0477",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 91,
+     "beat": 2.0,
+     "lyric": "ria,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0478",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 91,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0479",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 92,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 48,
+   "measures": [
+    92,
+    93
+   ],
+   "lyrics": "alla gloria militar,",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0480",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 2.0,
+     "lyric": "al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0481",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 2.5,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0482",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 3.0,
+     "lyric": "glo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0483",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 3.5,
+     "lyric": "ria",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0484",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 4.0,
+     "lyric": "mi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0485",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 4.5,
+     "lyric": "li",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0486",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 93,
+     "beat": 1.0,
+     "lyric": "tar,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0487",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 93,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0488",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 93,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 49,
+   "measures": [
+    93,
+    95
+   ],
+   "lyrics": "Cherubino alla vittoria,",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0489",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 93,
+     "beat": 4.0,
+     "lyric": "Che",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0490",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 93,
+     "beat": 4.75,
+     "lyric": "ru",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0491",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 94,
+     "beat": 1.0,
+     "lyric": "bi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0492",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 94,
+     "beat": 2.5,
+     "lyric": "no al",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0493",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 94,
+     "beat": 3.0,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0494",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 94,
+     "beat": 4.5,
+     "lyric": "vit",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0495",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 95,
+     "beat": 1.0,
+     "lyric": "to",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0496",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 95,
+     "beat": 2.0,
+     "lyric": "ria,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0497",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 95,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 50,
+   "measures": [
+    95,
+    97
+   ],
+   "lyrics": "alla gloria militar,",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0498",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 95,
+     "beat": 4.0,
+     "lyric": "al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0499",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 95,
+     "beat": 4.75,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0500",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 96,
+     "beat": 1.0,
+     "lyric": "glo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0501",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 2.5,
+     "lyric": "ria",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0502",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 96,
+     "beat": 3.0,
+     "lyric": "mi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0503",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 4.5,
+     "lyric": "li",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0504",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 97,
+     "beat": 1.0,
+     "lyric": "tar,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0505",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 97,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0506",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 97,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 51,
+   "measures": [
+    97,
+    99
+   ],
+   "lyrics": "alla gloria militar,",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0507",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 97,
+     "beat": 4.0,
+     "lyric": "al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0508",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 97,
+     "beat": 4.75,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0509",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 98,
+     "beat": 1.0,
+     "lyric": "glo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0510",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 98,
+     "beat": 2.5,
+     "lyric": "ria",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0511",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 98,
+     "beat": 3.0,
+     "lyric": "mi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0512",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 98,
+     "beat": 4.5,
+     "lyric": "li",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0513",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 99,
+     "beat": 1.0,
+     "lyric": "tar,",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0514",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 99,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0515",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 99,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 52,
+   "measures": [
+    99,
+    103
+   ],
+   "lyrics": "alla gloria militar.",
+   "translation": "凯鲁比诺，去争胜利，去争军人的荣光吧！",
+   "events": [
+    {
+     "id": "non-piu-andrai-e0516",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 99,
+     "beat": 4.0,
+     "lyric": "al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0517",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 99,
+     "beat": 4.75,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0518",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 100,
+     "beat": 1.0,
+     "lyric": "glo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0519",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 100,
+     "beat": 2.5,
+     "lyric": "ria",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0520",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 100,
+     "beat": 3.0,
+     "lyric": "mi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "non-piu-andrai-e0521",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 100,
+     "beat": 4.5,
+     "lyric": "li",
+     "syllabic": "middle"
+    },
+    {
+     "id": "non-piu-andrai-e0522",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 101,
+     "beat": 1.0,
+     "lyric": "tar.",
+     "syllabic": "end"
+    },
+    {
+     "id": "non-piu-andrai-e0523",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 101,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0524",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 101,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0525",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 102,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "non-piu-andrai-e0526",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 103,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 525,
+ "restCount": 84,
+ "lyricNoteCount": 441,
+ "pages": 3,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 52,
+  "slowScale": 1.45
+ }
+}

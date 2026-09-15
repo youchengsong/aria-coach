@@ -1,0 +1,937 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "amarilli",
+ "title": "Amarilli, mia bella",
+ "titleZh": "阿玛丽莉，我的美人",
+ "composer": "G. Caccini",
+ "opera": "Le nuove musiche（1602；独立牧歌风格咏叹调）",
+ "language": "意大利语",
+ "voice": "女中音",
+ "difficulty": "基础",
+ "tempoBpm": 66,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   22
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "完整声乐旋律（g 小调，4/4），依据 Parisotti 编辑版手工编码。"
+ },
+ "range": {
+  "low": "G3",
+  "high": "Bb4"
+ },
+ "state": "published",
+ "sourceGrade": "C",
+ "role": "抒情主体：向心上人阿玛丽莉表白的牧人",
+ "genre": "牧歌风格咏叹调",
+ "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+ "sources": [
+  {
+   "name": "手工编码 MusicXML",
+   "url": "https://imslp.org/wiki/Amarilli,_mia_bella_(Caccini,_Giulio)",
+   "format": "MusicXML",
+   "role": "声乐旋律线",
+   "status": "依据标准声乐教学版本编码",
+   "grade": "C",
+   "accessed": "2026-09-15"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Amarilli, mia bella,",
+   "zh": "阿玛丽莉，我的美人，"
+  },
+  {
+   "text": "non credi, o del mio cor dolce desio,",
+   "zh": "你不相信吗，噢我心中甜蜜的渴望，"
+  },
+  {
+   "text": "d'esser tu l'amor mio?",
+   "zh": "你就是我的爱？"
+  },
+  {
+   "text": "Credilo pur: e se timor t'assale,",
+   "zh": "请相信吧：如果恐惧袭来，"
+  },
+  {
+   "text": "dubitar non ti vale.",
+   "zh": "怀疑对你没有用。"
+  },
+  {
+   "text": "Aprimi il petto e vedrai scritto in core:",
+   "zh": "打开我的胸膛，你将看到刻在心上的："
+  },
+  {
+   "text": "Amarilli, Amarilli, Amarilli è il mio amore.",
+   "zh": "阿玛丽莉，阿玛丽莉，阿玛丽莉是我的爱。"
+  }
+ ],
+ "story": {
+  "background": "朱利奥·卡奇尼是巴洛克早期「新音乐」（Le nuove musiche）运动的先驱之一。这首《阿玛丽莉》发表于 1602 年的同名歌曲集中，是独唱配通奏低音的开创性作品。经 Parisotti 编入声乐教学集后，它成为所有声部学生接触巴洛克意大利声乐的第一首作品。",
+  "situation": "牧人向名叫阿玛丽莉的女子表白：你不相信自己是我的爱吗？请相信，不要怀疑。打开我的胸膛，你会看到你的名字刻在我心上。这是一种激情而真诚的告白——不是恳求，而是确信。",
+  "relationships": "歌者与阿玛丽莉之间：歌者深爱她，她似乎不信。歌者不是在哀叹，而是在证明——他愿意打开胸膛来展示真心。",
+  "intent": "开头平静而坚定地说出她的名字，然后语气逐渐加强。'Credilo pur'是转折——从描述转为劝说。'Aprimi il petto'是全曲最戏剧性的一句——想象真的要撕开胸膛。结尾三次呼唤'Amarilli'要逐渐放大又收回，像余音回荡。",
+  "plain30": "一个牧人对心上人说：你不信我爱你？那就打开我的胸膛看——你的名字刻在我心上。阿玛丽莉，阿玛丽莉，你就是我的爱。这是巴洛克时代最早的独唱歌曲之一。",
+  "arc": "g 小调，4/4。旋律以 D4 反复音开始，沉稳而内敛。中段向上发展，'dubitar non ti vale'到达一个半终止。'Aprimi il petto'旋律上行跳进，是戏剧高潮。结尾三次'Amarilli'使用下行音阶回归主音。情绪：平静告白—劝说—激情证明—余音。",
+  "motif": "核心动机是开头的反复音——同音级反复代表坚定。它在'non credi'处以同样的反复音形态延续。'Aprimi il petto'打破反复音，用跳进表达激情。结尾三次'Amarilli'的下行级进是全曲最美的旋律线，每次重复都更深沉。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "'Amarilli, mia bella'反复音动机——坚定的告白"
+   },
+   {
+    "phrase": 4,
+    "note": "'Credilo pur'转折——从描述到劝说"
+   },
+   {
+    "phrase": 6,
+    "note": "'Aprimi il petto'跳进——全曲戏剧高潮"
+   },
+   {
+    "phrase": 7,
+    "note": "三次'Amarilli'下行级进——余音回荡的结束"
+   }
+  ],
+  "technique": "这是练习巴洛克声乐风格的入门曲。反复音不能唱得机械——每个音都有微小的力度变化。长乐句需要稳定的气息支撑。'Aprimi il petto'的跳进不要用力推，让气息自然带上去。结尾的三次'Amarilli'音量逐渐减弱，最后一次几乎是耳语。",
+  "classroom": [
+   "先读中文，理解这是一个确信自己被爱的人在说话——不是悲伤，是热情。",
+   "慢速朗读意大利语，注意双辅音 ll、tt 的停顿。",
+   "练习反复音：同一个音唱四次，每次力度略有不同。",
+   "按节拍说词，♩=66，感受 4/4 的稳定脉动。",
+   "听旋律参考，注意开头反复音与中间跳进的对比。",
+   "把歌词放回旋律，先练前三句的平静，再练'Aprimi il petto'的激情。",
+   "完整演唱。结尾三次'Amarilli'的渐弱是全曲的灵魂——让声音像烛光一样慢慢消失。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "双辅音",
+   "items": [
+    "Amarilli：双 l，舌尖抵上齿龈停留",
+    "bella：双 l",
+    "petto：双 t，清晰爆破",
+    "scritto：双 t"
+   ]
+  },
+  {
+   "title": "元音与连读",
+   "items": [
+    "mia 是双元音 [mi-a]，不要读成 [mja]",
+    "desio = desiderio 的诗体缩写，重音在 si：de-SÌ-o",
+    "d'esser = di essere 的省音",
+    "timor t'assale：r-t 连读，不要断开"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "bella 的 e 是开口 [ɛ]",
+    "core 的 o 是开口 [ɔ]",
+    "amore 的 o 是开口 [ɔ]，e 是闭口 [e]"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    1,
+    3
+   ],
+   "lyrics": "Amarilli, mia bella,",
+   "translation": "阿玛丽莉，我的美人，",
+   "events": [
+    {
+     "id": "amarilli-e0001",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 1,
+     "beat": 1.0,
+     "lyric": "A",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0002",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 1,
+     "beat": 2.0,
+     "lyric": "ma",
+     "syllabic": "middle"
+    },
+    {
+     "id": "amarilli-e0003",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 1,
+     "beat": 3.0,
+     "lyric": "ril",
+     "syllabic": "middle"
+    },
+    {
+     "id": "amarilli-e0004",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 1,
+     "beat": 4.0,
+     "lyric": "li,",
+     "syllabic": "end"
+    },
+    {
+     "id": "amarilli-e0005",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "mi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0006",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 3.0,
+     "lyric": "a",
+     "syllabic": "end"
+    },
+    {
+     "id": "amarilli-e0007",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 4.0,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0008",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "la,",
+     "syllabic": "end"
+    },
+    {
+     "id": "amarilli-e0009",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 3,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    4,
+    6
+   ],
+   "lyrics": "non credi, o del mio cor dolce",
+   "translation": "你不相信吗，噢我心中甜蜜的渴望，",
+   "events": [
+    {
+     "id": "amarilli-e0010",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "amarilli-e0011",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 2.0,
+     "lyric": "cre",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0012",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "di,",
+     "syllabic": "end"
+    },
+    {
+     "id": "amarilli-e0013",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 4.0,
+     "lyric": "o",
+     "syllabic": "single"
+    },
+    {
+     "id": "amarilli-e0014",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "del",
+     "syllabic": "single"
+    },
+    {
+     "id": "amarilli-e0015",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "mio",
+     "syllabic": "single"
+    },
+    {
+     "id": "amarilli-e0016",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 4.0,
+     "lyric": "cor",
+     "syllabic": "single"
+    },
+    {
+     "id": "amarilli-e0017",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "dol",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0018",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 6,
+     "beat": 3.0,
+     "lyric": "ce",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    7,
+    10
+   ],
+   "lyrics": "desi o, d'esser tu l'amor mio?",
+   "translation": "你就是我的爱？",
+   "events": [
+    {
+     "id": "amarilli-e0019",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "de",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0020",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "amarilli-e0021",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 4.0,
+     "lyric": "si",
+     "syllabic": "end"
+    },
+    {
+     "id": "amarilli-e0022",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "o,",
+     "syllabic": "single"
+    },
+    {
+     "id": "amarilli-e0023",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "d'es",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0024",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "ser",
+     "syllabic": "end"
+    },
+    {
+     "id": "amarilli-e0025",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 4.0,
+     "lyric": "tu",
+     "syllabic": "single"
+    },
+    {
+     "id": "amarilli-e0026",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "l'a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0027",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "mor",
+     "syllabic": "end"
+    },
+    {
+     "id": "amarilli-e0028",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 4.0,
+     "lyric": "mi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0029",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "o?",
+     "syllabic": "end"
+    },
+    {
+     "id": "amarilli-e0030",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    11,
+    13
+   ],
+   "lyrics": "Credilo pur e se timor t'assale,",
+   "translation": "请相信吧：如果恐惧袭来，",
+   "events": [
+    {
+     "id": "amarilli-e0031",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "Cre",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0032",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "di",
+     "syllabic": "middle"
+    },
+    {
+     "id": "amarilli-e0033",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "lo",
+     "syllabic": "end"
+    },
+    {
+     "id": "amarilli-e0034",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 4.0,
+     "lyric": "pur",
+     "syllabic": "single"
+    },
+    {
+     "id": "amarilli-e0035",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "amarilli-e0036",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "se",
+     "syllabic": "single"
+    },
+    {
+     "id": "amarilli-e0037",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "ti",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0038",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 4.0,
+     "lyric": "mor",
+     "syllabic": "end"
+    },
+    {
+     "id": "amarilli-e0039",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "t'as",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0040",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "sa",
+     "syllabic": "middle"
+    },
+    {
+     "id": "amarilli-e0041",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 4.0,
+     "lyric": "le,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    14,
+    15
+   ],
+   "lyrics": "dubitar non ti vale.",
+   "translation": "怀疑对你没有用。",
+   "events": [
+    {
+     "id": "amarilli-e0042",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "du",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0043",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "bi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "amarilli-e0044",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "tar",
+     "syllabic": "end"
+    },
+    {
+     "id": "amarilli-e0045",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 4.0,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "amarilli-e0046",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "ti",
+     "syllabic": "single"
+    },
+    {
+     "id": "amarilli-e0047",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "va",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0048",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "le.",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    16,
+    18
+   ],
+   "lyrics": "Aprimi il petto e vedrai scritto in",
+   "translation": "打开我的胸膛，你将看到刻在心上的：",
+   "events": [
+    {
+     "id": "amarilli-e0049",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "A",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0050",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "pri",
+     "syllabic": "middle"
+    },
+    {
+     "id": "amarilli-e0051",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "mi il",
+     "syllabic": "end"
+    },
+    {
+     "id": "amarilli-e0052",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 4.0,
+     "lyric": "pet",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0053",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "to",
+     "syllabic": "end"
+    },
+    {
+     "id": "amarilli-e0054",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "amarilli-e0055",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 4.0,
+     "lyric": "ve",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0056",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "dra",
+     "syllabic": "middle"
+    },
+    {
+     "id": "amarilli-e0057",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "i",
+     "syllabic": "end"
+    },
+    {
+     "id": "amarilli-e0058",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "scrit",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0059",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 4.0,
+     "lyric": "to in",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    19,
+    22
+   ],
+   "lyrics": "core Amarilli è il mio amore.",
+   "translation": "阿玛丽莉，阿玛丽莉，阿玛丽莉是我的爱。",
+   "events": [
+    {
+     "id": "amarilli-e0060",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "co",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0061",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "amarilli-e0062",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "amarilli-e0063",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "A",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0064",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "ma",
+     "syllabic": "middle"
+    },
+    {
+     "id": "amarilli-e0065",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 3.0,
+     "lyric": "ril",
+     "syllabic": "middle"
+    },
+    {
+     "id": "amarilli-e0066",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 4.0,
+     "lyric": "li",
+     "syllabic": "end"
+    },
+    {
+     "id": "amarilli-e0067",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "è il",
+     "syllabic": "single"
+    },
+    {
+     "id": "amarilli-e0068",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "mio",
+     "syllabic": "single"
+    },
+    {
+     "id": "amarilli-e0069",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 3.0,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "amarilli-e0070",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 4.0,
+     "lyric": "mo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "amarilli-e0071",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "re.",
+     "syllabic": "end"
+    }
+   ]
+  }
+ ],
+ "eventCount": 71,
+ "restCount": 4,
+ "lyricNoteCount": 67,
+ "pages": 1,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 7,
+  "slowScale": 1.45
+ }
+}

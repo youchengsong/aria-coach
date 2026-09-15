@@ -1,0 +1,99 @@
+{
+ "title": "Le violette",
+ "titleZh": "紫罗兰",
+ "composer": "A. Scarlatti",
+ "opera": "Pirro e Demetrio（1694；第一幕，Mario 的咏叹调）",
+ "role": "Mario：用紫罗兰隐喻谦虚美德的角色",
+ "genre": "咏叹调",
+ "language": "意大利语",
+ "script": "latin",
+ "voice": "女高音",
+ "difficulty": "中级",
+ "tempoBpm": 120,
+ "complete": true,
+ "sourceGrade": "C",
+ "coverageNote": "完整声乐旋律（D 大调，3/8 Allegretto），依据标准教学版本编码。",
+ "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+ "sources": [
+  {
+   "name": "手工编码 MusicXML",
+   "url": "https://imslp.org/wiki/Pirro_e_Demetrio_(Scarlatti,_Alessandro)",
+   "format": "MusicXML",
+   "role": "声乐旋律线",
+   "status": "依据标准声乐教学版本编码",
+   "grade": "C"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Rugiadose, odorose, violette graziose,",
+   "zh": "带着露珠的、芬芳的、优雅的紫罗兰，"
+  },
+  {
+   "text": "voi vi state vergognose,",
+   "zh": "你们害羞地躲着，"
+  },
+  {
+   "text": "mezzo ascose fra le foglie,",
+   "zh": "半隐半现在叶子之间，"
+  },
+  {
+   "text": "e sgridate le mie voglie,",
+   "zh": "你们责备我的欲望，"
+  },
+  {
+   "text": "che son troppo ambiziose.",
+   "zh": "说它们太过野心勃勃。"
+  }
+ ],
+ "hints": [
+  {
+   "title": "快速吐字",
+   "items": [
+    "Allegretto ♩=120 要求快速清晰的意大利语吐字",
+    "rugiadose/odorose/graziose 三个 -ose 结尾要一致",
+    "vergognose 重音在第三音节 ver-go-GNÓ-se，gn 发 [ɲ]"
+   ]
+  },
+  {
+   "title": "元音",
+   "items": [
+    "violette 双 t",
+    "foglie 的 gl 发 [ʎ]（类似西语的 ll）"
+   ]
+  }
+ ],
+ "story": {
+  "background": "亚历山德罗·斯卡拉蒂的歌剧《皮洛与德米特里奥》（1694）是那不勒斯歌剧学派的早期代表作。这首轻快的咏叹调将紫罗兰拟人化——它们害羞地藏在叶子下，暗示谦虚的美德胜过傲慢的野心。",
+  "situation": "歌者看着花园里的紫罗兰，赞美它们的害羞和谦逊。紫罗兰藏在叶子下，似乎在责备歌者：你的野心太大了。这是一首用花卉隐喻来谈论美德的巴洛克咏叹调。",
+  "relationships": "歌者与紫罗兰之间的寓言关系——花朵代表谦虚的美德，藏在叶子下而非炫耀自己。歌者从紫罗兰身上看到自己应该学习的品质：不张扬的优雅胜过野心勃勃的自我展示。",
+  "intent": "轻快、俏皮而优雅。整首歌像在花园里跳舞。快速的音节要清晰但不急促。结尾'troppo ambiziose'带着一点自我调侃。",
+  "plain30": "紫罗兰害羞地藏在叶子下，责备我的野心。这首歌轻快而俏皮，用花来讲人生道理——谦虚比野心更美。",
+  "arc": "D 大调，3/8 Allegretto。旋律以快速的十六分音符开始，模仿紫罗兰在风中摇曳。中段略有色彩变化。结尾回到明亮的主调。",
+  "motif": "核心动机是快速的三音级进——像花瓣在颤动。'vergognose'处的旋律放慢，表达害羞。'ambiziose'的结尾长音让快速的舞曲暂停——反思的时刻。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "'Rugiadose, odorose'——快速三音级进，花瓣颤动"
+   },
+   {
+    "phrase": 2,
+    "note": "'vergognose'——旋律放慢，害羞的紫罗兰"
+   },
+   {
+    "phrase": 5,
+    "note": "'troppo ambiziose'——结尾长音，反思的暂停"
+   }
+  ],
+  "technique": "主要技术挑战是快速而清晰的意大利语吐字。3/8 拍在 ♩=120 下很快——每个音节都必须干净。适合练习灵活性和轻声快速。不要把它唱成沉重的大歌。",
+  "classroom": [
+   "先读中文——这是一首关于紫罗兰和谦虚的轻快小歌。",
+   "慢速朗读意大利语，确保每个 -ose 结尾都清晰。",
+   "练习快速吐字：反复说'rugiadose odorose violette graziose'。",
+   "用手打 3/8 拍，逐渐加速到 ♩=120。",
+   "听旋律参考，注意快速段的灵活性。",
+   "放入歌词，先用一半速度。",
+   "以正常速度完整演唱。保持轻盈——想象自己在花园里追紫罗兰。"
+  ]
+ }
+}

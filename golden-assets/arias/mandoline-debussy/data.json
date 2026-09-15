@@ -1,0 +1,2555 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "mandoline-debussy",
+ "title": "Mandoline",
+ "titleZh": "曼陀林",
+ "composer": "C. Debussy",
+ "opera": "Fêtes galantes I（1882/1891；诗：P. Verlaine）",
+ "language": "法语",
+ "voice": "女高音",
+ "difficulty": "基础",
+ "tempoBpm": 72,
+ "timeSignature": "6/8",
+ "coverage": {
+  "measures": [
+   1,
+   70
+  ],
+  "firstSungMeasure": 3,
+  "complete": true,
+  "note": "完整声乐旋律（G 大调，3/8，轻快的小夜曲风格）。德布西早期最迷人的小品之一。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "C4",
+  "high": "G5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "旁观者（描绘欢愉场景的叙事者）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Les donneurs de sérénades",
+   "zh": "那些唱小夜曲的人们"
+  },
+  {
+   "text": "et les belles écouteuses",
+   "zh": "和美丽的聆听者们"
+  },
+  {
+   "text": "échangent des propos fades",
+   "zh": "交换着平淡的话语，"
+  },
+  {
+   "text": "sous les ramures chanteuses.",
+   "zh": "在歌唱的枝叶下面。"
+  },
+  {
+   "text": "C'est Tircis et c'est Aminte,",
+   "zh": "那是蒂尔西和阿曼特，"
+  },
+  {
+   "text": "et c'est l'éternel Clitandre,",
+   "zh": "还有永恒的克利坦德，"
+  },
+  {
+   "text": "et c'est Damis qui pour mainte",
+   "zh": "还有达米斯——他为了许多"
+  },
+  {
+   "text": "cruelle fait maint vers tendre.",
+   "zh": "残忍的美人写了许多温柔的诗。"
+  },
+  {
+   "text": "Leurs courtes vestes de soie,",
+   "zh": "他们短短的丝绸外衣，"
+  },
+  {
+   "text": "leurs longues robes à queues,",
+   "zh": "她们拖地的长裙，"
+  },
+  {
+   "text": "leur élégance, leur joie",
+   "zh": "他们的优雅、他们的欢乐——"
+  },
+  {
+   "text": "et leurs molles ombres bleues",
+   "zh": "还有他们柔和的蓝色影子——"
+  },
+  {
+   "text": "tourbillonnent dans l'extase",
+   "zh": "都在狂喜中旋转，"
+  },
+  {
+   "text": "d'une lune rose et grise,",
+   "zh": "在一轮玫瑰色和灰色的月亮下，"
+  },
+  {
+   "text": "et la mandoline jase",
+   "zh": "曼陀林在喋喋不休——"
+  },
+  {
+   "text": "parmi les frissons de brise.",
+   "zh": "在微风的颤栗之中。"
+  }
+ ],
+ "story": {
+  "background": "魏尔兰的「曼陀林」出自诗集《雅宴》（Fêtes galantes, 1869），灵感来自华托和弗拉戈纳尔的洛可可绘画——18 世纪的贵族在花园中弹琴、歌唱、调情。德布西在 1882 年（20 岁）为它谱曲，1891 年出版。这是他最早成熟的歌曲之一，轻快的曼陀林拨弦节奏和精致的声乐线完美再现了洛可可的优雅。",
+  "situation": "月光下的花园。年轻的贵族男女在枝叶下弹着曼陀林唱小夜曲。诗人点名了几个牧歌传统中的角色——蒂尔西、阿曼特、克利坦德、达米斯——他们穿着丝绸衣裳，在月色中旋转起舞。一切都是美丽的、虚幻的、不太认真的。",
+  "relationships": "没有真正的人物关系——这是一幅群像画。「les donneurs de sérénades et les belles écouteuses」是一群匿名的情人们。具名角色（Tircis, Aminte, Clitandre, Damis）都是意大利喜剧/法国牧歌的传统名字，不是真人。这首歌关注的是场景的整体美感，不是任何个人的情感。",
+  "intent": "轻盈、调皮、带一点讽刺。不要把这首歌唱得太认真——魏尔兰的诗带有一种温和的嘲讽：这些人的小夜曲是「平淡的」（fades），他们的爱情是游戏。声音要像曼陀林——清脆、快速、不深沉。结尾的场景消散要自然——不是悲伤的消失，而是画面慢慢走远。",
+  "plain30": "月光下的花园派对：年轻的贵族弹着曼陀林唱小夜曲，穿着丝绸旋转起舞。一切都很美，但不太认真。曼陀林在微风中喋喋不休。一幅18世纪洛可可画的声音版。",
+  "arc": "G 大调，3/8，活泼。钢琴模仿曼陀林的拨弦——轻快的八分音符分解和弦。声乐线在中高音区跳跃，像轻巧的舞步。四段诗的处理基本统一——没有戏剧性转折，始终保持轻快。最后几小节的渐弱像场景在月光中渐渐远去。",
+  "motif": "曼陀林拨弦动机：钢琴的连续八分音符分解和弦——模仿拨弦乐器的音响，贯穿全曲不间断。旋转动机：「tourbillonnent dans l'extase」处旋律快速上下运动，像裙摆在旋转。列举动机：「C'est Tircis et c'est Aminte」的重复「c'est...c'est...」——像在逐一指认画中的人物。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "开头「Les donneurs de sérénades」——场景铺开，轻快自在"
+   },
+   {
+    "phrase": "5",
+    "note": "「C'est Tircis et c'est Aminte」——列举动机，一个个点名"
+   },
+   {
+    "phrase": "13",
+    "note": "「tourbillonnent dans l'extase」——旋转动机，最活跃的时刻"
+   },
+   {
+    "phrase": "15",
+    "note": "「la mandoline jase」——回到曼陀林，场景开始消散"
+   }
+  ],
+  "technique": "速度较快（3/8），需要清晰的法语咬字在快节奏中保持。音域适中（大约 D4 到 G5），没有极端高音。最大的挑战是保持整首歌的轻盈感——不能用太多的声音重量，也不能让节奏变重。把自己想象成一把曼陀林而不是一架钢琴。连音和断音的交替要灵活——有些音节需要短促，有些需要连贯。",
+  "classroom": [
+   "先读中文——这是一幅画的描述，不是个人的情感表达。想象华托的画。",
+   "朗读法语，用轻快的 3/8 节奏——像在快速跳跃。",
+   "练习快速列举：「C'est Tircis et c'est Aminte et c'est l'éternel Clitandre」——每个名字都要清楚。",
+   "用「la la la」替代歌词哼唱旋律——感受曼陀林般的轻快。",
+   "加入歌词，半速——确保每个音节都清晰。",
+   "原速演唱——保持微笑的感觉，声音像在闪烁。",
+   "这首歌可以和福雷的「Mandoline」（Op.58 No.1）比较——同一首诗，完全不同的音乐处理。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "法语节奏与咬字",
+   "items": [
+    "sérénades [seʁenad]——三个音节的 é 要清晰",
+    "écouteuses [ekutøz]——ou [u] 和 eu [ø] 的交替",
+    "tourbillonnent [tuʁbijɔnɛ]——四个音节要在快速节奏中保持清楚",
+    "la mandoline jase [ʒaz]——j 是 [ʒ]，不是英语的 [dʒ]"
+   ]
+  },
+  {
+   "title": "轻快的演唱风格",
+   "items": [
+    "整首歌像一幅华托的画——18 世纪的贵族在月光下嬉戏",
+    "不要用太多声音「重量」——应该像曼陀林的拨弦一样轻盈",
+    "3/8 的节拍要有舞蹈感——一强两弱，但不要过重",
+    "最后两行可以渐弱——场景慢慢消失在月光和微风中"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    3,
+    8
+   ],
+   "lyrics": "Les donneurs de sérénades Et les belles écouteuses Echangent",
+   "translation": "那些唱小夜曲的人们",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0003",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0004",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "Les",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0005",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 1.667,
+     "lyric": "don",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0006",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 2.0,
+     "lyric": "neurs",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0007",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.667,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0008",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "sé",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0009",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0010",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.667,
+     "lyric": "ré",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0011",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "na",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0012",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.667,
+     "lyric": "des",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0013",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0014",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 1.333,
+     "lyric": "Et",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0015",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 1.667,
+     "lyric": "les",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0016",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0017",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0018",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.667,
+     "lyric": "les",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0019",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "é",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0020",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0021",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1.667,
+     "lyric": "cou",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0022",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "teu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0023",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.667,
+     "lyric": "ses",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0024",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0025",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0026",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.667,
+     "lyric": "E",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0027",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "chan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0028",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.667,
+     "lyric": "gent",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    9,
+    14
+   ],
+   "lyrics": "des propos fades Sous les ramures chanteuses.",
+   "translation": "在歌唱的枝叶下面。",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0029",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0030",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.333,
+     "lyric": "pro",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0031",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.667,
+     "lyric": "pos",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0032",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "fa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0033",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.667,
+     "lyric": "des",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0034",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "Sous",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0035",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.333,
+     "lyric": "les",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0036",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.667,
+     "lyric": "ra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0037",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "mu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0038",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.333,
+     "lyric": "res",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0039",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.667,
+     "lyric": "chan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0040",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "teu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0041",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0042",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0043",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0044",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "ses.",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0045",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0046",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0047",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    15,
+    17
+   ],
+   "lyrics": "C’est Tircis et c’est Aminte,",
+   "translation": "那是蒂尔西和阿曼特，",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0048",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "C’est",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0049",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.667,
+     "lyric": "Tir",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0050",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "cis",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0051",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.667,
+     "lyric": "et",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0052",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "c’est",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0053",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0054",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.667,
+     "lyric": "A",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0055",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "min",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0056",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "te,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    18,
+    21
+   ],
+   "lyrics": "Et c’est l’éternel Clitandre,",
+   "translation": "还有永恒的克利坦德，",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0057",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "Et",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0058",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.333,
+     "lyric": "c’est",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0059",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.667,
+     "lyric": "l’é",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0060",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "ter",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0061",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.333,
+     "lyric": "nel",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0062",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.667,
+     "lyric": "Cli",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0063",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "tan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0064",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0065",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0066",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0067",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "dre,",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0068",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0069",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    22,
+    28
+   ],
+   "lyrics": "Et c’est Damis qui pour mainte Cruelle fait maint vers tendre.",
+   "translation": "还有达米斯——他为了许多",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0070",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "Et",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0071",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.333,
+     "lyric": "c’est",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0072",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.667,
+     "lyric": "Da",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0073",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "mis",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0074",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.667,
+     "lyric": "qui",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0075",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "pour",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0076",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.333,
+     "lyric": "main",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0077",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.667,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0078",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "Cru",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0079",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.333,
+     "lyric": "el",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0080",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.667,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0081",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "fait",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0082",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0083",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0084",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 2.0,
+     "lyric": "maint",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0085",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.667,
+     "lyric": "vers",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0086",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "ten",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0087",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0088",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0089",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "dre.",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0090",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0091",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0092",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0093",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    28,
+    30
+   ],
+   "lyrics": "Leurs courtes vestes de soie,",
+   "translation": "他们短短的丝绸外衣，",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0094",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 28,
+     "beat": 1.5,
+     "lyric": "Leurs",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0095",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "cour",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0096",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 28,
+     "beat": 2.5,
+     "lyric": "tes",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0097",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "ves",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0098",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 29,
+     "beat": 2.0,
+     "lyric": "tes",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0099",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 29,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0100",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "soie,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    30,
+    32
+   ],
+   "lyrics": "Leurs longues robes à queues,",
+   "translation": "她们拖地的长裙，",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0101",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.0,
+     "lyric": "Leurs",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0102",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.333,
+     "lyric": "lon",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0103",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.667,
+     "lyric": "gues",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0104",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "ro",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0105",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.667,
+     "lyric": "bes",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0106",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "à",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0107",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0108",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0109",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "queu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0110",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "es,",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0111",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    32,
+    36
+   ],
+   "lyrics": "Leur élégance, Leur joie Et leurs molles ombre",
+   "translation": "他们的优雅、他们的欢乐——",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0112",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.667,
+     "lyric": "Leur",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0113",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "é",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0114",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 1.333,
+     "lyric": "lé",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0115",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 1.667,
+     "lyric": "gan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0116",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.333,
+     "lyric": "ce,",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0117",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0118",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2.667,
+     "lyric": "Leur",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0119",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "joi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0120",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.667,
+     "lyric": "e",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0121",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 34,
+     "beat": 2.0,
+     "lyric": "Et",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0122",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "leurs",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0123",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.0,
+     "lyric": "mol",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0124",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0125",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.667,
+     "lyric": "les",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0126",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "om",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0127",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0128",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0129",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 2.0,
+     "lyric": "bre",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0130",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0131",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    37,
+    41
+   ],
+   "lyrics": "bleues, Tourbillonnent dans l’extase D’une lune",
+   "translation": "都在狂喜中旋转，",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0132",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "bleu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0133",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "es,",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0134",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0135",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0136",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "Tour",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0137",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.667,
+     "lyric": "bil",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0138",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 2.0,
+     "lyric": "lon",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0139",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.667,
+     "lyric": "nent",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0140",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "dans",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0141",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 40,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0142",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.667,
+     "lyric": "l’ex",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0143",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 2.0,
+     "lyric": "ta",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0144",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.667,
+     "lyric": "se",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0145",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0146",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.333,
+     "lyric": "D’u",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0147",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.667,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0148",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.0,
+     "lyric": "lu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0149",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0150",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.667,
+     "lyric": "ne",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    42,
+    43
+   ],
+   "lyrics": "rose et grise,",
+   "translation": "在一轮玫瑰色和灰色的月亮下，",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0151",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "rose",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0152",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0153",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 1.667,
+     "lyric": "et",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0154",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 2.0,
+     "lyric": "gri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0155",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.667,
+     "lyric": "se,",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0156",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0157",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    43,
+    48
+   ],
+   "lyrics": "Et la mandoline jase parmi les frissons de brise.",
+   "translation": "在微风的颤栗之中。",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0158",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 1.667,
+     "lyric": "Et",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0159",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0160",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.333,
+     "lyric": "man",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0161",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.667,
+     "lyric": "do",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0162",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "li",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mandoline-debussy-e0163",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0164",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.667,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0165",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 44,
+     "beat": 2.0,
+     "lyric": "ja",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0166",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.667,
+     "lyric": "se",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0167",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "par",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0168",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 1.333,
+     "lyric": "mi",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0169",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 1.667,
+     "lyric": "les",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0170",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.0,
+     "lyric": "fris",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0171",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.333,
+     "lyric": "sons",
+     "syllabic": "end"
+    },
+    {
+     "id": "mandoline-debussy-e0172",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.667,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0173",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "bri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mandoline-debussy-e0174",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 46,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0175",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0176",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 47,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0177",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "se.",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    49,
+    50
+   ],
+   "lyrics": "La, la, la, la, la,",
+   "translation": "曼陀林在喋喋不休——",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0178",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "La,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0179",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "la,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0180",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.0,
+     "lyric": "la,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0181",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.333,
+     "lyric": "la,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0182",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.667,
+     "lyric": "la,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    51,
+    52
+   ],
+   "lyrics": "la, la, la, la, la, la, la,",
+   "translation": "曼陀林在喋喋不休——",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0183",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "la,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0184",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 1.333,
+     "lyric": "la,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0185",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 1.667,
+     "lyric": "la,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0186",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.0,
+     "lyric": "la,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0187",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.333,
+     "lyric": "la,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0188",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.667,
+     "lyric": "la,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0189",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "la,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0190",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 52,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    53,
+    54
+   ],
+   "lyrics": "la, la la, la la, la la,",
+   "translation": "曼陀林在喋喋不休——",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0191",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "la,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0192",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0193",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0194",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.667,
+     "lyric": "la,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0195",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 1.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0196",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0197",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 1.667,
+     "lyric": "la,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0198",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 2.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0199",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0200",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 2.667,
+     "lyric": "la,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    55,
+    56
+   ],
+   "lyrics": "la la,",
+   "translation": "曼陀林在喋喋不休——",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0201",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 55,
+     "beat": 1.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0202",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 55,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0203",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 7.5,
+     "measure": 56,
+     "beat": 1.0,
+     "lyric": "la,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    58,
+    63
+   ],
+   "lyrics": "la la la la",
+   "translation": "曼陀林在喋喋不休——",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0204",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0205",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0206",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0207",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0208",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0209",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0210",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0211",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0212",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0213",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 6.0,
+     "measure": 60,
+     "beat": 1.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0214",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 4.5,
+     "measure": 62,
+     "beat": 1.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0215",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 63,
+     "beat": 2.0,
+     "lyric": "la",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    64,
+    70
+   ],
+   "lyrics": "la la",
+   "translation": "曼陀林在喋喋不休——",
+   "events": [
+    {
+     "id": "mandoline-debussy-e0216",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 6.0,
+     "measure": 64,
+     "beat": 1.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0217",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 7.5,
+     "measure": 66,
+     "beat": 1.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "mandoline-debussy-e0218",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 68,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0219",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0220",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 69,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mandoline-debussy-e0221",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 70,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 219,
+ "restCount": 24,
+ "lyricNoteCount": 154,
+ "pages": 1,
+ "speech": {
+  "voice": "fr_FR-siwis-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 17,
+  "slowScale": 1.45
+ }
+}

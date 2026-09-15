@@ -1,0 +1,2906 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "der-lindenbaum",
+ "title": "Der Lindenbaum",
+ "titleZh": "菩提树",
+ "composer": "F. Schubert",
+ "opera": "Winterreise, D. 911, No. 5（《冬之旅》，1827；艺术歌曲，非歌剧）",
+ "language": "德语",
+ "voice": "男高音",
+ "difficulty": "中级",
+ "tempoBpm": 66,
+ "timeSignature": "3/4",
+ "coverage": {
+  "measures": [
+   1,
+   82
+  ],
+  "firstSungMeasure": 8,
+  "complete": true,
+  "note": "完整声乐旋律（E 大调，3/4 Mäßig，82 小节，含钢琴前奏与间奏处的休止）。来源为 Sibelius 直接导出的 MusicXML（music21 corpus），188 个歌词音节完整；已按 Müller 原诗恢复变音符号（träumt’、süßen、hör’）并修正个别识别错字（wir → mir），与 IMSLP Breitkopf 版声乐谱歌词一致。"
+ },
+ "range": {
+  "low": "B3",
+  "high": "E5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "流浪者：被拒绝的求婚者（《冬之旅》叙述者）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "MusicXML 原谱（Sibelius 导出） · 已核验",
+ "sources": [
+  {
+   "name": "music21 corpus · schubert/Lindenbaum.xml",
+   "url": "https://github.com/cuthbertLab/music21/tree/master/music21/corpus/schubert",
+   "format": "MusicXML（Sibelius 8.4 直接导出）",
+   "status": "已解析；188 个音节与原诗逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "IMSLP · Winterreise, D.911 (Schubert) — No. 5 Der Lindenbaum",
+   "url": "https://imslp.org/wiki/Winterreise,_D.911_(Schubert,_Franz)",
+   "format": "PDF 声乐谱（Breitkopf & Härtel, Schubert’s Werke, Serie XX）",
+   "status": "用于交叉核对调性、拍号、歌词与变音符号",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "Wikisource · Wilhelm Müller, Der Lindenbaum",
+   "url": "https://de.wikisource.org/wiki/Der_Lindenbaum_(M%C3%BCller)",
+   "format": "网页（原诗文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Am Brunnen vor dem Tore, da steht ein Lindenbaum;",
+   "zh": "城门前的井边，立着一棵菩提树；"
+  },
+  {
+   "text": "ich träumt’ in seinem Schatten so manchen süßen Traum.",
+   "zh": "我曾在它的树荫下做过多少甜美的梦。"
+  },
+  {
+   "text": "Ich schnitt in seine Rinde so manches liebe Wort;",
+   "zh": "我在它的树皮上刻下多少爱的话语；"
+  },
+  {
+   "text": "es zog in Freud’ und Leide zu ihm mich immer fort.",
+   "zh": "无论欢乐或痛苦，它总把我引向它。"
+  },
+  {
+   "text": "Ich musst’ auch heute wandern vorbei in tiefer Nacht,",
+   "zh": "今夜我也不得不在深夜里从它身旁走过，"
+  },
+  {
+   "text": "da hab’ ich noch im Dunkel die Augen zugemacht.",
+   "zh": "在黑暗中我还是闭上了眼睛。"
+  },
+  {
+   "text": "Und seine Zweige rauschten, als riefen sie mir zu:",
+   "zh": "它的枝条沙沙作响，像在向我呼唤："
+  },
+  {
+   "text": "komm her zu mir, Geselle, hier find’st du deine Ruh’!",
+   "zh": "到我这儿来吧，伙伴，在这里你会找到安宁！"
+  },
+  {
+   "text": "Die kalten Winde bliesen mir grad’ ins Angesicht,",
+   "zh": "寒风正吹在我的脸上，"
+  },
+  {
+   "text": "der Hut flog mir vom Kopfe, ich wendete mich nicht.",
+   "zh": "帽子从头上被吹走，我却没有回头。"
+  },
+  {
+   "text": "Nun bin ich manche Stunde entfernt von jenem Ort,",
+   "zh": "如今我已离那地方好几个钟头，"
+  },
+  {
+   "text": "und immer hör’ ich’s rauschen: du fändest Ruhe dort!",
+   "zh": "却仍听见那沙沙声：你会在那里找到安宁！"
+  }
+ ],
+ "story": {
+  "background": "《冬之旅》是舒伯特 1827 年据威廉·穆勒的 24 首诗创作的声乐套曲，第 5 首《菩提树》是全套最著名、也最常被单独演唱的一首，甚至在德语区被当作民歌传唱（Friedrich Silcher 的民歌改编版即源于此）。原调 E 大调、3/4 Mäßig（中速），钢琴前奏以三连音模拟树叶的沙沙声。",
+  "situation": "流浪者在冬夜离开了失恋的小镇，路过城门前的老菩提树。过去他在树下做梦、刻字；此刻寒风扑面，树声像在召唤他“到这里来找安宁”——那既是休息，也是死亡的暗示。他闭着眼走过去，没有回头。他想要的是不再痛苦，害怕的是自己真的会停下。",
+  "relationships": "全套曲只有一个人物：被拒的求婚者。菩提树替代了所有关系——它承载他对爱人的记忆（刻在树皮上的话），也像一位劝他放弃的“伙伴”（Geselle）。这首歌是套曲从回忆转向决绝的节点：从第 6 首起，他再也没有回头看过那座小镇。",
+  "intent": "第一段（回忆）要唱得温暖、平稳，像讲述；第二段（今夜路过）音色变暗，“die Augen zugemacht” 收得很轻；第三段树的呼唤转入小调再回到大调，声音柔而有诱惑力；“Die kalten Winde” 段是全曲唯一的戏剧爆发，要有对抗感；最后一段回到叙述，但“du fändest Ruhe dort” 应带着未被说破的动摇。",
+  "plain30": "一个失恋的年轻人在冬夜路过老菩提树，树声好像在对他说：留下来吧，这里有安宁。他闭着眼走了过去，可那声音一直跟着他。这是一首关于“想停下，却不敢停下”的歌。",
+  "arc": "E 大调，3/4，中速。旋律以级进和小三度为主、分句方正，像民歌。第一、二段为同一旋律；第三段“Und seine Zweige rauschten”转到 e 小调再回大调，出现全曲最柔的音区；“Die kalten Winde”段钢琴三连音转为暴风般的分解和弦，声部用宣叙式的重复音；尾段回归主题并两次重复“du fändest Ruhe dort”。情绪从怀旧—阴暗—诱惑—对抗—平静下的不安。",
+  "motif": "核心动机是开头“Am Brun-nen vor dem To-re”的级进下行再回升：像摇篮曲般在主音周围来回，象征安稳的回忆。它在每段开头以同样形式回来；在“Die kalten Winde”段被打断，换成重复音上的宣叙式节奏（风的对抗）；尾段动机原样再现，但歌词已变成“du fändest Ruhe dort”——同一段旋律，含义从回忆变成诱惑。演唱时保持动机的连贯与轻盈，把区别交给音色。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Am Brunnen vor dem Tore” 首次呈示级进下行—回升动机，唱得像叙述。"
+   },
+   {
+    "phrase": 5,
+    "note": "第 5 句 “Ich musst’ auch heute wandern” 同一动机第二次出现，音色转暗，表示今夜。"
+   },
+   {
+    "phrase": 9,
+    "note": "第 9–10 句 “Die kalten Winde bliesen” 动机被重复音宣叙式节奏取代，是全曲唯一的对抗。"
+   },
+   {
+    "phrase": 11,
+    "note": "第 11 句起动机原样再现，歌词已是 “du fändest Ruhe dort”，含义翻转为诱惑。"
+   }
+  ],
+  "technique": "呼吸：每两小节一个乐句，前奏与间奏处的休止是明确的换气点，不要在“Lindenbaum”中间换气。咬字：德语结尾辅音（steht、Wort、Nacht）要在下一拍前收完，元音保持圆润。换声区：男高音在 “Ruh’”（E4–F♯4 附近）与 “Angesicht” 的上行处经过换声区，用更多头腔、减少音量。高音：全曲最高音 E5 只在 “Die kalten Winde” 段出现，作为呐喊而非抒情长音，靠气息支撑、短促有力。",
+  "classroom": [
+   "先读中文，弄清三个时间层：过去（树下做梦）、今夜（路过）、现在（远离却仍听见）。",
+   "慢速读德语原文，标出 ä/ö/ü 与 ch 的两种读法。",
+   "分离元音和辅音：单独练 sch、ts、ch 与词尾弱化 -e。",
+   "按 3/4 拍说词，第一拍稍重，像缓步行走。",
+   "听单音旋律，辨认动机在每段开头的回归。",
+   "把歌词放回旋律，先练第一段，再用同一旋律套第二段。",
+   "用正常速度完整演唱，注意 “Die kalten Winde” 段的音色对比。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音与变音",
+   "items": [
+    "träumt’、fändest 的 ä 读开口 [ɛ]，不要读成 a；süßen 的 ü 是圆唇前元音 [yː]，舌位同 i、唇形同 u。",
+    "hör’ 的 ö 为圆唇 [øː]；Ruh’、zu、du 的 u 保持圆而深。",
+    "Lindenbaum、Traum、Baum 的 au 读 [aʊ]，第二成分轻。"
+   ]
+  },
+  {
+   "title": "辅音与咬字",
+   "items": [
+    "schnitt、Schatten、rauschen 的 sch [ʃ] 要靠前、有气流；Zweige 的 z 读 [ts]。",
+    "词尾 -e（Schatten 的 -en、Rinde、Leide）读弱化的 [ə]，不要唱成清晰的 e。",
+    "nicht、Nacht、macht 的 ch：前元音后为 [ç]（nicht），a 后为 [x]（Nacht、macht）。",
+    "Wort、fort、dort、Ort 的 r 在演唱中可用轻弹舌 [r]，词尾 t 要清晰收音。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    8,
+    12
+   ],
+   "lyrics": "Am Brunnen vor dem Tore da steht ein Lindenbaum;",
+   "translation": "城门前的井边，立着一棵菩提树；",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0009",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0010",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.5,
+     "lyric": "Am",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0011",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "Brun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0012",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "nen",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0013",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3,
+     "lyric": "vor",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0014",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.5,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0015",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "To",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0016",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 2,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0017",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0018",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 3.5,
+     "lyric": "da",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0019",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "steht",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0020",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "ein",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0021",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.332,
+     "measure": 11,
+     "beat": 3,
+     "lyric": "Lin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0022",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.332,
+     "measure": 11,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0023",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.3359,
+     "measure": 11,
+     "beat": 3.667,
+     "lyric": "den",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-lindenbaum-e0024",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "baum;",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0025",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    12,
+    16
+   ],
+   "lyrics": "ich träumt’ in seinem Schatten so manchen süßen Traum.",
+   "translation": "我曾在它的树荫下做过多少甜美的梦。",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0026",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0027",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "träumt’",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0028",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0029",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 3,
+     "lyric": "sei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0030",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 3.5,
+     "lyric": "nem",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0031",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "Schat",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0032",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0033",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0034",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 3.5,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0035",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "man",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0036",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "chen",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0037",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.332,
+     "measure": 15,
+     "beat": 3,
+     "lyric": "sü",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0038",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.332,
+     "measure": 15,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0039",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.3359,
+     "measure": 15,
+     "beat": 3.667,
+     "lyric": "ßen",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0040",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "Traum.",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0041",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    16,
+    20
+   ],
+   "lyrics": "Ich schnitt in seine Rinde so manches liebe Wort;",
+   "translation": "我在它的树皮上刻下多少爱的话语；",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0042",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.5,
+     "lyric": "Ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0043",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "schnitt",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0044",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0045",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3,
+     "lyric": "sei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0046",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0047",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 1,
+     "lyric": "Rin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0048",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0049",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 18,
+     "beat": 2,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0050",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.5,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0051",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 19,
+     "beat": 1,
+     "lyric": "man",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0052",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "ches",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0053",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 3,
+     "lyric": "lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0054",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 3.5,
+     "lyric": "be",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0055",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2,
+     "measure": 20,
+     "beat": 1,
+     "lyric": "Wort;",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0056",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    20,
+    28
+   ],
+   "lyrics": "es zog in Freud’ und Leide zu ihm mich immer fort.",
+   "translation": "无论欢乐或痛苦，它总把我引向它。",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0057",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3.5,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0058",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 21,
+     "beat": 1,
+     "lyric": "zog",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0059",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0060",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3,
+     "lyric": "Freud’",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0061",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0062",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 1,
+     "lyric": "Lei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0063",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0064",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 22,
+     "beat": 2,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0065",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0066",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3.5,
+     "lyric": "zu",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0067",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 23,
+     "beat": 1,
+     "lyric": "ihm",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0068",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0069",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.5,
+     "lyric": "mich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0070",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 23,
+     "beat": 3,
+     "lyric": "im",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0071",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 3.75,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0072",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 24,
+     "beat": 1,
+     "lyric": "fort.",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0073",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 24,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0074",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 25,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0075",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 26,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0076",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 27,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0077",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 28,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0078",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    28,
+    32
+   ],
+   "lyrics": "Ich musst’ auch heute wandern vorbei in tiefer Nacht,",
+   "translation": "今夜我也不得不在深夜里从它身旁走过，",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0079",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 3.5,
+     "lyric": "Ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0080",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 29,
+     "beat": 1,
+     "lyric": "musst’",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0081",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2.5,
+     "lyric": "auch",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0082",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 29,
+     "beat": 3,
+     "lyric": "heu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0083",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 3.75,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0084",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 30,
+     "beat": 1,
+     "lyric": "wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0085",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 30,
+     "beat": 2,
+     "lyric": "dern",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0086",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0087",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 3.5,
+     "lyric": "vor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0088",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 31,
+     "beat": 1,
+     "lyric": "bei",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0089",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0090",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.332,
+     "measure": 31,
+     "beat": 3,
+     "lyric": "tie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0091",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.332,
+     "measure": 31,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0092",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.3359,
+     "measure": 31,
+     "beat": 3.667,
+     "lyric": "fer",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0093",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 32,
+     "beat": 1,
+     "lyric": "Nacht,",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0094",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    32,
+    36
+   ],
+   "lyrics": "da hab’ ich noch im Dunkel die Augen zugemacht.",
+   "translation": "在黑暗中我还是闭上了眼睛。",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0095",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 3.5,
+     "lyric": "da",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0096",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 33,
+     "beat": 1,
+     "lyric": "hab’",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0097",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0098",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 3,
+     "lyric": "noch",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0099",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 3.5,
+     "lyric": "im",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0100",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 34,
+     "beat": 1,
+     "lyric": "Dun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0101",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 34,
+     "beat": 2,
+     "lyric": "kel",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0102",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0103",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 3.5,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0104",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 35,
+     "beat": 1,
+     "lyric": "Au",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0105",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.5,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0106",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.332,
+     "measure": 35,
+     "beat": 3,
+     "lyric": "zu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0107",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.332,
+     "measure": 35,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0108",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.3359,
+     "measure": 35,
+     "beat": 3.667,
+     "lyric": "ge",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-lindenbaum-e0109",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 36,
+     "beat": 1,
+     "lyric": "macht.",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0110",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    36,
+    38
+   ],
+   "lyrics": "Und seine Zweige rauschten,",
+   "translation": "它的枝条沙沙作响，像在向我呼唤：",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0111",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 3.5,
+     "lyric": "Und",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0112",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 37,
+     "beat": 1,
+     "lyric": "sei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0113",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0114",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 3,
+     "lyric": "Zwei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0115",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 3.5,
+     "lyric": "ge",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0116",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 38,
+     "beat": 1,
+     "lyric": "rausch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0117",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 38,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0118",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 38,
+     "beat": 2,
+     "lyric": "ten,",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0119",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    38,
+    41
+   ],
+   "lyrics": "als riefen sie mir zu: komm her zu mir,",
+   "translation": "它的枝条沙沙作响，像在向我呼唤：",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0120",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 3.5,
+     "lyric": "als",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0121",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 39,
+     "beat": 1,
+     "lyric": "rie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0122",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.5,
+     "lyric": "fen",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0123",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 3,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0124",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 3.5,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0125",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2,
+     "measure": 40,
+     "beat": 1,
+     "lyric": "zu:",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0126",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0127",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 3.5,
+     "lyric": "komm",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0128",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 41,
+     "beat": 1,
+     "lyric": "her",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0129",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.5,
+     "lyric": "zu",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0130",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 3,
+     "lyric": "mir,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    41,
+    45
+   ],
+   "lyrics": "Geselle, hier find’st du deine Ruh’!",
+   "translation": "到我这儿来吧，伙伴，在这里你会找到安宁！",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0131",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 3.5,
+     "lyric": "Ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0132",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 42,
+     "beat": 1,
+     "lyric": "sel",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-lindenbaum-e0133",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0134",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 42,
+     "beat": 2,
+     "lyric": "le,",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0135",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0136",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 3.5,
+     "lyric": "hier",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0137",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 43,
+     "beat": 1,
+     "lyric": "find’st",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0138",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0139",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0140",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 43,
+     "beat": 3,
+     "lyric": "dei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0141",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 43,
+     "beat": 3.75,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0142",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 44,
+     "beat": 1,
+     "lyric": "Ruh’!",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0143",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 44,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0144",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 45,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0145",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    45,
+    49
+   ],
+   "lyrics": "Die kalten Winde bliesen mir grad’ ins Angesicht,",
+   "translation": "寒风正吹在我的脸上，",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0146",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 3.5,
+     "lyric": "Die",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0147",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 46,
+     "beat": 1,
+     "lyric": "kal",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0148",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 2.5,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0149",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 3,
+     "lyric": "Win",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0150",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 3.5,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0151",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 47,
+     "beat": 1,
+     "lyric": "blie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0152",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 47,
+     "beat": 2,
+     "lyric": "sen",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0153",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0154",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 3.5,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0155",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 48,
+     "beat": 1,
+     "lyric": "grad’",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0156",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2.5,
+     "lyric": "ins",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0157",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 48,
+     "beat": 3,
+     "lyric": "An",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0158",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 48,
+     "beat": 3.75,
+     "lyric": "ge",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-lindenbaum-e0159",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2,
+     "measure": 49,
+     "beat": 1,
+     "lyric": "sicht,",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0160",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    49,
+    51
+   ],
+   "lyrics": "der Hut flog mir vom Kopfe,",
+   "translation": "帽子从头上被吹走，我却没有回头。",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0161",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 3.5,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0162",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 50,
+     "beat": 1,
+     "lyric": "Hut",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0163",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.5,
+     "lyric": "flog",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0164",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 3,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0165",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 3.5,
+     "lyric": "vom",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0166",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 51,
+     "beat": 1,
+     "lyric": "Kop",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0167",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1,
+     "measure": 51,
+     "beat": 2,
+     "lyric": "fe,",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0168",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    51,
+    58
+   ],
+   "lyrics": "ich wendete mich nicht.",
+   "translation": "帽子从头上被吹走，我却没有回头。",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0169",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 3.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0170",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 52,
+     "beat": 1,
+     "lyric": "wen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0171",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-lindenbaum-e0172",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 3,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0173",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 3.5,
+     "lyric": "mich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0174",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 2,
+     "measure": 53,
+     "beat": 1,
+     "lyric": "nicht.",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0175",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 53,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0176",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 54,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0177",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 55,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0178",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 56,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0179",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 57,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0180",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 58,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0181",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    58,
+    62
+   ],
+   "lyrics": "Nun bin ich manche Stunde entfernt von jenem Ort,",
+   "translation": "如今我已离那地方好几个钟头，",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0182",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 3.5,
+     "lyric": "Nun",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0183",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 59,
+     "beat": 1,
+     "lyric": "bin",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0184",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 2.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0185",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 3,
+     "lyric": "man",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0186",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 3.5,
+     "lyric": "che",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0187",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 60,
+     "beat": 1,
+     "lyric": "Stun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0188",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 60,
+     "beat": 2,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0189",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0190",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 3.5,
+     "lyric": "ent",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0191",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 61,
+     "beat": 1,
+     "lyric": "fernt",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0192",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 2.5,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0193",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.332,
+     "measure": 61,
+     "beat": 3,
+     "lyric": "je",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0194",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.332,
+     "measure": 61,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0195",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.3359,
+     "measure": 61,
+     "beat": 3.667,
+     "lyric": "nem",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0196",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 62,
+     "beat": 1,
+     "lyric": "Ort,",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0197",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    62,
+    66
+   ],
+   "lyrics": "und immer hör’ ich’s rauschen: du fändest Ruhe dort!",
+   "translation": "却仍听见那沙沙声：你会在那里找到安宁！",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0198",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 3.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0199",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 63,
+     "beat": 1,
+     "lyric": "im",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0200",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 2.5,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0201",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 3,
+     "lyric": "hör’",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0202",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 3.5,
+     "lyric": "ich’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0203",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 64,
+     "beat": 1,
+     "lyric": "rau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0204",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 64,
+     "beat": 2,
+     "lyric": "schen:",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0205",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0206",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 3.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0207",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 65,
+     "beat": 1,
+     "lyric": "fän",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0208",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 2.5,
+     "lyric": "dest",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0209",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.332,
+     "measure": 65,
+     "beat": 3,
+     "lyric": "Ru",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0210",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.332,
+     "measure": 65,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0211",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.3359,
+     "measure": 65,
+     "beat": 3.667,
+     "lyric": "he",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0212",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 66,
+     "beat": 1,
+     "lyric": "dort!",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0213",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 66,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    66,
+    70
+   ],
+   "lyrics": "Nun bin ich manche Stunde entfernt von jenem Ort,",
+   "translation": "如今我已离那地方好几个钟头，",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0214",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 66,
+     "beat": 3.5,
+     "lyric": "Nun",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0215",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 67,
+     "beat": 1,
+     "lyric": "bin",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0216",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 2.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0217",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 3,
+     "lyric": "man",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0218",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 3.5,
+     "lyric": "che",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0219",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 68,
+     "beat": 1,
+     "lyric": "Stun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0220",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 68,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0221",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 2,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0222",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0223",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0224",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 3.5,
+     "lyric": "ent",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0225",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 69,
+     "beat": 1,
+     "lyric": "fernt",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0226",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 69,
+     "beat": 2.5,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0227",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 69,
+     "beat": 3,
+     "lyric": "je",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0228",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 69,
+     "beat": 3.5,
+     "lyric": "nem",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0229",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2,
+     "measure": 70,
+     "beat": 1,
+     "lyric": "Ort,",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0230",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    70,
+    74
+   ],
+   "lyrics": "und immer hör’ ich’s rauschen: du fändest Ruhe dort;",
+   "translation": "却仍听见那沙沙声：你会在那里找到安宁！",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0231",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 3.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0232",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 71,
+     "beat": 1,
+     "lyric": "im",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0233",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 2.5,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0234",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 3,
+     "lyric": "hör’",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0235",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 3.5,
+     "lyric": "ich’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0236",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 72,
+     "beat": 1,
+     "lyric": "rau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0237",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 72,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0238",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 72,
+     "beat": 2,
+     "lyric": "schen:",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0239",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 72,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0240",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 72,
+     "beat": 3.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0241",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 73,
+     "beat": 1,
+     "lyric": "fän",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0242",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0243",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 2.5,
+     "lyric": "dest",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0244",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 3,
+     "lyric": "Ru",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0245",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 3.5,
+     "lyric": "he",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0246",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2,
+     "measure": 74,
+     "beat": 1,
+     "lyric": "dort;",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0247",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 74,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    74,
+    82
+   ],
+   "lyrics": "du fändest Ruhe dort!",
+   "translation": "却仍听见那沙沙声：你会在那里找到安宁！",
+   "events": [
+    {
+     "id": "der-lindenbaum-e0248",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 74,
+     "beat": 3.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0249",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 75,
+     "beat": 1,
+     "lyric": "fän",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0250",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0251",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 2.5,
+     "lyric": "dest",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0252",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.332,
+     "measure": 75,
+     "beat": 3,
+     "lyric": "Ru",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-lindenbaum-e0253",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.332,
+     "measure": 75,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0254",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.3359,
+     "measure": 75,
+     "beat": 3.667,
+     "lyric": "he",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-lindenbaum-e0255",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 76,
+     "beat": 1,
+     "lyric": "dort!",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-lindenbaum-e0256",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 76,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0257",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 77,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0258",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 78,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0259",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 79,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0260",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 80,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0261",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 81,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-lindenbaum-e0262",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 82,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 254,
+ "restCount": 49,
+ "lyricNoteCount": 188,
+ "pages": 2,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 17,
+  "slowScale": 1.45
+ }
+}

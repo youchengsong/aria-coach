@@ -1,0 +1,153 @@
+{
+  "title": "Verborgenheit",
+  "titleZh": "隐逸",
+  "composer": "H. Wolf",
+  "opera": "Mörike-Lieder No.12（莫里克歌曲集，1888；诗：E. Mörike）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男中音",
+  "difficulty": "中级",
+  "genre": "艺术歌曲",
+  "tempoBpm": 52,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（降E大调，3/4，中等缓慢，约50小节，A-B-A形式）。沃尔夫最被广泛演唱的歌曲，以简洁的旋律表达深沉的内心退隐。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Laß, o Welt, o laß mich sein!",
+      "zh": "让我独处吧，世界，让我独处！"
+    },
+    {
+      "text": "Locket nicht mit Liebesgaben,",
+      "zh": "不要用爱的礼物来引诱我，"
+    },
+    {
+      "text": "laßt dies Herz alleine haben",
+      "zh": "让这颗心独自拥有"
+    },
+    {
+      "text": "seine Wonne, seine Pein!",
+      "zh": "它的欢乐和痛苦！"
+    },
+    {
+      "text": "Was ich traure, weiß ich nicht,",
+      "zh": "我为何悲伤，我自己也不知道，"
+    },
+    {
+      "text": "es ist unbekanntes Wehe;",
+      "zh": "那是一种不知名的忧伤；"
+    },
+    {
+      "text": "immerdar durch Tränen sehe",
+      "zh": "我总是透过泪水"
+    },
+    {
+      "text": "ich der Sonne liebes Licht.",
+      "zh": "看到太阳亲爱的光芒。"
+    },
+    {
+      "text": "Oft bin ich mir kaum bewußt,",
+      "zh": "我常常几乎没有意识到，"
+    },
+    {
+      "text": "und die helle Freude zücket",
+      "zh": "明亮的欢乐就"
+    },
+    {
+      "text": "durch die Schwere, so mich drücket,",
+      "zh": "穿透了压迫着我的沉重，"
+    },
+    {
+      "text": "wonniglich in meiner Brust.",
+      "zh": "在我胸中美妙地闪耀。"
+    },
+    {
+      "text": "Laß, o Welt, o laß mich sein!",
+      "zh": "让我独处吧，世界，让我独处！"
+    },
+    {
+      "text": "Locket nicht mit Liebesgaben,",
+      "zh": "不要用爱的礼物来引诱我，"
+    },
+    {
+      "text": "laßt dies Herz alleine haben",
+      "zh": "让这颗心独自拥有"
+    },
+    {
+      "text": "seine Wonne, seine Pein!",
+      "zh": "它的欢乐和痛苦！"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "Welt 的 e 短 [ɛ]",
+        "Locket 的 o 短 [ɔ]",
+        "Wonne 的 o 短 [ɔ]",
+        "Pein 的 ei 读 [aɪ]",
+        "Tränen 的 ä 长 [ɛː]",
+        "bewußt 的 u 短 [ʊ]"
+      ]
+    },
+    {
+      "title": "歌唱风格",
+      "items": [
+        "A段是恳求——'让我独处'，语气坚定但不愤怒",
+        "B段（'Was ich traure'）更内省，声音要变柔",
+        "B段结尾（'Oft bin ich mir'）是意外的喜悦——声音要'亮'起来",
+        "A段再现要比第一次更深沉——经历了内心旅程后回到起点"
+      ]
+    }
+  ],
+  "story": {
+    "background": "沃尔夫的莫里克歌曲集是德国艺术歌曲的巅峰之一。《隐逸》表达了一种矛盾的内心状态：渴望独处、拒绝世界的诱惑，但内心同时承受着不知名的悲伤和突如其来的喜悦。莫里克的诗在忧郁和光明之间摇摆，沃尔夫用 A-B-A 的三段式完美地捕捉了这种矛盾。",
+    "situation": "没有具体场景——这是一个人对世界的宣言：让我独处。第一段是决心。第二段独处后反观内心——悲伤和喜悦交织，泪水中看到阳光。第三段重复第一段——但经过中间段的内省后，同样的话有了不同的分量。",
+    "relationships": "歌者与'世界'——一种退隐的姿态。不是仇视世界，而是需要独处来感受自己内心的复杂情感。",
+    "intent": "A段：坚定而温和地拒绝。'Laß, o Welt' 不是愤怒的呐喊，而是真诚的请求。B段前半（'Was ich traure'）是困惑的自省；后半（'Oft bin ich mir'）是突然被喜悦穿透的惊喜。A段再现：更深沉、更笃定。",
+    "plain30": "让我独处吧，世界！我不知道自己为何悲伤，但透过泪水我看到了阳光。有时欢乐突然穿透忧伤照进心里。让我独自拥有这一切。",
+    "arc": "降E大调，3/4，A-B-A。A段在中音区展开坚定的请求。B段'Was ich traure'转入更深的音区，然后'helle Freude zücket'上行到高音——喜悦的穿透。A段再现与第一次相同旋律但情感更沉淀。",
+    "motif": "退隐动机：'Laß, o Welt' 的下行四度跳进像关上一扇门。B段的'Tränen'叹息音型（小二度下行）与'helle Freude'的上行跳进形成鲜明对比——泪水与阳光。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "'Laß, o Welt' 退隐动机——坚定的下行四度"
+      },
+      {
+        "phrase": "5",
+        "note": "'Was ich traure' 内省——声音变柔"
+      },
+      {
+        "phrase": "9",
+        "note": "'helle Freude zücket' 喜悦的穿透——上行到高音"
+      },
+      {
+        "phrase": "13",
+        "note": "A段再现——更深沉的退隐"
+      }
+    ],
+    "technique": "A段需要在 mezzo-forte 保持稳定。B段的力度对比是关键——从 piano 的'Was ich traure' 到 forte 的'helle Freude'再回到 piano。再现段不要机械重复——要有经历过中间段后的沉淀感。",
+    "classroom": [
+      "先读中文：让我独处——悲伤与喜悦都是我自己的。",
+      "朗读德语：注意 Laß 的长 a、Wonne/Pein 的对比。",
+      "A-B-A 结构：先学A段旋律，再学B段。",
+      "B段前半声音柔和，后半突然明亮——体会这个转折。",
+      "A段再现时想想：你已经经历了中间段的旅程——同样的词有了不同的含义。",
+      "完整演唱。这首歌适合在需要独处时唱给自己听。",
+      "沃尔夫的歌曲注重词与音的关系——每个词的语气都要和旋律匹配。"
+    ]
+  },
+  "role": "抒情主人公（隐藏爱意者）"
+}

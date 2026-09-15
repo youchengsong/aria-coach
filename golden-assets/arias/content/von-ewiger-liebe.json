@@ -1,0 +1,152 @@
+{
+  "title": "Von ewiger Liebe",
+  "titleZh": "永恒的爱",
+  "composer": "J. Brahms",
+  "opera": "Op.43 No.1（独立艺术歌曲，1864；诗：J. Wenzig/民歌改编）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "genre": "艺术歌曲",
+  "tempoBpm": 66,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（降b小调—降B大调，3/4，变化速度，约100小节）。勃拉姆斯最富戏剧性的歌曲之一——从阴暗的夜到光明的誓言。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Dunkel, wie dunkel in Wald und in Feld!",
+      "zh": "黑暗，森林和田野多么黑暗！"
+    },
+    {
+      "text": "Abend schon ist es, nun schweiget die Welt.",
+      "zh": "已是黄昏，世界沉默了。"
+    },
+    {
+      "text": "Nirgend noch Licht und nirgend noch Rauch,",
+      "zh": "哪里都没有灯光，哪里都没有炊烟，"
+    },
+    {
+      "text": "ja, und die Lerche sie schweiget nun auch.",
+      "zh": "是的，连云雀也沉默了。"
+    },
+    {
+      "text": "Kommt aus dem Dorfe der Bursche heraus,",
+      "zh": "一个年轻人从村子里走出来，"
+    },
+    {
+      "text": "gibt das Geleit der Geliebten nach Haus,",
+      "zh": "送他的爱人回家，"
+    },
+    {
+      "text": "führt sie am Weidengebüsche vorbei,",
+      "zh": "带她走过柳树丛，"
+    },
+    {
+      "text": "redet so viel und so mancherlei:",
+      "zh": "说了许多许多话："
+    },
+    {
+      "text": "\"Leidest du Schmach und betrübest du dich,",
+      "zh": "“如果你受到耻辱和忧伤，"
+    },
+    {
+      "text": "leidest du Schmach von Andern um mich,",
+      "zh": "如果你因我而受到别人的羞辱，"
+    },
+    {
+      "text": "werde die Liebe getrennt so geschwind,",
+      "zh": "让这爱就像被风"
+    },
+    {
+      "text": "schnell wie wir früher vereiniget sind.\"",
+      "zh": "吹散一样迅速地分开吧。”"
+    },
+    {
+      "text": "\"Eisen und Stahl, man schmiedet sie um,",
+      "zh": "“铁和钢，可以重新锻造，"
+    },
+    {
+      "text": "unsere Liebe, wer wandelt sie um?",
+      "zh": "我们的爱，谁能改变它？"
+    },
+    {
+      "text": "Eisen und Stahl, sie können zergehn,",
+      "zh": "铁和钢，它们会消融，"
+    },
+    {
+      "text": "unsere Liebe muß ewig bestehn!",
+      "zh": "我们的爱必须永恒长存！"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音与辅音",
+      "items": [
+        "Dunkel 的 u 短 [ʊ]",
+        "schweiget 的 ei 读 [aɪ]",
+        "Geliebten 的 ie 是长 [iː]",
+        "Weidengebüsche 的 ei [aɪ] + ü [ʏ]",
+        "geschwind 的 sch 是 [ʃ]（类似'石'）"
+      ]
+    },
+    {
+      "title": "歌唱风格",
+      "items": [
+        "三段分别是叙述者、男子、女子——声音色彩要有变化",
+        "第一段（暗夜）要低沉阴郁",
+        "第二段（男子的话）犹豫不安",
+        "第三段（女子的誓言）坚定光明——从小调转入大调"
+      ]
+    }
+  ],
+  "story": {
+    "background": "这首歌取自文齐希改编的温德/索布族民歌。三段式结构：第一段叙述黄昏的黑暗场景，第二段是男子提议分手（如果爱情带来耻辱），第三段是女子的回答——我们的爱比钢铁更强。勃拉姆斯的音乐从降b小调的阴暗转入降B大调的辉煌。",
+    "situation": "黄昏。森林和田野一片黑暗，世界沉寂。一个年轻人送他的爱人回家。走过柳树丛时，他说：如果因为我你受到耻辱，那就让我们分开。女子回答：铁和钢可以被改变，但我们的爱永恒不灭。",
+    "relationships": "一对村庄里的恋人。男子因为外界的压力想放手，女子以坚定的誓言回应——爱比任何金属都更持久。",
+    "intent": "第一段建立阴沉的氛围。第二段男子的话要唱得犹豫、痛苦。第三段女子的誓言是全曲的转折——从'Eisen und Stahl'开始时仍在小调，到'unsere Liebe muß ewig bestehn!'时转入大调，要唱出光明和力量。",
+    "plain30": "黄昏的黑暗中，年轻人送爱人回家，说如果爱带来耻辱就分开吧。女子回答：铁和钢会消融，我们的爱永恒不变。",
+    "arc": "降b小调→降B大调，3/4。第一段阴暗的叙述（pp）。第二段男子的话（mp，不安的节奏）。第三段女子的誓言从小调开始，逐渐加速加强，最终在降B大调上以 fortissimo 结束——从黑暗到光明。",
+    "motif": "黑暗-光明对比：第一段的低音级进下行代表黑暗。第三段'Eisen und Stahl'的附点节奏像铁锤敲击。'unsere Liebe muß ewig bestehn' 的上行大跳是全曲的胜利动机。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "'Dunkel, wie dunkel' 黑暗动机——低音区下行"
+      },
+      {
+        "phrase": "9",
+        "note": "'Leidest du Schmach' 男子的犹豫——不安的半音"
+      },
+      {
+        "phrase": "13",
+        "note": "'Eisen und Stahl' 铁锤动机——附点节奏"
+      },
+      {
+        "phrase": "16",
+        "note": "'unsere Liebe muß ewig bestehn!' 永恒动机——上行大跳，大调"
+      }
+    ],
+    "technique": "音域较宽，需要从 pianissimo 的低音叙述到 fortissimo 的高音誓言。呼吸管理是关键——第三段的长乐句需要充足的气息储备。'ewig bestehn' 的高音要用胸腔支撑，不要收紧喉咙。",
+    "classroom": [
+      "先读中文——三个段落，三个声音：叙述者、男子、女子。",
+      "朗读德语：注意复合词的重音和 sch/ch 的区别。",
+      "分段练习：第一段低沉，第二段不安，第三段坚定。",
+      "第三段的调性变化是关键——从小调到大调，声音色彩要'变亮'。",
+      "'unsere Liebe muß ewig bestehn!' 是全曲高潮——要有力但不粗暴。",
+      "完整演唱——体会从黑暗到光明的旅程。",
+      "这首歌适合在音乐会上展示声音的对比和戏剧能力。"
+    ]
+  },
+  "role": "叙事者（见证永恒之爱的旁观者）"
+}

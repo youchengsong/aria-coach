@@ -1,0 +1,1850 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "il-pleure",
+ "title": "Il pleure dans mon cœur",
+ "titleZh": "我心中在下雨",
+ "composer": "C. Debussy",
+ "opera": "Ariettes oubliées, No. 2（1887；诗：P. Verlaine）",
+ "language": "法语",
+ "voice": "男高音",
+ "difficulty": "基础",
+ "tempoBpm": 58,
+ "timeSignature": "3/4",
+ "coverage": {
+  "measures": [
+   1,
+   80
+  ],
+  "firstSungMeasure": 4,
+  "complete": true,
+  "note": "完整声乐旋律（G# 小调，3/4，轻柔的忧伤）。德布西最知名的歌曲之一。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "C#4",
+  "high": "G#5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主人公（忧伤的恋人）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Il pleure dans mon cœur",
+   "zh": "我心中在下雨，"
+  },
+  {
+   "text": "comme il pleut sur la ville;",
+   "zh": "就像城市上空在下雨；"
+  },
+  {
+   "text": "quelle est cette langueur",
+   "zh": "这是怎样的慵懒"
+  },
+  {
+   "text": "qui pénètre mon cœur?",
+   "zh": "渗透了我的心？"
+  },
+  {
+   "text": "Ô bruit doux de la pluie",
+   "zh": "哦雨水温柔的声响，"
+  },
+  {
+   "text": "par terre et sur les toits!",
+   "zh": "落在地上和屋顶上！"
+  },
+  {
+   "text": "Pour un cœur qui s'ennuie,",
+   "zh": "对一颗百无聊赖的心来说，"
+  },
+  {
+   "text": "ô le chant de la pluie!",
+   "zh": "哦雨的歌声！"
+  },
+  {
+   "text": "Il pleure sans raison",
+   "zh": "无缘无故地在流泪——"
+  },
+  {
+   "text": "dans ce cœur qui s'écœure.",
+   "zh": "在这颗厌倦的心中。"
+  },
+  {
+   "text": "Quoi! nulle trahison?",
+   "zh": "什么！没有被背叛？"
+  },
+  {
+   "text": "Ce deuil est sans raison.",
+   "zh": "这悲伤没有理由。"
+  },
+  {
+   "text": "C'est bien la pire peine",
+   "zh": "这才是最糟糕的痛苦——"
+  },
+  {
+   "text": "de ne savoir pourquoi",
+   "zh": "不知道为什么"
+  },
+  {
+   "text": "sans amour et sans haine",
+   "zh": "没有爱也没有恨"
+  },
+  {
+   "text": "mon cœur a tant de peine!",
+   "zh": "我的心却如此痛苦！"
+  }
+ ],
+ "story": {
+  "background": "魏尔兰的这首诗原题为「无言的浪漫曲 III」，是法语象征主义诗歌的经典——用外部的雨来映射内心无名的忧伤。德布西在 1887 年为它谱曲时只有 25 岁，已经展现出成熟的印象派风格：音乐不去描绘雨或悲伤，而是创造一种介于两者之间的朦胧情绪。",
+  "situation": "下雨天。歌者坐在窗边听雨，发现心中也在「下雨」——一种无法命名的忧伤。他试图找到原因：没有人背叛我，没有人离开——那为什么这么难过？最后他意识到，最糟糕的不是有原因的痛苦，而是没有原因的痛苦。",
+  "relationships": "只有歌者和雨——没有其他人物。这首歌的核心是一个人与自己情绪的关系：他感到悲伤，但不知道为什么。这种没有对象的忧伤比失恋更令人困惑。",
+  "intent": "声音要像雨滴——轻、均匀、不间断。不要唱得太悲伤——这首歌的要点恰恰是歌者不知道自己为什么悲伤。开头像是自言自语。「Quoi! nulle trahison?」是一个惊讶的自问——稍微提高音量。结尾的「mon cœur a tant de peine」要有无奈感，但不是痛哭，而是摇头叹气。",
+  "plain30": "外面在下雨，我心里也在下雨。没有人伤害我，没有人背叛我——可我就是难过。不知道为什么悲伤，这才是最糟糕的。一首关于无名忧伤的小歌。",
+  "arc": "G# 小调，3/4，温和的流动。钢琴用轻快的三拍子模仿雨滴——但不是暴雨，是绵绵细雨。声乐在窄音域中轻轻浮动。四段诗对应四个阶段：发现忧伤→听雨→自问→接受。和声偶尔触及大调色彩（像阳光穿过云层），但总是回到小调。",
+  "motif": "雨滴动机：钢琴的三拍子分解和弦——均匀、不断、温柔，从不停止。叹息动机：声乐的「Il pleure」下行二度——像一声轻叹。自问动机：「Quoi!」的突然上行——全曲唯一的惊讶。钢琴的雨滴始终不变——外面的雨不在乎你快不快乐。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "开头「Il pleure dans mon cœur」——叹息动机，声音像雨后的雾"
+   },
+   {
+    "phrase": "5",
+    "note": "「Ô bruit doux de la pluie」——对雨声的温柔感叹"
+   },
+   {
+    "phrase": "11",
+    "note": "「Quoi! nulle trahison?」——自问动机，短暂的惊醒"
+   },
+   {
+    "phrase": "14",
+    "note": "「mon cœur a tant de peine」——接受无名的悲伤"
+   }
+  ],
+  "technique": "技术上是最容易入门的德布西歌曲之一——音域适中、节奏规整、没有极端力度。难点在风格：保持声音的轻盈和透明，不要用太多胸声。法语的鼻化元音在三拍子中要像雨滴般均匀。「cœur」这个词反复出现四次，每次的 [œ] 元音要一致。最后一行要能唱到渐弱中消失。",
+  "classroom": [
+   "先读中文——理解「无缘无故的悲伤」这个主题。想一想自己有没有过这样的时刻。",
+   "听一段雨声——然后朗读法语，让节奏像雨滴一样均匀。",
+   "练习 pleure/pleut/pluie 三个「雨」相关的词——不同的元音。",
+   "用 3/4 轻轻打拍子说词——每小节三个轻拍，像雨点。",
+   "哼唱旋律——保持在 mp 以下，像窗边的自言自语。",
+   "加入歌词——注意「Quoi!」的惊讶要短暂，马上回到平静。",
+   "原速演唱。这首歌不需要「表现」——你只是一个坐在窗边听雨的人，发现自己不知道为什么难过。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "法语鼻化元音",
+   "items": [
+    "dans [dɑ̃]、langueur 的 an [ɑ̃]、chant [ʃɑ̃]、sans [sɑ̃]——an/en 鼻化贯穿全曲",
+    "mon [mɔ̃]、raison [ʁɛzɔ̃]、trahison [tʁaizɔ̃]——on 鼻化",
+    "pénètre 的 é [e] 不是鼻化——注意区分 en 的两种读法"
+   ]
+  },
+  {
+   "title": "语音色彩",
+   "items": [
+    "pleure [plœʁ] 与 pleut [plø]——两个不同的 eu 元音，一个开一个闭",
+    "cœur [kœʁ] 与 s'écœure [sekœʁ]——开口的 œ",
+    "peine [pɛn] 的 ei [ɛ]——最后一行反复出现，要保持纯净"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    4,
+    8
+   ],
+   "lyrics": "Il pleure dans mon coeur Comme il pleut sur la",
+   "translation": "就像城市上空在下雨；",
+   "events": [
+    {
+     "id": "il-pleure-e0005",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0006",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "Il",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0007",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "pleu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0008",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0009",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "dans",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0010",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 3.0,
+     "lyric": "mon",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0011",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "coeur",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0012",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 3.0,
+     "lyric": "Comme",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0013",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 3.5,
+     "lyric": "il",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0014",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "pleut",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0015",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "sur",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0016",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "la",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    9,
+    13
+   ],
+   "lyrics": "vil -le. Quelle est cette langueur",
+   "translation": "这是怎样的慵懒",
+   "events": [
+    {
+     "id": "il-pleure-e0017",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "vil  -",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0018",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "le.",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0019",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0020",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0021",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0022",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "Quelle",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0023",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "est",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0024",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "cet",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0025",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0026",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "lan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0027",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "gueur",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    14,
+    22
+   ],
+   "lyrics": "Qui pénètre mon coeur",
+   "translation": "渗透了我的心？",
+   "events": [
+    {
+     "id": "il-pleure-e0028",
+     "pitch": "G#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "Qui",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0029",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "pé",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0030",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "nè",
+     "syllabic": "middle"
+    },
+    {
+     "id": "il-pleure-e0031",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0032",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0033",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "tre",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0034",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "mon",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0035",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "coeur",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0036",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0037",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0038",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0039",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0040",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0041",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0042",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    23,
+    26
+   ],
+   "lyrics": "O bruit doux de la pluie Par terre et sur les",
+   "translation": "哦雨水温柔的声响，",
+   "events": [
+    {
+     "id": "il-pleure-e0043",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "O",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0044",
+     "pitch": "E#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "bruit",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0045",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 3.0,
+     "lyric": "doux",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0046",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0047",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0048",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0049",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 3.0,
+     "lyric": "plui",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0050",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "e",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0051",
+     "pitch": "G#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "Par",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0052",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "terre",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0053",
+     "pitch": "E#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "et",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0054",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "sur",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0055",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "les",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    27,
+    31
+   ],
+   "lyrics": "toits! Pour un",
+   "translation": "对一颗百无聊赖的心来说，",
+   "events": [
+    {
+     "id": "il-pleure-e0056",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "toits!",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0057",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0058",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0059",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0060",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0061",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0062",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "Pour",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0063",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 3.0,
+     "lyric": "un",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    32,
+    35
+   ],
+   "lyrics": "coeur qui s'ennui -e O le bruit",
+   "translation": "哦雨的歌声！",
+   "events": [
+    {
+     "id": "il-pleure-e0064",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "coeur",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0065",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "qui",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0066",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 3.0,
+     "lyric": "s'en",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0067",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "nui  -",
+     "syllabic": "middle"
+    },
+    {
+     "id": "il-pleure-e0068",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 3.0,
+     "lyric": "e",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0069",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "O",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0070",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 3.0,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0071",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "bruit",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    36,
+    38
+   ],
+   "lyrics": "de la pluie!",
+   "translation": "哦雨的歌声！",
+   "events": [
+    {
+     "id": "il-pleure-e0072",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0073",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 3.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0074",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "pluie!",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0075",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0076",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    38,
+    42
+   ],
+   "lyrics": "Il pleu -re sans raison Dans ce",
+   "translation": "无缘无故地在流泪——",
+   "events": [
+    {
+     "id": "il-pleure-e0077",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 3.0,
+     "lyric": "Il",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0078",
+     "pitch": "G#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "pleu    -",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0079",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 39,
+     "beat": 3.0,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0080",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 2.0,
+     "lyric": "sans",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0081",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 3.0,
+     "lyric": "rai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0082",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "son",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0083",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0084",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 2.0,
+     "lyric": "Dans",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0085",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 3.0,
+     "lyric": "ce",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    43,
+    48
+   ],
+   "lyrics": "coeur qui s'écoeure Quoi!",
+   "translation": "在这颗厌倦的心中。",
+   "events": [
+    {
+     "id": "il-pleure-e0086",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "coeur",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0087",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "qui",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0088",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 44,
+     "beat": 3.0,
+     "lyric": "s'é",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0089",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "coeu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "il-pleure-e0090",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 46,
+     "beat": 2.0,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0091",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0092",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 47,
+     "beat": 2.0,
+     "lyric": "Quoi!",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0093",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0094",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    48,
+    50
+   ],
+   "lyrics": "nulle trahison?",
+   "translation": "什么！没有被背叛？",
+   "events": [
+    {
+     "id": "il-pleure-e0095",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2.0,
+     "lyric": "nul",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0096",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2.5,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0097",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 3.0,
+     "lyric": "tra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0098",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 3.5,
+     "lyric": "hi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "il-pleure-e0099",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "son?",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0100",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 49,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0101",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 49,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0102",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0103",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 50,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    50,
+    56
+   ],
+   "lyrics": "Ce deuil est sans raison.",
+   "translation": "这悲伤没有理由。",
+   "events": [
+    {
+     "id": "il-pleure-e0104",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 50,
+     "beat": 3.0,
+     "lyric": "Ce",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0105",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "deuil",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0106",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "est",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0107",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 52,
+     "beat": 2.0,
+     "lyric": "sans",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0108",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 52,
+     "beat": 3.0,
+     "lyric": "rai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0109",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "son.",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0110",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 54,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0111",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 54,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0112",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 55,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0113",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 56,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    57,
+    61
+   ],
+   "lyrics": "C'est bien la pire peine De ne savoir pourquoi,",
+   "translation": "这才是最糟糕的痛苦——",
+   "events": [
+    {
+     "id": "il-pleure-e0114",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 57,
+     "beat": 1.0,
+     "lyric": "C'est",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0115",
+     "pitch": "E#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 57,
+     "beat": 2.0,
+     "lyric": "bien",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0116",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 57,
+     "beat": 3.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0117",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 58,
+     "beat": 1.0,
+     "lyric": "pi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0118",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.0,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0119",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0120",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 58,
+     "beat": 3.0,
+     "lyric": "pei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0121",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 59,
+     "beat": 1.0,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0122",
+     "pitch": "G#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 59,
+     "beat": 2.0,
+     "lyric": "De",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0123",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 59,
+     "beat": 3.0,
+     "lyric": "ne",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0124",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 60,
+     "beat": 1.0,
+     "lyric": "sa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0125",
+     "pitch": "E#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 60,
+     "beat": 2.0,
+     "lyric": "voir",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0126",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 60,
+     "beat": 3.0,
+     "lyric": "pour",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0127",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 61,
+     "beat": 1.0,
+     "lyric": "quoi,",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0128",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 61,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    61,
+    65
+   ],
+   "lyrics": "Sans amour et sans haine,",
+   "translation": "没有爱也没有恨",
+   "events": [
+    {
+     "id": "il-pleure-e0129",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 3.0,
+     "lyric": "Sans",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0130",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 3.5,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0131",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 62,
+     "beat": 1.0,
+     "lyric": "mour",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0132",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 62,
+     "beat": 2.0,
+     "lyric": "et",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0133",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 62,
+     "beat": 3.0,
+     "lyric": "sans",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0134",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 63,
+     "beat": 1.0,
+     "lyric": "hai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0135",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 64,
+     "beat": 1.0,
+     "lyric": "ne,",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0136",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 64,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0137",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 64,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0138",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 65,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    65,
+    80
+   ],
+   "lyrics": "Mon coeur a tant de peine.",
+   "translation": "我的心却如此痛苦！",
+   "events": [
+    {
+     "id": "il-pleure-e0139",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 65,
+     "beat": 2.0,
+     "lyric": "Mon",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0140",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 65,
+     "beat": 3.0,
+     "lyric": "coeur",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0141",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 66,
+     "beat": 1.0,
+     "lyric": "a",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0142",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 66,
+     "beat": 2.0,
+     "lyric": "tant",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0143",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 66,
+     "beat": 3.0,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "il-pleure-e0144",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 9.0,
+     "measure": 67,
+     "beat": 1.0,
+     "lyric": "pei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "il-pleure-e0145",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 70,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0146",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 71,
+     "beat": 1.0,
+     "lyric": "ne.",
+     "syllabic": "end"
+    },
+    {
+     "id": "il-pleure-e0147",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 72,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0148",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 72,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0149",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 73,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0150",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 74,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0151",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 75,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0152",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 76,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0153",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 77,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0154",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 78,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0155",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 79,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "il-pleure-e0156",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 80,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 152,
+ "restCount": 43,
+ "lyricNoteCount": 103,
+ "pages": 1,
+ "speech": {
+  "voice": "fr_FR-siwis-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 14,
+  "slowScale": 1.45
+ }
+}

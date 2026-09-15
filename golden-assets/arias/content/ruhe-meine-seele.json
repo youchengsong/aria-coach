@@ -1,0 +1,135 @@
+{
+  "title": "Ruhe, meine Seele!",
+  "titleZh": "安息吧，我的灵魂！",
+  "composer": "R. Strauss",
+  "opera": "Op. 27, No. 1（《四首歌曲》第一首，1894；诗：K.F. Henckell）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "genre": "艺术歌曲",
+  "tempoBpm": 50,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（c 小调→C 大调，4/4 Langsam）。Op.27 第一首，沉重而内省。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Nicht ein Lüftchen regt sich leise,",
+      "zh": "没有一丝微风轻轻吹动，"
+    },
+    {
+      "text": "sanft entschlummert ruht der Hain;",
+      "zh": "树林在温柔的沉睡中安歇；"
+    },
+    {
+      "text": "durch der Blätter dunkle Hülle",
+      "zh": "透过树叶暗沉的帷幕，"
+    },
+    {
+      "text": "stiehlt sich lichter Sonnenschein.",
+      "zh": "一缕明亮的阳光悄然潜入。"
+    },
+    {
+      "text": "Ruhe, ruhe, meine Seele,",
+      "zh": "安息吧，安息吧，我的灵魂，"
+    },
+    {
+      "text": "deine Stürme gingen wild,",
+      "zh": "你的风暴曾经狂烈，"
+    },
+    {
+      "text": "hast getobt und hast gezittert,",
+      "zh": "你曾咆哮、曾颤抖——"
+    },
+    {
+      "text": "wie die Brandung, wenn sie schwillt!",
+      "zh": "如同涨潮时汹涌的浪涛！"
+    },
+    {
+      "text": "Diese Zeiten sind gewaltig,",
+      "zh": "这些时代是猛烈的，"
+    },
+    {
+      "text": "bringen Herz und Hirn in Not.",
+      "zh": "让心灵和头脑都陷入困境。"
+    },
+    {
+      "text": "Ruhe, ruhe, meine Seele,",
+      "zh": "安息吧，安息吧，我的灵魂，"
+    },
+    {
+      "text": "und vergiss, was dich bedroht!",
+      "zh": "忘记那些威胁你的一切！"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "Lüftchen 的 ü 是短圆唇 [ʏ]，Hülle 的 ü 也是短 [ʏ]",
+        "Seele 的 ee 是长 [eː]——这个词反复出现，需要纯净的元音",
+        "Stürme 的 ü 是长 [yː]，注意与短 ü 的区别",
+        "gewaltig 的 a 是短 [a]，bedroht 的 o 是长 [oː]"
+      ]
+    },
+    {
+      "title": "辅音要点",
+      "items": [
+        "entschlummert 中 sch [ʃ] 后面跟 l，要让 sch 完整发出再接 l",
+        "Brandung 的 ng [ŋ] 不要发成 [ŋg]——只有鼻音，没有爆破",
+        "vergiss 最后的 ss 要清楚——命令式的语气",
+        "bedroht 最后的 t 要轻而清晰——全曲最后一个音"
+      ]
+    }
+  ],
+  "story": {
+    "background": "这是施特劳斯 Op.27 四首歌曲的第一首，写于 1894 年婚礼之际。亨克尔的诗表面上是自然描写——宁静的树林、沉睡的风——但其下是对灵魂风暴的回忆和对安宁的祈求。施特劳斯在 1948 年将此曲改编为管弦乐版，晚年的他重新审视这首写于人生幸福时刻的作品，赋予了它更深沉的含义。",
+    "situation": "一个经历过剧烈内心风暴的人站在宁静的树林中。外部世界是平和的——没有风、阳光从树叶间洒下。但他的灵魂还没有完全平息。他对自己说：安息吧，你经历过咆哮和颤抖，但现在要安静下来，忘记那些威胁。",
+    "relationships": "歌者与自己的灵魂对话——这是一段独白。没有外部角色，只有内心与外部自然的对照：树林在安睡，而灵魂还在颤抖。",
+    "intent": "开头要极度安静，像是在安抚一个受惊的孩子。自然描写的四句要轻柔、平稳。当唱到「Ruhe, ruhe, meine Seele」时，声音要有恳求的温暖。「deine Stürme gingen wild」是回忆——不是重现风暴，而是从安全的距离回望它。最后的「vergiss, was dich bedroht」是一个命令，但不是激烈的命令，而是疲惫后的自我安慰。",
+    "plain30": "站在安静的树林里，对自己的灵魂说：你曾经那么狂暴，像大浪一样咆哮颤抖。现在安静下来吧。这个时代让人心力交瘁——忘掉那些威胁你的东西。这是经历过风暴之后的祈祷。",
+    "arc": "c 小调→C 大调，4/4，极慢。开头的自然描写在 c 小调中沉稳流动。「Ruhe, ruhe」转向降 E 大调——一丝温暖。「deine Stürme gingen wild」短暂回忆风暴，力度增加但很快收回。第三段「Diese Zeiten sind gewaltig」达到一个沉重的 ff——这是全曲最黑暗的时刻。最后的「Ruhe, ruhe」回到安宁，在 C 大调上以 pp 结束——大调的转变像是微弱但真实的希望。",
+    "motif": "安息动机：「Ruhe, ruhe」的下行二度——两个相同的叹息音型，像母亲轻拍孩子。风暴回忆动机：「deine Stürme」的上行四度跳进和随后的级进下行——回忆起风暴的力量，但马上收回。钢琴的持续低音 C 像大地的脉搏，给整首歌一个稳定的基础。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "开头自然描写：极轻的 c 小调，像树林的呼吸"
+      },
+      {
+        "phrase": "5",
+        "note": "第一次「Ruhe, ruhe」——下行叹息，核心安息动机"
+      },
+      {
+        "phrase": "6",
+        "note": "「deine Stürme gingen wild」——风暴回忆，短暂爆发"
+      },
+      {
+        "phrase": "11",
+        "note": "最后的「Ruhe, ruhe」——在 C 大调中找到真正的安宁"
+      }
+    ],
+    "technique": "这首歌的技术难度不在音域（适中），而在极慢速度下的气息控制和力度层次。每个乐句都很长，需要深而无声的呼吸。pp 和 ppp 的段落要保持声音的核心支撑——不能虚。「gewaltig」处的 ff 是全曲唯一的爆发，要准备好气息后果断释放，然后迅速回到 p。词尾的 t、ss、ht 等清辅音在慢速下要格外清晰。",
+    "classroom": [
+      "先读中文——找出三个层次：自然的宁静、灵魂的风暴回忆、安息的祈求。",
+      "用极轻的声音朗读德语——这首歌几乎全程在 piano 以下。",
+      "练习「Ruhe, ruhe」这两个词——下行二度要完全均匀、没有重音。",
+      "按节拍器（♩=50）说词——感受慢速下每个音节的重量。",
+      "哼唱旋律线——标记唯一的 ff（「Diese Zeiten sind gewaltig」）和它之前之后的力度变化。",
+      "完整演唱，注意最后从 c 小调到 C 大调的转变——那是一个微小但决定性的希望。",
+      "这首歌和同一套曲的《明天》形成对比——一首是找到安宁的过程，另一首是已经在安宁之中。"
+    ]
+  },
+  "role": "抒情主人公（寻求内心安宁者）"
+}

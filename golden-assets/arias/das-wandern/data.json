@@ -1,0 +1,1883 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "das-wandern",
+ "title": "Das Wandern",
+ "titleZh": "漫游",
+ "composer": "F. Schubert",
+ "opera": "Die schöne Müllerin D.795 No.1（美丽的磨坊女第1首，1823；诗：W. Müller）",
+ "language": "德语",
+ "voice": "男高音",
+ "difficulty": "基础",
+ "tempoBpm": 108,
+ "timeSignature": "2/4",
+ "coverage": {
+  "measures": [
+   1,
+   20
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "完整声乐旋律（降B大调，2/4，轻快的行走速度，约52小节，分节歌五段）。舒伯特《美丽的磨坊女》开篇——年轻磨坊学徒出发漫游的欢快之歌。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "F4",
+  "high": "F5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "磨坊学徒（流浪者）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Das Wandern ist des Müllers Lust,",
+   "zh": "漫游是磨坊工人的乐趣，"
+  },
+  {
+   "text": "das Wandern!",
+   "zh": "漫游！"
+  },
+  {
+   "text": "Das muß ein schlechter Müller sein,",
+   "zh": "那一定是个糟糕的磨坊工人，"
+  },
+  {
+   "text": "dem niemals fiel das Wandern ein,",
+   "zh": "如果他从未想过要去漫游，"
+  },
+  {
+   "text": "das Wandern.",
+   "zh": "漫游。"
+  },
+  {
+   "text": "Vom Wasser haben wir's gelernt,",
+   "zh": "我们从流水那里学到了这一点，"
+  },
+  {
+   "text": "vom Wasser!",
+   "zh": "从流水！"
+  },
+  {
+   "text": "Das hat nicht Rast bei Tag und Nacht,",
+   "zh": "它日夜不停地奔流，"
+  },
+  {
+   "text": "ist stets auf Wanderschaft bedacht,",
+   "zh": "总是想着漫游，"
+  },
+  {
+   "text": "das Wasser.",
+   "zh": "流水。"
+  }
+ ],
+ "story": {
+  "background": "《美丽的磨坊女》是舒伯特根据威廉·缪勒诗集创作的声乐套曲，讲述一个年轻磨坊学徒的故事。《漫游》是开篇——学徒带着青春的热情出发，跟着小溪走向未知的远方。曲风欢快简洁，分节歌五段，像民歌一样朗朗上口。",
+  "situation": "年轻的磨坊学徒准备出发去远方学艺。他唱道：漫游是磨坊人的天性——流水在走，石头在转，连车轮都不停——我也要走！",
+  "relationships": "学徒与世界——这是一段旅程的开始。此时还没有出现磨坊女或情感纠葛——只有年轻人对未知世界的渴望。",
+  "intent": "全曲保持明亮欢快。五段歌词分别用水、石头、车轮、磨坊主人来类比漫游的必然。最后一段回到'漫游是磨坊人的乐趣'——首尾呼应。",
+  "plain30": "一个快乐的年轻磨坊学徒准备出发去远方学艺。他用五段歌词告诉你：漫游是磨坊人的天性——流水在走，石头在转，车轮不停歇，连磨坊师傅也闲不住。我也要跟着小溪的方向走！这是舒伯特套曲《美丽的磨坊女》的开篇，整个故事从这一刻欢快地开始。",
+  "arc": "降B大调，2/4，快步行走的速度。旋律简洁明快，像一首民歌。五段歌词用相同旋律，每段以'das Wandern/Wasser...' 结束。钢琴的伴奏像转动的水车。",
+  "motif": "行走动机：旋律的规律跳进像脚步声。钢琴的六连音伴奏像水车的转动。'Das Wandern' 的上行四度是全曲的标志——出发的号角。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "'Das Wandern ist des Müllers Lust' 出发动机——上行四度"
+   },
+   {
+    "phrase": "6",
+    "note": "'Vom Wasser haben wir's gelernt' 第二段——同旋律，水的意象"
+   }
+  ],
+  "technique": "轻快的吐字——不要因为速度快而含糊。'Wandern' 的 W 要柔和。每段结尾的重复词要稍微减弱——像脚步渐远。",
+  "classroom": [
+   "先读中文：年轻人快乐地出发漫游——一首简单的行走歌。",
+   "朗读德语：跟着节拍走路的感觉。",
+   "旋律很简单——五段歌词用同一旋律，先学一段。",
+   "配合走路的节奏唱——2/4拍，每拍一步。",
+   "五段歌词背得越熟越好——这首歌经常出现在考试和比赛中。",
+   "完整演唱。保持年轻人出发时的兴奋和快乐。",
+   "这首歌是套曲的开始——后面还有19首歌讲述学徒的故事。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "Wandern 的 a 短 [a]",
+    "Müller 的 ü 短 [ʏ]",
+    "schlechter 的 e 短 [ɛ]",
+    "niemals 的 ie 长 [iː]",
+    "Wanderschaft 的 a 短 [a]"
+   ]
+  },
+  {
+   "title": "歌唱风格",
+   "items": [
+    "这是一首行走歌——想象你一边走路一边唱",
+    "节奏要有弹性，像脚步声",
+    "每一段最后的'das Wandern/Wasser/Steine/Meister/Wandern'要有收束感",
+    "声音要年轻、明亮——这是一个快乐出发的学徒"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    4,
+    6
+   ],
+   "verse": 1,
+   "lyrics": "Das Wandern ist des Müllers Lust,",
+   "translation": "漫游是磨坊工人的乐趣，",
+   "events": [
+    {
+     "id": "das-wandern-e0005",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0006",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "Das",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0007",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "Wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "das-wandern-e0008",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.5,
+     "lyric": "dern",
+     "syllabic": "end"
+    },
+    {
+     "id": "das-wandern-e0009",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0010",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0011",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "Mül",
+     "syllabic": "begin"
+    },
+    {
+     "id": "das-wandern-e0012",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0013",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.5,
+     "lyric": "lers",
+     "syllabic": "end"
+    },
+    {
+     "id": "das-wandern-e0014",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0015",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "Lust,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    6,
+    8
+   ],
+   "verse": 1,
+   "lyrics": "das Wandern,",
+   "translation": "漫游！",
+   "events": [
+    {
+     "id": "das-wandern-e0016",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0017",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "Wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "das-wandern-e0018",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0019",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "dern,",
+     "syllabic": "end"
+    },
+    {
+     "id": "das-wandern-e0020",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0021",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0022",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    8,
+    10
+   ],
+   "verse": 1,
+   "lyrics": "das Wandern ist des Müllers Lust,",
+   "translation": "漫游是磨坊工人的乐趣，",
+   "events": [
+    {
+     "id": "das-wandern-e0023",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0024",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "Wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "das-wandern-e0025",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "dern",
+     "syllabic": "end"
+    },
+    {
+     "id": "das-wandern-e0026",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0027",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0028",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "Mül",
+     "syllabic": "begin"
+    },
+    {
+     "id": "das-wandern-e0029",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0030",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.5,
+     "lyric": "lers",
+     "syllabic": "end"
+    },
+    {
+     "id": "das-wandern-e0031",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0032",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "Lust,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    10,
+    12
+   ],
+   "verse": 1,
+   "lyrics": "das Wandern.",
+   "translation": "漫游是磨坊工人的乐趣，",
+   "events": [
+    {
+     "id": "das-wandern-e0033",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0034",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "Wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "das-wandern-e0035",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0036",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "dern.",
+     "syllabic": "end"
+    },
+    {
+     "id": "das-wandern-e0037",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0038",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0039",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    12,
+    14
+   ],
+   "verse": 1,
+   "lyrics": "Das muss ein schlechter Müller sein,",
+   "translation": "那一定是个糟糕的磨坊工人，",
+   "events": [
+    {
+     "id": "das-wandern-e0040",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "Das",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0041",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0042",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "muss",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0043",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "ein",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0044",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "schlech",
+     "syllabic": "begin"
+    },
+    {
+     "id": "das-wandern-e0045",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "das-wandern-e0046",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "Mül",
+     "syllabic": "begin"
+    },
+    {
+     "id": "das-wandern-e0047",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0048",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "ler",
+     "syllabic": "end"
+    },
+    {
+     "id": "das-wandern-e0049",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0050",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "sein,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    14,
+    16
+   ],
+   "verse": 1,
+   "lyrics": "dem niemals fiel das Wandern ein,",
+   "translation": "如果他从未想过要去漫游，",
+   "events": [
+    {
+     "id": "das-wandern-e0051",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.5,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0052",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0053",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "nie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "das-wandern-e0054",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.5,
+     "lyric": "mals",
+     "syllabic": "end"
+    },
+    {
+     "id": "das-wandern-e0055",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "fiel",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0056",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0057",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "Wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "das-wandern-e0058",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0059",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.5,
+     "lyric": "dern",
+     "syllabic": "end"
+    },
+    {
+     "id": "das-wandern-e0060",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0061",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "ein,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    16,
+    20
+   ],
+   "verse": 1,
+   "lyrics": "das Wandern das Wandern das Wandern das Wandern.",
+   "translation": "漫游。",
+   "events": [
+    {
+     "id": "das-wandern-e0062",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0063",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "Wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "das-wandern-e0064",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "dern",
+     "syllabic": "end"
+    },
+    {
+     "id": "das-wandern-e0065",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0066",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0067",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "Wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "das-wandern-e0068",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "dern",
+     "syllabic": "end"
+    },
+    {
+     "id": "das-wandern-e0069",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0070",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "Wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "das-wandern-e0071",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "dern",
+     "syllabic": "end"
+    },
+    {
+     "id": "das-wandern-e0072",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "das-wandern-e0073",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "das-wandern-e0074",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "Wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "das-wandern-e0075",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "dern.",
+     "syllabic": "end"
+    },
+    {
+     "id": "das-wandern-e0076",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    1,
+    6
+   ],
+   "verse": 2,
+   "lyrics": "Vom Wasser haben wir's gelernt,",
+   "translation": "我们从流水那里学到了这一点，",
+   "events": [
+    {
+     "id": "das-wandern-e0077",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 1,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0078",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0079",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0080",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0081",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0082",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "Vom",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0083",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "Was",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0084",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.5,
+     "lyric": "ser",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0085",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "ha",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0086",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "ben",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0087",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "wir's",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0088",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0089",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.5,
+     "lyric": "ge",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0090",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0091",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "lernt,",
+     "syllabic": "end",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    6,
+    8
+   ],
+   "verse": 2,
+   "lyrics": "vom Wasser,",
+   "translation": "从流水！",
+   "events": [
+    {
+     "id": "das-wandern-e0092",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.5,
+     "lyric": "vom",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0093",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "Was",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0094",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0095",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "ser,",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0096",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0097",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0098",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    8,
+    10
+   ],
+   "verse": 2,
+   "lyrics": "vom Wasser haben wir's gelernt,",
+   "translation": "我们从流水那里学到了这一点，",
+   "events": [
+    {
+     "id": "das-wandern-e0099",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "vom",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0100",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "Was",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0101",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "ser",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0102",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "ha",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0103",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "ben",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0104",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "wir's",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0105",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0106",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.5,
+     "lyric": "ge",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0107",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0108",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "lernt,",
+     "syllabic": "end",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    10,
+    12
+   ],
+   "verse": 2,
+   "lyrics": "vom Wasser.",
+   "translation": "我们从流水那里学到了这一点，",
+   "events": [
+    {
+     "id": "das-wandern-e0109",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "vom",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0110",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "Was",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0111",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0112",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "ser.",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0113",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0114",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0115",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    12,
+    14
+   ],
+   "verse": 2,
+   "lyrics": "Das hat nicht Rast bei tag und Nacht,",
+   "translation": "它日夜不停地奔流，",
+   "events": [
+    {
+     "id": "das-wandern-e0116",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "Das",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0117",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0118",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "hat",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0119",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "nicht",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0120",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "Rast",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0121",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "bei",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0122",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "tag",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0123",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0124",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0125",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0126",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "Nacht,",
+     "syllabic": "single",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    14,
+    16
+   ],
+   "verse": 2,
+   "lyrics": "ist stets auf Wanderschaft bedacht,",
+   "translation": "总是想着漫游，",
+   "events": [
+    {
+     "id": "das-wandern-e0127",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.5,
+     "lyric": "ist",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0128",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0129",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "stets",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0130",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.5,
+     "lyric": "auf",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0131",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "Wan",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0132",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "der",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0133",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "schaft",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0134",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0135",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.5,
+     "lyric": "be",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0136",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0137",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "dacht,",
+     "syllabic": "end",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    16,
+    18
+   ],
+   "verse": 2,
+   "lyrics": "das Wasser, das Wasser,",
+   "translation": "流水。",
+   "events": [
+    {
+     "id": "das-wandern-e0138",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0139",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "Was",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0140",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "ser,",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0141",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0142",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0143",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "Was",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0144",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "ser,",
+     "syllabic": "end",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    18,
+    20
+   ],
+   "verse": 2,
+   "lyrics": "das Wasser, das Wasser.",
+   "translation": "流水。",
+   "events": [
+    {
+     "id": "das-wandern-e0145",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0146",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "Was",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0147",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "ser,",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0148",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0149",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0150",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "Was",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0151",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "ser.",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "das-wandern-e0152",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  }
+ ],
+ "eventCount": 148,
+ "restCount": 20,
+ "lyricNoteCount": 100,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 15,
+  "slowScale": 1.45
+ }
+}

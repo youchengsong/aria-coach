@@ -1,0 +1,114 @@
+{
+  "title": "An die Musik",
+  "titleZh": "致音乐",
+  "composer": "F. Schubert",
+  "opera": "D. 547（独立艺术歌曲，1817；诗：F. von Schober）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "genre": "艺术歌曲",
+  "tempoBpm": 60,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（D 大调，2/4 Mäßig，约 28 小节，两段分节歌）。舒伯特最被广泛演唱的抒情小品之一。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Du holde Kunst, in wieviel grauen Stunden,",
+      "zh": "你，美好的艺术，在多少灰暗的时刻，"
+    },
+    {
+      "text": "wo mich des Lebens wilder Kreis umstrickt,",
+      "zh": "当生活的残酷旋涡将我缠绕，"
+    },
+    {
+      "text": "hast du mein Herz zu warmer Lieb' entzunden,",
+      "zh": "你点燃了我心中温暖的爱，"
+    },
+    {
+      "text": "hast mich in eine bess're Welt entrückt!",
+      "zh": "将我带入了一个更美好的世界！"
+    },
+    {
+      "text": "Oft hat ein Seufzer, deiner Harf' entflossen,",
+      "zh": "常常是你竖琴发出的一声叹息，"
+    },
+    {
+      "text": "ein süßer, heiliger Akkord von dir,",
+      "zh": "你的一个甜美而神圣的和弦，"
+    },
+    {
+      "text": "den Himmel bessrer Zeiten mir erschlossen,",
+      "zh": "为我开启了更好时光的天堂，"
+    },
+    {
+      "text": "du holde Kunst, ich danke dir dafür!",
+      "zh": "你，美好的艺术，为此我感谢你！"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "holde 的 o 是长元音 [oː]，保持圆润",
+        "Kunst 的 u 短促 [ʊ]，不要拉长",
+        "entrückt 的 ü 是圆唇 [ʏ]，entzunden 的 u 是 [ʊ]",
+        "Seufzer 的 eu 读 [ɔʏ]，像中文的'哦—伊'快速合并"
+      ]
+    },
+    {
+      "title": "歌唱语气",
+      "items": [
+        "这是一首感恩之歌，语气要真诚而非华丽",
+        "'Du holde Kunst' 每次出现都像在轻声呼唤一位老朋友",
+        "最后的 'ich danke dir dafür!' 是全曲的情感落点——不要太大声，真诚即可"
+      ]
+    }
+  ],
+  "story": {
+    "background": "《致音乐》是舒伯特最著名的颂歌之一，歌词由他的好友弗朗茨·冯·舒伯（Franz von Schober）所写。这首歌常在音乐会的安可曲中出现，也是许多声乐学生最先学习的德语艺术歌曲之一。它只有两段歌词（分节歌形式），旋律简洁感人，被认为是舒伯特对音乐本身最直接的致敬。",
+    "situation": "没有具体的戏剧情境——这是诗人/歌者对音乐艺术本身的感谢。在灰暗的日子里，音乐点燃了心中的爱；在绝望的时刻，一个和弦就能打开通往更好世界的门。这是一封写给音乐的情书。",
+    "relationships": "歌者与'音乐'之间是感恩与被救赎的关系——音乐被人格化为'holde Kunst'（美好的艺术），像一个温柔的拯救者。",
+    "intent": "从头到尾保持真诚、内省的语气。'Du holde Kunst' 是一个呼唤——不是呐喊，而是感恩的低语。第一段讲述音乐如何在黑暗中点燃希望；第二段更具体——竖琴的叹息、神圣的和弦——然后以 'ich danke dir dafür' 的感谢结束。整首歌不应有任何炫技的痕迹。",
+    "plain30": "这是舒伯特写给音乐本身的情书：在最灰暗的日子里，音乐照亮了我的心。一个和弦就能让我看到更好的世界。谢谢你，美好的艺术。",
+    "arc": "D 大调，2/4，中速。两段使用相同旋律。旋律开头在中音区平稳展开，像感恩的叙述。'hast mich in eine bess're Welt entrückt' 处上升到最高音（'更好的世界'），然后平静下落到结尾。第二段结束时的 'ich danke dir dafür' 以主音结束——完美的解决，像一声满足的叹息。",
+    "motif": "感恩动机：开头'Du holde Kunst'的级进上行——从主音缓缓攀升，像双手合十的姿态。'entrückt/erschlossen' 处的高点是唯一的情感突出——'被带入另一个世界'——然后旋律温柔地回落。整首歌没有戏剧冲突，只有一个人安静的感谢。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "'Du holde Kunst' 级进上行，感恩的开始"
+      },
+      {
+        "phrase": "4",
+        "note": "'bess're Welt entrückt' 全曲最高点——被带入更好的世界"
+      },
+      {
+        "phrase": "8",
+        "note": "'ich danke dir dafür' 结尾——主音上的完美解决，感恩的落点"
+      }
+    ],
+    "technique": "这首歌技巧要求不高，但对音乐表达力的要求很高。关键是控制音量——全曲应该在 piano 到 mezzo-forte 之间，不需要 forte。呼吸点很自然（每两行一换），旋律线条要平滑连贯。'entrückt' 的高音不要冲——用气息托上去，像被轻轻举起。",
+    "classroom": [
+      "先读中文——这是一封写给音乐的感谢信，理解这个核心就够了。",
+      "朗读德语原文，注意 'holde Kunst' 的温柔语气。",
+      "这首歌只有两段，旋律完全相同——先学会旋律，再分别配上两段歌词。",
+      "用很轻的声音练唱——不需要大声，真诚最重要。",
+      "特别注意最后的 'ich danke dir dafür'——这是全曲的目的地，到达时要自然、不刻意。",
+      "完整演唱。如果你正在学音乐，想想音乐对你意味着什么——把那个感觉放进去。",
+      "这首歌适合作为音乐会的结束曲或安可曲——学会它，以后用得上。"
+    ]
+  },
+  "role": "抒情主人公（艺术爱好者）"
+}

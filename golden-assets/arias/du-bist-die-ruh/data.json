@@ -1,0 +1,2058 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "du-bist-die-ruh",
+ "title": "Du bist die Ruh",
+ "titleZh": "你是安宁",
+ "composer": "F. Schubert",
+ "opera": "D. 776（独立艺术歌曲，约 1823；诗：F. Rückert）",
+ "language": "德语",
+ "voice": "女高音",
+ "difficulty": "中级",
+ "tempoBpm": 50,
+ "timeSignature": "3/8",
+ "coverage": {
+  "measures": [
+   1,
+   82
+  ],
+  "firstSungMeasure": 7,
+  "complete": true,
+  "note": "完整声乐旋律（降 E 大调，3/8 Langsam，约 96 小节）。五段式变化分节歌。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "Eb4",
+  "high": "Ab5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主人公（恋人）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Du bist die Ruh, der Friede mild,",
+   "zh": "你是安宁，温柔的平和，"
+  },
+  {
+   "text": "die Sehnsucht du, und was sie stillt.",
+   "zh": "你是渴望，也是满足渴望之物。"
+  },
+  {
+   "text": "Ich weihe dir voll Lust und Schmerz",
+   "zh": "我把我的目光和心灵"
+  },
+  {
+   "text": "zur Wohnung hier mein Aug' und Herz.",
+   "zh": "满怀欢乐与痛苦地献给你，作为你的居所。"
+  },
+  {
+   "text": "Kehr' ein bei mir und schließe du",
+   "zh": "请走进我心中，轻轻地"
+  },
+  {
+   "text": "still hinter dir die Pforten zu.",
+   "zh": "把身后的门关上。"
+  },
+  {
+   "text": "Treib andern Schmerz aus dieser Brust!",
+   "zh": "把其他的痛苦从我胸中驱走！"
+  },
+  {
+   "text": "Voll sei dies Herz von deiner Lust.",
+   "zh": "让我的心充满你的欢乐。"
+  },
+  {
+   "text": "Dies Augenzelt, von deinem Glanz",
+   "zh": "我这双眼的帐幕，"
+  },
+  {
+   "text": "allein erhellt, o füll' es ganz!",
+   "zh": "唯有你的光辉照亮——请把它完全充满！"
+  }
+ ],
+ "story": {
+  "background": "《你是安宁》是舒伯特最美的抒情歌曲之一，歌词来自吕克特的同名诗。这首歌几乎出现在每一位女高音和男高音的独唱会曲目中。吕克特的诗将爱人等同于内心的平和——不是激情，而是一种安宁的归属感。舒伯特以极简的钢琴伴奏和宽广的声乐线条完美呈现了这种宁静。",
+  "situation": "没有戏剧情境。歌者向爱人说话——你是我的安宁、我的渴望、我的满足。我把我的心和眼睛献给你作为居所。请走进来，关上门，把痛苦留在外面。让你的光辉充满我的全部。",
+  "relationships": "歌者与爱人之间的关系不是热烈的激情，而是深沉的依赖和感恩。爱人在这里被神圣化——像一座圣殿的光。",
+  "intent": "从头到尾保持极度的宁静和温柔。开头的'Du bist die Ruh'像祈祷一样轻声开始。中间段落'Kehr ein bei mir'稍有恳求感。最后的'o füll es ganz'是全曲唯一的爆发——但即使是爆发也是内在的、光明的，而非戏剧性的。",
+  "plain30": "你是安宁，你是我所渴望的一切。请住进我心里，关上门，把痛苦留在外面。让你的光充满我。这是一首关于在爱中找到完全的平和的歌。",
+  "arc": "降 E 大调，3/8，缓慢。前四段使用相似的旋律，声乐在中音区平稳流动，钢琴以简单的分解和弦支撑。第五段'Dies Augenzelt'旋律突然攀升到高音域——'von deinem Glanz allein erhellt'在 Ab5 或 Bb5 附近达到全曲高潮，然后以平静的主和弦结束。整首歌像一个缓慢的呼吸——吸气、吸气、吸气——最后一个'o füll es ganz'是全部释放。",
+  "motif": "安宁动机：开头'Du bist die Ruh'的五度下行——从属音落到主音，像一声叹息后的安定。这个动机在每段开头变形回来。光辉动机：最后一段的高音攀升——'von deinem Glanz'——旋律冲到全曲最高点，代表光充满了整个空间。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "'Du bist die Ruh' 五度下行安宁动机，建立极度宁静的氛围"
+   },
+   {
+    "phrase": "5",
+    "note": "'Kehr ein bei mir' 恳求感出现——'请走进来'"
+   },
+   {
+    "phrase": "9",
+    "note": "'Dies Augenzelt, von deinem Glanz' 旋律攀升至高潮——光辉动机"
+   },
+   {
+    "phrase": "10",
+    "note": "'o füll es ganz' 释放——全曲唯一的 forte，然后回到宁静"
+   }
+  ],
+  "technique": "极长的气息线是最大的技术挑战。3/8 拍速度很慢，每个乐句需要非常经济的气息分配。音量几乎全程控制在 piano——这比唱 forte 更难。最后一段的高音需要良好的头声技巧——不能'冲'上去，要像光线一样自然升起。Ruh/zu/du 的 u 元音要始终保持统一的共鸣位置。",
+  "classroom": [
+   "先读中文——这是一首祈祷般的情歌：'你是安宁，请住进我心里。'",
+   "朗读德语——像在对最亲近的人轻声说话。注意 Ruh、du、zu 的 u 元音。",
+   "用'嗯'哼唱旋律，保持极长的线条和极轻的音量。",
+   "只练前两段——它们旋律相似，是全曲的基础。",
+   "单独练最后一段的高音——从'Dies Augenzelt'到'o füll es ganz'。",
+   "完整演唱。难点不是音高，而是保持极度的宁静——好像全世界都安静了，只有你一个人在说话。",
+   "这首歌的核心技能：用最少的声音传达最深的感情。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "Ruh 的 u 是长圆唇 [uː]——这是全曲最重要的元音，贯穿始终",
+    "Sehnsucht 的 eh 是长 [eː]，u 是短 [ʊ]",
+    "Pforten 的 o 是短 [ɔ]，Wohnung 的 o 是长 [oː]",
+    "füll' 的 ü 是短圆唇 [ʏ]，Glanz 的 a 是开口 [a]"
+   ]
+  },
+  {
+   "title": "气息与连贯",
+   "items": [
+    "3/8 拍的慢速要求极长的气息线——每个乐句要一口气唱完",
+    "这首歌几乎全部在 piano 到 mezzo-piano 之间，控制音量是关键",
+    "最后的 'o füll es ganz' 是唯一的 forte 时刻——要蓄力到那里才释放"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    7,
+    9
+   ],
+   "lyrics": "Du bist die Ruh,",
+   "translation": "你是安宁，温柔的平和，",
+   "events": [
+    {
+     "id": "du-bist-die-ruh-e0007",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0008",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "Du",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0009",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 8,
+     "beat": 1.333,
+     "lyric": "bist",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0010",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.833,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0011",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "Ruh,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    9,
+    11
+   ],
+   "lyrics": "der Friede mild,",
+   "translation": "你是安宁，温柔的平和，",
+   "events": [
+    {
+     "id": "du-bist-die-ruh-e0012",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.667,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0013",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "Frie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0014",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.667,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0015",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "mild,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    12,
+    15
+   ],
+   "lyrics": "die Sehnsucht du, und was sie stillt.",
+   "translation": "你是渴望，也是满足渴望之物。",
+   "events": [
+    {
+     "id": "du-bist-die-ruh-e0016",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0017",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 1.333,
+     "lyric": "Sehn",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0018",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.833,
+     "lyric": "sucht",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0019",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "du,",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0020",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.667,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0021",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "was",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0022",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.667,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0023",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "stillt.",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    16,
+    23
+   ],
+   "lyrics": "Ich weihe dir voll Lust und Schmerz zur Wohnung hier mein Aug’ und Herz,",
+   "translation": "我把我的目光和心灵",
+   "events": [
+    {
+     "id": "du-bist-die-ruh-e0024",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "Ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0025",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 1.333,
+     "lyric": "wei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0026",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.833,
+     "lyric": "he",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0027",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "dir",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0028",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0029",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "voll",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0030",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0031",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.333,
+     "lyric": "Lust",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0032",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0033",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 18,
+     "beat": 1.667,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0034",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 18,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0035",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "Schmerz",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0036",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0037",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "zur",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0038",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 20,
+     "beat": 1.333,
+     "lyric": "Woh",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0039",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 1.833,
+     "lyric": "nung",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0040",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "hier",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0041",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0042",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0043",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0044",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.333,
+     "lyric": "Aug’",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0045",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0046",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 22,
+     "beat": 1.667,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0047",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 22,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0048",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "Herz,",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0049",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    24,
+    30
+   ],
+   "lyrics": "mein Aug’ und Herz.",
+   "translation": "满怀欢乐与痛苦地献给你，作为你的居所。",
+   "events": [
+    {
+     "id": "du-bist-die-ruh-e0050",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0051",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0052",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.333,
+     "lyric": "Aug’",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0053",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0054",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 24,
+     "beat": 1.667,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0055",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 24,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0056",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "Herz.",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0057",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0058",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0059",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0060",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0061",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0062",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    31,
+    38
+   ],
+   "lyrics": "Kehr’ ein bei mir, und schliesse du still hinter dir die Pforten zu.",
+   "translation": "把身后的门关上。",
+   "events": [
+    {
+     "id": "du-bist-die-ruh-e0063",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "Kehr’",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0064",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 31,
+     "beat": 1.333,
+     "lyric": "ein",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0065",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 1.833,
+     "lyric": "bei",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0066",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "mir,",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0067",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.667,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0068",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "schlie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0069",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 1.667,
+     "lyric": "sse",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0070",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0071",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "still",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0072",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 35,
+     "beat": 1.333,
+     "lyric": "hin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0073",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 35,
+     "beat": 1.833,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0074",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "dir",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0075",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.667,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0076",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "Pfor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0077",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 1.667,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0078",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "zu.",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    39,
+    42
+   ],
+   "lyrics": "Treib’ andern Schmerz aus die ser Brust!",
+   "translation": "把其他的痛苦从我胸中驱走！",
+   "events": [
+    {
+     "id": "du-bist-die-ruh-e0079",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "Treib’",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0080",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 39,
+     "beat": 1.333,
+     "lyric": "an",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0081",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 39,
+     "beat": 1.833,
+     "lyric": "dern",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0082",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "Schmerz",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0083",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0084",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "aus",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0085",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 41,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0086",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 41,
+     "beat": 1.333,
+     "lyric": "die",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0087",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 41,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0088",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 41,
+     "beat": 1.667,
+     "lyric": "ser",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0089",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 41,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0090",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "Brust!",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    43,
+    46
+   ],
+   "lyrics": "Voll sei dies Herz von diener Lust,",
+   "translation": "让我的心充满你的欢乐。",
+   "events": [
+    {
+     "id": "du-bist-die-ruh-e0091",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "Voll",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0092",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 43,
+     "beat": 1.333,
+     "lyric": "sei",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0093",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 43,
+     "beat": 1.833,
+     "lyric": "dies",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0094",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "Herz",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0095",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0096",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0097",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0098",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.333,
+     "lyric": "die",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0099",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0100",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 45,
+     "beat": 1.667,
+     "lyric": "ner",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0101",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 45,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0102",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "Lust,",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0103",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    47,
+    53
+   ],
+   "lyrics": "von deiner Lust.",
+   "translation": "让我的心充满你的欢乐。",
+   "events": [
+    {
+     "id": "du-bist-die-ruh-e0104",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0105",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0106",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 1.333,
+     "lyric": "dei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0107",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0108",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 47,
+     "beat": 1.667,
+     "lyric": "ner",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0109",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 47,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0110",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "Lust.",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0111",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0112",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0113",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0114",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0115",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0116",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    54,
+    61
+   ],
+   "lyrics": "Dies Augenzelt von deinem Glanz allein erhellt,",
+   "translation": "我这双眼的帐幕，",
+   "events": [
+    {
+     "id": "du-bist-die-ruh-e0117",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 1.0,
+     "lyric": "Dies",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0118",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 54,
+     "beat": 1.333,
+     "lyric": "Au",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0119",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 1.833,
+     "lyric": "gen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "du-bist-die-ruh-e0120",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 55,
+     "beat": 1.0,
+     "lyric": "zelt",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0121",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 1.667,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0122",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 56,
+     "beat": 1.0,
+     "lyric": "dei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0123",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 1.667,
+     "lyric": "nem",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0124",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 57,
+     "beat": 1.0,
+     "lyric": "Glanz",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0125",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 1.667,
+     "lyric": "al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0126",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 58,
+     "beat": 1.0,
+     "lyric": "lein",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0127",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 1.667,
+     "lyric": "er",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0128",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 59,
+     "beat": 1.0,
+     "lyric": "hellt,",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0129",
+     "pitch": "Ab5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 60,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0130",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 61,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    62,
+    63
+   ],
+   "lyrics": "o füll’ es ganz,",
+   "translation": "唯有你的光辉照亮——请把它完全充满！",
+   "events": [
+    {
+     "id": "du-bist-die-ruh-e0131",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 62,
+     "beat": 1.0,
+     "lyric": "o",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0132",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 62,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0133",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 62,
+     "beat": 1.333,
+     "lyric": "füll’",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0134",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 62,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0135",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 62,
+     "beat": 1.667,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0136",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 62,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0137",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 63,
+     "beat": 1.0,
+     "lyric": "ganz,",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0138",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    64,
+    67
+   ],
+   "lyrics": "o füll’ es ganz!",
+   "translation": "唯有你的光辉照亮——请把它完全充满！",
+   "events": [
+    {
+     "id": "du-bist-die-ruh-e0139",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 1.0,
+     "lyric": "o",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0140",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0141",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 1.333,
+     "lyric": "füll’",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0142",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0143",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 64,
+     "beat": 1.667,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0144",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 64,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0145",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 65,
+     "beat": 1.0,
+     "lyric": "ganz!",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0146",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0147",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 66,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0148",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 67,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    68,
+    75
+   ],
+   "lyrics": "Dies Augenzelt von deinem Glanz allein erhellt,",
+   "translation": "我这双眼的帐幕，",
+   "events": [
+    {
+     "id": "du-bist-die-ruh-e0149",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 1.0,
+     "lyric": "Dies",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0150",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 68,
+     "beat": 1.333,
+     "lyric": "Au",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0151",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 68,
+     "beat": 1.833,
+     "lyric": "gen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "du-bist-die-ruh-e0152",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 69,
+     "beat": 1.0,
+     "lyric": "zelt",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0153",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 69,
+     "beat": 1.667,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0154",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 70,
+     "beat": 1.0,
+     "lyric": "dei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0155",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 1.667,
+     "lyric": "nem",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0156",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 71,
+     "beat": 1.0,
+     "lyric": "Glanz",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0157",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 1.667,
+     "lyric": "al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0158",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 72,
+     "beat": 1.0,
+     "lyric": "lein",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0159",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 72,
+     "beat": 1.667,
+     "lyric": "er",
+     "syllabic": "begin"
+    },
+    {
+     "id": "du-bist-die-ruh-e0160",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 73,
+     "beat": 1.0,
+     "lyric": "hellt,",
+     "syllabic": "end"
+    },
+    {
+     "id": "du-bist-die-ruh-e0161",
+     "pitch": "Ab5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 74,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0162",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 75,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    76,
+    77
+   ],
+   "lyrics": "o füll’ es ganz,",
+   "translation": "唯有你的光辉照亮——请把它完全充满！",
+   "events": [
+    {
+     "id": "du-bist-die-ruh-e0163",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 76,
+     "beat": 1.0,
+     "lyric": "o",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0164",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 76,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0165",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 76,
+     "beat": 1.333,
+     "lyric": "füll’",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0166",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 76,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0167",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 76,
+     "beat": 1.667,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0168",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 76,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0169",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 77,
+     "beat": 1.0,
+     "lyric": "ganz,",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0170",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 77,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    78,
+    82
+   ],
+   "lyrics": "o füll’ es ganz!",
+   "translation": "唯有你的光辉照亮——请把它完全充满！",
+   "events": [
+    {
+     "id": "du-bist-die-ruh-e0171",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 1.0,
+     "lyric": "o",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0172",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0173",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 1.333,
+     "lyric": "füll’",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0174",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0175",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 78,
+     "beat": 1.667,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0176",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 78,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0177",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 79,
+     "beat": 1.0,
+     "lyric": "ganz!",
+     "syllabic": "single"
+    },
+    {
+     "id": "du-bist-die-ruh-e0178",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 80,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0179",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 81,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "du-bist-die-ruh-e0180",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 82,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 174,
+ "restCount": 19,
+ "lyricNoteCount": 112,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 15,
+  "slowScale": 1.45
+ }
+}

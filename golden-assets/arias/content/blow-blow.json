@@ -1,0 +1,128 @@
+{
+ "title": "Blow, Blow, Thou Winter Wind",
+ "titleZh": "吹吧，吹吧，冬风",
+ "composer": "T. Arne",
+ "opera": "为莎士比亚《皆大欢喜》第二幕第七场所作的歌曲（1740）",
+ "role": "阿米安（Amiens）：流放公爵的随从，在森林里唱歌的贵族",
+ "genre": "戏剧歌曲",
+ "language": "英语",
+ "voice": "女中音",
+ "difficulty": "基础",
+ "tempoBpm": 84,
+ "complete": true,
+ "sourceGrade": "B",
+ "coverageNote": "完整声乐旋律（4/4，55 小节，两节歌词连续写出），132 个英语音节；OpenScore 转写自 18 世纪版本。来源文件另有一个 16 音的 “Mezzo-soprano” 副声部（合唱回应），本页只取主唱声部（part 2）。已与 IMSLP 核对。",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Arne,_Thomas/_/Blow,_Blow,_Thou_Winter_Wind",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Arne,_Thomas/_/Blow,_Blow,_Thou_Winter_Wind",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；132 个音节与 18 世纪版本核对；主唱为 part 2",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/8835588"
+  },
+  {
+   "name": "IMSLP · Blow, Blow, Thou Winter Wind (Arne, Thomas Augustine)",
+   "url": "https://imslp.org/wiki/Blow,_Blow,_Thou_Winter_Wind_(Arne,_Thomas_Augustine)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "Wikisource · As You Like It, Act II Scene 7",
+   "url": "https://en.wikisource.org/wiki/As_You_Like_It_(Shakespeare)",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "fixes": {
+  "1.": "",
+  "2.": ""
+ },
+ "lyrics": [
+  {
+   "text": "Blow, blow, thou winter wind, thou art not so unkind as man’s ingratitude;",
+   "zh": "吹吧，吹吧，冬风，你并不像人的忘恩负义那样无情；"
+  },
+  {
+   "text": "thy tooth is not so keen, because thou art not seen, although thy breath be rude.",
+   "zh": "你的牙齿并不那么尖利，因为你无形无影，虽然你的呼吸粗暴。"
+  },
+  {
+   "text": "Freeze, freeze, thou bitter sky, thou dost not bite so nigh as benefits forgot;",
+   "zh": "冻吧，冻吧，苦寒的天空，你咬得不像被遗忘的恩情那样深；"
+  },
+  {
+   "text": "though thou the waters warp, thy sting is not so sharp as friends remember’d not.",
+   "zh": "虽然你使水结冰，你的刺痛也不如朋友的遗忘那样尖锐。"
+  }
+ ],
+ "hints": [
+  {
+   "title": "重读与弱读",
+   "items": [
+    "BLOW, blow, thou WIN-ter WIND——单音节实词重读；thou、art、not、so、as 弱读但不吞。",
+    "in-GRAT-i-tude 重音在第二音节；BEN-e-fits、re-MEM-ber’d。"
+   ]
+  },
+  {
+   "title": "舞台英语与古语",
+   "items": [
+    "thou [ðaʊ]、thy [ðaɪ]、dost [dʌst]、art——莎士比亚时代的第二人称，t/d 清晰。",
+    "“remember’d” 读 [rɪˈmɛmbəd]，两音节结尾；“forgot” 的 t 收清；使用英式舞台发音（RP），r 在元音前弹舌或轻卷均可，词尾 r 不卷。"
+   ]
+  },
+  {
+   "title": "元音",
+   "items": [
+    "wind [ɪ]、keen [iː]、seen [iː]、rude [uː]、sky [aɪ]、nigh [naɪ]、warp [ɔː]、sharp [ɑː]。",
+    "“unkind”“bite” 的 i 双元音要完整。"
+   ]
+  }
+ ],
+ "story": {
+  "background": "托马斯·阿恩 1740 年为德鲁里巷剧院上演的莎士比亚《皆大欢喜》谱写了剧中歌曲，这首《吹吧，吹吧，冬风》出自第二幕第七场，是 18 世纪英国戏剧歌曲的代表，也是英语声乐初学者常用的曲目。4/4，两节歌词。",
+  "situation": "被放逐的老公爵和随从住在亚登森林。奥兰多刚带着年迈的仆人亚当来求食，公爵请他们入席，阿米安唱起这首歌：冬风再冷，也不如人心的忘恩负义冷。歌是对刚发生的背叛（弟弟篡位、兄长弗雷德里克的迫害）的评论，语气却是达观的。",
+  "relationships": "阿米安（歌者）、老公爵与众贵族（听众）、奥兰多与亚当（刚到的客人）。歌曲不推动情节，而是用森林的寒冷反衬宫廷的冷酷，为流放者的处境定调。",
+  "intent": "开口要有风声的气势——“Blow, blow” 的两个 b 用气息推出，但整体是从容的，不是愤怒。“thou art not so unkind” 转为讽刺的平静；“although thy breath be rude” 略带笑意。第二节 “Freeze, freeze” 更冷，“as friends remember’d not” 是全曲最深的一句，可放慢、放轻。",
+  "plain30": "森林里的贵族对着冬风唱：你再冷，也比不上人的忘恩负义。表面是天气，实际在说刚刚经历的背叛。",
+  "arc": "4/4 Allegretto，18 世纪英国式的方正旋律。“Blow, blow” 以同音反复加上行跳进模仿风声，随后级进下行；“thy tooth is not so keen” 转为更抒情的线条并反复；两节音乐相同，第二节 “Freeze, freeze” 可更冷峻。情绪：风势—讽刺—反复的感叹。",
+  "motif": "核心动机是 “Blow, blow” 的同音反复加向上跳进：风的两次推送。它在第二节 “Freeze, freeze” 原样再现；“as man’s ingratitude” 的反复把跳进反向为下行叹息。演唱时两个 “Blow” 第二个略重，跳进要干净。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Blow, blow, thou winter wind” 风的动机首次出现。"
+   },
+   {
+    "phrase": 2,
+    "note": "第 2 句 “thy tooth is not so keen” 转为抒情线，多次反复。"
+   },
+   {
+    "phrase": 3,
+    "note": "第 3 句 “Freeze, freeze” 动机原样再现，更冷。"
+   },
+   {
+    "phrase": 4,
+    "note": "第 4 句 “as friends remember’d not” 动机反向为下行叹息，反复收束。"
+   }
+  ],
+  "technique": "呼吸：两小节一句，句尾短换气；反复句之间可短吸。咬字：古英语第二人称的 th 清晰；词尾 d/t（wind、unkind、forgot）要收清。换声区：女中音在 D5–E5（“unkind”“sky”）经过换声区，保持自然。高音：最高音 F5 在 “rude”/“sharp” 的反复上，是明亮的感叹，不用力。",
+  "classroom": [
+   "先读中文，理解“风”与“人心”的对比。",
+   "慢速读英语，标出重读音节与弱读词。",
+   "分离元音和辅音：练 th、词尾 d/t。",
+   "按 4/4 说词，第一拍重。",
+   "听单音旋律，注意 “Blow, blow” 的跳进。",
+   "把歌词放回旋律，先练第一节，再练第二节。",
+   "用正常速度完整演唱，第二节更冷。"
+  ]
+ }
+}

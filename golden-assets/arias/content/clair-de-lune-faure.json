@@ -1,0 +1,84 @@
+{
+  "title": "Clair de lune",
+  "titleZh": "月光",
+  "composer": "G. Fauré",
+  "opera": "Op. 46, No. 2（《两首歌曲》第二首，1887；诗：P. Verlaine）",
+  "language": "法语",
+  "script": "latin",
+  "voice": "男中音",
+  "difficulty": "中级",
+  "genre": "艺术歌曲",
+  "tempoBpm": 54,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（b 小调，9/8 Andantino quasi Allegretto，约 44 小节）。法国 mélodie 的经典之作。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {"text": "Votre âme est un paysage choisi", "zh": "你的灵魂是一幅精心挑选的风景画，"},
+    {"text": "que vont charmant masques et bergamasques,", "zh": "迷人的面具和贝加马舞者在其中穿行，"},
+    {"text": "jouant du luth et dansant et quasi", "zh": "弹着琉特琴，跳着舞，"},
+    {"text": "tristes sous leurs déguisements fantasques.", "zh": "在奇幻的装扮下几乎带着忧伤。"},
+    {"text": "Tout en chantant sur le mode mineur", "zh": "他们一边唱着小调的歌，"},
+    {"text": "l'amour vainqueur et la vie opportune,", "zh": "唱着胜利的爱情和适意的生活，"},
+    {"text": "ils n'ont pas l'air de croire à leur bonheur", "zh": "他们看起来并不相信自己的幸福，"},
+    {"text": "et leur chanson se mêle au clair de lune.", "zh": "他们的歌声融入了月光之中。"},
+    {"text": "Au calme clair de lune triste et beau,", "zh": "在宁静的月光下——忧伤而美丽——"},
+    {"text": "qui fait rêver les oiseaux dans les arbres", "zh": "月光让树上的鸟儿入梦，"},
+    {"text": "et sangloter d'extase les jets d'eau,", "zh": "也让喷泉在狂喜中啜泣，"},
+    {"text": "les grands jets d'eau sveltes parmi les marbres.", "zh": "那些大理石间修长的喷泉水柱。"}
+  ],
+  "hints": [
+    {
+      "title": "法语鼻元音",
+      "items": [
+        "charmant, dansant, chantant 的 -ant 读鼻化 [ɑ̃]——嘴巴大开，气流从鼻腔出",
+        "vainqueur 的 -ain 读 [ɛ̃]，bonheur 的 -on 读 [ɔ̃]",
+        "lune, opportune 的 -une 不是鼻元音，是 [yn]"
+      ]
+    },
+    {
+      "title": "法语连诵与流动感",
+      "items": [
+        "法语艺术歌曲中连诵（liaison）很重要：'est un' 要连读为 [ɛ.tœ̃]",
+        "9/8 拍的流动感像月光下水面的波纹——不要打断",
+        "每行诗结尾的辅音要轻柔地释放，不要像德语那样干脆收音"
+      ]
+    }
+  ],
+  "story": {
+    "background": "魏尔伦的这首诗被多位法国作曲家谱曲——福雷、德彪西、普朗克都写过。福雷的版本（1887年）是最著名的之一，它以 b 小调的 9/8 拍创造了一个月光下的幻梦世界。这首诗描绘了一个假面舞会般的场景，但面具下是忧伤——快乐是假装的，只有月光和喷泉的声音是真实的。",
+    "situation": "'你的灵魂像一幅风景画'——歌者在描述某个人的内心世界：看似有面具和舞者在快乐地演出，但其实他们'几乎忧伤'。他们唱着爱情和幸福的歌，却不相信自己的幸福。一切融入了月光——宁静、忧伤、美丽。",
+    "relationships": "歌者与'你'（Votre）——正式的第二人称暗示一定的距离感。歌者在观察'你'的灵魂，但不进入其中——像在窗外看一场无声的月光舞会。",
+    "intent": "整首歌要保持一种朦胧的、不真实的质感——像隔着一层纱看月光下的花园。不要唱得太实在或太大声。'tristes sous leurs déguisements fantasques' 是核心——快乐的面具下藏着忧伤。最后的'les grands jets d'eau sveltes parmi les marbres'应该越来越轻，像画面渐渐消失在月光中。",
+    "plain30": "你的灵魂像一幅月夜花园的画：面具舞者在跳舞、唱歌，但他们并不相信自己的快乐。一切融入了月光——忧伤而美丽。这是魏尔伦最著名的诗之一，福雷把它变成了一个梦。",
+    "arc": "b 小调，9/8，如行板般的小快板。9/8 拍的三组三拍子创造了一种波浪般的流动感。旋律在中低音区轻柔地起伏，钢琴的分解和弦像月光洒在水面上。第二段'Tout en chantant'略有推进。第三段'Au calme clair de lune'到达高潮后渐弱——最后消失在 B 大调的皮卡第三度终止中（从小调的忧伤转到大调的宁静）。",
+    "motif": "月光波纹动机：9/8 拍中钢琴的连续分解和弦——像月光在水面的波纹，也像面具舞者的轻盈步伐。声乐的悬浮动机：旋律经常停在不解决的音上——制造一种'几乎快乐但不完全'的感觉。结尾的皮卡第三度终止——从 b 小调突然变成 B 大调——像月光突然穿透云层。",
+    "motifPositions": [
+      {"phrase": "1", "note": "'Votre âme est un paysage' 开头建立朦胧氛围，声音要轻而飘"},
+      {"phrase": "4", "note": "'tristes sous leurs déguisements' 核心句——面具下的忧伤"},
+      {"phrase": "8", "note": "'leur chanson se mêle au clair de lune' 歌声融入月光——声音渐轻"},
+      {"phrase": "12", "note": "结尾——'parmi les marbres' 消失在大理石和月光中"}
+    ],
+    "technique": "法语的连贯发音是关键——不要在每个词之间停顿。9/8 拍需要非常流畅的气息分配。音量全程控制在 p 到 mp 之间。鼻元音（-ant, -on, -ain）要唱得清晰但不过分强调。最后的渐弱和调性转变是全曲的灵魂——从忧伤到宁静的转换要自然到几乎察觉不到。",
+    "classroom": [
+      "先读中文——理解三段画面：月夜花园中的假面舞会 → 他们的歌声不可信 → 一切消融在月光中。",
+      "朗读法语——注意鼻元音和连诵，像在轻声读诗。",
+      "用'嗯'哼唱旋律，感受 9/8 拍的三组波浪节奏。",
+      "先练第一段——建立朦胧、轻柔的音色。",
+      "练习最后四行——'Au calme clair de lune' 是全曲最美的部分。",
+      "完整演唱。想象一个月光下的花园，大理石雕塑之间有喷泉在流水——你站在远处看着这一切。",
+      "对比听德彪西的同名钢琴曲——虽然是不同作品，但同一首诗激发的两种音乐想象很有意思。"
+    ]
+  }
+}

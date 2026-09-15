@@ -1,0 +1,108 @@
+{
+  "title": "Pace non trovo",
+  "titleZh": "我找不到安宁",
+  "composer": "F. Liszt",
+  "opera": "Tre sonetti di Petrarca S.270（彼特拉克三首十四行诗，1838/1861 修订版）",
+  "role": "抒情主体：被爱情撕裂的诗人",
+  "genre": "艺术歌曲",
+  "language": "意大利语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "高阶",
+  "tempoBpm": 60,
+  "complete": true,
+  "sourceGrade": "B",
+  "coverageNote": "完整声乐旋律（MXL 含意大利语/德语双语歌词，导入时取第一语言层=意大利语），180 个音节；OpenScore 转写。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus · Liszt, Pace non trovo",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MXL（MuseScore 转写，CC0）",
+      "status": "已解析；180 个音节，意大利语/德语双语（取 verse 1 = 意大利语）",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    },
+    {
+      "name": "IMSLP · Tre Sonetti di Petrarca (Liszt)",
+      "url": "https://imslp.org/wiki/3_Sonetti_del_Petrarca,_S.270_(Liszt,_Franz)",
+      "format": "PDF 声乐谱",
+      "status": "用于交叉核对",
+      "role": "参照原谱",
+      "grade": "A",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {"text": "Pace non trovo, e non ho da far guerra;", "zh": "我找不到安宁，却无力去作战；"},
+    {"text": "e temo, e spero; ed ardo, e son un ghiaccio;", "zh": "我恐惧，又希望；我燃烧，又化为冰；"},
+    {"text": "e volo sopra 'l cielo, e giaccio in terra;", "zh": "我飞升到天空之上，又匍匐于大地；"},
+    {"text": "e nulla stringo, e tutto 'l mondo abbraccio.", "zh": "我什么也抓不住，却拥抱了整个世界。"},
+    {"text": "Tal m'ha in prigion, che non m'apre né serra,", "zh": "她把我囚禁着，却既不打开也不锁上；"},
+    {"text": "né per suo mi riten, né scioglie il laccio;", "zh": "既不据为己有，也不解开绳索；"},
+    {"text": "e non m'ancide Amore, e non mi sferra,", "zh": "爱情既不杀死我，也不释放我，"},
+    {"text": "né mi vuol vivo, né mi trae d'impaccio.", "zh": "既不让我活，也不解救我的困境。"},
+    {"text": "Veggio senz'occhi, e non ho lingua, e grido;", "zh": "我没有眼睛却看见，没有舌头却呐喊；"},
+    {"text": "e bramo di perir, e chieggio aita;", "zh": "我渴望毁灭，又乞求救助；"},
+    {"text": "ed ho in odio me stesso, ed amo altrui.", "zh": "我憎恨自己，却爱着别人。"},
+    {"text": "Pascomi di dolor, piangendo rido;", "zh": "我以痛苦为食，哭泣中大笑；"},
+    {"text": "egualmente mi spiace morte e vita:", "zh": "死亡与生命同样令我不快："},
+    {"text": "in questo stato son, donna, per vui.", "zh": "女士，因为你，我陷入了这种境地。"}
+  ],
+  "hints": [
+    {
+      "title": "意大利语中的双辅音与重音",
+      "items": [
+        "「guerra」的 rr 需要明确的颤舌双辅音",
+        "「ghiaccio」的 cc [ttʃ] 是双辅音，「giaccio」同理",
+        "「abbraccio」的 bb 和 cc 都是双辅音——abb-rac-cio",
+        "「impaccio」「laccio」的 cc 也是双辅音"
+      ]
+    },
+    {
+      "title": "诗体省音与古意大利语",
+      "items": [
+        "「'l cielo」「'l mondo」= il cielo / il mondo 的诗体缩写",
+        "「m'ha」= mi ha；「m'apre」= mi apre；「m'ancide」= mi ancide",
+        "「chieggio」是古意大利语的 chiedo（我请求）",
+        "「Pascomi」= Mi pasco（我以...为食），古体倒装",
+        "「vui」= voi（你），古普罗旺斯/古意大利语形式"
+      ]
+    },
+    {
+      "title": "元音与节奏",
+      "items": [
+        "十四行诗每行 11 个音节（endecasillabo），重音落在第 4 和第 10 音节",
+        "「e temo, e spero; ed ardo, e son un ghiaccio」一行中四组矛盾对比，每组之间有微停",
+        "「Pace」的 a 为开口 [a]，ce 为闭口 [tʃe]"
+      ]
+    }
+  ],
+  "story": {
+    "background": "彼特拉克（1304-1374）是意大利文艺复兴时期最伟大的诗人之一。他的《歌集》（Canzoniere）中收录了 366 首诗，大多献给他终生暗恋的女子劳拉（Laura）。第 134 首十四行诗「Pace non trovo」是其中最著名的一首，以一连串矛盾对比（oxymoron）表达爱情的痛苦与迷狂。李斯特于 1838-1839 年首次为声乐与钢琴谱曲，1861 年修订为更精炼的版本。这是浪漫主义声乐文学中钢琴与声乐最具戏剧张力的作品之一。",
+    "situation": "诗人面对无法得到的爱人，发现自己陷入了一种不可能的状态：他同时燃烧又冰冷，飞翔又匍匐，被囚禁却既不被关上也不被打开。爱情把他变成了一个行走的矛盾体。这不是一首讲故事的歌——而是一声被爱情折磨到极限的呐喊。",
+    "relationships": "诗人与「donna」（女士）——即劳拉。她是他爱慕的对象，但在彼特拉克的诗中，劳拉永远是不可及的。她既不接受也不拒绝，既不杀死爱情也不成全。「Amore」（爱情）在诗中被人格化为第三方——一个残酷的狱卒。",
+    "intent": "开头「Pace non trovo」要以沉重的宣告开始——这不是抱怨，是在陈述一个不可逃避的事实。随后每一对矛盾都需要声音上的对比：「e temo」轻、「e spero」亮、「ed ardo」火热、「e son un ghiaccio」冰冷。中间八行（监狱意象）音色变暗。「Veggio senz'occhi」开始的三联句是最疯狂的段落——矛盾堆叠到极限。最后一行「in questo stato son, donna, per vui」是全诗唯一直接对她说话的地方——从呐喊回到低语，但这低语比呐喊更有力。",
+    "plain30": "诗人被爱情折磨到发疯：他同时燃烧又冰冷、飞翔又匍匐、渴望死亡又乞求活命。最后他对那个女人说：因为你，我变成了这样。这是一首用矛盾表达极端爱情痛苦的诗。",
+    "arc": "变化多端的速度与调性是李斯特的标志。开头 Agitato assai 在小调上以强烈的钢琴和弦宣告主题。声乐线在低音区沉重开始，每一对矛盾推动旋律向上。中段（监狱意象）暂时安静，像被困住的窒息感。「Veggio senz'occhi」爆发为全曲高潮——钢琴的八度与声乐的高音同时冲顶。最后两行突然安静，「per vui」像一声叹息落在主和弦上。",
+    "motif": "矛盾对比动机：每一对矛盾（战争/和平、冰/火、飞/落）在音乐上用上行-下行的对比体现。李斯特用减七和弦的不稳定感贯穿全曲，只在最后一个字「vui」上给出一个意外的大三和弦——解决、释然、和投降同时发生。",
+    "motifPositions": [
+      {"phrase": "1", "note": "「Pace non trovo」主题宣告——沉重的下行，钢琴震音"},
+      {"phrase": "2", "note": "「e temo, e spero; ed ardo」四组矛盾对比，旋律在每对之间做方向性变化"},
+      {"phrase": "5", "note": "「Tal m'ha in prigion」转为更暗的音色——监狱意象"},
+      {"phrase": "9", "note": "「Veggio senz'occhi」全曲高潮爆发——最疯狂的矛盾堆叠"},
+      {"phrase": "14", "note": "「in questo stato son, donna, per vui」突然安静——全诗唯一对她说话"}
+    ],
+    "technique": "这是极具挑战性的曲目。音域跨度大（可能低至 C3、高至 A4 或更高视版本），需要在极端力度变化（ppp 到 fff）之间快速切换。每一对矛盾需要截然不同的音色：「ardo」（燃烧）要亮而开放，紧接着「ghiaccio」（冰）要暗而收缩——这一切发生在一个乐句之内。钢琴部分是真正的钢琴协奏曲级难度，合作时需要严格的速度协商。呼吸安排是难点——长乐句中间几乎没有换气机会，需要提前在分号处微停。意大利语的古体词汇（chieggio、Pascomi、vui）不要读成现代发音。",
+    "classroom": [
+      "先读中文翻译，理解每一对矛盾——战争与和平、冰与火、飞翔与匍匐。这不是故事，是一连串不可能同时存在的状态。",
+      "慢速朗读意大利语。注意十四行诗的节奏——每行 11 个音节，重音在第 4 和第 10 音节。",
+      "练习对比咬字：「ardo」的 a 开口、明亮；紧接「ghiaccio」的 ia 向暗处收。",
+      "按李斯特标注的速度（Agitato assai）说词，感受每组矛盾的推进力。",
+      "听旋律参考：注意低音区的沉重和高潮处的爆发。",
+      "分段练习：先练第一个四联句（矛盾宣告），再练监狱段，最后练高潮和结尾。",
+      "完整演唱。最后一行「per vui」是关键——从最大的爆发回到最安静的直白，这个对比就是整首诗的精髓。"
+    ]
+  }
+}

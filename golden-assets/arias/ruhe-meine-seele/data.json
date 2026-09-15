@@ -1,0 +1,1465 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "ruhe-meine-seele",
+ "title": "Ruhe, meine Seele!",
+ "titleZh": "安息吧，我的灵魂！",
+ "composer": "R. Strauss",
+ "opera": "Op. 27, No. 1（《四首歌曲》第一首，1894；诗：K.F. Henckell）",
+ "language": "德语",
+ "voice": "女高音",
+ "difficulty": "中级",
+ "tempoBpm": 50,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   43
+  ],
+  "firstSungMeasure": 4,
+  "complete": true,
+  "note": "完整声乐旋律（c 小调→C 大调，4/4 Langsam）。Op.27 第一首，沉重而内省。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "C4",
+  "high": "F#5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主人公（寻求内心安宁者）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Nicht ein Lüftchen regt sich leise,",
+   "zh": "没有一丝微风轻轻吹动，"
+  },
+  {
+   "text": "sanft entschlummert ruht der Hain;",
+   "zh": "树林在温柔的沉睡中安歇；"
+  },
+  {
+   "text": "durch der Blätter dunkle Hülle",
+   "zh": "透过树叶暗沉的帷幕，"
+  },
+  {
+   "text": "stiehlt sich lichter Sonnenschein.",
+   "zh": "一缕明亮的阳光悄然潜入。"
+  },
+  {
+   "text": "Ruhe, ruhe, meine Seele,",
+   "zh": "安息吧，安息吧，我的灵魂，"
+  },
+  {
+   "text": "deine Stürme gingen wild,",
+   "zh": "你的风暴曾经狂烈，"
+  },
+  {
+   "text": "hast getobt und hast gezittert,",
+   "zh": "你曾咆哮、曾颤抖——"
+  },
+  {
+   "text": "wie die Brandung, wenn sie schwillt!",
+   "zh": "如同涨潮时汹涌的浪涛！"
+  },
+  {
+   "text": "Diese Zeiten sind gewaltig,",
+   "zh": "这些时代是猛烈的，"
+  },
+  {
+   "text": "bringen Herz und Hirn in Not.",
+   "zh": "让心灵和头脑都陷入困境。"
+  },
+  {
+   "text": "Ruhe, ruhe, meine Seele,",
+   "zh": "安息吧，安息吧，我的灵魂，"
+  },
+  {
+   "text": "und vergiss, was dich bedroht!",
+   "zh": "忘记那些威胁你的一切！"
+  }
+ ],
+ "story": {
+  "background": "这是施特劳斯 Op.27 四首歌曲的第一首，写于 1894 年婚礼之际。亨克尔的诗表面上是自然描写——宁静的树林、沉睡的风——但其下是对灵魂风暴的回忆和对安宁的祈求。施特劳斯在 1948 年将此曲改编为管弦乐版，晚年的他重新审视这首写于人生幸福时刻的作品，赋予了它更深沉的含义。",
+  "situation": "一个经历过剧烈内心风暴的人站在宁静的树林中。外部世界是平和的——没有风、阳光从树叶间洒下。但他的灵魂还没有完全平息。他对自己说：安息吧，你经历过咆哮和颤抖，但现在要安静下来，忘记那些威胁。",
+  "relationships": "歌者与自己的灵魂对话——这是一段独白。没有外部角色，只有内心与外部自然的对照：树林在安睡，而灵魂还在颤抖。",
+  "intent": "开头要极度安静，像是在安抚一个受惊的孩子。自然描写的四句要轻柔、平稳。当唱到「Ruhe, ruhe, meine Seele」时，声音要有恳求的温暖。「deine Stürme gingen wild」是回忆——不是重现风暴，而是从安全的距离回望它。最后的「vergiss, was dich bedroht」是一个命令，但不是激烈的命令，而是疲惫后的自我安慰。",
+  "plain30": "站在安静的树林里，对自己的灵魂说：你曾经那么狂暴，像大浪一样咆哮颤抖。现在安静下来吧。这个时代让人心力交瘁——忘掉那些威胁你的东西。这是经历过风暴之后的祈祷。",
+  "arc": "c 小调→C 大调，4/4，极慢。开头的自然描写在 c 小调中沉稳流动。「Ruhe, ruhe」转向降 E 大调——一丝温暖。「deine Stürme gingen wild」短暂回忆风暴，力度增加但很快收回。第三段「Diese Zeiten sind gewaltig」达到一个沉重的 ff——这是全曲最黑暗的时刻。最后的「Ruhe, ruhe」回到安宁，在 C 大调上以 pp 结束——大调的转变像是微弱但真实的希望。",
+  "motif": "安息动机：「Ruhe, ruhe」的下行二度——两个相同的叹息音型，像母亲轻拍孩子。风暴回忆动机：「deine Stürme」的上行四度跳进和随后的级进下行——回忆起风暴的力量，但马上收回。钢琴的持续低音 C 像大地的脉搏，给整首歌一个稳定的基础。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "开头自然描写：极轻的 c 小调，像树林的呼吸"
+   },
+   {
+    "phrase": "5",
+    "note": "第一次「Ruhe, ruhe」——下行叹息，核心安息动机"
+   },
+   {
+    "phrase": "6",
+    "note": "「deine Stürme gingen wild」——风暴回忆，短暂爆发"
+   },
+   {
+    "phrase": "11",
+    "note": "最后的「Ruhe, ruhe」——在 C 大调中找到真正的安宁"
+   }
+  ],
+  "technique": "这首歌的技术难度不在音域（适中），而在极慢速度下的气息控制和力度层次。每个乐句都很长，需要深而无声的呼吸。pp 和 ppp 的段落要保持声音的核心支撑——不能虚。「gewaltig」处的 ff 是全曲唯一的爆发，要准备好气息后果断释放，然后迅速回到 p。词尾的 t、ss、ht 等清辅音在慢速下要格外清晰。",
+  "classroom": [
+   "先读中文——找出三个层次：自然的宁静、灵魂的风暴回忆、安息的祈求。",
+   "用极轻的声音朗读德语——这首歌几乎全程在 piano 以下。",
+   "练习「Ruhe, ruhe」这两个词——下行二度要完全均匀、没有重音。",
+   "按节拍器（♩=50）说词——感受慢速下每个音节的重量。",
+   "哼唱旋律线——标记唯一的 ff（「Diese Zeiten sind gewaltig」）和它之前之后的力度变化。",
+   "完整演唱，注意最后从 c 小调到 C 大调的转变——那是一个微小但决定性的希望。",
+   "这首歌和同一套曲的《明天》形成对比——一首是找到安宁的过程，另一首是已经在安宁之中。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "Lüftchen 的 ü 是短圆唇 [ʏ]，Hülle 的 ü 也是短 [ʏ]",
+    "Seele 的 ee 是长 [eː]——这个词反复出现，需要纯净的元音",
+    "Stürme 的 ü 是长 [yː]，注意与短 ü 的区别",
+    "gewaltig 的 a 是短 [a]，bedroht 的 o 是长 [oː]"
+   ]
+  },
+  {
+   "title": "辅音要点",
+   "items": [
+    "entschlummert 中 sch [ʃ] 后面跟 l，要让 sch 完整发出再接 l",
+    "Brandung 的 ng [ŋ] 不要发成 [ŋg]——只有鼻音，没有爆破",
+    "vergiss 最后的 ss 要清楚——命令式的语气",
+    "bedroht 最后的 t 要轻而清晰——全曲最后一个音"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    4,
+    5
+   ],
+   "lyrics": "Nicht ein Lüftchen regt sich leise,",
+   "translation": "没有一丝微风轻轻吹动，",
+   "events": [
+    {
+     "id": "ruhe-meine-seele-e0004",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ruhe-meine-seele-e0005",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.0,
+     "lyric": "Nicht",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0006",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "ein",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0007",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "Lüft",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0008",
+     "pitch": "E#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 4.0,
+     "lyric": "chen",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0009",
+     "pitch": "E#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "regt",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0010",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.5,
+     "lyric": "sich",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0011",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "lei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0012",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 4.0,
+     "lyric": "se,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    6,
+    8
+   ],
+   "lyrics": "sanft entschlummert ruht der Hain durch der Blätter dunkle",
+   "translation": "树林在温柔的沉睡中安歇；",
+   "events": [
+    {
+     "id": "ruhe-meine-seele-e0013",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "sanft",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0014",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.5,
+     "lyric": "ent",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0015",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3.0,
+     "lyric": "schlum",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ruhe-meine-seele-e0016",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3.5,
+     "lyric": "mert",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0017",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 4.0,
+     "lyric": "ruht",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0018",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 4.5,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0019",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "Hain",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0020",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ruhe-meine-seele-e0021",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "durch",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0022",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0023",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "Blät",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0024",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.5,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0025",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 4.0,
+     "lyric": "dun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0026",
+     "pitch": "B#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 4.5,
+     "lyric": "kle",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    9,
+    13
+   ],
+   "lyrics": "Hülle stiehlt sich lichter Sonnenschein.",
+   "translation": "一缕明亮的阳光悄然潜入。",
+   "events": [
+    {
+     "id": "ruhe-meine-seele-e0027",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "Hül",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0028",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0029",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ruhe-meine-seele-e0030",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 9,
+     "beat": 4.0,
+     "lyric": "stiehlt",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0031",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "sich",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0032",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "lich",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0033",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 4.0,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0034",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "Son",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0035",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 4.0,
+     "lyric": "nen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ruhe-meine-seele-e0036",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "schein.",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0037",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    14,
+    17
+   ],
+   "lyrics": "Ruhe, ruhe, meine Seele",
+   "translation": "安息吧，安息吧，我的灵魂，",
+   "events": [
+    {
+     "id": "ruhe-meine-seele-e0038",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "Ru",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0039",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "he,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0040",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ruhe-meine-seele-e0041",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "ru",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0042",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "he,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0043",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 4.0,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0044",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 4.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0045",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "See",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0046",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0047",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ruhe-meine-seele-e0048",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    17,
+    21
+   ],
+   "lyrics": "deine Stürme gingen wild,",
+   "translation": "你的风暴曾经狂烈，",
+   "events": [
+    {
+     "id": "ruhe-meine-seele-e0049",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "dei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0050",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 4.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0051",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "Stür",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0052",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 4.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0053",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "gin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0054",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0055",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ruhe-meine-seele-e0056",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 5.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "wild,",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0057",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    21,
+    23
+   ],
+   "lyrics": "hast getobt und hast gezittert,",
+   "translation": "你曾咆哮、曾颤抖——",
+   "events": [
+    {
+     "id": "ruhe-meine-seele-e0058",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 21,
+     "beat": 3.0,
+     "lyric": "hast",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0059",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 4.5,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0060",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "tobt",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0061",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0062",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 4.0,
+     "lyric": "hast",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0063",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 4.75,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0064",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "zit",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ruhe-meine-seele-e0065",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "tert,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0066",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    23,
+    26
+   ],
+   "lyrics": "wie die Brandung, wenn sie schwillt!",
+   "translation": "如同涨潮时汹涌的浪涛！",
+   "events": [
+    {
+     "id": "ruhe-meine-seele-e0067",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 23,
+     "beat": 4.0,
+     "lyric": "wie",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0068",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 4.75,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0069",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "Brand",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0070",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 3.0,
+     "lyric": "ung,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0071",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 24,
+     "beat": 4.0,
+     "lyric": "wenn",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0072",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 4.75,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0073",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "schwillt!",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0074",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ruhe-meine-seele-e0075",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    26,
+    28
+   ],
+   "lyrics": "Diese Zeiten sind gewaltig,",
+   "translation": "这些时代是猛烈的，",
+   "events": [
+    {
+     "id": "ruhe-meine-seele-e0076",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 4.0,
+     "lyric": "Die",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0077",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 4.5,
+     "lyric": "se",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0078",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "Zei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0079",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0080",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 4.0,
+     "lyric": "sind",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0081",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 4.5,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0082",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "wal",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ruhe-meine-seele-e0083",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 3.0,
+     "lyric": "tig,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    28,
+    31
+   ],
+   "lyrics": "bringen Herz und Hirn in Not Ruhe.",
+   "translation": "让心灵和头脑都陷入困境。",
+   "events": [
+    {
+     "id": "ruhe-meine-seele-e0084",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 4.0,
+     "lyric": "brin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0085",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 4.5,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0086",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "Herz",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0087",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0088",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 29,
+     "beat": 3.0,
+     "lyric": "Hirn",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0089",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 4.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0090",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "Not",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0091",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ruhe-meine-seele-e0092",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "Ru",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0093",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 3.0,
+     "lyric": "he.",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0094",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    32,
+    34
+   ],
+   "lyrics": "ruhe, meine Seele,",
+   "translation": "安息吧，安息吧，我的灵魂，",
+   "events": [
+    {
+     "id": "ruhe-meine-seele-e0095",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "ru",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0096",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 3.0,
+     "lyric": "he,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0097",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 4.0,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0098",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 4.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0099",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "See",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0100",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 3.0,
+     "lyric": "le,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0101",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ruhe-meine-seele-e0102",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    34,
+    36
+   ],
+   "lyrics": "und vergiss,",
+   "translation": "忘记那些威胁你的一切！",
+   "events": [
+    {
+     "id": "ruhe-meine-seele-e0103",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 3.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0104",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 4.0,
+     "lyric": "ver",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0105",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "giss,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0106",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ruhe-meine-seele-e0107",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    36,
+    37
+   ],
+   "lyrics": "und vergiss,",
+   "translation": "忘记那些威胁你的一切！",
+   "events": [
+    {
+     "id": "ruhe-meine-seele-e0108",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 36,
+     "beat": 2.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0109",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 4.0,
+     "lyric": "ver",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0110",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "giss,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0111",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    38,
+    43
+   ],
+   "lyrics": "was dich bedroht!",
+   "translation": "忘记那些威胁你的一切！",
+   "events": [
+    {
+     "id": "ruhe-meine-seele-e0112",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "was",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0113",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "dich",
+     "syllabic": "single"
+    },
+    {
+     "id": "ruhe-meine-seele-e0114",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 4.0,
+     "lyric": "be",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ruhe-meine-seele-e0115",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "droht!",
+     "syllabic": "end"
+    },
+    {
+     "id": "ruhe-meine-seele-e0116",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ruhe-meine-seele-e0117",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ruhe-meine-seele-e0118",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ruhe-meine-seele-e0119",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 116,
+ "restCount": 23,
+ "lyricNoteCount": 93,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 13,
+  "slowScale": 1.45
+ }
+}

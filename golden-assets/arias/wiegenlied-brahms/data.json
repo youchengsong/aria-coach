@@ -1,0 +1,1579 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "wiegenlied-brahms",
+ "title": "Wiegenlied",
+ "titleZh": "摇篮曲",
+ "composer": "J. Brahms",
+ "opera": "Op. 49, No. 4（《五首歌曲》第四首，1868；诗：民间诗歌 / G. Scherer 改编）",
+ "language": "德语",
+ "voice": "女高音",
+ "difficulty": "基础",
+ "tempoBpm": 60,
+ "timeSignature": "3/4",
+ "coverage": {
+  "measures": [
+   1,
+   19
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "完整声乐旋律（降 E 大调，3/4 Zart bewegt，约 32 小节，两段分节歌）。世界上最著名的摇篮曲，勃拉姆斯为朋友 Bertha Faber 的儿子所写。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "Eb4",
+  "high": "Eb5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "母亲（摇篮曲的歌唱者）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Guten Abend, gut' Nacht, mit Rosen bedacht,",
+   "zh": "晚安，晚安，用玫瑰装点，"
+  },
+  {
+   "text": "mit Näglein besteckt, schlüpf' unter die Deck':",
+   "zh": "缀满了丁香花，钻进被子里："
+  },
+  {
+   "text": "Morgen früh, wenn Gott will, wirst du wieder geweckt,",
+   "zh": "明天一早，如果上帝愿意，你又会被唤醒，"
+  },
+  {
+   "text": "morgen früh, wenn Gott will, wirst du wieder geweckt.",
+   "zh": "明天一早，如果上帝愿意，你又会被唤醒。"
+  },
+  {
+   "text": "Guten Abend, gut' Nacht, von Englein bewacht,",
+   "zh": "晚安，晚安，有天使守护，"
+  },
+  {
+   "text": "die zeigen im Traum dir Christkindleins Baum:",
+   "zh": "他们会在梦中给你看圣婴的圣诞树："
+  },
+  {
+   "text": "Schlaf nun selig und süß, schau im Traum 's Paradies,",
+   "zh": "安详甜蜜地睡吧，在梦中看看天堂，"
+  },
+  {
+   "text": "schlaf nun selig und süß, schau im Traum 's Paradies.",
+   "zh": "安详甜蜜地睡吧，在梦中看看天堂。"
+  }
+ ],
+ "story": {
+  "background": "勃拉姆斯的《摇篮曲》是世界上最被广泛传唱的旋律之一。1868 年他为朋友 Bertha Faber 的第二个儿子创作了这首歌。有一个浪漫的秘密：钢琴左手的对位旋律引用了 Bertha 年轻时唱过的一首维也纳华尔兹——那是她和勃拉姆斯年轻时的共同记忆。歌词来自德国民间诗歌传统（《少年魔号》集）。",
+  "situation": "母亲（或父亲）在晚上哄婴儿入睡。用玫瑰和丁香装饰的床，天使在守护，明天上帝会再次唤醒你。第二段加入了宗教意象——圣婴的圣诞树、天堂。没有戏剧冲突，只有无条件的爱与守护。",
+  "relationships": "父母与婴儿——最纯粹的保护关系。'wenn Gott will'（如果上帝愿意）暗含了一丝不安——在19世纪婴儿死亡率很高的时代，'明天你会醒来'并不是百分百确定的事。",
+  "intent": "极度温柔。每一个音都像在轻声耳语。不需要任何戏剧性。声音要像一张温暖的毯子——把孩子包裹起来。最后渐弱到几乎听不见——孩子睡着了。",
+  "plain30": "晚安，宝贝。玫瑰花装饰你的床，天使守护你。明天你会醒来，在梦中你会看到天堂。这是世界上最有名的摇篮曲——你可能从小就听过这个旋律。",
+  "arc": "降 E 大调，3/4，轻柔地律动。两段分节歌使用相同旋律。旋律从弱拍开始——第一拍是休止，声音从第二拍进入——像呼吸的节奏。旋律线在很窄的音域内缓缓波动，像摇篮的摇晃。每段结尾的重复句（'morgen früh' / 'schlaf nun selig'）渐弱，像孩子渐渐入睡。",
+  "motif": "摇篮动机：从弱拍开始的三度级进上行——'Guten Abend, gut' Nacht'——温柔的波浪形旋律，像摇篮的弧线。这个动机在每个乐句开头以不同音高回来，但始终保持相同的摇晃感。钢琴左手的对位旋律（引用 Bertha 的华尔兹）在背景中流动，像第二层温暖。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "'Guten Abend, gut' Nacht' 摇篮动机——从弱拍开始的温柔波浪"
+   },
+   {
+    "phrase": "3",
+    "note": "'Morgen früh, wenn Gott will' 旋律上升到最高点——轻声的祝福"
+   },
+   {
+    "phrase": "4",
+    "note": "重复句——同样的旋律，但可以更轻，像孩子快要睡着"
+   },
+   {
+    "phrase": "7",
+    "note": "'Schlaf nun selig und süß' 第二段结尾——渐弱到接近沉默"
+   }
+  ],
+  "technique": "技巧上非常简单——音域窄、节奏规整、没有高音难点。真正的挑战是：如何用最简单的旋律传达最深的温柔？音量控制是关键——全曲应在 pp 到 p 之间。3/4 拍的第一拍不要加重（孩子在睡觉！），让节奏自然流动。最后的渐弱是全曲的灵魂——声音消失在空气中。",
+  "classroom": [
+   "这可能是你小时候听过的旋律——先哼一遍，找到那个记忆中的感觉。",
+   "朗读德语歌词——用对婴儿说话的温柔语气。",
+   "用'嗯'哼唱旋律——感受 3/4 拍的摇晃感。",
+   "两段歌词旋律相同，先学第一段。",
+   "练习渐弱——最后一句越来越轻，像真的在哄孩子睡觉。",
+   "完整演唱。想象你怀里有一个快要睡着的婴儿——你不敢唱太大声。",
+   "这首歌适合作为声乐学习的第一首德语歌曲——简单、美丽、人人都认识。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "Nacht 的 a 是长 [aː]，gut' 的 u 是短 [ʊ]",
+    "süß 的 ü 是圆唇长 [yː]——摇篮曲中最温柔的音",
+    "Näglein 的 ä 读 [ɛː]，Englein 的 e 读 [ɛ]",
+    "Paradies 的 重音在最后一个音节 [pa.ra.ˈdiːs]"
+   ]
+  },
+  {
+   "title": "摇篮曲的唱法",
+   "items": [
+    "3/4 拍要有轻柔的摇晃感——像抱着婴儿在轻轻摇",
+    "音量从头到尾保持在 piano——这是哄婴儿睡觉，不是音乐厅",
+    "最后一句可以越来越轻，像孩子真的睡着了"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    3,
+    5
+   ],
+   "verse": 1,
+   "lyrics": "Guten Abend, gut Nacht,",
+   "translation": "晚安，晚安，用玫瑰装点，",
+   "events": [
+    {
+     "id": "wiegenlied-brahms-e0004",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wiegenlied-brahms-e0005",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 3.0,
+     "lyric": "Gu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wiegenlied-brahms-e0006",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 3.5,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "wiegenlied-brahms-e0007",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "A",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wiegenlied-brahms-e0008",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "bend,",
+     "syllabic": "end"
+    },
+    {
+     "id": "wiegenlied-brahms-e0009",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "gut",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0010",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "Nacht,",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0011",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    5,
+    7
+   ],
+   "verse": 1,
+   "lyrics": "mit Rosen bedacht,",
+   "translation": "晚安，晚安，用玫瑰装点，",
+   "events": [
+    {
+     "id": "wiegenlied-brahms-e0012",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0013",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wiegenlied-brahms-e0014",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "Ro",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wiegenlied-brahms-e0015",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "sen",
+     "syllabic": "end"
+    },
+    {
+     "id": "wiegenlied-brahms-e0016",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3.5,
+     "lyric": "be",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wiegenlied-brahms-e0017",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "dacht,",
+     "syllabic": "end"
+    },
+    {
+     "id": "wiegenlied-brahms-e0018",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    7,
+    11
+   ],
+   "verse": 1,
+   "lyrics": "mit Näglein besteckt schlupf unter die Deck morgen",
+   "translation": "缀满了丁香花，钻进被子里：",
+   "events": [
+    {
+     "id": "wiegenlied-brahms-e0019",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 3.0,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0020",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wiegenlied-brahms-e0021",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "Näg",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wiegenlied-brahms-e0022",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "lein",
+     "syllabic": "end"
+    },
+    {
+     "id": "wiegenlied-brahms-e0023",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "be",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wiegenlied-brahms-e0024",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wiegenlied-brahms-e0025",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "steckt",
+     "syllabic": "end"
+    },
+    {
+     "id": "wiegenlied-brahms-e0026",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wiegenlied-brahms-e0027",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "schlupf",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0028",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wiegenlied-brahms-e0029",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wiegenlied-brahms-e0030",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wiegenlied-brahms-e0031",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "wiegenlied-brahms-e0032",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0033",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "Deck",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0034",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "wiegenlied-brahms-e0035",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "mor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wiegenlied-brahms-e0036",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 3.5,
+     "lyric": "gen",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    12,
+    15
+   ],
+   "verse": 1,
+   "lyrics": "früh, wenn Gott will, wirst du wieder geweckt,",
+   "translation": "明天一早，如果上帝愿意，你又会被唤醒，",
+   "events": [
+    {
+     "id": "wiegenlied-brahms-e0037",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "früh,",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0038",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "wenn",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0039",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.5,
+     "lyric": "Gott",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0040",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "will,",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0041",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "wirst",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0042",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 3.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0043",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "wie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wiegenlied-brahms-e0044",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "der",
+     "syllabic": "end"
+    },
+    {
+     "id": "wiegenlied-brahms-e0045",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wiegenlied-brahms-e0046",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "wiegenlied-brahms-e0047",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "weckt,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    15,
+    17
+   ],
+   "verse": 1,
+   "lyrics": "morgen früh, wenn Gott will,",
+   "translation": "明天一早，如果上帝愿意，你又会被唤醒。",
+   "events": [
+    {
+     "id": "wiegenlied-brahms-e0048",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "mor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wiegenlied-brahms-e0049",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 3.5,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "wiegenlied-brahms-e0050",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "früh,",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0051",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "wenn",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0052",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.5,
+     "lyric": "Gott",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0053",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "will,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    17,
+    19
+   ],
+   "verse": 1,
+   "lyrics": "wirst du wirder geweckt.",
+   "translation": "明天一早，如果上帝愿意，你又会被唤醒。",
+   "events": [
+    {
+     "id": "wiegenlied-brahms-e0054",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "wirst",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0055",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "wiegenlied-brahms-e0056",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "wir",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wiegenlied-brahms-e0057",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "wiegenlied-brahms-e0058",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "wiegenlied-brahms-e0059",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "der",
+     "syllabic": "end"
+    },
+    {
+     "id": "wiegenlied-brahms-e0060",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "wiegenlied-brahms-e0061",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "weckt.",
+     "syllabic": "end"
+    },
+    {
+     "id": "wiegenlied-brahms-e0062",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    1,
+    4
+   ],
+   "verse": 2,
+   "lyrics": "Guten Abend,",
+   "translation": "晚安，晚安，有天使守护，",
+   "events": [
+    {
+     "id": "wiegenlied-brahms-e0063",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0064",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0065",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0066",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0067",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 3.0,
+     "lyric": "Gu",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0068",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 3.5,
+     "lyric": "ten",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0069",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "A",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0070",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "bend,",
+     "syllabic": "end",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    4,
+    7
+   ],
+   "verse": 2,
+   "lyrics": "gut Nacht, von Englein bewacht,",
+   "translation": "晚安，晚安，有天使守护，",
+   "events": [
+    {
+     "id": "wiegenlied-brahms-e0071",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "gut",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0072",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "Nacht,",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0073",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0074",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "von",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0075",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0076",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "Eng",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0077",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "lein",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0078",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3.5,
+     "lyric": "be",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0079",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "wacht,",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0080",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    7,
+    11
+   ],
+   "verse": 2,
+   "lyrics": "die zeigen im Traum dir Christkindleins Baum.",
+   "translation": "他们会在梦中给你看圣婴的圣诞树：",
+   "events": [
+    {
+     "id": "wiegenlied-brahms-e0081",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 3.0,
+     "lyric": "die",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0082",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0083",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "zei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0084",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "gen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0085",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "im",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0086",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0087",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "Traum",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0088",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0089",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "dir",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0090",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0091",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "Christ",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0092",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0093",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "kind",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0094",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "leins",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0095",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "Baum.",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0096",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    11,
+    13
+   ],
+   "verse": 2,
+   "lyrics": "Schlaf nun selig und süss,",
+   "translation": "安详甜蜜地睡吧，在梦中看看天堂，",
+   "events": [
+    {
+     "id": "wiegenlied-brahms-e0097",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "Schlaf",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0098",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 3.5,
+     "lyric": "nun",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0099",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "se",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0100",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "lig",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0101",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.5,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0102",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "süss,",
+     "syllabic": "single",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    13,
+    15
+   ],
+   "verse": 2,
+   "lyrics": "schau im Traum's Paradies,",
+   "translation": "安详甜蜜地睡吧，在梦中看看天堂。",
+   "events": [
+    {
+     "id": "wiegenlied-brahms-e0103",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "schau",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0104",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 3.5,
+     "lyric": "im",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0105",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "Traum's",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0106",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "Pa",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0107",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "ra",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0108",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2,
+     "grace": true
+    },
+    {
+     "id": "wiegenlied-brahms-e0109",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "dies,",
+     "syllabic": "end",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    15,
+    17
+   ],
+   "verse": 2,
+   "lyrics": "schlaf nun selig und süss,",
+   "translation": "安详甜蜜地睡吧，在梦中看看天堂。",
+   "events": [
+    {
+     "id": "wiegenlied-brahms-e0110",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "schlaf",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0111",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 3.5,
+     "lyric": "nun",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0112",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "se",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0113",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "lig",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0114",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.5,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0115",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "süss,",
+     "syllabic": "single",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    17,
+    19
+   ],
+   "verse": 2,
+   "lyrics": "schau im Traum 's Paradies.",
+   "translation": "安详甜蜜地睡吧，在梦中看看天堂。",
+   "events": [
+    {
+     "id": "wiegenlied-brahms-e0116",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "schau",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0117",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3.5,
+     "lyric": "im",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0118",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "Traum 's",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0119",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2,
+     "grace": true
+    },
+    {
+     "id": "wiegenlied-brahms-e0120",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2,
+     "grace": true
+    },
+    {
+     "id": "wiegenlied-brahms-e0121",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "Pa",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0122",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "ra",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0123",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "dies.",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "wiegenlied-brahms-e0124",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  }
+ ],
+ "eventCount": 121,
+ "restCount": 13,
+ "lyricNoteCount": 90,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 13,
+  "slowScale": 1.45
+ }
+}

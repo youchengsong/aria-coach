@@ -1,0 +1,4622 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "gremin-aria",
+ "title": "Ария Гремина «Любви все возрасты покорны»",
+ "titleZh": "格列明的咏叹调「爱情不分年龄」",
+ "composer": "П.И. Чайковский",
+ "opera": "Евгений Онегин（叶甫盖尼·奥涅金），第三幕第一场",
+ "language": "俄语",
+ "voice": "男低音",
+ "difficulty": "中级",
+ "tempoBpm": 66,
+ "timeSignature": "2/4",
+ "coverage": {
+  "measures": [
+   1,
+   138
+  ],
+  "firstSungMeasure": 2,
+  "complete": true,
+  "note": "完整咏叹调（降E大调，4/4，约 138 小节）。来源为 Tarakanov OMR 自动识别 MusicXML，声乐声部 345 音符，80% 带歌词；20% 的 OCR 乱码音节已用 fixes 映射逐一修正。中段管弦乐间奏（无歌词区域）标记为旋律段。"
+ },
+ "range": {
+  "low": "Gb2",
+  "high": "Eb4"
+ },
+ "state": "published",
+ "sourceGrade": "D",
+ "role": "Гремин（格列明亲王）",
+ "genre": "咏叹调",
+ "sourceStatus": "OMR 自动识别 MusicXML · 歌词已修正",
+ "sources": [
+  {
+   "name": "Tarakanov Notes",
+   "url": "https://notes.tarakanov.net/",
+   "format": "MXL (OMR 自动识别)",
+   "role": "声乐谱面（MusicXML 结构化数据）",
+   "status": "Part 2 为声乐线，345 音符，80% 带歌词；约 20% 音节为 OCR 乱码，已用 fixes 映射修正",
+   "grade": "D",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "IMSLP — Евгений Онегин总谱",
+   "url": "https://imslp.org/wiki/Eugene_Onegin_(Tchaikovsky,_Pyotr)",
+   "format": "PDF",
+   "role": "歌词与音高校验参考",
+   "status": "Jurgenson 版（公有领域）",
+   "grade": "A",
+   "accessed": "2026-09-09"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Любви все возрасты покорны,",
+   "zh": "爱情不分年龄，人人为之倾倒，"
+  },
+  {
+   "text": "её порывы благотворны",
+   "zh": "它的冲动是美好的，"
+  },
+  {
+   "text": "и юноше в расцвете лет,",
+   "zh": "无论是花样年华的青年，"
+  },
+  {
+   "text": "едва увидевшему свет,",
+   "zh": "还是刚刚步入人世的少年，"
+  },
+  {
+   "text": "и закалённому судьбой бойцу с седою головой!",
+   "zh": "还是被命运磨练过的白发苍苍的战士！"
+  },
+  {
+   "text": "Онегин, я скрывать не стану:",
+   "zh": "奥涅金，我不想隐瞒："
+  },
+  {
+   "text": "безумно я люблю Татьяну!",
+   "zh": "我疯狂地爱着达吉雅娜！"
+  },
+  {
+   "text": "Тоскливо жизнь моя текла,",
+   "zh": "我的生活曾经黯淡无光，"
+  },
+  {
+   "text": "она явилась и зажгла, как солнца луч среди ненастья,",
+   "zh": "她出现了，点燃了光芒，就像暴风雨中的一缕阳光，"
+  },
+  {
+   "text": "мне жизнь, и молодость, и счастье!",
+   "zh": "给了我生命、青春和幸福！"
+  },
+  {
+   "text": "Среди лукавых, малодушных,",
+   "zh": "在狡猾的、懦弱的人们中间，"
+  },
+  {
+   "text": "шальных, балованных детей, злодеев и смешных,",
+   "zh": "在放纵的、被惯坏的孩子、恶棍和可笑的人当中，"
+  },
+  {
+   "text": "и скучных, тупых, привязчивых судей;",
+   "zh": "在无聊的、愚蠢的、纠缠不休的审判者中间；"
+  },
+  {
+   "text": "среди кокеток богомольных, среди холопьев добровольных,",
+   "zh": "在虔诚的卖弄风情者和自愿为奴的人当中，"
+  },
+  {
+   "text": "среди вседневных, учтивых, ласковых измен,",
+   "zh": "在日常的、彬彬有礼的、温柔的背叛之中，"
+  },
+  {
+   "text": "среди холодных приговоров жестокосердой суеты,",
+   "zh": "在冷酷无情的虚荣的判决中，"
+  },
+  {
+   "text": "досадной глупости, расчётов, дум и разговоров",
+   "zh": "在恼人的愚蠢、算计、忧虑和闲谈中"
+  },
+  {
+   "text": "о том и сём без числом,",
+   "zh": "关于这个那个，无穷无尽，"
+  },
+  {
+   "text": "и мне является всегда сиянье ангела,",
+   "zh": "而在我面前总是出现天使的光芒，"
+  },
+  {
+   "text": "сиянье ангела лучистом!",
+   "zh": "光芒四射的天使的光芒！"
+  },
+  {
+   "text": "Любви все возрасты покорны, её порывы благотворны",
+   "zh": "爱情不分年龄，人人为之倾倒，它的冲动是美好的"
+  },
+  {
+   "text": "и закалённому судьбой бойцу с седою головой!",
+   "zh": "和被命运磨练过的白发苍苍的战士！"
+  },
+  {
+   "text": "Онегин, я скрывать не стану: безумно я люблю Татьяну!",
+   "zh": "奥涅金，我不想隐瞒：我疯狂地爱着达吉雅娜！"
+  },
+  {
+   "text": "Тоскливо моя жизнь текла, она явилась,",
+   "zh": "我的生活曾经黯淡无光，她出现了，"
+  },
+  {
+   "text": "как солнца луч среди ненастья, мне жизнь, и молодость, и счастье!",
+   "zh": "就像暴风雨中的一缕阳光，给了我生命、青春和幸福！"
+  },
+  {
+   "text": "Мне жизнь, и молодость, и счастье!",
+   "zh": "给了我生命、青春和幸福！"
+  }
+ ],
+ "story": {
+  "background": "《叶甫盖尼·奥涅金》是柴可夫斯基根据普希金同名诗体小说创作的三幕歌剧（1879年首演）。全剧以奥涅金与达吉雅娜的情感纠葛为主线，从乡村少女的热烈告白到多年后的重逢，呈现命运的错位。格列明亲王是达吉雅娜的丈夫，在第三幕的舞会上向老友奥涅金介绍自己的妻子。",
+  "situation": "圣彼得堡的一场盛大舞会。奥涅金阔别多年后回到社交圈，在人群中惊讶地认出了当年被他拒绝的乡村少女达吉雅娜——她已经成为格列明亲王的妻子，端庄而光彩照人。格列明注意到奥涅金的惊讶，主动走过来向他倾诉自己对妻子的深沉爱意。",
+  "relationships": "格列明是俄国贵族、退役将军，达吉雅娜的丈夫。他比妻子年长许多，但深深爱着她。奥涅金是格列明的远房亲戚和旧识，多年前曾冷漠拒绝了达吉雅娜的表白。格列明不知道达吉雅娜与奥涅金之间的旧情——他只是一个真诚、温暖、不设防的丈夫，在朋友面前坦然表达幸福。",
+  "intent": "格列明的演唱从庄重的叙述开始（'爱情不分年龄，它的冲动是美好的'），逐渐进入深沉的个人告白——他在厌倦了上流社会的虚伪之后，遇到了达吉雅娜这位'如天使般光芒'的女性，重新找到了生命的意义。演唱应传达出一位阅历丰富的男人的真挚感恩，而非年轻人的激情。结尾的'我爱达吉雅娜！'是全曲的情感顶点。",
+  "plain30": "一位年长的亲王在舞会上向朋友坦白：他曾经厌倦了一切，直到遇见达吉雅娜，她像天使的光芒照亮了他的生命。这是一首关于中年男人真挚深沉爱情的告白。",
+  "arc": "降E大调，行板（Andante sostenuto）。开头庄严而宽广的旋律像一篇论述，'爱情不分年龄'——格列明以哲学家的口吻开场。中段转入个人叙述，调性短暂偏移（降B大调→f小调），描述他在社交场上的厌倦与空虚。当他说到达吉雅娜出现的那一刻，旋律上行，管弦乐变得温暖明亮。结尾回到降E大调，两次'爱情不分年龄'的重复像是对命运的感恩宣言，最终以深沉有力的低音结束。",
+  "motif": "下行级进的叹息音型贯穿全曲——'Любви все возрасты покорны'（爱情不分年龄）的旋律从主音下行到属音，像一声感慨的叹息。当格列明提到达吉雅娜时，出现了上行跳进的'希望动机'——旋律向高音域攀升，象征他重新找到的生命之光。",
+  "technique": "格列明的咏叹调要求饱满的低音共鸣和宽广的气息支撑。开头的长乐句需要稳定的腹式呼吸，避免在'покорны'的长音上失去支撑。中段叙述性较强的段落不要唱得太慢，保持语言的流动感。'Татьяну'（达吉雅娜）一词的重音在第二音节，要用充沛的感情唱出。结尾的低音'счастье!'需要胸腔共鸣的深度，不要压喉。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "开头：'Любви все возрасты покорны' 下行级进，降E→降B，庄严的叹息"
+   },
+   {
+    "phrase": "7",
+    "note": "中段：'Онегин, я скрывать не стану' 旋律变得更紧凑，叙述性增强"
+   },
+   {
+    "phrase": "19",
+    "note": "'сиянье ангела' 上行跳进，管弦乐色彩变暖，希望动机"
+   },
+   {
+    "phrase": "21",
+    "note": "结尾：再现'Любви все возрасты покорны'，音域更宽，感情更深沉"
+   }
+  ],
+  "classroom": [
+   "先阅读中文翻译，理解格列明的身份和他为什么要在舞会上向奥涅金倾诉——这是一个不知情的丈夫的真诚告白。",
+   "慢速朗读俄语原文。注意：'Любви'的重音在第二音节，'возрасты'的重音在第一音节，'покорны'的重音在第二音节。",
+   "分离元音：у-о-и, все, о-а-ы, о-о-ы。俄语元音在非重读位置会弱化——'о'变成接近'а'的音。",
+   "按节拍说词：用节拍器在行板速度（约 66 BPM）下朗读歌词，感受每个音节在拍点上的位置。",
+   "听合成旋律参考，注意开头下行的旋律走向和中段向高音域的攀升。",
+   "把歌词放回旋律，先用一半速度唱。注意'покорны'的长音要保持气息不断。",
+   "以正常速度完整演唱。想象自己是一位在舞会上真诚告白的绅士——不是在表演，而是在和朋友说心里话。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "俄语元音弱化",
+   "items": [
+    "'о' 在非重读音节中读作接近 [а] 的 [ɐ]，如 'покорны' 中第一个 'о'",
+    "'е' 在非重读位置弱化为 [ɪ]，如 'возрасты' 最后的 'ы' 保持原音",
+    "'я' 在非重读位置弱化，如 'является' 中第一个 'я'"
+   ]
+  },
+  {
+   "title": "重音位置",
+   "items": [
+    "Любви́ — 重音在第二音节",
+    "во́зрасты — 重音在第一音节",
+    "поко́рны — 重音在第二音节",
+    "Татья́ну — 重音在第二音节",
+    "сия́нье — 重音在第二音节"
+   ]
+  },
+  {
+   "title": "软硬辅音",
+   "items": [
+    "'л' 在 'любви' 中是软辅音 [лʲ]，舌尖需触上齿龈",
+    "'н' 在 'покорны' 结尾是硬辅音 [н]",
+    "'т' 在 'Татьяну' 中 'ть' 是软辅音 [тʲ]，注意与硬 'т' 的区别"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    2,
+    6
+   ],
+   "lyrics": "Люб ви все возрасты по корны,",
+   "translation": "爱情不分年龄，人人为之倾倒，",
+   "events": [
+    {
+     "id": "gremin-aria-e0003",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0004",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 2.5,
+     "lyric": "Люб",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0005",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 3,
+     "beat": 1,
+     "lyric": "ви",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0006",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2.5,
+     "lyric": "все",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0007",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 1,
+     "lyric": "воз",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0008",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 1.5,
+     "lyric": "ра",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gremin-aria-e0009",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2,
+     "lyric": "сты",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0010",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "по",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0011",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1,
+     "lyric": "кор",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0012",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.5,
+     "lyric": "ны,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0013",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 5,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0014",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 6,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0015",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    6,
+    10
+   ],
+   "lyrics": "",
+   "translation": "",
+   "events": [
+    {
+     "id": "gremin-aria-e0016",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0017",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0018",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0019",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0020",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0021",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0022",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0023",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0024",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0025",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 9,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0026",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0027",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    10,
+    14
+   ],
+   "lyrics": "usе те поры вы дев ше му СВСТ,",
+   "translation": "它的冲动是美好的，",
+   "events": [
+    {
+     "id": "gremin-aria-e0028",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0029",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0030",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 11,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0031",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 11,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0032",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0033",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "usе",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0034",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.75,
+     "lyric": "те",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0035",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 2,
+     "lyric": "по",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0036",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 2,
+     "measure": 12,
+     "beat": 2.75,
+     "lyric": "ры",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0037",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "вы",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0038",
+     "pitch": "Fb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "дев",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0039",
+     "pitch": "Fb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2,
+     "lyric": "ше",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0040",
+     "pitch": "Fb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "му",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0041",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "СВСТ,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0042",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    15,
+    20
+   ],
+   "lyrics": "И за ка лен ному судьбой бой цу до ю го ловой!",
+   "translation": "它的冲动是美好的，",
+   "events": [
+    {
+     "id": "gremin-aria-e0043",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "И",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0044",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2,
+     "lyric": "за",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0045",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "ка",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0046",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "лен",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0047",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.5,
+     "lyric": "но",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0048",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2,
+     "lyric": "му",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0049",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "судь",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0050",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "бой",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0051",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.75,
+     "lyric": "бой",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0052",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2,
+     "lyric": "цу",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0053",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0054",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1,
+     "lyric": "до",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0055",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.5,
+     "lyric": "ю",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0056",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2,
+     "lyric": "го",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0057",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "ло",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0058",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 19,
+     "beat": 1,
+     "lyric": "вой!",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0059",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0060",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 20,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    20,
+    21
+   ],
+   "lyrics": "Оне гин,",
+   "translation": "它的冲动是美好的，",
+   "events": [
+    {
+     "id": "gremin-aria-e0061",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2.75,
+     "lyric": "О",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0062",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 21,
+     "beat": 1,
+     "lyric": "не",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0063",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.5,
+     "lyric": "гин,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    22,
+    24
+   ],
+   "lyrics": "яскры вать",
+   "translation": "它的冲动是美好的，",
+   "events": [
+    {
+     "id": "gremin-aria-e0064",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1,
+     "lyric": "я",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0065",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0066",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2,
+     "lyric": "скры",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0067",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0068",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1,
+     "lyric": "вать",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0069",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0070",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 23,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0071",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 24,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    24,
+    28
+   ],
+   "lyrics": "безум но я лю’1ъа тья ну!",
+   "translation": "它的冲动是美好的，",
+   "events": [
+    {
+     "id": "gremin-aria-e0072",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 2.75,
+     "lyric": "бе",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0073",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 25,
+     "beat": 1,
+     "lyric": "зум",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0074",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2,
+     "lyric": "но",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0075",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 1,
+     "lyric": "я",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0076",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0077",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2,
+     "lyric": "лю’1ъа",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0078",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0079",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 1,
+     "lyric": "тья",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0080",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 1.5,
+     "lyric": "ну!",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0081",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 27,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0082",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 28,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0083",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    29,
+    32
+   ],
+   "lyrics": "сlаm жизнья тек Она яви лась за mа,",
+   "translation": "它的冲动是美好的，",
+   "events": [
+    {
+     "id": "gremin-aria-e0084",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 29,
+     "beat": 1,
+     "lyric": "сlаm",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0085",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 1,
+     "lyric": "жизнь",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0086",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 1,
+     "measure": 30,
+     "beat": 1.25,
+     "lyric": "я",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0087",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 30,
+     "beat": 2.25,
+     "lyric": "тек",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0088",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0089",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.5,
+     "lyric": "О",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0090",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.75,
+     "lyric": "на",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0091",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 1,
+     "lyric": "я",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0092",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 1.25,
+     "lyric": "ви",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0093",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 1.5,
+     "lyric": "лась",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0094",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 31,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0095",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 31,
+     "beat": 2.125,
+     "lyric": "за",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0096",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 2,
+     "measure": 31,
+     "beat": 2.125,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0097",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 32,
+     "beat": 1,
+     "lyric": "mа,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    32,
+    35
+   ],
+   "lyrics": "как солн среJm не нас мне ЖИЗНЬ,",
+   "translation": "它的冲动是美好的，",
+   "events": [
+    {
+     "id": "gremin-aria-e0098",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "как",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0099",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.25,
+     "lyric": "солн",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0100",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0101",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0102",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0103",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.5,
+     "lyric": "среJm",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0104",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0105",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1,
+     "lyric": "не",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0106",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.5,
+     "lyric": "нас",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0107",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0108",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 2.5,
+     "lyric": "мне",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0109",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 35,
+     "beat": 1,
+     "lyric": "ЖИЗНЬ,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    35,
+    36
+   ],
+   "lyrics": "и молодосгь,да,",
+   "translation": "无论是花样年华的青年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0110",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.5,
+     "lyric": "и",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0111",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1,
+     "lyric": "мо",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0112",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.5,
+     "lyric": "ло",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gremin-aria-e0113",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 2,
+     "lyric": "досгь,да,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0114",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    37,
+    41
+   ],
+   "lyrics": "Молодость И сча стье!",
+   "translation": "无论是花样年华的青年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0115",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 1,
+     "lyric": "Мо",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0116",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 1.5,
+     "lyric": "ло",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gremin-aria-e0117",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2,
+     "lyric": "дость",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0118",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2.5,
+     "lyric": "И",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0119",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 3.5,
+     "measure": 38,
+     "beat": 1,
+     "lyric": "сча",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0120",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0121",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 40,
+     "beat": 1,
+     "lyric": "стье!",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0122",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 40,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0123",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    41,
+    43
+   ],
+   "lyrics": "Среди лу ка вых,",
+   "translation": "无论是花样年华的青年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0124",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.5,
+     "lyric": "Сре",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0125",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2,
+     "lyric": "ди",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0126",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.5,
+     "lyric": "лу",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0127",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 42,
+     "beat": 1,
+     "lyric": "ка",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0128",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 42,
+     "beat": 2,
+     "lyric": "вых,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0129",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 43,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    43,
+    45
+   ],
+   "lyrics": "ма ло душ ных,",
+   "translation": "无论是花样年华的青年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0130",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2,
+     "lyric": "ма",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0131",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.5,
+     "lyric": "ло",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0132",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 44,
+     "beat": 1,
+     "lyric": "душ",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0133",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 44,
+     "beat": 2,
+     "lyric": "ных,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0134",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 45,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0135",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    45,
+    49
+   ],
+   "lyrics": "шальных, ба Ло ван ных де тей,",
+   "translation": "无论是花样年华的青年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0136",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.5,
+     "lyric": "шаль",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0137",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 46,
+     "beat": 1,
+     "lyric": "ных,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0138",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 2.5,
+     "lyric": "ба",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0139",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 1,
+     "lyric": "Ло",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0140",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 1.5,
+     "lyric": "ван",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0141",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2,
+     "lyric": "ных",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0142",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.5,
+     "lyric": "де",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0143",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 2,
+     "measure": 48,
+     "beat": 1,
+     "lyric": "тей,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0144",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 49,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0145",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    49,
+    51
+   ],
+   "lyrics": "ЗЛО де ев И СМеНLНLIХ,",
+   "translation": "无论是花样年华的青年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0146",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.5,
+     "lyric": "ЗЛО",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0147",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 1,
+     "lyric": "де",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0148",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 1.5,
+     "lyric": "ев",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0149",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2,
+     "lyric": "И",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0150",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.5,
+     "lyric": "СМеНLНLIХ,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0151",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 51,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    51,
+    53
+   ],
+   "lyrics": "И скуч ных,",
+   "translation": "无论是花样年华的青年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0152",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.5,
+     "lyric": "И",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0153",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 52,
+     "beat": 1,
+     "lyric": "скуч",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0154",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1,
+     "measure": 52,
+     "beat": 2,
+     "lyric": "ных,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0155",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 53,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0156",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    53,
+    58
+   ],
+   "lyrics": "ту пых, при вяз чи вых су дей сре ке ток бо го мольных,",
+   "translation": "无论是花样年华的青年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0157",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.5,
+     "lyric": "ту",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0158",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 54,
+     "beat": 1,
+     "lyric": "пых,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0159",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 2.5,
+     "lyric": "при",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0160",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 1,
+     "lyric": "вяз",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0161",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 1.5,
+     "lyric": "чи",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0162",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 2,
+     "lyric": "вых",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0163",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 2.5,
+     "lyric": "су",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0164",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 1,
+     "lyric": "дей",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0165",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 56,
+     "beat": 1.5,
+     "lyric": "сре",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0166",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 1,
+     "lyric": "ке",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0167",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 1.5,
+     "lyric": "ток",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0168",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 2,
+     "lyric": "бо",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0169",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 2.5,
+     "lyric": "го",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0170",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 1.5,
+     "lyric": "моль",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0171",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2,
+     "lyric": "ных,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    58,
+    62
+   ],
+   "lyrics": "сре ди хо лопьев добро вольных,",
+   "translation": "无论是花样年华的青年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0172",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.5,
+     "lyric": "сре",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0173",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1,
+     "measure": 59,
+     "beat": 1,
+     "lyric": "ди",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0174",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 2,
+     "lyric": "хо",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0175",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 1,
+     "lyric": "ло",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0176",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 1.5,
+     "lyric": "пьев",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0177",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 2,
+     "lyric": "до",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0178",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1,
+     "measure": 60,
+     "beat": 2.5,
+     "lyric": "бро",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0179",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1,
+     "measure": 61,
+     "beat": 1,
+     "lyric": "воль",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0180",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 2,
+     "lyric": "ных,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0181",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 61,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0182",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "measures": [
+    62,
+    64
+   ],
+   "lyrics": "сре ди все днев сцен,",
+   "translation": "无论是花样年华的青年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0183",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 1.5,
+     "lyric": "сре",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0184",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 2,
+     "lyric": "ди",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0185",
+     "pitch": "A#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 2.5,
+     "lyric": "все",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0186",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 1.5,
+     "lyric": "днев",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0187",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0188",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0189",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 1,
+     "lyric": "сцен,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "measures": [
+    64,
+    66
+   ],
+   "lyrics": "учти.вых, лас ко из мен,",
+   "translation": "无论是花样年华的青年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0190",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 1.5,
+     "lyric": "у",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0191",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 2,
+     "lyric": "чти.вых,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0192",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0193",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 1,
+     "lyric": "лас",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0194",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 65,
+     "beat": 1.5,
+     "lyric": "ко",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0195",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0196",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 2.25,
+     "lyric": "из",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0197",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 66,
+     "beat": 1.5,
+     "lyric": "мен,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0198",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 66,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "measures": [
+    67,
+    73
+   ],
+   "lyrics": "среди Холодных при го во ров ке то то сердой су еты,до досаnuоﬁ глу",
+   "translation": "无论是花样年华的青年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0199",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 1,
+     "lyric": "среди",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0200",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0201",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 2,
+     "lyric": "Хо",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0202",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 1,
+     "lyric": "лод",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gremin-aria-e0203",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 1.5,
+     "lyric": "ных",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0204",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 2,
+     "lyric": "при",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0205",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 2.5,
+     "lyric": "го",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0206",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1,
+     "measure": 69,
+     "beat": 1,
+     "lyric": "во",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0207",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1,
+     "measure": 69,
+     "beat": 2,
+     "lyric": "ров",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0208",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 1.5,
+     "lyric": "ке",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0209",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 2,
+     "lyric": "то",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0210",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 2.5,
+     "lyric": "то",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0211",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 1,
+     "lyric": "сер",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0212",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 1.5,
+     "lyric": "дой",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0213",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 2,
+     "lyric": "су",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0214",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 2.5,
+     "lyric": "е",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0215",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 72,
+     "beat": 1,
+     "lyric": "ты,",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gremin-aria-e0216",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 72,
+     "beat": 1.75,
+     "lyric": "до",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0217",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 72,
+     "beat": 2.25,
+     "lyric": "до",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0218",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 1,
+     "lyric": "саn",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gremin-aria-e0219",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 1.5,
+     "lyric": "uоﬁ",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0220",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 2,
+     "lyric": "глу",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0221",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 22,
+   "measures": [
+    74,
+    77
+   ],
+   "lyrics": "по расчетов, дум и разо tаmроn,",
+   "translation": "无论是花样年华的青年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0222",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 74,
+     "beat": 1,
+     "lyric": "по",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0223",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 74,
+     "beat": 1.5,
+     "lyric": "ра",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0224",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 74,
+     "beat": 2,
+     "lyric": "сче",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gremin-aria-e0225",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 74,
+     "beat": 2.5,
+     "lyric": "тов,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0226",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 1,
+     "lyric": "дум",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0227",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 1.5,
+     "lyric": "и",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0228",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 2,
+     "lyric": "раз",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0229",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 2.5,
+     "lyric": "о",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0230",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 1,
+     "lyric": "tаmроn,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0231",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 76,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0232",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 76,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0233",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 77,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 23,
+   "measures": [
+    77,
+    81
+   ],
+   "lyrics": "",
+   "translation": "",
+   "events": [
+    {
+     "id": "gremin-aria-e0234",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 77,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0235",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 78,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0236",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 78,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0237",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 79,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0238",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 79,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0239",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 79,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0240",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 79,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0241",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 80,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0242",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 80,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0243",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 80,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0244",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 80,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0245",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 81,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0246",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 81,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0247",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 81,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 24,
+   "measures": [
+    82,
+    87
+   ],
+   "lyrics": "чис и мне я вля ет ся всег да всиянь е",
+   "translation": "还是刚刚步入人世的少年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0248",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 82,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0249",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 82,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0250",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 83,
+     "beat": 1,
+     "lyric": "чис",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0251",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 83,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0252",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 83,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0253",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 83,
+     "beat": 2.5,
+     "lyric": "и",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0254",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 84,
+     "beat": 1,
+     "lyric": "мне",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0255",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 84,
+     "beat": 2.5,
+     "lyric": "я",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0256",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 85,
+     "beat": 1,
+     "lyric": "вля",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0257",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 85,
+     "beat": 1.5,
+     "lyric": "ет",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0258",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 85,
+     "beat": 2,
+     "lyric": "ся",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0259",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 85,
+     "beat": 2.5,
+     "lyric": "всег",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0260",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 2,
+     "measure": 86,
+     "beat": 1,
+     "lyric": "да",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0261",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 87,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0262",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 87,
+     "beat": 1.5,
+     "lyric": "вси",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0263",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 87,
+     "beat": 2,
+     "lyric": "янь",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0264",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 87,
+     "beat": 2.5,
+     "lyric": "е",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 25,
+   "measures": [
+    88,
+    94
+   ],
+   "lyrics": "ан гела, вси янье ан ге ла лу чистом!",
+   "translation": "还是刚刚步入人世的少年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0265",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 88,
+     "beat": 1,
+     "lyric": "ан",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0266",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 88,
+     "beat": 1.75,
+     "lyric": "ге",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0267",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 88,
+     "beat": 2,
+     "lyric": "ла,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0268",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 89,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0269",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 89,
+     "beat": 1.5,
+     "lyric": "вси",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0270",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 89,
+     "beat": 2,
+     "lyric": "янь",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0271",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 89,
+     "beat": 2.5,
+     "lyric": "е",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0272",
+     "pitch": "Fb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 1,
+     "lyric": "ан",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0273",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 1.5,
+     "lyric": "ге",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0274",
+     "pitch": "Cb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 2,
+     "lyric": "ла",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0275",
+     "pitch": "Bb2",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 2.5,
+     "lyric": "лу",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0276",
+     "pitch": "Bb2",
+     "rest": false,
+     "duration": 1,
+     "measure": 91,
+     "beat": 1,
+     "lyric": "чи",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0277",
+     "pitch": "Ab2",
+     "rest": false,
+     "duration": 1,
+     "measure": 91,
+     "beat": 2,
+     "lyric": "стом!",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0278",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 92,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0279",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 93,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0280",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 94,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0281",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 94,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 26,
+   "measures": [
+    94,
+    98
+   ],
+   "lyrics": "Любви все воз расты по кормы,",
+   "translation": "还是刚刚步入人世的少年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0282",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 94,
+     "beat": 2.75,
+     "lyric": "Люб",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0283",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 95,
+     "beat": 1,
+     "lyric": "ви",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0284",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 95,
+     "beat": 2.5,
+     "lyric": "все",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0285",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 1,
+     "lyric": "воз",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0286",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 1.5,
+     "lyric": "ра",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0287",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 2,
+     "lyric": "сты",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0288",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 2.5,
+     "lyric": "по",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0289",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 97,
+     "beat": 1,
+     "lyric": "кормы,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0290",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 97,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0291",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 97,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0292",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 98,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0293",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 98,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 27,
+   "measures": [
+    98,
+    105
+   ],
+   "lyrics": "е е nо ры вы благо",
+   "translation": "还是刚刚步入人世的少年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0294",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 98,
+     "beat": 2.75,
+     "lyric": "е",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0295",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 99,
+     "beat": 1,
+     "lyric": "е",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0296",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 99,
+     "beat": 2.5,
+     "lyric": "nо",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0297",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 100,
+     "beat": 1,
+     "lyric": "ры",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0298",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 100,
+     "beat": 1.5,
+     "lyric": "вы",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0299",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 100,
+     "beat": 2,
+     "lyric": "бла",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0300",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 100,
+     "beat": 2.5,
+     "lyric": "го",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0301",
+     "pitch": "Bb2",
+     "rest": false,
+     "duration": 1,
+     "measure": 101,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0302",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 101,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0303",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 1,
+     "measure": 102,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0304",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 1,
+     "measure": 102,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0305",
+     "pitch": "Cb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 103,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0306",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 103,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0307",
+     "pitch": "Bb2",
+     "rest": false,
+     "duration": 1,
+     "measure": 104,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0308",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 104,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0309",
+     "pitch": "Ab2",
+     "rest": false,
+     "duration": 1,
+     "measure": 105,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0310",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 105,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 28,
+   "measures": [
+    106,
+    112
+   ],
+   "lyrics": "свет, и 3а ка лен но му судь бой бой цу се до ю го ло вой!",
+   "translation": "还是刚刚步入人世的少年，",
+   "events": [
+    {
+     "id": "gremin-aria-e0311",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 2,
+     "measure": 106,
+     "beat": 1,
+     "lyric": "свет,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0312",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 107,
+     "beat": 1,
+     "lyric": "и",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0313",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 107,
+     "beat": 2,
+     "lyric": "3а",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0314",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 107,
+     "beat": 2.5,
+     "lyric": "ка",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0315",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 108,
+     "beat": 1,
+     "lyric": "лен",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0316",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 108,
+     "beat": 1.5,
+     "lyric": "но",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0317",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 108,
+     "beat": 2,
+     "lyric": "му",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0318",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 108,
+     "beat": 2.5,
+     "lyric": "судь",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0319",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 109,
+     "beat": 1,
+     "lyric": "бой",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0320",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 109,
+     "beat": 1.75,
+     "lyric": "бой",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0321",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 109,
+     "beat": 2,
+     "lyric": "цу",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0322",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 109,
+     "beat": 2.5,
+     "lyric": "се",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0323",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 110,
+     "beat": 1,
+     "lyric": "до",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0324",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 110,
+     "beat": 1.5,
+     "lyric": "ю",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0325",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 110,
+     "beat": 2,
+     "lyric": "го",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0326",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 110,
+     "beat": 2.5,
+     "lyric": "ло",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0327",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 111,
+     "beat": 1,
+     "lyric": "вой!",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0328",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 112,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0329",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 112,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 29,
+   "measures": [
+    112,
+    113
+   ],
+   "lyrics": "О не гин,",
+   "translation": "奥涅金，我不想隐瞒：",
+   "events": [
+    {
+     "id": "gremin-aria-e0330",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 112,
+     "beat": 2.75,
+     "lyric": "О",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0331",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 113,
+     "beat": 1,
+     "lyric": "не",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0332",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 113,
+     "beat": 2.5,
+     "lyric": "гин,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 30,
+   "measures": [
+    114,
+    116
+   ],
+   "lyrics": "я скры Не ста ну,",
+   "translation": "奥涅金，我不想隐瞒：",
+   "events": [
+    {
+     "id": "gremin-aria-e0333",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 114,
+     "beat": 1,
+     "lyric": "я",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0334",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 114,
+     "beat": 1.5,
+     "lyric": "скры",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0335",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 114,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0336",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 114,
+     "beat": 2.5,
+     "lyric": "Не",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0337",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 115,
+     "beat": 1,
+     "lyric": "ста",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0338",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 115,
+     "beat": 1.5,
+     "lyric": "ну,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0339",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 115,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0340",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 116,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0341",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 116,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 31,
+   "measures": [
+    116,
+    120
+   ],
+   "lyrics": "бе зум но я люблю Та тья ну!",
+   "translation": "我疯狂地爱着达吉雅娜！",
+   "events": [
+    {
+     "id": "gremin-aria-e0342",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 116,
+     "beat": 2.75,
+     "lyric": "бе",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0343",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 117,
+     "beat": 1,
+     "lyric": "зум",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0344",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 117,
+     "beat": 2.5,
+     "lyric": "но",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0345",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 118,
+     "beat": 1,
+     "lyric": "я",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0346",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 118,
+     "beat": 1.5,
+     "lyric": "люблю",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0347",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 118,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0348",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 118,
+     "beat": 2.5,
+     "lyric": "Та",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0349",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 119,
+     "beat": 1,
+     "lyric": "тья",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0350",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 119,
+     "beat": 1.5,
+     "lyric": "ну!",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0351",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 119,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0352",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 120,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0353",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 120,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 32,
+   "measures": [
+    120,
+    124
+   ],
+   "lyrics": "Тос кли Во мо о на яви жгла,",
+   "translation": "我的生活曾经黯淡无光，",
+   "events": [
+    {
+     "id": "gremin-aria-e0354",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 120,
+     "beat": 2.5,
+     "lyric": "Тос",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0355",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 121,
+     "beat": 1,
+     "lyric": "кли",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0356",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 121,
+     "beat": 2.5,
+     "lyric": "Во",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0357",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 2,
+     "measure": 122,
+     "beat": 1,
+     "lyric": "мо",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0358",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 123,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0359",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 123,
+     "beat": 1.25,
+     "lyric": "о",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0360",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 123,
+     "beat": 1.5,
+     "lyric": "на",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0361",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 123,
+     "beat": 1.75,
+     "lyric": "я",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0362",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 123,
+     "beat": 2,
+     "lyric": "ви",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gremin-aria-e0363",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 124,
+     "beat": 1,
+     "lyric": "жгла,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 33,
+   "measures": [
+    124,
+    126
+   ],
+   "lyrics": "как солнца луч сре ди не на стья,",
+   "translation": "她出现了，点燃了光芒，就像暴风雨中的一缕阳光，",
+   "events": [
+    {
+     "id": "gremin-aria-e0364",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 124,
+     "beat": 2.5,
+     "lyric": "как",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0365",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 125,
+     "beat": 1,
+     "lyric": "солн",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gremin-aria-e0366",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 125,
+     "beat": 1.25,
+     "lyric": "ца",
+     "syllabic": "end"
+    },
+    {
+     "id": "gremin-aria-e0367",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 125,
+     "beat": 1.5,
+     "lyric": "луч",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0368",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 125,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0369",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 125,
+     "beat": 2.25,
+     "lyric": "сре",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0370",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 125,
+     "beat": 2.5,
+     "lyric": "ди",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0371",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 125,
+     "beat": 2.75,
+     "lyric": "не",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0372",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 1,
+     "measure": 126,
+     "beat": 1,
+     "lyric": "на",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0373",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 126,
+     "beat": 2,
+     "lyric": "стья,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 34,
+   "measures": [
+    126,
+    128
+   ],
+   "lyrics": "мне жизнь, и мо ло дость,",
+   "translation": "给了我生命、青春和幸福！",
+   "events": [
+    {
+     "id": "gremin-aria-e0374",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 126,
+     "beat": 2.5,
+     "lyric": "мне",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0375",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 127,
+     "beat": 1,
+     "lyric": "жизнь,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0376",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 127,
+     "beat": 2.5,
+     "lyric": "и",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0377",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 128,
+     "beat": 1,
+     "lyric": "мо",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0378",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 128,
+     "beat": 1.5,
+     "lyric": "ло",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0379",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 128,
+     "beat": 2,
+     "lyric": "дость,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 35,
+   "measures": [
+    128,
+    133
+   ],
+   "lyrics": "да, мо ло дость и сча стье,",
+   "translation": "在狡猾的、懦弱的人们中间，",
+   "events": [
+    {
+     "id": "gremin-aria-e0380",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 128,
+     "beat": 2.5,
+     "lyric": "да,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0381",
+     "pitch": "Cb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 129,
+     "beat": 1,
+     "lyric": "мо",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0382",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 129,
+     "beat": 1.5,
+     "lyric": "ло",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0383",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 129,
+     "beat": 2,
+     "lyric": "дость",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0384",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 129,
+     "beat": 2.5,
+     "lyric": "и",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0385",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 3.5,
+     "measure": 130,
+     "beat": 1,
+     "lyric": "сча",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0386",
+     "pitch": "Ab3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 131,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0387",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 132,
+     "beat": 1,
+     "lyric": "стье,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0388",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 132,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0389",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 133,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0390",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 133,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 36,
+   "measures": [
+    133,
+    135
+   ],
+   "lyrics": "и жизнь, и мо ло дость,",
+   "translation": "给了我生命、青春和幸福！",
+   "events": [
+    {
+     "id": "gremin-aria-e0391",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 133,
+     "beat": 2.75,
+     "lyric": "и",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0392",
+     "pitch": "Gb3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 134,
+     "beat": 1,
+     "lyric": "жизнь,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0393",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 134,
+     "beat": 2.5,
+     "lyric": "и",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0394",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 135,
+     "beat": 1,
+     "lyric": "мо",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0395",
+     "pitch": "Db3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 135,
+     "beat": 1.5,
+     "lyric": "ло",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0396",
+     "pitch": "Gb2",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 135,
+     "beat": 2,
+     "lyric": "дость,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 37,
+   "measures": [
+    135,
+    138
+   ],
+   "lyrics": "и сча стье!",
+   "translation": "给了我生命、青春和幸福！",
+   "events": [
+    {
+     "id": "gremin-aria-e0397",
+     "pitch": "Bb2",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 135,
+     "beat": 2.5,
+     "lyric": "и",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0398",
+     "pitch": "Bb2",
+     "rest": false,
+     "duration": 3.5,
+     "measure": 136,
+     "beat": 1,
+     "lyric": "сча",
+     "syllabic": "single"
+    },
+    {
+     "id": "gremin-aria-e0399",
+     "pitch": "Ab2",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 137,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gremin-aria-e0400",
+     "pitch": "Gb2",
+     "rest": false,
+     "duration": 2,
+     "measure": 138,
+     "beat": 1,
+     "lyric": "стье!",
+     "syllabic": "single"
+    }
+   ]
+  }
+ ],
+ "eventCount": 398,
+ "restCount": 59,
+ "lyricNoteCount": 276,
+ "pages": 2,
+ "speech": {
+  "voice": "ru_RU-irina-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 35,
+  "slowScale": 1.45
+ }
+}

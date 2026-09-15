@@ -1,0 +1,4471 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "auf-dem-wasser",
+ "title": "Auf dem Wasser zu singen",
+ "titleZh": "水上吟唱",
+ "composer": "F. Schubert",
+ "opera": "D.774（独立艺术歌曲，1823；诗：F.L. zu Stolberg）",
+ "language": "德语",
+ "voice": "女高音",
+ "difficulty": "中级",
+ "tempoBpm": 72,
+ "timeSignature": "6/8",
+ "coverage": {
+  "measures": [
+   1,
+   36
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "完整声乐旋律（降A大调，6/8，中等流畅速度，约60小节）。舒伯特最优美的水上音画——钢琴的波浪伴奏和声乐的悠扬旋律。"
+ },
+ "range": {
+  "low": "Eb4",
+  "high": "Gb5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主人公（泛舟者）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Mitten im Schimmer der spiegelnden Wellen",
+   "zh": "在波光粼粼的水面中央"
+  },
+  {
+   "text": "gleitet, wie Schwäne, der wankende Kahn;",
+   "zh": "摇晃的小船像天鹅般滑行；"
+  },
+  {
+   "text": "ach, auf der Freude sanft schimmernden Wellen",
+   "zh": "啊，在欢乐的柔波上"
+  },
+  {
+   "text": "gleitet die Seele dahin wie der Kahn.",
+   "zh": "灵魂像小船一样漂远。"
+  },
+  {
+   "text": "Denn von dem Himmel herab auf die Wellen",
+   "zh": "因为从天上洒落波间的"
+  },
+  {
+   "text": "tanzet das Abendrot rund um den Kahn.",
+   "zh": "是晚霞围着小船舞蹈。"
+  }
+ ],
+ "story": {
+  "background": "一个黄昏的湖上。诗人坐在小船里，看着水面的波光和天上的晚霞。小船的漂浮与灵魂的漂浮合而为一。舒伯特用6/8拍的波浪伴奏创造了水面摇曳的感觉——这是他最著名的音画歌曲之一。",
+  "situation": "黄昏的湖面。小船在波光中滑行，像天鹅一样优雅。诗人的灵魂也在欢乐的波浪上漂荡。天上的晚霞倒映在水中，围着小船舞蹈。时间在水上流逝——但此刻是永恒的。",
+  "relationships": "诗人与自然、时间的对话。施托尔贝格的诗将湖面的波光、天鹅般的小船和灵魂的漂泊编织在一起，三个层面互为隐喻：水在流、船在走、时间在消逝——而黄昏的美恰恰因为短暂才令人心碎。歌者既是船上的旅人，也是凝视自己灵魂的沉思者。",
+  "intent": "以温柔的摇晃感开始——6/8拍本身就是湖面的节奏。第一段是纯粹的感官描写：波光、天鹅、小船。第二段灵魂开始漂浮，情感从愉悦转向沉思。第三段晚霞出现，带来了时间流逝的哲思——演唱者应在这里让声音变得更内省、更温暖，而非更响亮。结尾不是悲伤，是接受。",
+  "plain30": "黄昏的湖上，小船像天鹅般滑行，波光粼粼。诗人的灵魂也随波浪漂远。晚霞围着小船舞蹈——一切都在流逝，但此刻的美令人不忍移目。这是一首关于短暂与永恒交融的冥想。",
+  "arc": "降A大调，6/8拍，中等流畅速度。钢琴的三连音分解和弦从头到尾不曾停止，像永不止息的水波。声乐旋律先在中音区舒展（第一段叙景），然后向上攀升到降E5（第二段灵魂的飘浮），第三段回到温暖的中音域，以一种宁静的接受感收束。调性始终明亮，但长音符下方和弦的色彩变化暗示了时间的暗流。",
+  "motif": "波浪动机：钢琴的6/8拍分解和弦像水面的波纹——左手下行、右手上行，交替起伏。声乐线条在波浪上方悠扬地延展。'gleitet die Seele'的长音像灵魂在水面上漂浮。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "开头「Mitten im Schimmer der spiegelnden Wellen」——钢琴右手的三连音上行琶音就是水波的摇曳，声乐以级进旋律浮在其上"
+   },
+   {
+    "phrase": "5",
+    "note": "「denn von dem Himmel herab auf die Wellen tanzet das Abendrot」——旋律进入高音区（G♭5），tanzt 一词上的跳进模拟晚霞在水面跳跃"
+   },
+   {
+    "phrase": "12",
+    "note": "结尾「atmet die Seel im errötenden Schein」——旋律缓缓下行回到主音，水面重新归于平静"
+   }
+  ],
+  "technique": "最核心的挑战是在钢琴不断涌动的三连音伴奏上保持均匀的连奏（legato）。乐句很长，尤其'gleitet die Seele dahin wie der Kahn'需要一口气完成——在句首深吸气，用腹部支撑，让气息像水流一样平稳释放。E♭5附近的换声区过渡要无痕，不能让听众感觉到从胸声到头声的'齿轮声'。6/8拍的重拍在每小节的第一拍和第四拍，但声乐线常常跨小节延展，不要被钢琴的波浪节奏切断自己的乐句呼吸。",
+  "classroom": [
+   "先读中文翻译，理解歌曲的核心情感。",
+   "慢速朗读德语原文，注意元音和辅音的准确发音。",
+   "分离元音和辅音，按音节练习。",
+   "用节拍器按标注速度朗读歌词。",
+   "听合成旋律参考，注意旋律走向。",
+   "配上歌词，先用一半速度练唱。",
+   "以正常速度完整演唱。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "注意长短元音的区别",
+    "ö 和 ü 需要圆唇",
+    "ei 读 [aɪ]，ie 读 [iː]",
+    "ch 在 i/e 后读软 [ç]，在 a/o/u 后读硬 [x]"
+   ]
+  },
+  {
+   "title": "歌唱风格",
+   "items": [
+    "注意德语歌曲中词与音的密切关系",
+    "每个词的语气要和旋律的走向一致",
+    "德语辅音要清晰但不过重"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    8,
+    11
+   ],
+   "verse": 1,
+   "lyrics": "Mitten im Schimmer der spiegelnden Wellen gleitet,",
+   "translation": "在波光粼粼的水面中央",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0008",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0009",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "Mit",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0010",
+     "pitch": "Fb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0011",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.667,
+     "lyric": "im",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0012",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "Schim",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0013",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.333,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0014",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.667,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0015",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "spie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0016",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0017",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.333,
+     "lyric": "geln",
+     "syllabic": "middle"
+    },
+    {
+     "id": "auf-dem-wasser-e0018",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0019",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.667,
+     "lyric": "den",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0020",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0021",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "Wel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0022",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.667,
+     "lyric": "len",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0023",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "glei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0024",
+     "pitch": "Fb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.5,
+     "lyric": "tet,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    11,
+    13
+   ],
+   "verse": 1,
+   "lyrics": "wie Schwäne, der wankende Kahn ach,",
+   "translation": "摇晃的小船像天鹅般滑行；",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0025",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.667,
+     "lyric": "wie",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0026",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "Schwä",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0027",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.333,
+     "lyric": "ne,",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0028",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.667,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0029",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0030",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0031",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.333,
+     "lyric": "ken",
+     "syllabic": "middle"
+    },
+    {
+     "id": "auf-dem-wasser-e0032",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0033",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.667,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0034",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0035",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "Kahn",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0036",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "ach,",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0037",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    13,
+    17
+   ],
+   "verse": 1,
+   "lyrics": "auf der Freude sanft schimmernden Wellen gleitet die Seele dahin wie der Kahn ach,",
+   "translation": "啊，在欢乐的柔波上",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0038",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.333,
+     "lyric": "auf",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0039",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0040",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.667,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0041",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0042",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "Freu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0043",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0044",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.667,
+     "lyric": "sanft",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0045",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "schim",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0046",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0047",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.333,
+     "lyric": "mern",
+     "syllabic": "middle"
+    },
+    {
+     "id": "auf-dem-wasser-e0048",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0049",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.667,
+     "lyric": "den",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0050",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0051",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "Wel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0052",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.667,
+     "lyric": "len",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0053",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "glei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0054",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.5,
+     "lyric": "tet",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0055",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.667,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0056",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "See",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0057",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0058",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.667,
+     "lyric": "da",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0059",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "hin",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0060",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.333,
+     "lyric": "wie",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0061",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.667,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0062",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "Kahn",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0063",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "ach,",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0064",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    17,
+    21
+   ],
+   "verse": 1,
+   "lyrics": "auf der Freude sanft schimmernden Wellen gleitet die Seele dahin wie der Kahn",
+   "translation": "灵魂像小船一样漂远。",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0065",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.333,
+     "lyric": "auf",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0066",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0067",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.667,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0068",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0069",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "Freu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0070",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0071",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.667,
+     "lyric": "sanft",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0072",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "schim",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0073",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0074",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.333,
+     "lyric": "mern",
+     "syllabic": "middle"
+    },
+    {
+     "id": "auf-dem-wasser-e0075",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0076",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.667,
+     "lyric": "den",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0077",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0078",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "Wel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0079",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.667,
+     "lyric": "len",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0080",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "glei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0081",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 1.5,
+     "lyric": "tet",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0082",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1.667,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0083",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "See",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0084",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0085",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.667,
+     "lyric": "da",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0086",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "hin",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0087",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.333,
+     "lyric": "wie",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0088",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.667,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0089",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "Kahn",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0090",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    22,
+    25
+   ],
+   "verse": 1,
+   "lyrics": "denn von dem Himmel herab auf die Wellen tanzet das Abendrot rund um den Kahn,",
+   "translation": "因为从天上洒落波间的",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0091",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "denn",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0092",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.5,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0093",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.667,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0094",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "Him",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0095",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "mel",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0096",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.667,
+     "lyric": "her",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0097",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "ab",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0098",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.5,
+     "lyric": "auf",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0099",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.667,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0100",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "Wel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0101",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.667,
+     "lyric": "len",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0102",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "tan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0103",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.5,
+     "lyric": "zet",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0104",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 1.667,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0105",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 24,
+     "beat": 2.0,
+     "lyric": "A",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0106",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 2.5,
+     "lyric": "bend",
+     "syllabic": "middle"
+    },
+    {
+     "id": "auf-dem-wasser-e0107",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.667,
+     "lyric": "rot",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0108",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "rund",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0109",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 1.5,
+     "lyric": "um",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0110",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.667,
+     "lyric": "den",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0111",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "Kahn,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    26,
+    36
+   ],
+   "verse": 1,
+   "lyrics": "tanzet das Abendrot rund um den Kahn.",
+   "translation": "是晚霞围着小船舞蹈。",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0112",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 5.25,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "tan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0113",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 2.5,
+     "lyric": "zet",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0114",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.667,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0115",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "A",
+     "syllabic": "begin"
+    },
+    {
+     "id": "auf-dem-wasser-e0116",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 1.5,
+     "lyric": "bend",
+     "syllabic": "middle"
+    },
+    {
+     "id": "auf-dem-wasser-e0117",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.667,
+     "lyric": "rot",
+     "syllabic": "end"
+    },
+    {
+     "id": "auf-dem-wasser-e0118",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "rund",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0119",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 2.5,
+     "lyric": "um",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0120",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.667,
+     "lyric": "den",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0121",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "Kahn.",
+     "syllabic": "single"
+    },
+    {
+     "id": "auf-dem-wasser-e0122",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0123",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0124",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0125",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0126",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0127",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0128",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0129",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0130",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "auf-dem-wasser-e0131",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    1,
+    9
+   ],
+   "verse": 2,
+   "lyrics": "Über den",
+   "translation": "是晚霞围着小船舞蹈。",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0132",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 1,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0133",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0134",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0135",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0136",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0137",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0138",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0139",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0140",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "Ü",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0141",
+     "pitch": "Fb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "ber",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0142",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.667,
+     "lyric": "den",
+     "syllabic": "single",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    9,
+    13
+   ],
+   "verse": 2,
+   "lyrics": "Wipfeln des westlichen Haines winket uns freundlich der rötliche Schein unter den Zweigen des",
+   "translation": "是晚霞围着小船舞蹈。",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0143",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "Wip",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0144",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.333,
+     "lyric": "feln",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0145",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.667,
+     "lyric": "des",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0146",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "west",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0147",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0148",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.333,
+     "lyric": "li",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0149",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0150",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.667,
+     "lyric": "chen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0151",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0152",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "Hai",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0153",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.667,
+     "lyric": "nes",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0154",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "win",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0155",
+     "pitch": "Fb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.5,
+     "lyric": "ket",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0156",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.667,
+     "lyric": "uns",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0157",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "freund",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0158",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.333,
+     "lyric": "lich",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0159",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.667,
+     "lyric": "der",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0160",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "röt",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0161",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0162",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.333,
+     "lyric": "li",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0163",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0164",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.667,
+     "lyric": "che",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0165",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0166",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "Schein",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0167",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "un",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0168",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0169",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.333,
+     "lyric": "ter",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0170",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0171",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.667,
+     "lyric": "den",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0172",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0173",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "Zwei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0174",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "gen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0175",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.667,
+     "lyric": "des",
+     "syllabic": "single",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    14,
+    17
+   ],
+   "verse": 2,
+   "lyrics": "östlichen Haines säuselt der Calmus im rötlichen Schein unter den Zweigen des",
+   "translation": "是晚霞围着小船舞蹈。",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0176",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "öst",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0177",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0178",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.333,
+     "lyric": "li",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0179",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0180",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.667,
+     "lyric": "chen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0181",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0182",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "Hai",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0183",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.667,
+     "lyric": "nes",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0184",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "säu",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0185",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.5,
+     "lyric": "selt",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0186",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.667,
+     "lyric": "der",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0187",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "Cal",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0188",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "mus",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0189",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.667,
+     "lyric": "im",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0190",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "röt",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0191",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.333,
+     "lyric": "li",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0192",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.667,
+     "lyric": "chen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0193",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "Schein",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0194",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "un",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0195",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0196",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.333,
+     "lyric": "ter",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0197",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0198",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.667,
+     "lyric": "den",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0199",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0200",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "Zwei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0201",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "gen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0202",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.667,
+     "lyric": "des",
+     "syllabic": "single",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    18,
+    21
+   ],
+   "verse": 2,
+   "lyrics": "östlichen Haines säuselt der Calmus im rötlichen Schein",
+   "translation": "是晚霞围着小船舞蹈。",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0203",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "öst",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0204",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0205",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.333,
+     "lyric": "li",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0206",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0207",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.667,
+     "lyric": "chen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0208",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0209",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "Hai",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0210",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.667,
+     "lyric": "nes",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0211",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "säu",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0212",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 1.5,
+     "lyric": "selt",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0213",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1.667,
+     "lyric": "der",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0214",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "Cal",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0215",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "mus",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0216",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.667,
+     "lyric": "im",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0217",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "röt",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0218",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.333,
+     "lyric": "li",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0219",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.667,
+     "lyric": "chen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0220",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "Schein",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0221",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    22,
+    25
+   ],
+   "verse": 2,
+   "lyrics": "Freude des Himmels und Ruhe des Haines atmet die Seel’ im errötenden Schein,",
+   "translation": "是晚霞围着小船舞蹈。",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0222",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "Freu",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0223",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.5,
+     "lyric": "de",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0224",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.667,
+     "lyric": "des",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0225",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "Him",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0226",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "mels",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0227",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.667,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0228",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "Ru",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0229",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.5,
+     "lyric": "he",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0230",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.667,
+     "lyric": "des",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0231",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "Hai",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0232",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.667,
+     "lyric": "nes",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0233",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "at",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0234",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.5,
+     "lyric": "met",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0235",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 1.667,
+     "lyric": "die",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0236",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 24,
+     "beat": 2.0,
+     "lyric": "Seel’",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0237",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 2.5,
+     "lyric": "im",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0238",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.667,
+     "lyric": "er",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0239",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "rö",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0240",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 1.5,
+     "lyric": "ten",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0241",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.667,
+     "lyric": "den",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0242",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "Schein,",
+     "syllabic": "single",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    26,
+    36
+   ],
+   "verse": 2,
+   "lyrics": "atmet die Seel’ im errötenden Schein.",
+   "translation": "因为从天上洒落波间的",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0243",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 5.25,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "at",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0244",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 2.5,
+     "lyric": "met",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0245",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.667,
+     "lyric": "die",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0246",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "Seel’",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0247",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 1.5,
+     "lyric": "im",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0248",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.667,
+     "lyric": "er",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0249",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "rö",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0250",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 2.5,
+     "lyric": "ten",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0251",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.667,
+     "lyric": "den",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0252",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "Schein.",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0253",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0254",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0255",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0256",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0257",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0258",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0259",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0260",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0261",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "auf-dem-wasser-e0262",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    1,
+    9
+   ],
+   "verse": 3,
+   "lyrics": "Ach, es entschwindet",
+   "translation": "啊，在欢乐的柔波上",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0263",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 1,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0264",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0265",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0266",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0267",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0268",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0269",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0270",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0271",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "Ach,",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0272",
+     "pitch": "Fb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "es",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0273",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.667,
+     "lyric": "ent",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0274",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "schwin",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0275",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.333,
+     "lyric": "det",
+     "syllabic": "end",
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    9,
+    13
+   ],
+   "verse": 3,
+   "lyrics": "mit tauigem Flügel mir auf den wiegenden Wellen die Zeit morgen entschwinde mit",
+   "translation": "啊，在欢乐的柔波上",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0276",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.667,
+     "lyric": "mit",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0277",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "tau",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0278",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0279",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.333,
+     "lyric": "i",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0280",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0281",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.667,
+     "lyric": "gem",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0282",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0283",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "Flü",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0284",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.667,
+     "lyric": "gel",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0285",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "mir",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0286",
+     "pitch": "Fb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.5,
+     "lyric": "auf",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0287",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.667,
+     "lyric": "den",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0288",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "wie",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0289",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.333,
+     "lyric": "gen",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0290",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.667,
+     "lyric": "den",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0291",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "Wel",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0292",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0293",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.333,
+     "lyric": "len",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0294",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0295",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.667,
+     "lyric": "die",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0296",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0297",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "Zeit",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0298",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "mor",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0299",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0300",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.333,
+     "lyric": "gen",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0301",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0302",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.667,
+     "lyric": "ent",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0303",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0304",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "schwin",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0305",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0306",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.667,
+     "lyric": "mit",
+     "syllabic": "single",
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    14,
+    17
+   ],
+   "verse": 3,
+   "lyrics": "schimmerndem Flügel wieder wie gestern und heute die Zeit morgen entschwinde mit",
+   "translation": "灵魂像小船一样漂远。",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0307",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "schim",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0308",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0309",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.333,
+     "lyric": "mern",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0310",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0311",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.667,
+     "lyric": "dem",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0312",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0313",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "Flü",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0314",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.667,
+     "lyric": "gel",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0315",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "wie",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0316",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.5,
+     "lyric": "der",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0317",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.667,
+     "lyric": "wie",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0318",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "ge",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0319",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "stern",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0320",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.667,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0321",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "heu",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0322",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.333,
+     "lyric": "te",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0323",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.667,
+     "lyric": "die",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0324",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "Zeit",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0325",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "mor",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0326",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0327",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.333,
+     "lyric": "gen",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0328",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0329",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.667,
+     "lyric": "ent",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0330",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0331",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "schwin",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0332",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0333",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.667,
+     "lyric": "mit",
+     "syllabic": "single",
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    18,
+    21
+   ],
+   "verse": 3,
+   "lyrics": "schimmerndem Flügel wieder wie gestern und heute die Zeit,",
+   "translation": "灵魂像小船一样漂远。",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0334",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "schim",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0335",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0336",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.333,
+     "lyric": "mern",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0337",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0338",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.667,
+     "lyric": "dem",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0339",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0340",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "Flü",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0341",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.667,
+     "lyric": "gel",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0342",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "wie",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0343",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 1.5,
+     "lyric": "der",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0344",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1.667,
+     "lyric": "wie",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0345",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "ges",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0346",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "tern",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0347",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.667,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0348",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "heu",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0349",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.333,
+     "lyric": "te",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0350",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.667,
+     "lyric": "die",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0351",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "Zeit,",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0352",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    22,
+    25
+   ],
+   "verse": 3,
+   "lyrics": "bis ich auf höherem strahlenden Flügel selber entschwinde der wechselnden Zeit,",
+   "translation": "啊，在欢乐的柔波上",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0353",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "bis",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0354",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.5,
+     "lyric": "ich",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0355",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.667,
+     "lyric": "auf",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0356",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "hö",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0357",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "he",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0358",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.667,
+     "lyric": "rem",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0359",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "strah",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0360",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.5,
+     "lyric": "len",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0361",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.667,
+     "lyric": "den",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0362",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "Flü",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0363",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.667,
+     "lyric": "gel",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0364",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "sel",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0365",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.5,
+     "lyric": "ber",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0366",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 1.667,
+     "lyric": "ent",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0367",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 24,
+     "beat": 2.0,
+     "lyric": "schwin",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0368",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0369",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.667,
+     "lyric": "der",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0370",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "wech",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0371",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 1.5,
+     "lyric": "seln",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0372",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.667,
+     "lyric": "den",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0373",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "Zeit,",
+     "syllabic": "single",
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    26,
+    36
+   ],
+   "verse": 3,
+   "lyrics": "selber entschwinde der wechselnden Zeit.",
+   "translation": "啊，在欢乐的柔波上",
+   "events": [
+    {
+     "id": "auf-dem-wasser-e0374",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 5.25,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "sel",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0375",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 2.5,
+     "lyric": "ber",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0376",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.667,
+     "lyric": "ent",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0377",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "schwin",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0378",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 1.5,
+     "lyric": "de",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0379",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.667,
+     "lyric": "der",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0380",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "wech",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0381",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 2.5,
+     "lyric": "seln",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0382",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.667,
+     "lyric": "den",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0383",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "Zeit.",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0384",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0385",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0386",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0387",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0388",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0389",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0390",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0391",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0392",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "auf-dem-wasser-e0393",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    }
+   ]
+  }
+ ],
+ "eventCount": 386,
+ "restCount": 50,
+ "lyricNoteCount": 282,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 18,
+  "slowScale": 1.45
+ }
+}

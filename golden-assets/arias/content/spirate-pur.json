@@ -1,0 +1,124 @@
+{
+ "title": "Spirate pur, spirate",
+ "titleZh": "轻风啊，吹吧",
+ "composer": "S. Donaudy",
+ "opera": "36 Arie di stile antico, No. 10（1918；仿古风格咏叹调，词 Alberto Donaudy）",
+ "role": "抒情主体：托轻风探问爱人心意的人",
+ "genre": "仿古咏叹调",
+ "language": "意大利语",
+ "voice": "女高音",
+ "difficulty": "基础",
+ "tempoBpm": 76,
+ "complete": true,
+ "sourceGrade": "B",
+ "coverageNote": "完整声乐旋律（3/4，67 小节），84 个意大利语音节；OpenScore 据 Ricordi 版转写，已与 IMSLP 声乐谱核对。",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Donaudy,_Stefano/36_Arie_di_Stile_Antico/10_Spirate_pur,_spirate",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Donaudy,_Stefano/36_Arie_di_Stile_Antico/10_Spirate_pur,_spirate",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；84 个音节与 Ricordi 版逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/29420288"
+  },
+  {
+   "name": "IMSLP · 36 Arie di stile antico (Donaudy, Stefano)",
+   "url": "https://imslp.org/wiki/36_Arie_di_stile_antico_(Donaudy,_Stefano)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "LiederNet · Spirate pur, spirate (A. Donaudy)",
+   "url": "https://www.lieder.net/lieder/get_text.html?TextId=62533",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Spirate pur, spirate attorno a lo mio bene, aurette,",
+   "zh": "吹吧，轻风啊，在我爱人的身边吹拂，"
+  },
+  {
+   "text": "e v’accertate s’ella nel cor mi tiene.",
+   "zh": "去探明她是否把我放在心里。"
+  },
+  {
+   "text": "Spirate, spirate pur, spirate, aurette!",
+   "zh": "吹吧，吹吧，轻风啊！"
+  },
+  {
+   "text": "Se nel suo cor mi tiene, v’accertate, aure beate, aure lievi e beate!",
+   "zh": "若她把我放在心里，请去探明，幸福的风、轻盈而幸福的风！"
+  }
+ ],
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "spiRÀte、atTÒRno（rn 非双辅音但 r 弹舌）、auRÉTte（tt 双辅音）、accerTÀte（cc 读 [tt͜ʃ]）、beÀte。",
+    "“s’ella” 的 ll 双辅音要延长。"
+   ]
+  },
+  {
+   "title": "连读与省略",
+   "items": [
+    "“a lo mio bene” 是仿古写法（= al mio bene）；“v’accertate”“s’ella” 省音。",
+    "“lievi‿e beate” 在同一音上连读。"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "bene、tiene 的 e 开口 [ɛ]；aurette 的 e 闭口 [e]；cor 的 o 开口 [ɔ]。",
+    "“aure” 的 au 双元音，重音在 a。"
+   ]
+  }
+ ],
+ "story": {
+  "background": "斯泰法诺·多纳乌迪的《36 首仿古风格咏叹调》（1918）是 20 世纪初意大利作曲家模仿 17–18 世纪 arie antiche 风格的歌集，歌词由其兄弟阿尔贝托·多纳乌迪用古体意大利语写成。第 10 首《轻风啊，吹吧》是其中最轻快的一首，常作为声乐初学者的入门曲。",
+  "situation": "恋人不在身边，叙述者对轻风说话：请你们吹到她那里去，看看她心里有没有我。如果有，就告诉我。这是一段把不安藏在轻快里的独白：他想要确认，又不敢直接问。",
+  "relationships": "“我”、缺席的“我的爱人”（lo mio bene，阴性 “ella”）与被拟人化的“轻风”（aurette）。风是信使，也是听众；整首歌是对第三方的请求。",
+  "intent": "开口要轻巧、明亮，像对风说话；“e v’accertate” 略带急切。反复的 “spirate” 每次都可以稍变音色（更轻、更远）。结尾 “aure lievi e beate” 是满足的想象，声音放宽后轻轻收住。全曲不要过重——它是三拍的舞蹈。",
+  "plain30": "恋人不在身边，他对风说：去我爱人那儿吹一吹，看看她心里有没有我；如果有，就回来告诉我。轻快的三拍子里藏着一点不安，这是一首把等待唱成舞曲的歌。",
+  "arc": "3/4 Allegretto，仿巴洛克的小步舞曲节奏。旋律以级进与三度跳进构成短小的两小节单位，“Spirate pur” 反复出现像风的回旋；中段 “Se nel suo cor mi tiene” 转入略暗的和声，尾段回到明亮的主题并延长 “beate”。情绪：轻快—期待—轻快。",
+  "motif": "核心动机是 “Spi-ra-te” 的三音上行加下行回落，模拟风的一起一落。它反复出现十余次，每次起音略有变化；中段被拉长为 “Se nel suo cor” 的长线条。演唱时每个 “spirate” 的第一个音节都要轻起，像风刚吹起。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Spirate pur, spirate” 风的动机首次出现，连续两次。"
+   },
+   {
+    "phrase": 2,
+    "note": "第 2 句 “e v’accertate” 动机延长为请求的长线。"
+   },
+   {
+    "phrase": 3,
+    "note": "第 3 句 “Spirate, spirate pur” 动机密集反复，像风的回旋。"
+   },
+   {
+    "phrase": 4,
+    "note": "第 4 句 “aure lievi e beate” 动机拉宽为尾声长音。"
+   }
+  ],
+  "technique": "呼吸：两小节一句，句间短换气；“aure lievi e beate” 的长音前吸足。咬字：双辅音 tt、cc、ll 要清楚，元音短促轻盈。换声区：女高音在 E5–F5（“aurette”“beate”）经过换声区，保持轻机能。高音：最高音 G5 在 “beate” 上，是明亮的装饰音，不要用力。",
+  "classroom": [
+   "先读中文，理解“请风去探问”的比喻。",
+   "慢速读原文，标出重音与双辅音。",
+   "分离元音：练 e 的开闭口。",
+   "按 3/4 说词，第一拍轻起。",
+   "听单音旋律，数一数 “spirate” 出现几次。",
+   "把歌词放回旋律，先练主题，再练中段。",
+   "用正常速度完整演唱，保持轻快。"
+  ]
+ }
+}

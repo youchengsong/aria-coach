@@ -1,0 +1,226 @@
+{
+ "title": "V’adoro, pupille",
+ "titleZh": "我爱慕你们，明眸",
+ "composer": "G. F. Händel",
+ "opera": "Giulio Cesare in Egitto（《朱利奥·凯撒在埃及》，HWV 17，1724）",
+ "language": "意大利语",
+ "voice": "女高音",
+ "difficulty": "中级",
+ "tempoBpm": 63,
+ "complete": true,
+ "coverageNote": "克娄巴特拉咏叹调主体完整导入（3/4，47 小节）。来源为俄语资料库自动生成的 MusicXML，识别出的 101 个歌词音节已按标准歌词逐一校正；个别音节在原识别中合并（如 “faville”），谱面音符数未改动。",
+ "sourceStatus": "MXL 原谱（自动识别） · 音节已校正",
+ "sources": [
+  {
+   "name": "Нотный архив Бориса Тараканова · Ария Клеопатры",
+   "url": "https://notes.tarakanov.net/katalog/kompozitsii/ariya-kleopatri/",
+   "format": "MXL（自动生成 MusicXML，声乐与钢琴）",
+   "status": "已解析；歌词按标准文本校正，音高与时值保留原识别结果",
+   "role": "旋律、时值、歌词音节",
+   "grade": "D",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "IMSLP · Giulio Cesare in Egitto, HWV 17",
+   "url": "https://imslp.org/wiki/Giulio_Cesare_in_Egitto,_HWV_17_(Handel,_George_Frideric)",
+   "format": "PDF 总谱（Händel-Gesellschaft）",
+   "status": "用于核对调性、拍号与歌词",
+   "role": "参照原谱",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "Wikipedia · Giulio Cesare",
+   "url": "https://en.wikipedia.org/wiki/Giulio_Cesare",
+   "format": "网页",
+   "status": "背景与剧情校对",
+   "role": "剧情与文本",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  }
+ ],
+ "syllables": [
+  "V’a-",
+  "do-",
+  "ro,",
+  "pu-",
+  "pil-",
+  "le,",
+  "sa-",
+  "et-",
+  "te",
+  "d’A-",
+  "mo-",
+  "re,",
+  "le",
+  "vo-",
+  "stre",
+  "favil-",
+  "le",
+  "gra-",
+  "te",
+  "nel",
+  "sen.",
+  "V’a-",
+  "do-",
+  "ro,",
+  "pupil-",
+  "le,",
+  "le",
+  "vo-",
+  "stre",
+  "fa-",
+  "vil-",
+  "le",
+  "son",
+  "gra-",
+  "te,",
+  "son",
+  "gra-",
+  "te",
+  "nel",
+  "sen.",
+  "V’a-",
+  "do-",
+  "ro,",
+  "pu-",
+  "pil-",
+  "le,",
+  "sa-",
+  "et-",
+  "te",
+  "d’A-",
+  "mo-",
+  "re,",
+  "le",
+  "vo-",
+  "stre",
+  "favil-",
+  "le",
+  "gra-",
+  "te",
+  "nel",
+  "sen,",
+  "le",
+  "vo-",
+  "stre",
+  "fa-",
+  "vil-",
+  "le",
+  "son",
+  "gra-",
+  "te",
+  "nel",
+  "sen.",
+  "Pie-",
+  "to-",
+  "se",
+  "vi",
+  "bra-",
+  "ma il",
+  "me-",
+  "sto mio",
+  "co-",
+  "re,",
+  "ch’o-",
+  "gn’o-",
+  "ra",
+  "vi",
+  "chia-",
+  "ma",
+  "l’a-",
+  "ma-",
+  "to",
+  "suo",
+  "ben,",
+  "ch’o-",
+  "gn’o-",
+  "ra",
+  "vi",
+  "chia-",
+  "ma",
+  "suo",
+  "ben."
+ ],
+ "lyrics": [
+  {
+   "text": "V’adoro, pupille, saette d’Amore,",
+   "zh": "我爱慕你们，明眸，爱神的利箭，"
+  },
+  {
+   "text": "le vostre faville son grate nel sen.",
+   "zh": "你们的火花在我胸中如此甜美。"
+  },
+  {
+   "text": "Pietose vi brama il mesto mio core,",
+   "zh": "我忧伤的心渴望你们的怜悯，"
+  },
+  {
+   "text": "ch’ogn’ora vi chiama l’amato suo ben.",
+   "zh": "它时时刻刻呼唤你们——它心爱的人。"
+  }
+ ],
+ "story": {
+  "background": "《朱利奥·凯撒在埃及》由亨德尔作曲、Nicola Haym 编剧，1724 年在伦敦国王剧院首演，是亨德尔最成功的歌剧之一。这段咏叹调出现在第二幕第二场：克娄巴特拉化名 “莉迪亚”，在帕尔纳索斯山的舞台布景中，以缪斯女神的形象出现，用歌声引诱凯撒。舞台上还有第二支小乐队伴奏，这是巴洛克歌剧著名的 “戏中戏” 场景。",
+  "situation": "克娄巴特拉正与弟弟托勒密争夺埃及王位，她需要罗马人凯撒的支持，也真的开始被他吸引。此刻她扮演女神，用最优美、最克制的音乐让凯撒着迷。她想要的是权力和爱情同时到手，害怕的是被看穿身份。",
+  "relationships": "克娄巴特拉是埃及女王、托勒密的姐姐；凯撒是刚到埃及的罗马统帅；她的侍臣尼雷诺协助布置这场表演。这段独唱是两人爱情的起点：凯撒被歌声打动，追上舞台，从此政治联盟变成了爱情线，并推动第三幕的转折。",
+  "intent": "开口要像女神在远处唱歌：音色圆润、气息平稳、装饰音轻。第一句 “V’adoro” 是宣告，随后的 “saette d’Amore” 可以稍带炫耀。第二段 “Pietose vi brama” 情绪转为祈求，音量放轻。回到主题时把装饰音加进去，像一层层撒下的花瓣，但始终不失优雅。",
+  "plain30": "一个女王假扮成女神，对刚见面的罗马统帅唱：我爱你的眼睛，它们像爱神的箭射进我心里。表面是情歌，其实是一场精心设计的政治魅惑。",
+  "arc": "F 大调，3/4 萨拉班德式的慢舞曲，重音在第二拍。旋律以围绕主音回旋的装饰性级进为主，长音上常带颤音和倚音。A 段 “V’adoro” 抒情稳定，B 段 “Pietose” 转向小调色彩、音区略低，情绪更私密；A 段再现时按巴洛克惯例加花，形成 “从容—恳求—更华丽的从容” 的弧线。",
+  "motif": "核心动机是装饰音围绕主音的回旋：“V’a-do-ro” 从主音向上一步再折回，随后每个乐句都以类似的回旋结束。演唱时先只唱骨架音（主音—上邻音—主音），把节奏站稳，再加入颤音和倚音；装饰是点缀，不能拖慢第二拍的重音。",
+  "classroom": [
+   "先读中文，理解 “爱慕” 背后的政治算计。",
+   "慢速读原文，注意 “pupille” 双辅音 l 和 “saette” 双辅音 t 的延长。",
+   "分离元音：只唱 a-o-e-i 的元音链，让长音上的口型不动。",
+   "按 3/4 说话，第二拍稍重，感受萨拉班德。",
+   "听单音旋律，只听骨架音，暂时忽略装饰。",
+   "把歌词放回旋律，先无装饰，再逐句加装饰。",
+   "用正常速度完整演唱，A 段再现时自行加花。"
+  ],
+  "technique": "呼吸：三拍慢舞曲，句尾长音后换气；华彩段先按骨架音安排换气点，再加装饰。咬字：“V’adoro” 的 v 要有声带振动，“pupille” 双 l 延长；“ch’ogn’ora” 读 [koɲˈɔːra]。换声区：女高音在 E5–F5（“saette d’Amore”）处经过换声区，颤音要在气息上做，不靠喉部。高音：最高音 G5 出现在 “faville” 的装饰上，属于轻巧的华彩音，不是戏剧高音，用轻机能、短促而清亮。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “V’adoro, pupille” 呈示围绕主音的回旋装饰动机。"
+   },
+   {
+    "phrase": 3,
+    "note": "第 3 句 “le vostre faville grate nel sen” 回旋动机延长为华彩，落到主音。"
+   },
+   {
+    "phrase": 11,
+    "note": "第 11 句 “Pietose vi brama” B 段转小调色彩，回旋动机音区下移、装饰减少。"
+   },
+   {
+    "phrase": 13,
+    "note": "第 13 句 “ch’ogn’ora vi chiama suo ben” 以回旋收束，da capo 再现时按巴洛克惯例加花。"
+   }
+  ]
+ },
+ "sourceGrade": "D",
+ "role": "克娄巴特拉（Cleopatra）：化名莉迪亚的埃及女王",
+ "genre": "歌剧咏叹调",
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "V’a-DÒ-ro、pu-PÌL-le（ll）、sa-ÉT-te（tt）、a-MÓ-re、VÒ-stre、fa-VÌL-le（ll）、GRÀ-te、pie-TÓ-se、BRÀ-ma、MÉ-sto、CHIÀ-ma、a-MÀ-to。",
+    "pupille、faville、saette 的双辅音前元音短促。"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "adoro、amore 的 o 闭口 [o]；core 的 o 开口 [ɔ]；sen、ben 的 e 开口 [ɛ]；grate、pietose 的 e 闭口。",
+    "“vostre” 的 o 开口 [ɔ]。"
+   ]
+  },
+  {
+   "title": "r、连读与省略",
+   "items": [
+    "r 弹舌：adoro、amore、vostre、core。",
+    "“V’adoro”“d’Amore”“ch’ogn’ora”“l’amato” 省音；“brama‿il”“mesto‿mio” 连读；“ogn’ora” 的 gn 读 [ɲ]。"
+   ]
+  }
+ ]
+}

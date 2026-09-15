@@ -1,0 +1,130 @@
+{
+  "title": "Wohin?",
+  "titleZh": "去哪里？",
+  "composer": "F. Schubert",
+  "opera": "Die schöne Müllerin D.795 No.2（美丽的磨坊女第2首，1823；诗：W. Müller）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "genre": "艺术歌曲",
+  "tempoBpm": 72,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（G大调，2/4，中等速度，约54小节）。学徒跟着小溪走——小溪的流水声贯穿全曲。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Ich hört' ein Bächlein rauschen",
+      "zh": "我听到一条小溪在潺潺流淌"
+    },
+    {
+      "text": "wohl aus dem Felsenquell,",
+      "zh": "从岩石泉眼中涌出，"
+    },
+    {
+      "text": "hinab zum Tale rauschen",
+      "zh": "哗哗地流向山谷，"
+    },
+    {
+      "text": "so frisch und wunderhell.",
+      "zh": "如此清新而明亮。"
+    },
+    {
+      "text": "Ich weiß nicht, wie mir wurde,",
+      "zh": "我不知道自己怎么了，"
+    },
+    {
+      "text": "nicht, wer den Rat mir gab,",
+      "zh": "也不知道是谁给我出的主意，"
+    },
+    {
+      "text": "ich mußte auch hinunter",
+      "zh": "我也必须走下去，"
+    },
+    {
+      "text": "mit meinem Wanderstab.",
+      "zh": "带着我的旅行杖。"
+    },
+    {
+      "text": "Ist es denn meine Straße?",
+      "zh": "这是我该走的路吗？"
+    },
+    {
+      "text": "O Bächlein, sprich, wohin?",
+      "zh": "哦小溪，告诉我，去哪里？"
+    },
+    {
+      "text": "Du hast mit deinem Rauschen",
+      "zh": "你用你的潺潺声"
+    },
+    {
+      "text": "mir ganz berauscht den Sinn.",
+      "zh": "完全迷住了我的心。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "Bächlein 的 ä 短 [ɛ]，ch 是软 [ç]",
+        "rauschen 的 au 读 [aʊ]",
+        "wunderhell 的 u 短 [ʊ]，e 长 [ɛ]",
+        "Wanderstab 的 a 都是短 [a]"
+      ]
+    },
+    {
+      "title": "歌唱风格",
+      "items": [
+        "钢琴的十六分音符像小溪的流水——你的声音在水声上面漂浮",
+        "语气好奇而愉快——学徒跟着小溪走，心情轻松",
+        "'O Bächlein, sprich, wohin?' 是关键问题——语气带着期待"
+      ]
+    }
+  ],
+  "story": {
+    "background": "套曲第二首。学徒听到小溪的声音，不由自主地跟着它走。小溪将带他去磨坊——在那里他将遇见磨坊女。钢琴的十六分音符自始至终模仿小溪流水的声音——这是舒伯特最经典的音画手法之一。",
+    "situation": "山间的小路。学徒听到清澈的溪水声，像着了迷一样跟着它走。他问小溪：你要带我去哪里？但其实他已经心甘情愿地跟上了。",
+    "relationships": "学徒与小溪——小溪是他的引路人，带他走向命运（磨坊女）。此时学徒还不知道前方等待他的是什么。",
+    "intent": "轻快而好奇。声音要清澈、年轻，和小溪的音色呼应。最后的'berauscht den Sinn'带着微微的眩晕感——被美丽的事物迷住了。",
+    "plain30": "我听到小溪在岩石间潺潺流淌，忍不住跟着它走。小溪啊，你要带我去哪里？你的声音完全迷住了我。",
+    "arc": "G大调，2/4。钢琴的十六分音符像流水，贯穿全曲。声乐旋律在流水上方展开，清澈流畅。结尾'berauscht den Sinn'稍微减速——学徒沉醉在溪水声中。",
+    "motif": "流水动机：钢琴持续的十六分音符。声乐的'rauschen'用旋律的起伏模仿水声。'Wohin?' 的上行问句是好奇的标志。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "'Ich hört' ein Bächlein rauschen' 流水开场"
+      },
+      {
+        "phrase": "9",
+        "note": "'Ist es denn meine Straße?' 疑问——这是我的路吗？"
+      },
+      {
+        "phrase": "10",
+        "note": "'O Bächlein, sprich, wohin?' 核心问题——充满期待"
+      }
+    ],
+    "technique": "声音要清亮——模仿清泉的质感。十六分音符伴奏上的歌唱不要拖拍。'Bächlein' 的 ch 要轻。呼吸点在每两行之间自然换气。",
+    "classroom": [
+      "先读中文：学徒跟着小溪走——去哪里？",
+      "朗读德语：注意 Bächlein、rauschen 的发音。",
+      "听钢琴伴奏——那是小溪的声音，你的声音要在上面漂浮。",
+      "旋律清澈简单——先哼唱，再配词。",
+      "'Wohin?' 是关键——语气要有好奇心。",
+      "完整演唱，保持年轻人的愉快和好奇。",
+      "这首歌和第一首《漫游》可以连唱——出发→跟着小溪走。"
+    ]
+  },
+  "role": "磨坊学徒（追随溪流的少年）"
+}

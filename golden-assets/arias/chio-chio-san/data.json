@@ -1,0 +1,1018 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "chio-chio-san",
+ "title": "Un bel dì, vedremo",
+ "titleZh": "晴朗的一天",
+ "composer": "G. Puccini",
+ "opera": "Madama Butterfly（《蝴蝶夫人》，1904）",
+ "language": "意大利语",
+ "voice": "女高音",
+ "difficulty": "高阶",
+ "tempoBpm": 58,
+ "timeSignature": "3/4",
+ "coverage": {
+  "measures": [
+   1,
+   18
+  ],
+  "firstSungMeasure": 1,
+  "complete": false,
+  "note": "片段：咏叹调开头至第 18 小节（“Un bel dì, vedremo … Io non gli scendo incontro. Io no.”），即 “远景” 段落的完整第一部分。来源为俄语资料库自动生成的 MusicXML，其后段落（“Mi metto là sul ciglio del colle” 起）识别歌词不可靠，为避免伪造音符与歌词对应，暂不导入；完整歌词与译文仍在第二页提供。"
+ },
+ "range": {
+  "low": "Db4",
+  "high": "G5"
+ },
+ "state": "published",
+ "sourceGrade": "D",
+ "role": "巧巧桑（Cio-Cio-San）：等待丈夫归来的蝴蝶夫人",
+ "genre": "歌剧咏叹调",
+ "sourceStatus": "MXL 片段（自动识别） · 1–18 小节已校正",
+ "sources": [
+  {
+   "name": "Нотный архив Бориса Тараканова · Монолог Чио-Чио-Сан",
+   "url": "https://notes.tarakanov.net/katalog/kompozitsii/monolog-chio-chio-san/",
+   "format": "MXL（自动生成 MusicXML，声乐与钢琴，意/俄双语歌词）",
+   "status": "已解析；仅采用 1–18 小节，意大利语音节逐一校正",
+   "role": "旋律、时值、歌词音节",
+   "grade": "D",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "IMSLP · Madama Butterfly (Puccini)",
+   "url": "https://imslp.org/wiki/Madama_Butterfly_(Puccini,_Giacomo)",
+   "format": "PDF 声乐谱（Ricordi）",
+   "status": "用于核对调性、拍号与歌词；后续段落待据此补齐",
+   "role": "参照原谱",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "Wikipedia · Un bel dì vedremo",
+   "url": "https://en.wikipedia.org/wiki/Un_bel_d%C3%AC_vedremo",
+   "format": "网页",
+   "status": "背景与歌词校对",
+   "role": "剧情与文本",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Un bel dì, vedremo levarsi un fil di fumo",
+   "zh": "晴朗的一天，我们会看见一缕烟升起，"
+  },
+  {
+   "text": "sull’estremo confin del mare.",
+   "zh": "在海的最远处。"
+  },
+  {
+   "text": "E poi la nave appare.",
+   "zh": "然后船出现了。"
+  },
+  {
+   "text": "Poi la nave bianca entra nel porto, romba il suo saluto.",
+   "zh": "白色的船驶进港口，鸣响它的礼炮。"
+  },
+  {
+   "text": "Vedi? È venuto!",
+   "zh": "看见了吗？他来了！"
+  },
+  {
+   "text": "Io non gli scendo incontro. Io no.",
+   "zh": "我不下去迎接他。我不去。"
+  },
+  {
+   "text": "Mi metto là sul ciglio del colle e aspetto,",
+   "zh": "我站在山坡边上等着，"
+  },
+  {
+   "text": "e aspetto gran tempo e non mi pesa la lunga attesa.",
+   "zh": "等很久，也不觉得漫长的等待有多沉重。"
+  },
+  {
+   "text": "E uscito dalla folla cittadina un uomo, un picciol punto",
+   "zh": "从城里的人群中走出一个人，一个小小的点，"
+  },
+  {
+   "text": "s’avvia per la collina.",
+   "zh": "朝山坡走来。"
+  },
+  {
+   "text": "Chi sarà? chi sarà? E come sarà giunto che dirà? che dirà?",
+   "zh": "会是谁？会是谁？他到了会说什么？说什么？"
+  },
+  {
+   "text": "Chiamerà Butterfly dalla lontana.",
+   "zh": "他会从远处喊 “蝴蝶”。"
+  },
+  {
+   "text": "Io senza dar risposta me ne starò nascosta",
+   "zh": "我不回答，藏起来，"
+  },
+  {
+   "text": "un po’ per celia e un po’ per non morire al primo incontro,",
+   "zh": "一半是逗他，一半是怕在重逢的第一刻死去，"
+  },
+  {
+   "text": "ed egli alquanto in pena chiamerà, chiamerà:",
+   "zh": "他会有点着急地喊、喊："
+  },
+  {
+   "text": "“Piccina mogliettina, olezzo di verbena”,",
+   "zh": "“小小的妻子，马鞭草的香气”，"
+  },
+  {
+   "text": "i nomi che mi dava al suo venire.",
+   "zh": "那是他从前来时给我的名字。"
+  },
+  {
+   "text": "Tutto questo avverrà, te lo prometto.",
+   "zh": "这一切都会发生，我向你保证。"
+  },
+  {
+   "text": "Tienti la tua paura, io con sicura fede l’aspetto.",
+   "zh": "你留着你的害怕吧，我怀着坚定的信念等他。"
+  }
+ ],
+ "story": {
+  "background": "《蝴蝶夫人》由普契尼作曲、伊利卡与贾科萨据约翰·路德·朗的短篇与贝拉斯科的话剧改编，1904 年在米兰斯卡拉歌剧院首演（初版失败，同年修订于布雷西亚成功）。这段咏叹调出现在第二幕开头：平克顿离开日本已三年，女仆铃木怀疑他不会回来，巧巧桑用这段 “想象中的重逢” 回答她。",
+  "situation": "巧巧桑（蝴蝶）身无分文，带着平克顿不知道的孩子，仍然相信丈夫会在知更鸟筑巢的季节回来。她面对铃木的怀疑，不是争辩，而是把归来的那一天像电影一样一幕幕讲出来。她想要的是这份信念被承认，害怕的是自己也开始怀疑。",
+  "relationships": "巧巧桑是长崎的前艺伎，十五岁 “嫁给” 美国海军军官平克顿；铃木是忠诚的女仆，也是唯一的听众。这段独唱把她的幻想说得越具体，观众越清楚它不会实现——它为第三幕平克顿携美国妻子归来的打击做了最残酷的铺垫。",
+  "intent": "开口要像讲故事，安静、遥远、几乎是自言自语。“E poi la nave appare” 开始有了画面感，声音逐渐明亮。“Vedi? È venuto!” 是压抑不住的兴奋，但 “Io non gli scendo incontro. Io no.” 又收回来，带着少女式的骄傲。片段结尾正是这个从远景到近景的第一次转折。",
+  "plain30": "一个等丈夫等了三年的年轻母亲对女仆说：总有一天，海边会升起一缕烟，白船进港，他会回来喊我的名字。她讲得越清楚，我们越知道那是一场梦。",
+  "arc": "G♭大调，3/4 Andante molto calmo。开头旋律在高音区以级进缓缓下行，像从远处望向海面；节拍宽广，长音多。随着船出现，节奏收紧、音区下移，转为说话般的宣叙。片段以 “Io no” 的低语作结，为之后逐渐攀升、最终在 “l’aspetto” 上爆发的高潮蓄力。",
+  "motif": "核心动机是开头 “Un bel dì, ve-dre-mo” 的五声音阶式下行：从高音开始，一步步走下，带东方色彩。它在 “sull’estremo confin del mare” 再次下行，随后 “E poi la nave appare” 用远景号角式的上行回应。演唱时高音要轻盈、聚焦，像远处的光，而不是用力推；下行的每一步保持连贯。",
+  "classroom": [
+   "先读中文，弄清她是在 “讲述一个想象”，而不是陈述事实。",
+   "慢速读原文，注意 “vedremo”“estremo” 的重音在倒数第二音节。",
+   "分离元音：练开头高音区的 u-e-i 元音，保持喉位稳定。",
+   "按 3/4 慢拍说话，体会长音上的停留。",
+   "听单音旋律，注意下行的每一步都是级进。",
+   "把歌词放回旋律，先练 1–6 小节的长线条，再练宣叙部分。",
+   "用正常速度完整演唱本片段，结尾 “Io no” 收成低语。"
+  ],
+  "technique": "呼吸：第 1 句是全曲最长的线条（6 小节），在 “fumo” 后短换气，“mare” 前不要断。咬字：“Un bel dì” 的 dì 重音清晰；“levarsi”“estremo” 的 s 在元音间为浊音 [z]。换声区：女高音在 E♭5–F5（“vedremo”“fumo”）处长时间停留在换声区，用头腔为主、元音略窄以保持轻盈。高音：片段最高音 G♭5 在开头 “Un bel dì” 与 “E poi la nave appare” 出现，是远景中的光，轻、稳、不推。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Un bel dì, vedremo” 五声音阶式下行动机首次出现，从最高音缓缓落下。"
+   },
+   {
+    "phrase": 2,
+    "note": "第 2 句 “E poi la nave appare” 上行回应，像远处号角。"
+   },
+   {
+    "phrase": 3,
+    "note": "第 3–4 句 “Poi la nave bianca… romba il suo saluto” 下行动机压缩为宣叙式短句。"
+   },
+   {
+    "phrase": 6,
+    "note": "第 6–7 句 “Io non gli scendo incontro. Io no.” 动机消失，以低语作片段结尾。"
+   }
+  ]
+ },
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "ve-DRÉ-mo、le-VÀR-si、FÙ-mo、e-STRÉ-mo、con-FÌN、MÀ-re、NÀ-ve、ap-PÀ-re（pp）、BIÀN-ca、ÈN-tra、PÒR-to、RÓM-ba、sa-LÙ-to、ve-NÙ-to、SCÉN-do、in-CÓN-tro。",
+    "“appare” pp 双辅音；“dì” 带重音符，单音节重读。"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "vedremo、estremo 的 e 闭口 [e]；bel、poi 的 e/o 开口；porto 的 o 开口 [ɔ]；saluto 的 u 圆。",
+    "“È venuto” 的 È 开口 [ɛ]。"
+   ]
+  },
+  {
+   "title": "r、连读与省略",
+   "items": [
+    "r 弹舌：vedremo、levarsi、mare、appare、porto、romba、incontro。",
+    "“levarsi‿un”“sull’estremo”（省音）“romba‿il suo” 连读；“Io non gli scendo” 的 gli 读 [ʎi]。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    1,
+    6
+   ],
+   "lyrics": "Un bel dì, vedremo levarsi un fil di fumo sull’estremo confin del mare.",
+   "translation": "晴朗的一天，我们会看见一缕烟升起，",
+   "events": [
+    {
+     "id": "chio-chio-san-e0001",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 1,
+     "beat": 1.0,
+     "lyric": "Un",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0002",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 2.5,
+     "lyric": "bel",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0003",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 3.0,
+     "lyric": "dì,",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0004",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 3.5,
+     "lyric": "ve",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chio-chio-san-e0005",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "dre",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chio-chio-san-e0006",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 2.0,
+     "lyric": "mo",
+     "syllabic": "end"
+    },
+    {
+     "id": "chio-chio-san-e0007",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chio-chio-san-e0008",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 3.5,
+     "lyric": "le",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chio-chio-san-e0009",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "var",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chio-chio-san-e0010",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "si un",
+     "syllabic": "end"
+    },
+    {
+     "id": "chio-chio-san-e0011",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2.5,
+     "lyric": "fil",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0012",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 3.0,
+     "lyric": "di",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0013",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 3.5,
+     "lyric": "fu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chio-chio-san-e0014",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "mo",
+     "syllabic": "end"
+    },
+    {
+     "id": "chio-chio-san-e0015",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 2.0,
+     "lyric": "sul",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chio-chio-san-e0016",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "l’e",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chio-chio-san-e0017",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 3.5,
+     "lyric": "stre",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chio-chio-san-e0018",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "mo",
+     "syllabic": "end"
+    },
+    {
+     "id": "chio-chio-san-e0019",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "con",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chio-chio-san-e0020",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 2.75,
+     "lyric": "fin",
+     "syllabic": "end"
+    },
+    {
+     "id": "chio-chio-san-e0021",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "del",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0022",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.5,
+     "lyric": "ma",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chio-chio-san-e0023",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "re.",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    6,
+    8
+   ],
+   "lyrics": "E poi la nave appare.",
+   "translation": "然后船出现了。",
+   "events": [
+    {
+     "id": "chio-chio-san-e0024",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "E",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0025",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chio-chio-san-e0026",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3.5,
+     "lyric": "poi",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0027",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0028",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "nave",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0029",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 2.75,
+     "lyric": "ap",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chio-chio-san-e0030",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chio-chio-san-e0031",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 3.5,
+     "lyric": "pa",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chio-chio-san-e0032",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "re.",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    8,
+    12
+   ],
+   "lyrics": "Poi la nave bianca entra nel porto,",
+   "translation": "白色的船驶进港口，鸣响它的礼炮。",
+   "events": [
+    {
+     "id": "chio-chio-san-e0033",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "Poi",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0034",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chio-chio-san-e0035",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0036",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "na",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chio-chio-san-e0037",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "ve",
+     "syllabic": "end"
+    },
+    {
+     "id": "chio-chio-san-e0038",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "bian",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chio-chio-san-e0039",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "ca",
+     "syllabic": "end"
+    },
+    {
+     "id": "chio-chio-san-e0040",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chio-chio-san-e0041",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "en",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chio-chio-san-e0042",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "tra",
+     "syllabic": "end"
+    },
+    {
+     "id": "chio-chio-san-e0043",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "nel",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0044",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chio-chio-san-e0045",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 11,
+     "beat": 3.333,
+     "lyric": "por",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chio-chio-san-e0046",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 11,
+     "beat": 3.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chio-chio-san-e0047",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "to,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    12,
+    14
+   ],
+   "lyrics": "romba il suo saluto.",
+   "translation": "白色的船驶进港口，鸣响它的礼炮。",
+   "events": [
+    {
+     "id": "chio-chio-san-e0048",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "romba il suo",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0049",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "sa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chio-chio-san-e0050",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chio-chio-san-e0051",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chio-chio-san-e0052",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "lu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chio-chio-san-e0053",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chio-chio-san-e0054",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "to.",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    14,
+    16
+   ],
+   "lyrics": "Vedi? È venuto!",
+   "translation": "看见了吗？他来了！",
+   "events": [
+    {
+     "id": "chio-chio-san-e0055",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "Ve",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chio-chio-san-e0056",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "di?",
+     "syllabic": "end"
+    },
+    {
+     "id": "chio-chio-san-e0057",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "È",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0058",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "ve",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chio-chio-san-e0059",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chio-chio-san-e0060",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "nu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chio-chio-san-e0061",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "to!",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    17,
+    18
+   ],
+   "lyrics": "Io non gli scendo incontro.",
+   "translation": "我不下去迎接他。我不去。",
+   "events": [
+    {
+     "id": "chio-chio-san-e0062",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "Io",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0063",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0064",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "gli",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0065",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.6667,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "scendo",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0066",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 17,
+     "beat": 3.667,
+     "lyric": "in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chio-chio-san-e0067",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "con",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chio-chio-san-e0068",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "tro.",
+     "syllabic": "end"
+    },
+    {
+     "id": "chio-chio-san-e0069",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    18,
+    18
+   ],
+   "lyrics": "Io no. Mi",
+   "translation": "我不下去迎接他。我不去。",
+   "events": [
+    {
+     "id": "chio-chio-san-e0070",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.75,
+     "lyric": "Io",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0071",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "no.",
+     "syllabic": "single"
+    },
+    {
+     "id": "chio-chio-san-e0072",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chio-chio-san-e0073",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 3.75,
+     "lyric": "Mi",
+     "syllabic": "single"
+    }
+   ]
+  }
+ ],
+ "eventCount": 73,
+ "restCount": 5,
+ "lyricNoteCount": 60,
+ "pages": 1,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 7,
+  "slowScale": 1.45
+ }
+}

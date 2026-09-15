@@ -1,0 +1,86 @@
+{
+  "title": "Zueignung",
+  "titleZh": "奉献",
+  "composer": "R. Strauss",
+  "opera": "Op. 10, No. 1（《八首歌曲》第一首，1885；诗：H. von Gilm）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "genre": "艺术歌曲",
+  "tempoBpm": 66,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（C 大调，4/4 Moderato，约 34 小节，三段分节歌变体）。理查·施特劳斯最早出版的歌曲集第一首，也是他最受欢迎的 encore 曲目。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {"text": "Ja, du weißt es, teure Seele,", "zh": "是的，你知道的，亲爱的灵魂，"},
+    {"text": "dass ich fern von dir mich quäle,", "zh": "远离你时我多么煎熬，"},
+    {"text": "Liebe macht die Herzen krank,", "zh": "爱让心灵痛苦，"},
+    {"text": "habe Dank.", "zh": "谢谢你。"},
+    {"text": "Einst hielt ich, der Freiheit Zecher,", "zh": "曾经我是自由的痛饮者，"},
+    {"text": "hoch den Amethysten-Becher", "zh": "高举紫水晶酒杯，"},
+    {"text": "und du segnetest den Trank,", "zh": "而你祝福了那杯酒，"},
+    {"text": "habe Dank.", "zh": "谢谢你。"},
+    {"text": "Und beschworst darin die Bösen,", "zh": "你驱走了杯中的邪恶，"},
+    {"text": "bis ich, was ich nie gewesen,", "zh": "直到我变成了我从未成为过的样子，"},
+    {"text": "heilig, heilig an's Herz dir sank,", "zh": "神圣地、神圣地倒在你的心上，"},
+    {"text": "habe Dank.", "zh": "谢谢你。"}
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "Seele 的 ee 是长 [eː]，quäle 的 ä 是 [ɛː]",
+        "Zecher, Becher 的 e 是短 [ɛ]，ch 读 [ç]",
+        "heilig 的 ei 是 [aɪ]——全曲最重要的词之一",
+        "Dank 的 a 是短 [a]——'谢谢你'每次出现都要有不同的分量"
+      ]
+    },
+    {
+      "title": "三段的递进",
+      "items": [
+        "第一段：温柔的倾诉——'我远离你时很痛苦'",
+        "第二段：回忆——'你曾祝福我的酒杯'，音色变得温暖",
+        "第三段：升华——'heilig, heilig'（神圣！神圣！）是全曲高潮，要有光辉感"
+      ]
+    }
+  ],
+  "story": {
+    "background": "《奉献》(Zueignung) 是理查·施特劳斯 21 岁时（1885年）出版的第一套歌曲集（Op.10）的开篇曲。吉尔姆的诗是一首感恩之歌——感谢爱人让自己从放纵的'自由痛饮者'变成了一个更好的人。三段分节歌以'habe Dank'（谢谢你）结尾，每次的感恩都更深一层。这首歌至今仍是最受欢迎的安可曲之一。",
+    "situation": "歌者对爱人表白：你知道我远离你时有多痛苦（第一段）。曾经我是个放浪形骸的人，举着酒杯痛饮，是你祝福了我的酒（第二段）。你驱走了邪恶，让我变成了从未想过能成为的样子——神圣地倒在你心上（第三段）。每段以'habe Dank'结束——从简单的感谢到神圣的感恩。",
+    "relationships": "歌者与爱人——爱人是救赎者。歌者承认自己曾经放纵不羁，是爱人的存在让他变得更好、更'神圣'。",
+    "intent": "三段递进是核心。第一段温柔、略带感伤。第二段更开阔——回忆中有一种释然。第三段要有'光辉'——'heilig, heilig'是全曲高潮，声音要明亮、宽广，像光照进来。每次'habe Dank'的语气要递进：第一次是感谢，第二次是感激，第三次是虔诚的崇敬。",
+    "plain30": "你知道我离你有多痛苦。曾经我是个浪子，你让我变了。你驱走了邪恶，让我变成了一个更好的人——谢谢你。这三段感谢越来越深，从感情到感恩到虔敬。",
+    "arc": "C 大调，4/4，中板。三段分节歌使用相似旋律框架但每段更高、更宽广。第一段 C 大调，平稳叙述。第二段稍有推进。第三段在'heilig, heilig'处转到降 A 大调——旋律跳到全曲最高音，像阳光突然照亮了一切——然后以'habe Dank'回到 C 大调，宽广而满足地结束。",
+    "motif": "感恩动机：'habe Dank' 的下行旋律——从高处缓缓落下，像弯腰致谢。每段结尾相同但越来越宽广。升华动机：'heilig, heilig' 的高音长音——两个相同的词在越来越高的音上，代表灵魂的提升。紫水晶动机：'Amethysten-Becher' 处的华丽旋律——回忆中的色彩。",
+    "motifPositions": [
+      {"phrase": "1", "note": "开头：'Ja, du weißt es' 温柔的倾诉，建立亲密感"},
+      {"phrase": "4", "note": "第一次 'habe Dank' ——简单的感谢"},
+      {"phrase": "8", "note": "第二次 'habe Dank' ——更深的感激"},
+      {"phrase": "11", "note": "'heilig, heilig' 全曲高潮——升华的光辉，转到降 A 大调"},
+      {"phrase": "12", "note": "第三次 'habe Dank' ——虔诚的崇敬，宽广地回到主调"}
+    ],
+    "technique": "三段递进需要歌手在音量和色彩上有明确的层次规划——如果第一段就唱得很满，第三段就没有空间了。'heilig, heilig'的高音需要良好的气息支撑和头声混合。第一段可以唱得很安静（mp），第二段 mf，第三段 f 到 ff。'habe Dank'每次要有不同的表达——这三个词是全曲的情感锚点。",
+    "classroom": [
+      "先读中文——三段的递进结构：痛苦的爱 → 回忆中的祝福 → 灵魂的升华。",
+      "注意每段结尾的'habe Dank'——试着用三种不同的语气说这两个词。",
+      "先学第一段的旋律——这是全曲的基础框架。",
+      "第三段的'heilig, heilig'要单独练——这是高音爆发点，需要充分的气息准备。",
+      "完整演唱，注意三段之间的动态规划：pp → mp → ff。",
+      "这首歌非常适合作为安可曲——观众已经知道旋律，你需要做的是让每个'habe Dank'都有新的意义。",
+      "对比舒曼的同名作品《Widmung》——两首都叫'奉献'，但感情色彩完全不同。"
+    ]
+  }
+}

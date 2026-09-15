@@ -1,0 +1,200 @@
+{
+ "title": "Non più andrai",
+ "titleZh": "你再不能去飞了",
+ "composer": "W. A. Mozart",
+ "opera": "Le nozze di Figaro（《费加罗的婚礼》，K. 492，1786）",
+ "language": "意大利语",
+ "voice": "男中音",
+ "difficulty": "中级",
+ "tempoBpm": 108,
+ "complete": true,
+ "coverageNote": "完整咏叹调（Vivace，4/4，101 小节）的声乐旋律与逐音节歌词。来源为俄语资料库中的结构化 MusicXML；已核对为 441 个歌词音节与标准歌词一致。",
+ "sourceStatus": "MusicXML 原谱 · 已核验",
+ "sources": [
+  {
+   "name": "Нотный архив Бориса Тараканова · Ария Фигаро",
+   "url": "https://notes.tarakanov.net/katalog/kompozitsii/ariya-figaro/",
+   "format": "MusicXML（声乐与钢琴）",
+   "status": "已解析；音节数与标准歌词逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "IMSLP · Le nozze di Figaro, K. 492",
+   "url": "https://imslp.org/wiki/Le_nozze_di_Figaro,_K.492_(Mozart,_Wolfgang_Amadeus)",
+   "format": "PDF 总谱/声乐谱",
+   "status": "用于核对调性、拍号与歌词",
+   "role": "参照原谱",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "Wikipedia · Non più andrai",
+   "url": "https://en.wikipedia.org/wiki/Non_pi%C3%B9_andrai",
+   "format": "网页",
+   "status": "背景与歌词校对",
+   "role": "剧情与文本",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  }
+ ],
+ "fixes": {
+  "rai": "ria",
+  "Piùan": "Più an",
+  "nea": "ne a",
+  "tee": "te e",
+  "doil": "do il",
+  "to,A": "to, A",
+  "piùa": "più a",
+  "poin": "po in",
+  "blaal": "bla al",
+  "too": "to o",
+  "lein": "le in",
+  "tii": "ti i",
+  "noal": "no al",
+  "ei": "e i",
+  "l'o": "l'o-"
+ },
+ "lyrics": [
+  {
+   "text": "Non più andrai, farfallone amoroso,",
+   "zh": "你再不能去飞了，多情的大蝴蝶，"
+  },
+  {
+   "text": "notte e giorno d’intorno girando,",
+   "zh": "再不能日夜到处转来转去，"
+  },
+  {
+   "text": "delle belle turbando il riposo,",
+   "zh": "搅乱美人们的安宁，"
+  },
+  {
+   "text": "Narcisetto, Adoncino d’amor.",
+   "zh": "小纳西索斯、小阿多尼斯。"
+  },
+  {
+   "text": "Non più avrai questi bei pennacchini,",
+   "zh": "你再没有这漂亮的羽饰，"
+  },
+  {
+   "text": "quel cappello leggero e galante,",
+   "zh": "那顶轻巧而风流的帽子，"
+  },
+  {
+   "text": "quella chioma, quell’aria brillante,",
+   "zh": "那头长发、那副神采，"
+  },
+  {
+   "text": "quel vermiglio donnesco color.",
+   "zh": "那女人般红润的脸色。"
+  },
+  {
+   "text": "Tra guerrieri, poffar Bacco!",
+   "zh": "到了士兵中间，我的天！"
+  },
+  {
+   "text": "Gran mustacchi, stretto sacco,",
+   "zh": "大胡子、紧军装，"
+  },
+  {
+   "text": "schioppo in spalla, sciabla al fianco,",
+   "zh": "枪在肩上、刀在腰间，"
+  },
+  {
+   "text": "collo dritto, muso franco,",
+   "zh": "脖子挺直、板着脸，"
+  },
+  {
+   "text": "un gran casco, o un gran turbante,",
+   "zh": "戴大头盔或大头巾，"
+  },
+  {
+   "text": "molto onor, poco contante,",
+   "zh": "荣誉很多、钞票很少，"
+  },
+  {
+   "text": "ed invece del fandango una marcia per il fango,",
+   "zh": "跳的不是凡丹戈舞，而是踩着泥泞行军，"
+  },
+  {
+   "text": "per montagne, per valloni, colle nevi e i sollioni,",
+   "zh": "翻山越谷，顶着大雪和烈日，"
+  },
+  {
+   "text": "al concerto di tromboni, di bombarde, di cannoni,",
+   "zh": "伴着长号、火炮和大炮的合奏，"
+  },
+  {
+   "text": "che le palle in tutti i tuoni all’orecchio fan fischiar.",
+   "zh": "子弹在耳边用各种调门呼啸。"
+  },
+  {
+   "text": "Cherubino, alla vittoria, alla gloria militar!",
+   "zh": "凯鲁比诺，去争胜利，去争军人的荣光吧！"
+  }
+ ],
+ "story": {
+  "background": "《费加罗的婚礼》由莫扎特作曲、达·蓬特据博马舍喜剧改编，1786 年在维也纳城堡剧院首演。这段咏叹调是第一幕的终曲：伯爵刚把少年侍从凯鲁比诺打发去参军，费加罗趁机以一支进行曲 “送行”。莫扎特后来在《唐·乔万尼》第二幕的晚宴中自引了这段旋律，作为乐队演奏的 “流行曲”。",
+  "situation": "费加罗看着年轻、爱情泛滥、刚被赶走的凯鲁比诺，半是同情、半是嘲弄。他想让这个少年明白：花花公子的日子结束了，前面是泥泞、火炮和纪律。他并不真正害怕什么，只是借机在伯爵面前显示自己的机智。",
+  "relationships": "费加罗是伯爵的贴身男仆，即将与苏珊娜成婚；凯鲁比诺是迷恋伯爵夫人、也调戏苏珊娜的少年侍从；伯爵刚以军职为名把他支开。这段独唱结束第一幕，把喜剧的节奏推向高潮，也让费加罗的领袖气质第一次完整亮相。",
+  "intent": "开口要像讲话，带着揶揄的笑：短促、清晰的咬字比大音量重要。中段列举军旅生活时越来越快、越来越夸张，像连珠炮。结尾 “alla gloria militar” 转为真正的进行曲式号角，声音放宽、放亮，把嘲讽变成了带点温情的鼓励。",
+  "plain30": "费加罗对刚被派去当兵的小少年说：以后没有羽毛帽子和女孩子了，只有泥巴、大胡子和炮声——凯鲁比诺，去当英雄吧！嘴上在笑，心里其实有点心疼。",
+  "arc": "C 大调，4/4 Vivace，进行曲体。旋律以号角式的四、五度跳进和重复音为主，节奏方正。结构为回旋式：主题 “Non più andrai” 反复出现，中间插入列举军旅细节的插段，节奏越来越密；尾声 “Cherubino, alla vittoria” 加入军号式的三连音与齐奏。情绪从戏谑到夸张再到豪迈。",
+  "motif": "核心动机是号角式跳进：“Non più an-drai” 从主音跳到三音再落回，像军号信号。它在每次主题返回时都以同样形式出现，尾声 “alla gloria militar” 把跳进放大为整个乐队的号角。演唱时把跳进的两个音都唱得干净、有弹性，用说话般的咬字推动喜剧节奏。",
+  "classroom": [
+   "先读中文译文，找出所有 “嘲笑” 与 “鼓励” 的句子。",
+   "慢速读原文，标出双辅音（farfallone, cappello, mustacchi）并延长它们。",
+   "分离元音和辅音：练 “schioppo in spalla, sciabla al fianco” 的连读与爆破音。",
+   "按 4/4 进行曲节拍说词，一、三拍重，像踏步。",
+   "听单音旋律，注意每次主题返回时的号角跳进。",
+   "把歌词放回旋律，逐句加速练插段。",
+   "用正常速度完整演唱，结尾 “alla gloria militar” 放宽音色。"
+  ],
+  "technique": "呼吸：句子短、语速快，在逗号处快速换气，避免大口吸气打断节奏。咬字：这是全曲的核心——双辅音（farfallone、cappello、mustacchi、schioppo）要“停一下再爆”，元音短；快速插段先按说话速度练清晰再加速。换声区：男中音在 D4–E4（“Cherubino alla vittoria”）处经过换声区，用说话式的开放音色即可。高音：最高音 E4 出现在结尾 “gloria militar”，是号角式的宣告，靠支撑放亮，不要往后撤。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Non più andrai” 号角式跳进首次出现。"
+   },
+   {
+    "phrase": 7,
+    "note": "第 7 句 “Non più avrai questi bei pennacchini” 动机变为列举式的重复音，节奏更密。"
+   },
+   {
+    "phrase": 21,
+    "note": "第 21 句起 “Tra guerrieri, poffar Bacco” 插段：跳进换成短促的同音反复，模拟军鼓。"
+   },
+   {
+    "phrase": 49,
+    "note": "最后几句 “Cherubino, alla vittoria” 把跳进放大为进行曲号角，全曲最亮处。"
+   }
+  ]
+ },
+ "sourceGrade": "B",
+ "role": "费加罗（Figaro）：伯爵的男仆",
+ "genre": "歌剧咏叹调",
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "an-DRÀI、far-fal-LÓ-ne（ll）、gi-RÀN-do、tur-BÀN-do、ri-PÒ-so、Nar-ci-SÉT-to（tt）、pen-nac-CHÌ-ni（nn、cc）、cap-PÈL-lo（pp、ll）、mu-STÀC-chi（cc）、SCHIÒP-po（pp）、SCIÀ-bla、tur-BÀN-te、fan-DÀN-go、mon-TÀ-gne（gn）、trom-BÓ-ni、can-NÓ-ni（nn）、vit-TÒ-ria（tt）、mi-li-TÀR。",
+    "本曲双辅音极多，是咬字练习的核心：每个双辅音都要有短暂的停顿。"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "belle、bello 的 e 开口 [ɛ]；riposo、amoroso 的 o 闭口 [o]；onor、color、amor 的 o 开口 [ɔ]。",
+    "“Bacco”“casco” 的 a 亮而开。"
+   ]
+  },
+  {
+   "title": "r、连读与省略",
+   "items": [
+    "r 弹舌，快速插段里也不能省：guerrieri（rr 双 r）、Narcisetto、turbante。",
+    "“più‿andrai”“notte‿e giorno”“turbando‿il”“schioppo‿in spalla”“sciabla‿al fianco”“molto‿onor”“Cherubino‿alla” 都在同一音上连读；“d’intorno”“d’amor”“quell’aria”“all’orecchio” 省音。"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "la-donna-e-mobile": {
+  "voice": "it_IT-riccardo-x_low",
+  "onsets": 62,
+  "melisma": 63,
+  "piano": true
+ },
+ "mattinata": {
+  "voice": "it_IT-riccardo-x_low",
+  "onsets": 106,
+  "melisma": 11,
+  "piano": true
+ }
+}

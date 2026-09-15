@@ -1,0 +1,134 @@
+{
+  "title": "Widmung",
+  "titleZh": "奉献",
+  "composer": "R. Schumann",
+  "opera": "Myrthen, Op. 25, No. 1（《桃金娘》，1840；诗：F. Rückert）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "genre": "艺术歌曲",
+  "tempoBpm": 72,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（降 A 大调，3/4 Innig, lebhaft，约 56 小节，ABA 三段体）。舒曼在婚礼前夕献给克拉拉的第一首歌。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Du meine Seele, du mein Herz,",
+      "zh": "你是我的灵魂，你是我的心，"
+    },
+    {
+      "text": "du meine Wonn', o du mein Schmerz,",
+      "zh": "你是我的欢乐，啊，你是我的痛苦，"
+    },
+    {
+      "text": "du meine Welt, in der ich lebe,",
+      "zh": "你是我生活其中的世界，"
+    },
+    {
+      "text": "mein Himmel du, darein ich schwebe,",
+      "zh": "你是我翱翔其中的天空，"
+    },
+    {
+      "text": "o du mein Grab, in das hinab",
+      "zh": "啊，你是我的坟墓——我将"
+    },
+    {
+      "text": "ich ewig meinen Kummer gab!",
+      "zh": "永远把我的忧愁埋葬在那里！"
+    },
+    {
+      "text": "Du bist die Ruh, du bist der Frieden,",
+      "zh": "你是安宁，你是平和，"
+    },
+    {
+      "text": "du bist vom Himmel mir beschieden.",
+      "zh": "你是上天赐予我的。"
+    },
+    {
+      "text": "Dass du mich liebst, macht mich mir wert,",
+      "zh": "你爱我，使我有了自己的价值，"
+    },
+    {
+      "text": "dein Blick hat mich vor mir verklärt,",
+      "zh": "你的目光在我面前把我变得崇高，"
+    },
+    {
+      "text": "du hebst mich liebend über mich,",
+      "zh": "你以爱把我举起，超越了我自己，"
+    },
+    {
+      "text": "mein guter Geist, mein bess'res Ich!",
+      "zh": "你是我的守护神，我更好的自我！"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "Seele 的 ee 是长 [eː]，Herz 的 e 是短 [ɛ]",
+        "Wonn' 的 o 是短 [ɔ]，保持圆润但不拉长",
+        "Himmel 的 i 是短 [ɪ]，schwebe 的 e 是弱化 [ə]",
+        "Ruh 的 u 长 [uː]，Kummer 的 u 短 [ʊ]"
+      ]
+    },
+    {
+      "title": "音乐性格",
+      "items": [
+        "这首歌是一封情书——语气要热烈但真诚，不要太戏剧化",
+        "中段'Du bist die Ruh'突然变得平静——像从激动中找到了安宁",
+        "最后再现A段时，同样的旋律要比开头更加确信和宽广"
+      ]
+    }
+  ],
+  "story": {
+    "background": "舒曼在 1840 年与克拉拉·维克终于结婚（经过多年与克拉拉父亲的法律斗争）。婚前他创作了大量歌曲，包括这套《桃金娘》（Op.25）——桃金娘是传统的新娘花冠植物。《奉献》是这套 26 首歌的开篇，也是舒曼全部歌曲中最有名的一首。吕克特的诗列举了爱人在歌者生命中的全部意义。",
+    "situation": "歌者对爱人直接表白：你是我的一切——灵魂、心、欢乐、痛苦、世界、天空，甚至坟墓。然后语气突然平静下来：你是安宁，你是上天的恩赐。最后回到开头的热烈：你的爱让我找到了自己的价值。",
+    "relationships": "歌者与爱人之间是全然奉献的关系。在舒曼的语境中，爱人就是克拉拉——这不是虚构的情感，而是真实的爱情宣言。",
+    "intent": "A 段要热烈而急切——'du meine Seele, du mein Herz' 像连珠炮般的爱情宣言。B 段'Du bist die Ruh'突然变得极其平静和虔诚——像从风暴中找到了港湾。A'再现段回到热烈，但更加宽广和确信——已经从表白变成了感恩。钢琴结尾引用了舒伯特的《致音乐》——舒曼以此向两位伟大的艺术致敬：音乐和爱。",
+    "plain30": "你是我的灵魂、我的心、我的一切。然后突然安静下来：你是上天赐予我的安宁。最后：你的爱让我超越了自己。这是舒曼在婚礼前写给克拉拉的情书。",
+    "arc": "降 A 大调，3/4，热烈而亲密。ABA 三段体。A 段（降 A 大调）是热烈的倾诉，旋律以连续的三拍子节奏向前推进。B 段（E 大调）突然转调——'Du bist die Ruh' 旋律变得平稳、宽广，像祈祷。A'段回到降 A 大调，旋律与开头相同但更宽广。钢琴尾奏引用舒伯特《致音乐》(An die Musik)的旋律。",
+    "motif": "奉献动机：开头'Du meine Seele'的大跳上行——从主音跳到高八度，像伸出双手。每个'du mein(e)...'都以这个大跳开始，越来越高、越来越激动。安宁动机：B 段'Du bist die Ruh'的级进下行——与 A 段的大跳形成对比，一切突然平静。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "'Du meine Seele' 大跳上行——奉献动机首次出现，热烈的开始"
+      },
+      {
+        "phrase": "5",
+        "note": "'o du mein Grab' 奉献动机推到极端——连死亡都属于你"
+      },
+      {
+        "phrase": "7",
+        "note": "'Du bist die Ruh' 突然转 E 大调——安宁动机，全曲的情感中心"
+      },
+      {
+        "phrase": "11",
+        "note": "'du hebst mich liebend über mich' 再现——同样的旋律但更加确信"
+      }
+    ],
+    "technique": "A 段需要良好的气息管理——连续的'du mein(e)...'每次都在更高的音上开始，容易耗气。B 段的转调需要耳朵的适应——从降 A 大调到 E 大调的关系很远，但舒曼的过渡非常自然。3/4 拍要保持推进感——这是一首激动的歌，不要唱成慢板。",
+    "classroom": [
+      "先读中文——这是一封列举爱人对你意味着什么的信：灵魂、心、欢乐、痛苦、世界、天空。",
+      "朗读德语——注意每个'du mein(e)'的重复结构，像在一遍遍加强表白。",
+      "先只练 A 段的前半部分——学会大跳上行的奉献动机。",
+      "单独练 B 段——感受从热烈到安宁的转换。",
+      "完整演唱——关键是 ABA 三段的情感弧线：热烈→安宁→确信。",
+      "听李斯特的钢琴改编版（S.566）——他保留了所有歌声线条，可以帮助理解旋律结构。",
+      "了解舒曼和克拉拉的故事——知道这首歌是真实的婚前情书，会让演唱更有分量。"
+    ]
+  },
+  "role": "抒情主人公（恋人）"
+}

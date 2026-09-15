@@ -1,0 +1,141 @@
+{
+  "title": "Chanson d'amour",
+  "titleZh": "爱之歌",
+  "composer": "G. Fauré",
+  "opera": "Op. 27, No. 1（1882；诗：A. Silvestre）",
+  "language": "法语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "genre": "艺术歌曲",
+  "tempoBpm": 60,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（F 大调，3/4，柔美的华尔兹）。福雷早期歌曲代表作。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "J'aime tes yeux, j'aime ton front,",
+      "zh": "我爱你的眼睛，我爱你的额头，"
+    },
+    {
+      "text": "ô ma rebelle, ô ma farouche,",
+      "zh": "哦我叛逆的、哦我倔强的人，"
+    },
+    {
+      "text": "j'aime tes yeux, j'aime ta bouche",
+      "zh": "我爱你的眼睛，我爱你的嘴唇，"
+    },
+    {
+      "text": "où mes baisers s'épuiseront.",
+      "zh": "我的亲吻将在那里耗尽。"
+    },
+    {
+      "text": "J'aime ta voix, j'aime l'étrange",
+      "zh": "我爱你的声音，我爱那奇异的"
+    },
+    {
+      "text": "grâce de tout ce que tu dis,",
+      "zh": "你所说的一切话语的优雅，"
+    },
+    {
+      "text": "ô ma rebelle, ô mon cher ange,",
+      "zh": "哦我叛逆的、哦我亲爱的天使，"
+    },
+    {
+      "text": "mon enfer et mon paradis!",
+      "zh": "我的地狱和我的天堂！"
+    },
+    {
+      "text": "J'aime tout ce qui te fait belle,",
+      "zh": "我爱一切使你美丽的东西，"
+    },
+    {
+      "text": "de tes pieds jusqu'à tes cheveux,",
+      "zh": "从你的双脚到你的秀发，"
+    },
+    {
+      "text": "ô toi vers qui montent mes vœux,",
+      "zh": "哦你，我的心愿都向你飞升，"
+    },
+    {
+      "text": "ô ma farouche, ô ma rebelle!",
+      "zh": "哦我倔强的、哦我叛逆的人！"
+    }
+  ],
+  "hints": [
+    {
+      "title": "法语鼻化元音",
+      "items": [
+        "front [fʁɔ̃]、ton [tɔ̃]、mon [mɔ̃] 都含 on 鼻化元音 [ɔ̃]",
+        "étrange 的 an [ɑ̃]、ange 的 an [ɑ̃]——鼻化在歌唱中要充分",
+        "enfer 的 en [ɑ̃]、paradis 的 末尾 s 不发音"
+      ]
+    },
+    {
+      "title": "联诵与省音",
+      "items": [
+        "tes yeux [tɛzjø]——ts 后的 y 联诵",
+        "mes baisers [mɛbɛze]、s'épuiseront 的省音",
+        "tout ce [tusə]——t 联诵到 ce"
+      ]
+    },
+    {
+      "title": "法语 r 的处理",
+      "items": [
+        "rebelle、farouche、grâce 的 r 都是小舌 [ʁ]，在歌唱中要轻柔",
+        "enfer 和 paradis 的 r 位于词尾/词中，不要过重",
+        "整体风格要求轻盈——r 不能成为障碍"
+      ]
+    }
+  ],
+  "story": {
+    "background": "《爱之歌》是福雷 1882 年发表的作品，诗人阿尔芒·西尔韦斯特是当时法国最受欢迎的诗人之一。这首歌以轻盈的 3/4 拍华尔兹节奏，用最简单的方式表达爱：我爱你的眼睛、嘴唇、声音、一切。福雷早期歌曲风格清澈明亮，没有德布西式的朦胧，也没有晚期福雷的深奥和声。",
+    "situation": "歌者直接对爱人倾诉：我爱你的眼睛、额头、嘴唇、声音。你是叛逆的、倔强的，但这正是我爱你的原因。你是我的地狱也是我的天堂。一切使你美丽的东西我都爱。",
+    "relationships": "歌者与一位性格倔强（rebelle、farouche）的爱人——不是柔顺温婉的形象，而是一个有个性的人。三段诗的称呼从「ma rebelle」到「mon cher ange」到「ma farouche」，每次都不一样，像在试探不同的爱称。",
+    "intent": "轻快、温柔、带一点调皮。不是沉重的爱情宣言，而是恋人之间私密的低语。三段结构重复但要有变化——第一段温柔，第二段略微激动（「mon enfer et mon paradis」），第三段回到温柔但更加深情。整体像一支慢华尔兹。",
+    "plain30": "我爱你的眼睛、嘴唇、声音——你是叛逆的、倔强的，但你是我的天使，我的天堂也是我的地狱。从头到脚，一切使你美丽的东西我都爱。用一首轻盈的华尔兹说出来。",
+    "arc": "F 大调，3/4，温柔的华尔兹。钢琴的分解和弦在低音区轻轻摇摆。声乐线在中音区流动，旋律优美但不夸张。第二段的「mon enfer et mon paradis」有一个短暂的和声张力——也许经过降 B 大调或 d 小调——随即回到 F 大调的温暖。第三段是总结性的回归，最后在 F 大调上以渐弱结束。",
+    "motif": "爱称动机：「J'aime tes yeux」的上行三度开头——每段都以这个轻轻的上行开始，像抬头看爱人的目光。呼唤动机：「ô ma rebelle」的感叹——重复出现，每次略有不同。钢琴的华尔兹伴奏型是歌曲的心跳，从不间断。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "开头「J'aime tes yeux」——上行三度，温柔的凝视"
+      },
+      {
+        "phrase": "2",
+        "note": "「ô ma rebelle」——第一次呼唤动机"
+      },
+      {
+        "phrase": "8",
+        "note": "「mon enfer et mon paradis」——全曲最强烈的感情表达"
+      },
+      {
+        "phrase": "12",
+        "note": "结尾「ô ma farouche, ô ma rebelle」——呼唤动机回归"
+      }
+    ],
+    "technique": "这是一首技术要求不高但风格要求精确的歌曲。最大的挑战是法语的轻盈感——元音要纯净，辅音要轻快，鼻化元音在华尔兹节奏中要流动。不要用德语 Lied 的方式来唱——这里没有深沉的气息压力，只有优雅的流动。声音始终保持 mf 以下，像在客厅里对一个人唱。",
+    "classroom": [
+      "先读中文——这是一首直接的爱情诗，没有隐喻，只有「我爱你的……」。",
+      "朗读法语，用轻快的节奏——这不是朗诵诗，是在和爱人说话。",
+      "练习鼻化元音 [ɔ̃] 和 [ɑ̃]——它们几乎在每一句都出现。",
+      "用 3/4 拍轻轻摇摆着说词——感受华尔兹的韵律。",
+      "哼唱旋律——注意每段开头的上行三度。",
+      "半速演唱，确保法语的连贯性——每个词要流入下一个词。",
+      "原速演唱。这首歌的理想状态是听众觉得你在对他们微笑。"
+    ]
+  },
+  "role": "抒情主人公（恋人）"
+}

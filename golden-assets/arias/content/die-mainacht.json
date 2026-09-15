@@ -1,0 +1,140 @@
+{
+  "title": "Die Mainacht",
+  "titleZh": "五月之夜",
+  "composer": "J. Brahms",
+  "opera": "Op.43 No.2（独立艺术歌曲，1868；诗：L.H.C. Hölty）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男中音",
+  "difficulty": "中级",
+  "genre": "艺术歌曲",
+  "tempoBpm": 52,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（降E大调，4/4，非常缓慢而富有表情，约48小节，三段通作歌曲）。勃拉姆斯最感人的独唱歌曲之一。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Wann der silberne Mond durch die Gesträuche blinkt,",
+      "zh": "当银色的月亮透过灌木丛闪烁，"
+    },
+    {
+      "text": "und sein schlummerndes Licht über den Rasen streut,",
+      "zh": "将沉睡的光芒洒在草地上，"
+    },
+    {
+      "text": "und die Nachtigall flötet,",
+      "zh": "夜莺在歌唱，"
+    },
+    {
+      "text": "wandl' ich traurig von Busch zu Busch.",
+      "zh": "我悲伤地从树丛走到树丛。"
+    },
+    {
+      "text": "Überhüllet vom Laub girret ein Taubenpaar",
+      "zh": "一对鸽子在绿叶的掩映下咕咕低语，"
+    },
+    {
+      "text": "sein Entzücken mir vor;",
+      "zh": "向我炫耀它们的欢愉；"
+    },
+    {
+      "text": "aber ich wende mich,",
+      "zh": "但我转过身去，"
+    },
+    {
+      "text": "suche dunklere Schatten,",
+      "zh": "寻找更深的阴影，"
+    },
+    {
+      "text": "und die einsame Träne rinnt.",
+      "zh": "孤独的泪珠滑落。"
+    },
+    {
+      "text": "Wann, o lächelndes Bild, welches wie Morgenrot",
+      "zh": "何时，哦微笑的面容，像晨曦一样"
+    },
+    {
+      "text": "durch die Seele mir strahlt, find' ich auf Erden dich?",
+      "zh": "照亮我的灵魂，我能在人间找到你吗？"
+    },
+    {
+      "text": "Und die einsame Träne",
+      "zh": "孤独的泪珠"
+    },
+    {
+      "text": "bebt mir heißer die Wang' herab.",
+      "zh": "更加滚烫地从我脸颊滑落。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "silberne 的 i 短 [ɪ]",
+        "Gesträuche 的 äu 读 [ɔʏ]",
+        "Nachtigall 的 a 是短 [a]，i 是短 [ɪ]",
+        "Überhüllet 的 ü 是长 [yː]",
+        "Träne 的 ä 是长 [ɛː]"
+      ]
+    },
+    {
+      "title": "歌唱风格",
+      "items": [
+        "这是一首极其缓慢的夜曲——呼吸要深长",
+        "第一段是叙述性的，像夜间散步的独白",
+        "第二段（鸽子）加入对比——别人的幸福 vs 自己的孤独",
+        "第三段的'Wann, o lächelndes Bild'是情感爆发——从 piano 到 forte 再回落"
+      ]
+    }
+  ],
+  "story": {
+    "background": "勃拉姆斯的《五月之夜》取自霍尔蒂的诗——描绘一个人在五月的夜晚独自漫步，被大自然的美丽和他人的幸福映衬出内心的孤独。这是勃拉姆斯最受演唱家喜爱的独唱歌曲之一，降E大调的温暖中隐藏着深沉的忧伤。",
+    "situation": "月光下的花园。银色的月亮、草地上的光、夜莺的歌声——一切都很美。但歌者是孤独的。一对鸽子的亲密让他更加悲伤。他转身走向阴影深处，流下了眼泪。最后他问：那个像晨曦一样照亮灵魂的微笑面容，何时才能在人间找到？",
+    "relationships": "歌者与一个缺席的爱人——'lächelndes Bild'（微笑的面容）是记忆中或想象中的人。大自然的一切美好都在提醒他的孤独。",
+    "intent": "第一段平静地叙述夜景，但'traurig'已经暗示情绪。第二段鸽子的幸福形成对比，'einsame Träne'是第一个情感落点。第三段是高潮——'Wann, o lächelndes Bild' 的呐喊，最后以更热的泪珠结束。",
+    "plain30": "月光下的夜晚，夜莺在唱，鸽子在相爱——而我独自走在阴影里流泪。那个照亮我灵魂的微笑面容，何时才能在人间找到？",
+    "arc": "降E大调，4/4。第一段在中低音区展开夜景描写。第二段稍上行（鸽子的欢愉），然后'wende mich'转入小调阴影。第三段'Wann, o lächelndes Bild'在高音区爆发，然后回落到'heißer die Wang' herab'——更加灼热的泪珠，情感比开头更深。",
+    "motif": "夜行动机：开头的下行级进像月光下的脚步。'einsame Träne'的小二度叹息动机在第二段和第三段反复出现，每次更深沉。第三段'lächelndes Bild'的上行跳进是全曲的情感顶点——对缺席爱人的呼唤。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "'Wann der silberne Mond' 月光下行动机——宁静的开始"
+      },
+      {
+        "phrase": "4",
+        "note": "'traurig von Busch zu Busch' 悲伤的脚步"
+      },
+      {
+        "phrase": "9",
+        "note": "'einsame Träne rinnt' 孤独的泪珠——叹息动机"
+      },
+      {
+        "phrase": "10",
+        "note": "'Wann, o lächelndes Bild' 情感高潮——对爱人的呐喊"
+      }
+    ],
+    "technique": "需要极好的气息控制——4/4 的慢速意味着每个乐句都很长。'silberne Mond' 的长音需要均匀的气流。第三段的力度变化要自然——不是突然变大，而是情感的积累。最后的 'herab' 要控制好渐弱——泪珠滑落的感觉。",
+    "classroom": [
+      "先读中文——月夜、孤独、泪水、渴望。这是一首关于思念的歌。",
+      "朗读德语：注意复合词的重音（'Nachtigall'重音在第一音节）和 äu/ü/ä 的发音。",
+      "这首歌很慢——先用节拍器确定速度，不要快。",
+      "第一段平静叙述，先用说话的语气练。",
+      "第三段是情感高潮——'Wann, o lächelndes Bild' 可以推到 forte。",
+      "最后的'heißer die Wang' herab' 要回到 piano——泪珠是安静的。",
+      "完整演唱。这首歌需要一个安静的练习空间。"
+    ]
+  },
+  "role": "抒情主人公（孤独的恋人）"
+}

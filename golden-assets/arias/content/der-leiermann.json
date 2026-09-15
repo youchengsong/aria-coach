@@ -1,0 +1,122 @@
+{
+  "title": "Der Leiermann",
+  "titleZh": "手摇风琴师",
+  "composer": "F. Schubert",
+  "opera": "Winterreise D.911 No.24（冬之旅第24首，1827；诗：W. Müller）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男中音",
+  "difficulty": "高阶",
+  "genre": "艺术歌曲",
+  "tempoBpm": 56,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（a小调，3/4，极慢，约64小节）。《冬之旅》终曲——旅人遇见冰冻的街头手摇风琴师。音乐史上最荒凉的结尾之一。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Drüben hinterm Dorfe steht ein Leiermann,",
+      "zh": "村子那边站着一个手摇风琴师，"
+    },
+    {
+      "text": "und mit starren Fingern dreht er, was er kann.",
+      "zh": "用冻僵的手指，尽力摇着琴。"
+    },
+    {
+      "text": "Barfuß auf dem Eise wankt er hin und her,",
+      "zh": "赤脚在冰上踉跄来回，"
+    },
+    {
+      "text": "und sein kleiner Teller bleibt ihm immer leer.",
+      "zh": "他的小碟子始终空空如也。"
+    },
+    {
+      "text": "Keiner mag ihn hören, keiner sieht ihn an,",
+      "zh": "没人愿意听他，没人看他一眼，"
+    },
+    {
+      "text": "und die Hunde knurren um den alten Mann.",
+      "zh": "只有狗在老人身边咆哮。"
+    },
+    {
+      "text": "Und er läßt es gehen alles, wie es will,",
+      "zh": "他任由一切随意而去，"
+    },
+    {
+      "text": "dreht, und seine Leier steht ihm nimmer still.",
+      "zh": "摇着，他的风琴永不停歇。"
+    },
+    {
+      "text": "Wunderlicher Alter, soll ich mit dir gehn?",
+      "zh": "奇怪的老人，我该跟你走吗？"
+    },
+    {
+      "text": "Willst zu meinen Liedern deine Leier drehn?",
+      "zh": "你愿意为我的歌摇你的琴吗？"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "注意长短元音的区别",
+        "ö 和 ü 需要圆唇",
+        "ei 读 [aɪ]，ie 读 [iː]",
+        "ch 在 i/e 后读软 [ç]，在 a/o/u 后读硬 [x]"
+      ]
+    },
+    {
+      "title": "歌唱风格",
+      "items": [
+        "注意德语歌曲中词与音的密切关系",
+        "每个词的语气要和旋律的走向一致",
+        "德语辅音要清晰但不过重"
+      ]
+    }
+  ],
+  "story": {
+    "background": "《手摇风琴师》是《冬之旅》的终曲——也是最令人心碎的一首。旅人在旅途尽头遇见一个赤脚站在冰上、没人理会的手摇风琴师。最后他问：我该跟你走吗？钢琴用空五度和持续低音模仿手摇风琴的机械声——整首曲子像一个冻结的世界。",
+    "situation": "荒凉的村外。旅人看见一个老人赤脚站在冰上摇着手摇风琴，没有人听，没有人施舍。旅人在这个被遗忘的老人身上看到了自己——都是被世界抛弃的人。最后的问题'我该跟你走吗'没有答案。",
+    "relationships": "流浪者与神秘的手摇风琴师——《冬之旅》的终曲。在长达24首歌的绝望旅程尽头，流浪者在冰雪中遇到一个赤脚的老人，站在村庄边上，用冻僵的手指转动着手摇风琴。没有人听，没有人给他施舍，狗对他咆哮——但他不停地转。老人可能是死神，也可能只是另一个被世界抛弃的人。流浪者问的最后一个问题：'奇怪的老人，要我跟你一起走吗？你愿意用你的风琴为我的歌伴奏吗？'——这个问题没有回答。",
+    "intent": "以彻底的空虚开始。钢琴左手的空五度（A-E）是手摇风琴的持续低音（drone），从头到尾不停——它代表的不是音乐，而是机械的、没有生命的重复。声乐线几乎是说话，被抽干了一切情感。不要试图让这首歌'好听'——它的力量恰恰在于什么都没有：没有激情，没有悲伤，没有希望，也没有绝望。最后的问句'soll ich mit dir gehn?'应该像是已经知道答案但还是要问。",
+    "plain30": "村外一个老人赤脚站在冰上摇着手摇风琴。没人听他，没人看他。旅人问：奇怪的老人，我该跟你走吗？这个问题永远没有答案。",
+    "arc": "a小调，非常缓慢。全曲只有两个和弦素材在交替——主和弦和属和弦，但属和弦经常被处理成空五度，像是缺少灵魂的音乐。中段短暂出现大调色彩（A大调），但这个大调听起来比小调更空洞——它不是希望，而是对希望的放弃。整首歌像一个正在停止转动的轮子，越来越慢，但永远不会完全停下来。",
+    "motif": "空五度动机：钢琴的持续低音五度像手摇风琴的机械空转。声乐线条几乎是单调的吟诵——像一个已经放弃了一切的人在说话。最后的问句没有上行——平静得可怕。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "开头「Drüben hinterm Dorfe steht ein Leiermann」——钢琴的裸五度（a–e）就是手摇风琴的空心嗡鸣，全曲只重复九个音"
+      },
+      {
+        "phrase": "4",
+        "note": "「Und sein kleiner Teller bleibt ihm immer leer」——旋律在词尾的那个空荡长音上悬置，配合钢琴的持续五度"
+      },
+      {
+        "phrase": "11",
+        "note": "「Wunderlicher Alter, soll ich mit dir gehn?」——结尾的问句以大调三级音悬置，不做任何解决，问题永远没有答案"
+      }
+    ],
+    "technique": "这首歌最大的挑战是克制——你必须唱得'几乎不是在唱'。声音要极轻、极平，像已经冻僵的人在说最后几句话。绝对不要加入颤音或情感强调——任何'美化'都会破坏这首歌的本质。空五度的伴奏要让钢琴家的触键也变得机械、无表情。这是舒伯特最简单也最难的歌：音符容易，但真正做到'什么都不加'需要极大的艺术勇气。",
+    "classroom": [
+      "先读中文翻译，理解歌曲的核心情感。",
+      "慢速朗读德语原文，注意元音和辅音的准确发音。",
+      "分离元音和辅音，按音节练习。",
+      "用节拍器按标注速度朗读歌词。",
+      "听合成旋律参考，注意旋律走向。",
+      "配上歌词，先用一半速度练唱。",
+      "以正常速度完整演唱。"
+    ]
+  },
+  "role": "冬日旅人（流浪者）"
+}

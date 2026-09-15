@@ -1,0 +1,3334 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "linvito",
+ "title": "L’invito",
+ "titleZh": "邀请",
+ "composer": "G. Rossini",
+ "opera": "Soirées musicales, No. 5（1835；意大利语波莱罗风格独唱曲，词 Carlo Pepoli）",
+ "language": "意大利语",
+ "voice": "女中音",
+ "difficulty": "高阶",
+ "tempoBpm": 88,
+ "timeSignature": "3/4",
+ "coverage": {
+  "measures": [
+   1,
+   92
+  ],
+  "firstSungMeasure": 7,
+  "complete": true,
+  "note": "完整声乐旋律（3/4 波莱罗，92 小节），192 个意大利语音节；OpenScore 据 Ricordi 版转写，已与 IMSLP 核对。来源文件声部名误标为 “Oboe”，音域（E4–G5）与歌词确认为声乐线。"
+ },
+ "range": {
+  "low": "E4",
+  "high": "G5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "埃洛伊莎（Eloisa）：向鲁杰罗发出邀请的女子",
+ "genre": "独唱歌曲（波莱罗）",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Rossini,_Gioachino/Soirées_musicales/5_L’invito",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Rossini,_Gioachino/Soirées_musicales/5_L’invito",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；192 个音节与 Ricordi 版逐一核对；声部名 Oboe 为转写者误标",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/30064748"
+  },
+  {
+   "name": "IMSLP · Soirées musicales (Rossini, Gioacchino)",
+   "url": "https://imslp.org/wiki/Soir%C3%A9es_musicales_(Rossini,_Gioacchino)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "LiederNet · L’invito (Pepoli)",
+   "url": "https://www.lieder.net/lieder/get_text.html?TextId=12513",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Vieni, o Ruggiero, la tua Eloisa da te divisa non può restar;",
+   "zh": "来吧，鲁杰罗，你的埃洛伊莎不能与你分离；"
+  },
+  {
+   "text": "alle mie lacrime già rispondevi, vieni, ricevi il mio pregar.",
+   "zh": "你已回应过我的泪水，来吧，接受我的恳求。"
+  },
+  {
+   "text": "Vieni, o bell’angelo, vien, mio diletto, su del mio petto vieni a posar!",
+   "zh": "来吧，美丽的天使，来吧，我的爱人，来靠在我胸口！"
+  },
+  {
+   "text": "Senti se palpita, se amor t’invita, vieni, mia vita, fammi spirar.",
+   "zh": "感受它是否在跳动，是否爱在邀请你——来吧，我的生命，让我为你消魂。"
+  },
+  {
+   "text": "Vieni, bell’angelo, vien, mio diletto, su del mio petto vieni a posar!",
+   "zh": "来吧，美丽的天使，来吧，我的爱人，来靠在我胸口！"
+  },
+  {
+   "text": "Senti se palpita, se amor t’invita, vieni, mia vita, fammi spirar, vieni, vieni, fammi spirar.",
+   "zh": "感受它是否在跳动，是否爱在邀请你——来吧，我的生命，让我为你消魂，来吧，来吧。"
+  }
+ ],
+ "story": {
+  "background": "《音乐晚会》是罗西尼 1835 年在巴黎出版的 12 首独唱与二重唱集，词作者卡洛·佩波利（他也是《清教徒》的剧作家）。第 5 首《邀请》是一支波莱罗（bolero），三拍西班牙舞曲节奏配合意大利花腔，是女中音/女高音音乐会常见的炫技小品。",
+  "situation": "埃洛伊莎向情人鲁杰罗发出邀请：来吧，靠在我胸口，感受我的心跳。她热烈、主动、毫不掩饰，用舞曲的节奏和装饰音表达渴望。她想要的是他立刻到来，害怕的是分离继续。",
+  "relationships": "埃洛伊莎（歌者）与鲁杰罗（被邀请者，不在场）。歌词借用中世纪爱情故事阿伯拉尔与埃洛伊莎的名字，但内容是纯粹的沙龙情歌。",
+  "intent": "开口要有波莱罗的弹性和自信，“Vieni, o Ruggiero” 像命令又像撒娇；“no no no non può restar” 的反复要俏皮。“Vieni, o bell’angelo” 段更抒情、更甜；“Senti se palpita” 加快心跳般的节奏；结尾的花腔 “fammi spirar” 要炫而轻，收得干脆。",
+  "plain30": "一个热情的女子对情人唱：来吧，靠在我胸口，感受我的心跳，让我为你消魂。三拍子的西班牙舞曲，配上意大利花腔。",
+  "arc": "3/4 波莱罗，附点节奏贯穿。主题 “Vieni, o Ruggiero” 以级进下行加装饰开始，反复的 “no no no” 用同音断奏；中段 “Vieni, o bell’angelo” 转为更宽的抒情线；“Senti se palpita” 节奏加密像心跳；“fammi spirar” 以上行花腔到最高音收束。结构为主题—抒情段—心跳段—再现—尾声花腔。情绪：邀请—甜蜜—急切—炫耀。",
+  "motif": "核心动机是波莱罗附点节奏上的下行级进：“Vie-ni, o Rug-gie-ro” 长短相间地下行。它在每段开头出现，“Senti se palpita” 把它压缩为快速的同音重复（心跳），尾声花腔把它拉伸为上行经过句。演唱时附点要尖锐，短音节不能拖。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Vieni, o Ruggiero” 波莱罗附点下行动机首次出现。"
+   },
+   {
+    "phrase": 3,
+    "note": "第 3 句 “Vieni, o bell’angelo” 动机拉宽为抒情线。"
+   },
+   {
+    "phrase": 4,
+    "note": "第 4 句 “Senti se palpita” 动机压缩为心跳般的同音反复。"
+   },
+   {
+    "phrase": 6,
+    "note": "尾句 “fammi spirar” 动机拉伸为上行花腔。"
+   }
+  ],
+  "technique": "呼吸：舞曲节奏快，句间短换气，花腔前吸足。咬字：附点节奏上的短音节要清楚（lacrime、palpita 的重音在第一音节）；双辅音保持。换声区：女中音在 D5–E5（“bell’angelo”“spirar”）经过换声区，保持轻盈。高音与花腔：最高音 G5 在尾声花腔，先慢练骨架音，再加速；花腔用轻机能、靠横膈膜的弹性，不要每个音都用力。",
+  "classroom": [
+   "先读中文，理解这是主动、热烈的邀请。",
+   "慢速读原文，标出重音在第一音节的词（lacrime、palpita）。",
+   "分离元音和辅音：练双辅音与 “no no no” 的断奏。",
+   "按 3/4 波莱罗说词，附点要尖锐。",
+   "听单音旋律，先听骨架音，忽略花腔。",
+   "把歌词放回旋律，先练主题段，再练花腔。",
+   "用正常速度完整演唱，保持舞曲弹性。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "VIÈni、RugGIÈro（gg）、EloÌsa、diVÌsa、LÀcrime（重音在第一音节）、PÀLpita（第一音节）、FÀMmi（mm）。",
+    "“bell’angelo” 的 ll 双辅音；“petto” tt。"
+   ]
+  },
+  {
+   "title": "连读与省略",
+   "items": [
+    "“tua‿Eloisa”“ricevi‿il”“vieni‿a posar”“se‿amor” 在同一音上连读（原谱以连音符标出）。",
+    "“bell’angelo”“t’invita” 省音。"
+   ]
+  },
+  {
+   "title": "花腔与装饰",
+   "items": [
+    "“no no no non può restar” 的反复音节要用弹性的断音。",
+    "“fammi spirar” 的装饰性经过句先按骨架音练，再加花。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    7,
+    9
+   ],
+   "lyrics": "Vieni‿o Ruggiero,",
+   "translation": "来吧，鲁杰罗，你的埃洛伊莎不能与你分离；",
+   "events": [
+    {
+     "id": "linvito-e0007",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0008",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1,
+     "lyric": "Vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0009",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.5,
+     "lyric": "ni‿o",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0010",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.75,
+     "lyric": "Rug",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0011",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 8,
+     "beat": 2,
+     "lyric": "gie",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0012",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0013",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "ro,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    9,
+    11
+   ],
+   "lyrics": "la tua‿Eloisa",
+   "translation": "来吧，鲁杰罗，你的埃洛伊莎不能与你分离；",
+   "events": [
+    {
+     "id": "linvito-e0014",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0015",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3,
+     "lyric": "tua‿E",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0016",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.5,
+     "lyric": "lo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0017",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "i",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0018",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0019",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 10,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0020",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 10,
+     "beat": 3.875,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0021",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "sa",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0022",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 11,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0023",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 11,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    12,
+    16
+   ],
+   "lyrics": "da te divisa no no no non può restar",
+   "translation": "来吧，鲁杰罗，你的埃洛伊莎不能与你分离；",
+   "events": [
+    {
+     "id": "linvito-e0024",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "da",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0025",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "te",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0026",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.75,
+     "lyric": "di",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0027",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 12,
+     "beat": 2,
+     "lyric": "vi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0028",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0029",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "sa",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0030",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0031",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 13,
+     "beat": 2,
+     "lyric": "no",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0032",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "no",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0033",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0034",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 3,
+     "lyric": "no",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0035",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0036",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0037",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "linvito-e0038",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "linvito-e0039",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "linvito-e0040",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "linvito-e0041",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 15,
+     "beat": 2,
+     "lyric": "può",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0042",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 3.5,
+     "lyric": "res",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0043",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 3,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "tar",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    17,
+    20
+   ],
+   "lyrics": "Alle mie lacrime già rispondevi Vieni ricevi‿il",
+   "translation": "你已回应过我的泪水，来吧，接受我的恳求。",
+   "events": [
+    {
+     "id": "linvito-e0044",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "Al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0045",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.5,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0046",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.75,
+     "lyric": "mie",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0047",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 17,
+     "beat": 2,
+     "lyric": "la",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0048",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 3.5,
+     "lyric": "cri",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0049",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0050",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2,
+     "measure": 18,
+     "beat": 1,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0051",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 18,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0052",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1,
+     "lyric": "già",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0053",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 1.5,
+     "lyric": "ris",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0054",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 1.75,
+     "lyric": "pon",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0055",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 19,
+     "beat": 2,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0056",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0057",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0058",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1,
+     "lyric": "vi",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0059",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.5,
+     "lyric": "Vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0060",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2,
+     "lyric": "ni",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0061",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.5,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0062",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3,
+     "lyric": "ce",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0063",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 3.5,
+     "lyric": "vi‿il",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0064",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    21,
+    23
+   ],
+   "lyrics": "mio pregar, vien ricevi‿il mio,",
+   "translation": "你已回应过我的泪水，来吧，接受我的恳求。",
+   "events": [
+    {
+     "id": "linvito-e0065",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 21,
+     "beat": 1,
+     "lyric": "mio",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0066",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0067",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0068",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3,
+     "lyric": "o",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0069",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3.5,
+     "lyric": "pre",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0070",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1,
+     "lyric": "gar,",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0071",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0072",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0073",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 22,
+     "beat": 2,
+     "lyric": "vien",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0074",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3.5,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0075",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1,
+     "lyric": "ce",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0076",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.5,
+     "lyric": "vi‿il",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0077",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0078",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2,
+     "lyric": "mi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0079",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 23,
+     "beat": 2.5,
+     "lyric": "o,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    23,
+    30
+   ],
+   "lyrics": "pregar.",
+   "translation": "你已回应过我的泪水，来吧，接受我的恳求。",
+   "events": [
+    {
+     "id": "linvito-e0080",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 3.5,
+     "lyric": "pre",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0081",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0082",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 24,
+     "beat": 1,
+     "lyric": "gar.",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0083",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 24,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0084",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 24,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0085",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 25,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0086",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 26,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0087",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 27,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0088",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 28,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0089",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 29,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0090",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 30,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    31,
+    32
+   ],
+   "lyrics": "Vieni, o bell’ angelo,",
+   "translation": "来吧，美丽的天使，来吧，我的爱人，来靠在我胸口！",
+   "events": [
+    {
+     "id": "linvito-e0091",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2,
+     "measure": 31,
+     "beat": 1,
+     "lyric": "Vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0092",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 31,
+     "beat": 3,
+     "lyric": "ni, o",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0093",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 3.75,
+     "lyric": "bell’",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0094",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2,
+     "measure": 32,
+     "beat": 1,
+     "lyric": "an",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0095",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 3,
+     "lyric": "ge",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0096",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 3.5,
+     "lyric": "lo,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    33,
+    34
+   ],
+   "lyrics": "vien mio diletto,",
+   "translation": "来吧，美丽的天使，来吧，我的爱人，来靠在我胸口！",
+   "events": [
+    {
+     "id": "linvito-e0097",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 2,
+     "measure": 33,
+     "beat": 1,
+     "lyric": "vien",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0098",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 33,
+     "beat": 3,
+     "lyric": "mio",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0099",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 3.75,
+     "lyric": "di",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0100",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2,
+     "measure": 34,
+     "beat": 1,
+     "lyric": "let",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0101",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 34,
+     "beat": 3,
+     "lyric": "to,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    35,
+    36
+   ],
+   "lyrics": "sù del mio petto,",
+   "translation": "来吧，美丽的天使，来吧，我的爱人，来靠在我胸口！",
+   "events": [
+    {
+     "id": "linvito-e0102",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2,
+     "measure": 35,
+     "beat": 1,
+     "lyric": "sù",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0103",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 3,
+     "lyric": "del",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0104",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 3.5,
+     "lyric": "mio",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0105",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2,
+     "measure": 36,
+     "beat": 1,
+     "lyric": "pet",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0106",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 36,
+     "beat": 3,
+     "lyric": "to,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    37,
+    38
+   ],
+   "lyrics": "vieni‿a posar!",
+   "translation": "来吧，美丽的天使，来吧，我的爱人，来靠在我胸口！",
+   "events": [
+    {
+     "id": "linvito-e0107",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 37,
+     "beat": 1,
+     "lyric": "vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0108",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0109",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 3,
+     "lyric": "ni‿a",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0110",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 3.5,
+     "lyric": "po",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0111",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 3,
+     "measure": 38,
+     "beat": 1,
+     "lyric": "sar!",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    39,
+    42
+   ],
+   "lyrics": "Senti se palpita Se‿amor t’invita",
+   "translation": "感受它是否在跳动，是否爱在邀请你——来吧，我的生命，让我为你消魂。",
+   "events": [
+    {
+     "id": "linvito-e0112",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1,
+     "lyric": "Sen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0113",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 39,
+     "beat": 1.5,
+     "lyric": "ti",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0114",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 39,
+     "beat": 1.75,
+     "lyric": "se",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0115",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 39,
+     "beat": 2,
+     "lyric": "pal",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0116",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 3.5,
+     "lyric": "pi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0117",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1,
+     "lyric": "ta",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0118",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 40,
+     "beat": 1.5,
+     "lyric": "Se‿a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0119",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 3,
+     "lyric": "mor",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0120",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 3.5,
+     "lyric": "t’in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0121",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 41,
+     "beat": 1,
+     "lyric": "vi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0122",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 41,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0123",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 41,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0124",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 41,
+     "beat": 3.875,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0125",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 42,
+     "beat": 1,
+     "lyric": "ta",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0126",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 42,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0127",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 42,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    43,
+    45
+   ],
+   "lyrics": "vieni mia vita, vien vieni,",
+   "translation": "感受它是否在跳动，是否爱在邀请你——来吧，我的生命，让我为你消魂。",
+   "events": [
+    {
+     "id": "linvito-e0128",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 1,
+     "lyric": "vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0129",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 43,
+     "beat": 1.5,
+     "lyric": "ni",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0130",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 43,
+     "beat": 1.75,
+     "lyric": "mia",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0131",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 43,
+     "beat": 2,
+     "lyric": "vi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0132",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0133",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1,
+     "lyric": "ta,",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0134",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0135",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 44,
+     "beat": 2,
+     "lyric": "vien",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0136",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 45,
+     "beat": 1,
+     "lyric": "vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0137",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0138",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 3,
+     "lyric": "ni,",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0139",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    46,
+    47
+   ],
+   "lyrics": "fammi spirar,",
+   "translation": "感受它是否在跳动，是否爱在邀请你——来吧，我的生命，让我为你消魂。",
+   "events": [
+    {
+     "id": "linvito-e0140",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 46,
+     "beat": 1,
+     "lyric": "fam",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0141",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "linvito-e0142",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "linvito-e0143",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "linvito-e0144",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "linvito-e0145",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 46,
+     "beat": 2,
+     "lyric": "mi",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0146",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 3.5,
+     "lyric": "spi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0147",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 3,
+     "measure": 47,
+     "beat": 1,
+     "lyric": "rar,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    48,
+    51
+   ],
+   "lyrics": "Senti se palpita se amor t’invita vieni mia vita",
+   "translation": "感受它是否在跳动，是否爱在邀请你——来吧，我的生命，让我为你消魂。",
+   "events": [
+    {
+     "id": "linvito-e0148",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1,
+     "lyric": "Sen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0149",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 48,
+     "beat": 1.5,
+     "lyric": "ti",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0150",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 48,
+     "beat": 1.75,
+     "lyric": "se",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0151",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 48,
+     "beat": 2,
+     "lyric": "pal",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0152",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 48,
+     "beat": 3.5,
+     "lyric": "pi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0153",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 48,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0154",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2,
+     "measure": 49,
+     "beat": 1,
+     "lyric": "ta",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0155",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 49,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0156",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 1,
+     "lyric": "se a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0157",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 50,
+     "beat": 1.5,
+     "lyric": "mor",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0158",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 50,
+     "beat": 1.75,
+     "lyric": "t’in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0159",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 50,
+     "beat": 2,
+     "lyric": "vi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0160",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 50,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0161",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 50,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0162",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 1,
+     "lyric": "ta",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0163",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 1.5,
+     "lyric": "vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0164",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2,
+     "lyric": "ni",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0165",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.5,
+     "lyric": "mia",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0166",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 3,
+     "lyric": "vi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0167",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 51,
+     "beat": 3.5,
+     "lyric": "ta",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0168",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 51,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    52,
+    61
+   ],
+   "lyrics": "fammi spirar, vieni vieni fammi spirar",
+   "translation": "感受它是否在跳动，是否爱在邀请你——来吧，我的生命，让我为你消魂。",
+   "events": [
+    {
+     "id": "linvito-e0169",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 52,
+     "beat": 1,
+     "lyric": "fam",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0170",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 52,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0171",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 52,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0172",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 3,
+     "lyric": "mi",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0173",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 3.5,
+     "lyric": "spi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0174",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 1,
+     "lyric": "rar,",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0175",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 53,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0176",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 53,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0177",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 53,
+     "beat": 2,
+     "lyric": "vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0178",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 3.5,
+     "lyric": "ni",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0179",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 1,
+     "lyric": "vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0180",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 1.5,
+     "lyric": "ni",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0181",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0182",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 2,
+     "lyric": "fam",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0183",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 54,
+     "beat": 2.5,
+     "lyric": "mi",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0184",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 3.5,
+     "lyric": "spi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0185",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0186",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 55,
+     "beat": 1,
+     "lyric": "rar",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0187",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 55,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0188",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 55,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0189",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 56,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0190",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 57,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0191",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 58,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0192",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 59,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0193",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 60,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0194",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 61,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    62,
+    63
+   ],
+   "lyrics": "Vieni bell’ angelo,",
+   "translation": "来吧，美丽的天使，来吧，我的爱人，来靠在我胸口！",
+   "events": [
+    {
+     "id": "linvito-e0195",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 2,
+     "measure": 62,
+     "beat": 1,
+     "lyric": "Vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0196",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 62,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "linvito-e0197",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 3,
+     "lyric": "ni",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0198",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 3.5,
+     "lyric": "bell’",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0199",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 63,
+     "beat": 1,
+     "lyric": "an",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0200",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 2.5,
+     "lyric": "ge",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0201",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 63,
+     "beat": 3,
+     "lyric": "lo,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    64,
+    67
+   ],
+   "lyrics": "Vien mio diletto sù del mio petto",
+   "translation": "来吧，美丽的天使，来吧，我的爱人，来靠在我胸口！",
+   "events": [
+    {
+     "id": "linvito-e0202",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2,
+     "measure": 64,
+     "beat": 1,
+     "lyric": "Vien",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0203",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 3,
+     "lyric": "mio",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0204",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 3.5,
+     "lyric": "di",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0205",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 2,
+     "measure": 65,
+     "beat": 1,
+     "lyric": "let",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0206",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 65,
+     "beat": 3,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0207",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 2,
+     "measure": 66,
+     "beat": 1,
+     "lyric": "sù",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0208",
+     "pitch": "B#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 66,
+     "beat": 3,
+     "lyric": "del",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0209",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 66,
+     "beat": 3.5,
+     "lyric": "mio",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0210",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2,
+     "measure": 67,
+     "beat": 1,
+     "lyric": "pet",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0211",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1,
+     "measure": 67,
+     "beat": 3,
+     "lyric": "te",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    68,
+    73
+   ],
+   "lyrics": "vieni‿a posar Senti se palpita se‿amor t’invita",
+   "translation": "感受它是否在跳动，是否爱在邀请你——来吧，我的生命，让我为你消魂。",
+   "events": [
+    {
+     "id": "linvito-e0212",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 68,
+     "beat": 1,
+     "lyric": "vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0213",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0214",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 3,
+     "lyric": "ni‿a",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0215",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 3.5,
+     "lyric": "po",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0216",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 3,
+     "measure": 69,
+     "beat": 1,
+     "lyric": "sar",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0217",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 1,
+     "lyric": "Sen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0218",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 70,
+     "beat": 1.5,
+     "lyric": "ti",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0219",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 70,
+     "beat": 1.75,
+     "lyric": "se",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0220",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 70,
+     "beat": 2,
+     "lyric": "pal",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0221",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 3.5,
+     "lyric": "pi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0222",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 1,
+     "lyric": "ta",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0223",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 71,
+     "beat": 1.5,
+     "lyric": "se‿a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0224",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 3,
+     "lyric": "mor",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0225",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 3.5,
+     "lyric": "t’in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0226",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 72,
+     "beat": 1,
+     "lyric": "vi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0227",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 72,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0228",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 72,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0229",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 72,
+     "beat": 3.875,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0230",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 73,
+     "beat": 1,
+     "lyric": "ta",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0231",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 73,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0232",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 73,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "measures": [
+    74,
+    78
+   ],
+   "lyrics": "vieni mia vita, vien vieni fammi spirar",
+   "translation": "感受它是否在跳动，是否爱在邀请你——来吧，我的生命，让我为你消魂。",
+   "events": [
+    {
+     "id": "linvito-e0233",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 74,
+     "beat": 1,
+     "lyric": "vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0234",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 1.5,
+     "lyric": "ni",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0235",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 1.75,
+     "lyric": "mia",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0236",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 74,
+     "beat": 2,
+     "lyric": "vi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0237",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 74,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0238",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 1,
+     "lyric": "ta,",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0239",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0240",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 75,
+     "beat": 2,
+     "lyric": "vien",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0241",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 76,
+     "beat": 1,
+     "lyric": "vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0242",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0243",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 3,
+     "lyric": "ni",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0244",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0245",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 77,
+     "beat": 1,
+     "lyric": "fam",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0246",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 77,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "linvito-e0247",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 77,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "linvito-e0248",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 77,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "linvito-e0249",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 77,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "linvito-e0250",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 77,
+     "beat": 2,
+     "lyric": "mi",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0251",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 77,
+     "beat": 3.5,
+     "lyric": "spi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0252",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 3,
+     "measure": 78,
+     "beat": 1,
+     "lyric": "rar",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "measures": [
+    79,
+    82
+   ],
+   "lyrics": "Senti se palpita se amor t’invita vieni mia vita,",
+   "translation": "感受它是否在跳动，是否爱在邀请你——来吧，我的生命，让我为你消魂。",
+   "events": [
+    {
+     "id": "linvito-e0253",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 79,
+     "beat": 1,
+     "lyric": "Sen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0254",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 79,
+     "beat": 1.5,
+     "lyric": "ti",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0255",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 79,
+     "beat": 1.75,
+     "lyric": "se",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0256",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 79,
+     "beat": 2,
+     "lyric": "pal",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0257",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 79,
+     "beat": 3.5,
+     "lyric": "pi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0258",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 79,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0259",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2,
+     "measure": 80,
+     "beat": 1,
+     "lyric": "ta",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0260",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 80,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0261",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 81,
+     "beat": 1,
+     "lyric": "se a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0262",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 81,
+     "beat": 1.5,
+     "lyric": "mor",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0263",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 81,
+     "beat": 1.75,
+     "lyric": "t’in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0264",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 81,
+     "beat": 2,
+     "lyric": "vi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "linvito-e0265",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 81,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0266",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 81,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0267",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 82,
+     "beat": 1,
+     "lyric": "ta",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0268",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 82,
+     "beat": 1.5,
+     "lyric": "vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0269",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 82,
+     "beat": 2,
+     "lyric": "ni",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0270",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 82,
+     "beat": 2.5,
+     "lyric": "mia",
+     "syllabic": "single"
+    },
+    {
+     "id": "linvito-e0271",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 82,
+     "beat": 3,
+     "lyric": "vi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0272",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 82,
+     "beat": 3.5,
+     "lyric": "ta,",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0273",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 82,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "measures": [
+    83,
+    92
+   ],
+   "lyrics": "fammi spirar, vieni vieni fammi spirar.",
+   "translation": "感受它是否在跳动，是否爱在邀请你——来吧，我的生命，让我为你消魂。",
+   "events": [
+    {
+     "id": "linvito-e0274",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 83,
+     "beat": 1,
+     "lyric": "fam",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0275",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 83,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0276",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 83,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0277",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 83,
+     "beat": 3,
+     "lyric": "mi",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0278",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 83,
+     "beat": 3.5,
+     "lyric": "spi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0279",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 84,
+     "beat": 1,
+     "lyric": "rar,",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0280",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 84,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0281",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 84,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0282",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 84,
+     "beat": 2,
+     "lyric": "vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0283",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 84,
+     "beat": 3.5,
+     "lyric": "ni",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0284",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 85,
+     "beat": 1,
+     "lyric": "vie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0285",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 85,
+     "beat": 1.5,
+     "lyric": "ni",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0286",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 85,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0287",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 85,
+     "beat": 2,
+     "lyric": "fam",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0288",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 85,
+     "beat": 2.5,
+     "lyric": "mi",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0289",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 85,
+     "beat": 3.5,
+     "lyric": "spi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "linvito-e0290",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 85,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0291",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 86,
+     "beat": 1,
+     "lyric": "rar.",
+     "syllabic": "end"
+    },
+    {
+     "id": "linvito-e0292",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 86,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0293",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 86,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0294",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 87,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0295",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 88,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0296",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 89,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0297",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 90,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0298",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 91,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "linvito-e0299",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 92,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 293,
+ "restCount": 40,
+ "lyricNoteCount": 192,
+ "pages": 2,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 21,
+  "slowScale": 1.45
+ }
+}

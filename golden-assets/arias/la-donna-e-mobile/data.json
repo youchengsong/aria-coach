@@ -1,0 +1,1645 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "la-donna-e-mobile",
+ "title": "La donna è mobile",
+ "titleZh": "女人善变",
+ "composer": "G. Verdi",
+ "opera": "Rigoletto（《弄臣》，1851）",
+ "language": "意大利语",
+ "voice": "男高音",
+ "difficulty": "中级",
+ "tempoBpm": 96,
+ "timeSignature": "3/8",
+ "coverage": {
+  "measures": [
+   1,
+   35
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "声乐旋律完整导入（3/8，35 小节）。该版本为降 B 大调（原调 B 大调，低半音），来源文件将男高音声部记于高八度谱表，已按实际音高移回原八度。原谱第 26 小节起为尾声，歌词未标注音节，学习页以完整歌词文本对照。"
+ },
+ "range": {
+  "low": "F3",
+  "high": "F5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "曼图亚公爵（Il Duca di Mantova）：轻佻的贵族",
+ "genre": "歌剧咏叹调",
+ "sourceStatus": "MusicXML 原谱 · 已核验",
+ "sources": [
+  {
+   "name": "music21 corpus · verdi/laDonnaEMobile.mxl",
+   "url": "https://github.com/cuthbertLab/music21/tree/master/music21/corpus/verdi",
+   "format": "MXL (MuseScore 1.1 编码)",
+   "status": "已解析；歌词音节按标准歌词逐一校正",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "IMSLP · Rigoletto (Verdi)",
+   "url": "https://imslp.org/wiki/Rigoletto_(Verdi,_Giuseppe)",
+   "format": "PDF 声乐谱（Ricordi）",
+   "status": "用于核对调性、拍号与歌词",
+   "role": "参照原谱",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "Wikipedia · La donna è mobile",
+   "url": "https://en.wikipedia.org/wiki/La_donna_%C3%A8_mobile",
+   "format": "网页",
+   "status": "背景与歌词校对",
+   "role": "剧情与文本",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "La donna è mobile qual piuma al vento,",
+   "zh": "女人善变，像风中的羽毛，"
+  },
+  {
+   "text": "muta d’accento e di pensiero.",
+   "zh": "变换着语气，也变换着心思。"
+  },
+  {
+   "text": "Sempre un amabile leggiadro viso,",
+   "zh": "那张可爱又俏丽的脸，"
+  },
+  {
+   "text": "in pianto o in riso, è menzognero.",
+   "zh": "无论哭或笑，都是骗人的。"
+  },
+  {
+   "text": "La donna è mobile qual piuma al vento,",
+   "zh": "女人善变，像风中的羽毛，"
+  },
+  {
+   "text": "muta d’accento e di pensier.",
+   "zh": "变换着语气，也变换着心思。"
+  }
+ ],
+ "story": {
+  "background": "《弄臣》由威尔第作曲、皮亚韦据雨果《国王取乐》改编，1851 年在威尼斯凤凰剧院首演。这段坎佐涅塔出现在第三幕开头：曼图亚公爵化装成士兵来到斯帕拉夫奇莱的客栈，一边等玛达莲娜，一边唱这支轻佻的小调。威尔第担心旋律太上口而被泄露，首演前禁止歌者在剧院外哼唱。",
+  "situation": "公爵刚刚得手于吉尔达，转眼又追逐新的女人。他此刻心情极好、毫无愧疚，唱歌是为了炫耀自己的人生哲学：既然女人善变，我为什么要忠诚？他不害怕任何人，只想要下一次快乐。",
+  "relationships": "公爵是弄臣里戈莱托的主人，也是他女儿吉尔达的引诱者；玛达莲娜是刺客的妹妹，正在替哥哥引诱他。里戈莱托和吉尔达在客栈外偷听：这支欢快的歌让吉尔达彻底看清爱人的本性，也为结尾的悲剧埋下反讽——公爵幸存后在远处再度哼起它。",
+  "intent": "开口要轻巧、带笑，像随口哼唱，不要一上来就用力。第二段可以更放肆，装饰音带点炫耀。结尾 “pensier” 的高音是得意的呐喊，不是抒情长音，收得干脆。全曲的关键是 “不认真”：越轻松越像公爵。",
+  "plain30": "一个花花公子在酒馆里唱：女人像风中羽毛一样善变，所以别当真。他不知道，门外正有人因为这首歌决定复仇。",
+  "arc": "B 大调，3/8 Allegretto，典型的三拍舞曲。旋律由上行分解和弦起步，每句以级进下行收束，反复的节奏型让歌像华尔兹。第一段陈述，第二段完全重复，结尾以高音 B 与向下的收束句作炫技式终止。情绪弧线是 “得意—更得意”，没有真正的对比，这正是角色的空洞。",
+  "motif": "核心动机是三拍舞曲节奏上的上行分解和弦：“La don-na è” 从主音跳上去，再在 “mo-bi-le” 上折回。每一句都以同样的起跳开始，第二段同样重复。演唱时把重音放在每小节第一拍、其余两拍放轻，保持 leggiero（轻盈）弹性，不要把每个音都唱满。",
+  "classroom": [
+   "先读中文，理解这是一段轻佻的自夸，而不是真诚抒情。",
+   "慢速读原文，注意 “mobile” 重音在第一音节 MO-bi-le。",
+   "分离元音和辅音：练 “qual piuma al vento” 的连读，让辅音短而清晰。",
+   "按 3/8 拍说话：一、二、三，第一拍重、后两拍轻。",
+   "听单音旋律，感受每句开头的上行跳进。",
+   "把歌词放回旋律，逐句练，尤其是连读 “piuma‿al”。",
+   "用正常速度完整演唱，保持笑意和弹性。"
+  ],
+  "technique": "呼吸：每四小节一句，句尾短促收音后立即换气，保持舞曲弹性。咬字：双辅音（mobile 的 b 不双，accento 的 cc [tt͜ʃ]、leggiadro 的 gg）要清晰但轻；连读 “piuma‿al”“pianto‿o” 在同一个音上完成。换声区：男高音在 F4–G4 处（“vento”“pensier”）经过换声区，保持轻机能不要压。高音：结尾 “pensier” 的高音（本版 F5，原调 B4 对应移位）是得意的呐喊，靠气息迅速冲上、干脆收住，不拖长。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “La donna è mobile” 上行分解和弦起跳，是核心动机的原型。"
+   },
+   {
+    "phrase": 3,
+    "note": "第 3–6 句 “Sempre un amabile…” 动机缩短为两小节单位，节奏更跳跃。"
+   },
+   {
+    "phrase": 7,
+    "note": "第 7 句主题原样再现（第二段）。"
+   },
+   {
+    "phrase": 9,
+    "note": "第 9–10 句尾声无歌词旋律段，把动机的起跳放大到最高音作终止。"
+   }
+  ]
+ },
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "DÒN-na（nn 双辅音）、MÒ-bi-le（重音在第一音节）、PIÙ-ma、VÈN-to、ac-CÈN-to（cc 双辅音读 [ttʃ]）、pen-SIÈ-ro、a-MÀ-bi-le、leg-GIÀ-dro（gg）、VÌ-so、men-zo-GNÈ-ro（gn 读 [ɲ]）。",
+    "donna、accento、leggiadro 的双辅音要“停一下再发”，前面的元音变短。"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "mobile、vento、accento、pensiero 的 e 开口 [ɛ]；riso、viso 的 i 清亮；menzognero 的 e 闭口 [e]。",
+    "“è” 带重音符是开口 [ɛ]（动词“是”）。"
+   ]
+  },
+  {
+   "title": "r、连读与省略",
+   "items": [
+    "r 弹舌：leggiadro、riso、menzognero、pensier。",
+    "“donna‿è”“piuma‿al”“pianto‿o”“pre‿un” 在同一音上连读（原谱以连音标出）；“d’accento” 省音；“pensier” 是 pensiero 的截略。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    1,
+    5
+   ],
+   "lyrics": "La donna è mobile qual piuma al vento,",
+   "translation": "女人善变，像风中的羽毛，",
+   "events": [
+    {
+     "id": "la-donna-e-mobile-e0001",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 1,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0002",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "La",
+     "syllabic": "single"
+    },
+    {
+     "id": "la-donna-e-mobile-e0003",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 1.333,
+     "lyric": "don",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0004",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 1.667,
+     "lyric": "na è",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0005",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "mo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0006",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 3,
+     "beat": 1.25,
+     "lyric": "bi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "la-donna-e-mobile-e0007",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 1.333,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0008",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "qual",
+     "syllabic": "single"
+    },
+    {
+     "id": "la-donna-e-mobile-e0009",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 1.333,
+     "lyric": "piu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0010",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 1.667,
+     "lyric": "ma al",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0011",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "ven",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0012",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 5,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0013",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 1.333,
+     "lyric": "to,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    6,
+    9
+   ],
+   "lyrics": "muta d’accento e di pensiero.",
+   "translation": "变换着语气，也变换着心思。",
+   "events": [
+    {
+     "id": "la-donna-e-mobile-e0014",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "mu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0015",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 1.333,
+     "lyric": "ta",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0016",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 1.667,
+     "lyric": "d’ac",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0017",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "la-donna-e-mobile-e0018",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "cen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "la-donna-e-mobile-e0019",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 7,
+     "beat": 1.25,
+     "lyric": "to",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0020",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0021",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "la-donna-e-mobile-e0022",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.333,
+     "lyric": "di",
+     "syllabic": "single"
+    },
+    {
+     "id": "la-donna-e-mobile-e0023",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.667,
+     "lyric": "pen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0024",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "la-donna-e-mobile-e0025",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "sie",
+     "syllabic": "middle"
+    },
+    {
+     "id": "la-donna-e-mobile-e0026",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 9,
+     "beat": 1.25,
+     "lyric": "ro.",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0027",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    10,
+    11
+   ],
+   "lyrics": "Sempre un amabile,",
+   "translation": "那张可爱又俏丽的脸，",
+   "events": [
+    {
+     "id": "la-donna-e-mobile-e0028",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "Sem",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0029",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.333,
+     "lyric": "pre un",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0030",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.667,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0031",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "ma",
+     "syllabic": "middle"
+    },
+    {
+     "id": "la-donna-e-mobile-e0032",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 11,
+     "beat": 1.25,
+     "lyric": "bi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "la-donna-e-mobile-e0033",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.333,
+     "lyric": "le,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    12,
+    13
+   ],
+   "lyrics": "leggiadro viso,",
+   "translation": "那张可爱又俏丽的脸，",
+   "events": [
+    {
+     "id": "la-donna-e-mobile-e0034",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "leg",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0035",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.333,
+     "lyric": "gia",
+     "syllabic": "middle"
+    },
+    {
+     "id": "la-donna-e-mobile-e0036",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.667,
+     "lyric": "dro",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0037",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "vi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0038",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 13,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0039",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 1.333,
+     "lyric": "so,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    14,
+    15
+   ],
+   "lyrics": "in pianto o riso,",
+   "translation": "无论哭或笑，都是骗人的。",
+   "events": [
+    {
+     "id": "la-donna-e-mobile-e0040",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "la-donna-e-mobile-e0041",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.333,
+     "lyric": "pian",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0042",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.667,
+     "lyric": "to o",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0043",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "la-donna-e-mobile-e0044",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0045",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 15,
+     "beat": 1.25,
+     "lyric": "so,",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0046",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    16,
+    17
+   ],
+   "lyrics": "è menzognero.",
+   "translation": "无论哭或笑，都是骗人的。",
+   "events": [
+    {
+     "id": "la-donna-e-mobile-e0047",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "è",
+     "syllabic": "single"
+    },
+    {
+     "id": "la-donna-e-mobile-e0048",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.333,
+     "lyric": "men",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0049",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.667,
+     "lyric": "zo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "la-donna-e-mobile-e0050",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "la-donna-e-mobile-e0051",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "gne",
+     "syllabic": "middle"
+    },
+    {
+     "id": "la-donna-e-mobile-e0052",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 17,
+     "beat": 1.25,
+     "lyric": "ro.",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0053",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    18,
+    21
+   ],
+   "lyrics": "La donna è mobile qual piuma al vento,",
+   "translation": "女人善变，像风中的羽毛，",
+   "events": [
+    {
+     "id": "la-donna-e-mobile-e0054",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "La",
+     "syllabic": "single"
+    },
+    {
+     "id": "la-donna-e-mobile-e0055",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 18,
+     "beat": 1.25,
+     "lyric": "don",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0056",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.333,
+     "lyric": "na è",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0057",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.667,
+     "lyric": "mo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0058",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "la-donna-e-mobile-e0059",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "bi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "la-donna-e-mobile-e0060",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0061",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 1.333,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0062",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "qual",
+     "syllabic": "single"
+    },
+    {
+     "id": "la-donna-e-mobile-e0063",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 20,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0064",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.333,
+     "lyric": "piu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0065",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.667,
+     "lyric": "ma al",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0066",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "la-donna-e-mobile-e0067",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "ven",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0068",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0069",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 1.333,
+     "lyric": "to,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    22,
+    26
+   ],
+   "lyrics": "muta d’accento e di pensier.",
+   "translation": "变换着语气，也变换着心思。",
+   "events": [
+    {
+     "id": "la-donna-e-mobile-e0070",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "mu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0071",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 22,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0072",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.333,
+     "lyric": "ta",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0073",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.667,
+     "lyric": "d’ac",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0074",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "cen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "la-donna-e-mobile-e0075",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.667,
+     "lyric": "to",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0076",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "la-donna-e-mobile-e0077",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 24,
+     "beat": 1.111,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0078",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 24,
+     "beat": 1.222,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0079",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.333,
+     "lyric": "di",
+     "syllabic": "single"
+    },
+    {
+     "id": "la-donna-e-mobile-e0080",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0081",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.667,
+     "lyric": "pen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "la-donna-e-mobile-e0082",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0083",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "sier.",
+     "syllabic": "end"
+    },
+    {
+     "id": "la-donna-e-mobile-e0084",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 25,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0085",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 25,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0086",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0087",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    26,
+    30
+   ],
+   "lyrics": "",
+   "translation": "",
+   "events": [
+    {
+     "id": "la-donna-e-mobile-e0088",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 26,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0089",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 26,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0090",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0091",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 27,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0092",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 27,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0093",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0094",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 28,
+     "beat": 1.111,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0095",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 28,
+     "beat": 1.222,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0096",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0097",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0098",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0099",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0100",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0101",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 29,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0102",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 29,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0103",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0104",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    30,
+    35
+   ],
+   "lyrics": "",
+   "translation": "",
+   "events": [
+    {
+     "id": "la-donna-e-mobile-e0105",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 30,
+     "beat": 1.111,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0106",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 30,
+     "beat": 1.222,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0107",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0108",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 30,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0109",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 30,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0110",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0111",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 31,
+     "beat": 1.111,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0112",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 31,
+     "beat": 1.222,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0113",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0114",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 31,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0115",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 31,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0116",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0117",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 32,
+     "beat": 1.111,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0118",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 32,
+     "beat": 1.222,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0119",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 32,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0120",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 32,
+     "beat": 1.444,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0121",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 32,
+     "beat": 1.556,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0122",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 32,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0123",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 32,
+     "beat": 1.778,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0124",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 32,
+     "beat": 1.889,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0125",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0126",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0127",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0128",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0129",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 34,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0130",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 34,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0131",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 34,
+     "beat": 1.583,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0132",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 34,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0133",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 34,
+     "beat": 1.917,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0134",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0135",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 35,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0136",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "la-donna-e-mobile-e0137",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 137,
+ "restCount": 12,
+ "lyricNoteCount": 62,
+ "pages": 1,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 8,
+  "slowScale": 1.45
+ }
+}

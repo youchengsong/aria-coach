@@ -1,0 +1,106 @@
+{
+  "title": "Auf dem Wasser zu singen",
+  "titleZh": "水上吟唱",
+  "composer": "F. Schubert",
+  "opera": "D.774（独立艺术歌曲，1823；诗：F.L. zu Stolberg）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "genre": "艺术歌曲",
+  "tempoBpm": 72,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（降A大调，6/8，中等流畅速度，约60小节）。舒伯特最优美的水上音画——钢琴的波浪伴奏和声乐的悠扬旋律。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Mitten im Schimmer der spiegelnden Wellen",
+      "zh": "在波光粼粼的水面中央"
+    },
+    {
+      "text": "gleitet, wie Schwäne, der wankende Kahn;",
+      "zh": "摇晃的小船像天鹅般滑行；"
+    },
+    {
+      "text": "ach, auf der Freude sanft schimmernden Wellen",
+      "zh": "啊，在欢乐的柔波上"
+    },
+    {
+      "text": "gleitet die Seele dahin wie der Kahn.",
+      "zh": "灵魂像小船一样漂远。"
+    },
+    {
+      "text": "Denn von dem Himmel herab auf die Wellen",
+      "zh": "因为从天上洒落波间的"
+    },
+    {
+      "text": "tanzet das Abendrot rund um den Kahn.",
+      "zh": "是晚霞围着小船舞蹈。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "注意长短元音的区别",
+        "ö 和 ü 需要圆唇",
+        "ei 读 [aɪ]，ie 读 [iː]",
+        "ch 在 i/e 后读软 [ç]，在 a/o/u 后读硬 [x]"
+      ]
+    },
+    {
+      "title": "歌唱风格",
+      "items": [
+        "注意德语歌曲中词与音的密切关系",
+        "每个词的语气要和旋律的走向一致",
+        "德语辅音要清晰但不过重"
+      ]
+    }
+  ],
+  "story": {
+    "background": "一个黄昏的湖上。诗人坐在小船里，看着水面的波光和天上的晚霞。小船的漂浮与灵魂的漂浮合而为一。舒伯特用6/8拍的波浪伴奏创造了水面摇曳的感觉——这是他最著名的音画歌曲之一。",
+    "situation": "黄昏的湖面。小船在波光中滑行，像天鹅一样优雅。诗人的灵魂也在欢乐的波浪上漂荡。天上的晚霞倒映在水中，围着小船舞蹈。时间在水上流逝——但此刻是永恒的。",
+    "relationships": "诗人与自然、时间的对话。施托尔贝格的诗将湖面的波光、天鹅般的小船和灵魂的漂泊编织在一起，三个层面互为隐喻：水在流、船在走、时间在消逝——而黄昏的美恰恰因为短暂才令人心碎。歌者既是船上的旅人，也是凝视自己灵魂的沉思者。",
+    "intent": "以温柔的摇晃感开始——6/8拍本身就是湖面的节奏。第一段是纯粹的感官描写：波光、天鹅、小船。第二段灵魂开始漂浮，情感从愉悦转向沉思。第三段晚霞出现，带来了时间流逝的哲思——演唱者应在这里让声音变得更内省、更温暖，而非更响亮。结尾不是悲伤，是接受。",
+    "plain30": "黄昏的湖上，小船像天鹅般滑行，波光粼粼。诗人的灵魂也随波浪漂远。晚霞围着小船舞蹈——一切都在流逝，但此刻的美令人不忍移目。这是一首关于短暂与永恒交融的冥想。",
+    "arc": "降A大调，6/8拍，中等流畅速度。钢琴的三连音分解和弦从头到尾不曾停止，像永不止息的水波。声乐旋律先在中音区舒展（第一段叙景），然后向上攀升到降E5（第二段灵魂的飘浮），第三段回到温暖的中音域，以一种宁静的接受感收束。调性始终明亮，但长音符下方和弦的色彩变化暗示了时间的暗流。",
+    "motif": "波浪动机：钢琴的6/8拍分解和弦像水面的波纹——左手下行、右手上行，交替起伏。声乐线条在波浪上方悠扬地延展。'gleitet die Seele'的长音像灵魂在水面上漂浮。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "开头「Mitten im Schimmer der spiegelnden Wellen」——钢琴右手的三连音上行琶音就是水波的摇曳，声乐以级进旋律浮在其上"
+      },
+      {
+        "phrase": "5",
+        "note": "「denn von dem Himmel herab auf die Wellen tanzet das Abendrot」——旋律进入高音区（G♭5），tanzt 一词上的跳进模拟晚霞在水面跳跃"
+      },
+      {
+        "phrase": "12",
+        "note": "结尾「atmet die Seel im errötenden Schein」——旋律缓缓下行回到主音，水面重新归于平静"
+      }
+    ],
+    "technique": "最核心的挑战是在钢琴不断涌动的三连音伴奏上保持均匀的连奏（legato）。乐句很长，尤其'gleitet die Seele dahin wie der Kahn'需要一口气完成——在句首深吸气，用腹部支撑，让气息像水流一样平稳释放。E♭5附近的换声区过渡要无痕，不能让听众感觉到从胸声到头声的'齿轮声'。6/8拍的重拍在每小节的第一拍和第四拍，但声乐线常常跨小节延展，不要被钢琴的波浪节奏切断自己的乐句呼吸。",
+    "classroom": [
+      "先读中文翻译，理解歌曲的核心情感。",
+      "慢速朗读德语原文，注意元音和辅音的准确发音。",
+      "分离元音和辅音，按音节练习。",
+      "用节拍器按标注速度朗读歌词。",
+      "听合成旋律参考，注意旋律走向。",
+      "配上歌词，先用一半速度练唱。",
+      "以正常速度完整演唱。"
+    ]
+  },
+  "role": "抒情主人公（泛舟者）"
+}

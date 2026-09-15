@@ -1,0 +1,104 @@
+{
+  "title": "Sebben, crudele",
+  "titleZh": "即使你残忍",
+  "composer": "A. Caldara",
+  "opera": "La costanza in amor vince l'inganno（1710；独立版由 Parisotti 编辑）",
+  "role": "抒情主体：被冷落却依然忠贞的恋人",
+  "genre": "咏叹调",
+  "language": "意大利语",
+  "script": "latin",
+  "voice": "女中音",
+  "difficulty": "基础",
+  "tempoBpm": 100,
+  "complete": true,
+  "sourceGrade": "C",
+  "coverageNote": "完整声乐旋律（e 小调，4/4 Allegretto grazioso），依据 Parisotti 版编码。",
+  "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+  "sources": [
+    {
+      "name": "手工编码 MusicXML",
+      "url": "https://imslp.org/wiki/Sebben,_crudele_(Caldara,_Antonio)",
+      "format": "MusicXML",
+      "role": "声乐旋律线",
+      "status": "依据标准声乐教学版本编码",
+      "grade": "C",
+      "accessed": "2026-09-15"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Sebben, crudele, mi fai languir,",
+      "zh": "即使你残忍，让我枯萎，"
+    },
+    {
+      "text": "sempre fedele ti voglio amar.",
+      "zh": "我仍然忠贞地爱你。"
+    },
+    {
+      "text": "Con la lunghezza del mio servir",
+      "zh": "凭着我长久的侍奉，"
+    },
+    {
+      "text": "la tua fierezza sapro stancar.",
+      "zh": "我终将磨去你的骄傲。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "双辅音",
+      "items": [
+        "sebben 双 b",
+        "crudele 重音在 de",
+        "fierezza 双 z [tts]"
+      ]
+    },
+    {
+      "title": "元音",
+      "items": [
+        "crudele 的 e 是开口 [ɛ]",
+        "languir 的 i 是长元音",
+        "amar 的 a 是开口 [a]"
+      ]
+    },
+    {
+      "title": "风格",
+      "items": [
+        "这是一首优雅而非悲伤的歌——被冷落但依然自信",
+        "Allegretto grazioso：轻盈、有风度"
+      ]
+    }
+  ],
+  "story": {
+    "background": "安东尼奥·卡尔达拉是巴洛克后期维也纳宫廷的重要作曲家。这首咏叹调原出自歌剧《爱的忠贞战胜欺骗》（1710），经 Parisotti 编入声乐教学集后成为女中音入门标准曲目。旋律简洁优美，歌词简短有力，完美展示了巴洛克时代对忠贞爱情的理想化表达。",
+    "situation": "歌者对冷漠的恋人说：你对我残忍，让我枯萎——但我不会离开。我会永远忠贞地爱你，用我的耐心磨去你的骄傲。这不是哀怨，而是一种带有尊严和自信的坚持。",
+    "relationships": "歌者与冷漠恋人之间的不对等关系。但歌者不是卑微的——他/她相信自己的忠贞终将获胜。",
+    "intent": "全曲保持优雅而坚定的语气。'Sebben, crudele'不是控诉而是陈述。'sempre fedele'是全曲的核心宣言——要唱得温暖而有力。'la tua fierezza sapro stancar'带着一丝微笑的自信。",
+    "plain30": "你对我冷酷，但我永远忠诚。凭着我的耐心，终将磨去你的骄傲。这是一首关于坚持的歌——优雅而不卑微。",
+    "arc": "e 小调，4/4 Allegretto grazioso。旋律以 B4 开始下行，轻盈而有弹性。中段'sempre fedele'转向 G 大调的温暖。'la tua fierezza'处有一个小高潮。结尾回到 e 小调但以明亮的半终止结束。",
+    "motif": "核心动机是'Sebben, crudele'的下行四音——优雅的叹息。'sempre fedele'的上行级进形成对比——从叹息到宣言。这两个动机交替出现构成全曲。",
+    "motifPositions": [
+      {
+        "phrase": 1,
+        "note": "'Sebben, crudele'下行叹息动机"
+      },
+      {
+        "phrase": 2,
+        "note": "'sempre fedele'上行宣言动机"
+      },
+      {
+        "phrase": "2",
+        "note": "'sapro stancar'自信的结尾——微笑的解决"
+      }
+    ],
+    "technique": "Allegretto grazioso 要求轻盈的声音——不要太厚重。下行音阶要均匀，不要在每个音上加重。'fierezza'的双 z [tts] 要清晰。全曲音域不大（约一个八度），适合练习在中音区的均匀控制。",
+    "classroom": [
+      "先读中文——这是一个自信的人在说'你冷落我没用，我会赢的'。",
+      "慢速朗读意大利语，标出重音和双辅音。",
+      "练习下行音阶的均匀——每个音同样的力度。",
+      "按节拍说词，♩=100（Allegretto），保持轻快。",
+      "听旋律参考，注意下行与上行的交替。",
+      "放入歌词，先用一半速度。重点：保持优雅而非沉重。",
+      "完整演唱。想象你在对一个傲慢的人微笑着说：我比你有耐心。"
+    ]
+  }
+}

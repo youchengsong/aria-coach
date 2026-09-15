@@ -1,0 +1,2673 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "blow-blow",
+ "title": "Blow, Blow, Thou Winter Wind",
+ "titleZh": "吹吧，吹吧，冬风",
+ "composer": "T. Arne",
+ "opera": "为莎士比亚《皆大欢喜》第二幕第七场所作的歌曲（1740）",
+ "language": "英语",
+ "voice": "女中音",
+ "difficulty": "基础",
+ "tempoBpm": 84,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   55
+  ],
+  "firstSungMeasure": 5,
+  "complete": true,
+  "note": "完整声乐旋律（4/4，55 小节，两节歌词连续写出），132 个英语音节；OpenScore 转写自 18 世纪版本。来源文件另有一个 16 音的 “Mezzo-soprano” 副声部（合唱回应），本页只取主唱声部（part 2）。已与 IMSLP 核对。"
+ },
+ "range": {
+  "low": "B3",
+  "high": "F5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "阿米安（Amiens）：流放公爵的随从，在森林里唱歌的贵族",
+ "genre": "戏剧歌曲",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Arne,_Thomas/_/Blow,_Blow,_Thou_Winter_Wind",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Arne,_Thomas/_/Blow,_Blow,_Thou_Winter_Wind",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；132 个音节与 18 世纪版本核对；主唱为 part 2",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/8835588"
+  },
+  {
+   "name": "IMSLP · Blow, Blow, Thou Winter Wind (Arne, Thomas Augustine)",
+   "url": "https://imslp.org/wiki/Blow,_Blow,_Thou_Winter_Wind_(Arne,_Thomas_Augustine)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "Wikisource · As You Like It, Act II Scene 7",
+   "url": "https://en.wikisource.org/wiki/As_You_Like_It_(Shakespeare)",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Blow, blow, thou winter wind, thou art not so unkind as man’s ingratitude;",
+   "zh": "吹吧，吹吧，冬风，你并不像人的忘恩负义那样无情；"
+  },
+  {
+   "text": "thy tooth is not so keen, because thou art not seen, although thy breath be rude.",
+   "zh": "你的牙齿并不那么尖利，因为你无形无影，虽然你的呼吸粗暴。"
+  },
+  {
+   "text": "Freeze, freeze, thou bitter sky, thou dost not bite so nigh as benefits forgot;",
+   "zh": "冻吧，冻吧，苦寒的天空，你咬得不像被遗忘的恩情那样深；"
+  },
+  {
+   "text": "though thou the waters warp, thy sting is not so sharp as friends remember’d not.",
+   "zh": "虽然你使水结冰，你的刺痛也不如朋友的遗忘那样尖锐。"
+  }
+ ],
+ "story": {
+  "background": "托马斯·阿恩 1740 年为德鲁里巷剧院上演的莎士比亚《皆大欢喜》谱写了剧中歌曲，这首《吹吧，吹吧，冬风》出自第二幕第七场，是 18 世纪英国戏剧歌曲的代表，也是英语声乐初学者常用的曲目。4/4，两节歌词。",
+  "situation": "被放逐的老公爵和随从住在亚登森林。奥兰多刚带着年迈的仆人亚当来求食，公爵请他们入席，阿米安唱起这首歌：冬风再冷，也不如人心的忘恩负义冷。歌是对刚发生的背叛（弟弟篡位、兄长弗雷德里克的迫害）的评论，语气却是达观的。",
+  "relationships": "阿米安（歌者）、老公爵与众贵族（听众）、奥兰多与亚当（刚到的客人）。歌曲不推动情节，而是用森林的寒冷反衬宫廷的冷酷，为流放者的处境定调。",
+  "intent": "开口要有风声的气势——“Blow, blow” 的两个 b 用气息推出，但整体是从容的，不是愤怒。“thou art not so unkind” 转为讽刺的平静；“although thy breath be rude” 略带笑意。第二节 “Freeze, freeze” 更冷，“as friends remember’d not” 是全曲最深的一句，可放慢、放轻。",
+  "plain30": "森林里的贵族对着冬风唱：你再冷，也比不上人的忘恩负义。表面是天气，实际在说刚刚经历的背叛。",
+  "arc": "4/4 Allegretto，18 世纪英国式的方正旋律。“Blow, blow” 以同音反复加上行跳进模仿风声，随后级进下行；“thy tooth is not so keen” 转为更抒情的线条并反复；两节音乐相同，第二节 “Freeze, freeze” 可更冷峻。情绪：风势—讽刺—反复的感叹。",
+  "motif": "核心动机是 “Blow, blow” 的同音反复加向上跳进：风的两次推送。它在第二节 “Freeze, freeze” 原样再现；“as man’s ingratitude” 的反复把跳进反向为下行叹息。演唱时两个 “Blow” 第二个略重，跳进要干净。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Blow, blow, thou winter wind” 风的动机首次出现。"
+   },
+   {
+    "phrase": 2,
+    "note": "第 2 句 “thy tooth is not so keen” 转为抒情线，多次反复。"
+   },
+   {
+    "phrase": 3,
+    "note": "第 3 句 “Freeze, freeze” 动机原样再现，更冷。"
+   },
+   {
+    "phrase": 4,
+    "note": "第 4 句 “as friends remember’d not” 动机反向为下行叹息，反复收束。"
+   }
+  ],
+  "technique": "呼吸：两小节一句，句尾短换气；反复句之间可短吸。咬字：古英语第二人称的 th 清晰；词尾 d/t（wind、unkind、forgot）要收清。换声区：女中音在 D5–E5（“unkind”“sky”）经过换声区，保持自然。高音：最高音 F5 在 “rude”/“sharp” 的反复上，是明亮的感叹，不用力。",
+  "classroom": [
+   "先读中文，理解“风”与“人心”的对比。",
+   "慢速读英语，标出重读音节与弱读词。",
+   "分离元音和辅音：练 th、词尾 d/t。",
+   "按 4/4 说词，第一拍重。",
+   "听单音旋律，注意 “Blow, blow” 的跳进。",
+   "把歌词放回旋律，先练第一节，再练第二节。",
+   "用正常速度完整演唱，第二节更冷。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "重读与弱读",
+   "items": [
+    "BLOW, blow, thou WIN-ter WIND——单音节实词重读；thou、art、not、so、as 弱读但不吞。",
+    "in-GRAT-i-tude 重音在第二音节；BEN-e-fits、re-MEM-ber’d。"
+   ]
+  },
+  {
+   "title": "舞台英语与古语",
+   "items": [
+    "thou [ðaʊ]、thy [ðaɪ]、dost [dʌst]、art——莎士比亚时代的第二人称，t/d 清晰。",
+    "“remember’d” 读 [rɪˈmɛmbəd]，两音节结尾；“forgot” 的 t 收清；使用英式舞台发音（RP），r 在元音前弹舌或轻卷均可，词尾 r 不卷。"
+   ]
+  },
+  {
+   "title": "元音",
+   "items": [
+    "wind [ɪ]、keen [iː]、seen [iː]、rude [uː]、sky [aɪ]、nigh [naɪ]、warp [ɔː]、sharp [ɑː]。",
+    "“unkind”“bite” 的 i 双元音要完整。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    5,
+    7
+   ],
+   "lyrics": "Blow, blow thou winter wind,",
+   "translation": "吹吧，吹吧，冬风，你并不像人的忘恩负义那样无情；",
+   "events": [
+    {
+     "id": "blow-blow-e0006",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 5,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0007",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 5,
+     "beat": 4,
+     "lyric": "Blow,",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0008",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 1,
+     "lyric": "blow",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0009",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0010",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2,
+     "lyric": "thou",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0011",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0012",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 6,
+     "beat": 3,
+     "lyric": "win",
+     "syllabic": "begin"
+    },
+    {
+     "id": "blow-blow-e0013",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 6,
+     "beat": 4,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "blow-blow-e0014",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "wind,",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0015",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 7,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    7,
+    9
+   ],
+   "lyrics": "Thou art not so unkind,",
+   "translation": "吹吧，吹吧，冬风，你并不像人的忘恩负义那样无情；",
+   "events": [
+    {
+     "id": "blow-blow-e0016",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 7,
+     "beat": 4,
+     "lyric": "Thou",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0017",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1,
+     "lyric": "art",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0018",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0019",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2,
+     "lyric": "not",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0020",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0021",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1,
+     "measure": 8,
+     "beat": 3,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0022",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 8,
+     "beat": 4,
+     "lyric": "un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "blow-blow-e0023",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "kind,",
+     "syllabic": "end"
+    },
+    {
+     "id": "blow-blow-e0024",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2,
+     "measure": 9,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    9,
+    11
+   ],
+   "lyrics": "As man’s ingratitude,",
+   "translation": "吹吧，吹吧，冬风，你并不像人的忘恩负义那样无情；",
+   "events": [
+    {
+     "id": "blow-blow-e0025",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 9,
+     "beat": 4,
+     "lyric": "As",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0026",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "man’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0027",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "blow-blow-e0028",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 3,
+     "lyric": "grat",
+     "syllabic": "middle"
+    },
+    {
+     "id": "blow-blow-e0029",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 4,
+     "lyric": "i",
+     "syllabic": "middle"
+    },
+    {
+     "id": "blow-blow-e0030",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 3,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "tude,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    11,
+    14
+   ],
+   "lyrics": "As man’s ingratitude Thy tooth is not so",
+   "translation": "你的牙齿并不那么尖利，因为你无形无影，虽然你的呼吸粗暴。",
+   "events": [
+    {
+     "id": "blow-blow-e0031",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 11,
+     "beat": 4,
+     "lyric": "As",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0032",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 2,
+     "lyric": "man’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0033",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0034",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3,
+     "lyric": "in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "blow-blow-e0035",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0036",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 4,
+     "lyric": "grat",
+     "syllabic": "middle"
+    },
+    {
+     "id": "blow-blow-e0037",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0038",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "i",
+     "syllabic": "middle"
+    },
+    {
+     "id": "blow-blow-e0039",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0040",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0041",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 2,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "tude",
+     "syllabic": "end"
+    },
+    {
+     "id": "blow-blow-e0042",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 13,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0043",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 13,
+     "beat": 4,
+     "lyric": "Thy",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0044",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "tooth",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0045",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "is",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0046",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 3,
+     "lyric": "not",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0047",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 4,
+     "lyric": "so",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    15,
+    17
+   ],
+   "lyrics": "keen, Because thou art not seen,",
+   "translation": "你的牙齿并不那么尖利，因为你无形无影，虽然你的呼吸粗暴。",
+   "events": [
+    {
+     "id": "blow-blow-e0048",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "keen,",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0049",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0050",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0051",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 15,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0052",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 4.5,
+     "lyric": "Be",
+     "syllabic": "begin"
+    },
+    {
+     "id": "blow-blow-e0053",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "cause",
+     "syllabic": "end"
+    },
+    {
+     "id": "blow-blow-e0054",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0055",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2,
+     "lyric": "thou",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0056",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0057",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3,
+     "lyric": "art",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0058",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0059",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 4,
+     "lyric": "not",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0060",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0061",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "seen,",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0062",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0063",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2,
+     "measure": 17,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    17,
+    19
+   ],
+   "lyrics": "Thy tooth is not so keen,",
+   "translation": "你的牙齿并不那么尖利，因为你无形无影，虽然你的呼吸粗暴。",
+   "events": [
+    {
+     "id": "blow-blow-e0064",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 4,
+     "lyric": "Thy",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0065",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0066",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1,
+     "lyric": "tooth",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0067",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0068",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2,
+     "lyric": "is",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0069",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0070",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3,
+     "lyric": "not",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0071",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0072",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 4,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0073",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0074",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 19,
+     "beat": 1,
+     "lyric": "keen,",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0075",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 19,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0076",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    19,
+    21
+   ],
+   "lyrics": "Because thou art not seen,",
+   "translation": "你的牙齿并不那么尖利，因为你无形无影，虽然你的呼吸粗暴。",
+   "events": [
+    {
+     "id": "blow-blow-e0077",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 4.5,
+     "lyric": "Be",
+     "syllabic": "begin"
+    },
+    {
+     "id": "blow-blow-e0078",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 20,
+     "beat": 1,
+     "lyric": "cause",
+     "syllabic": "end"
+    },
+    {
+     "id": "blow-blow-e0079",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 20,
+     "beat": 2,
+     "lyric": "thou",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0080",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "blow-blow-e0081",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 20,
+     "beat": 3,
+     "lyric": "art",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0082",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 20,
+     "beat": 4,
+     "lyric": "not",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0083",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 21,
+     "beat": 1,
+     "lyric": "seen,",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0084",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 21,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    21,
+    23
+   ],
+   "lyrics": "Altho’ thy breath be rude,",
+   "translation": "你的牙齿并不那么尖利，因为你无形无影，虽然你的呼吸粗暴。",
+   "events": [
+    {
+     "id": "blow-blow-e0085",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 21,
+     "beat": 3,
+     "lyric": "Al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "blow-blow-e0086",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1,
+     "lyric": "tho’",
+     "syllabic": "end"
+    },
+    {
+     "id": "blow-blow-e0087",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0088",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2,
+     "lyric": "thy",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0089",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0090",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 22,
+     "beat": 3,
+     "lyric": "breath",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0091",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 22,
+     "beat": 4,
+     "lyric": "be",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0092",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1,
+     "measure": 23,
+     "beat": 1,
+     "lyric": "rude,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    23,
+    25
+   ],
+   "lyrics": "Altho’ thy breath be rude,",
+   "translation": "你的牙齿并不那么尖利，因为你无形无影，虽然你的呼吸粗暴。",
+   "events": [
+    {
+     "id": "blow-blow-e0093",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 23,
+     "beat": 2,
+     "lyric": "Al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "blow-blow-e0094",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 3,
+     "lyric": "tho’",
+     "syllabic": "end"
+    },
+    {
+     "id": "blow-blow-e0095",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 23,
+     "beat": 3.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0096",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 4,
+     "lyric": "thy",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0097",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 23,
+     "beat": 4.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0098",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2,
+     "measure": 24,
+     "beat": 1,
+     "lyric": "breath",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0099",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2,
+     "measure": 24,
+     "beat": 3,
+     "lyric": "be",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0100",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1,
+     "lyric": "rude,",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0101",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0102",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0103",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0104",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0105",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    25,
+    31
+   ],
+   "lyrics": "Altho’ thy breath be rude.",
+   "translation": "你的牙齿并不那么尖利，因为你无形无影，虽然你的呼吸粗暴。",
+   "events": [
+    {
+     "id": "blow-blow-e0106",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 4,
+     "lyric": "Al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "blow-blow-e0107",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0108",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 26,
+     "beat": 1,
+     "lyric": "tho’",
+     "syllabic": "end"
+    },
+    {
+     "id": "blow-blow-e0109",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 26,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0110",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 26,
+     "beat": 2,
+     "lyric": "thy",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0111",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 26,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0112",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 26,
+     "beat": 3,
+     "lyric": "breath",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0113",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 26,
+     "beat": 3.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0114",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 26,
+     "beat": 4,
+     "lyric": "be",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0115",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 26,
+     "beat": 4.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0116",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 3,
+     "measure": 27,
+     "beat": 1,
+     "lyric": "rude.",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0117",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 27,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0118",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 28,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0119",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 29,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0120",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 30,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0121",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 31,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0122",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 31,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    31,
+    33
+   ],
+   "lyrics": "Freeze, freeze thou bitter sky,",
+   "translation": "冻吧，冻吧，苦寒的天空，你咬得不像被遗忘的恩情那样深；",
+   "events": [
+    {
+     "id": "blow-blow-e0123",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 31,
+     "beat": 4,
+     "lyric": "Freeze,",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0124",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1,
+     "lyric": "freeze",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0125",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0126",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2,
+     "lyric": "thou",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0127",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0128",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 32,
+     "beat": 3,
+     "lyric": "bit",
+     "syllabic": "begin"
+    },
+    {
+     "id": "blow-blow-e0129",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 32,
+     "beat": 4,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "blow-blow-e0130",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 33,
+     "beat": 1,
+     "lyric": "sky,",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0131",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 33,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    33,
+    35
+   ],
+   "lyrics": "Thou dost not bite so nigh,",
+   "translation": "冻吧，冻吧，苦寒的天空，你咬得不像被遗忘的恩情那样深；",
+   "events": [
+    {
+     "id": "blow-blow-e0132",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 33,
+     "beat": 4,
+     "lyric": "Thou",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0133",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1,
+     "lyric": "dost",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0134",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0135",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 2,
+     "lyric": "not",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0136",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0137",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1,
+     "measure": 34,
+     "beat": 3,
+     "lyric": "bite",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0138",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 34,
+     "beat": 4,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0139",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 35,
+     "beat": 1,
+     "lyric": "nigh,",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0140",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2,
+     "measure": 35,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    35,
+    37
+   ],
+   "lyrics": "Thou dost not bite so nigh,",
+   "translation": "冻吧，冻吧，苦寒的天空，你咬得不像被遗忘的恩情那样深；",
+   "events": [
+    {
+     "id": "blow-blow-e0141",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 35,
+     "beat": 4,
+     "lyric": "Thou",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0142",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 36,
+     "beat": 1,
+     "lyric": "dost",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0143",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 2.5,
+     "lyric": "not",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0144",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 36,
+     "beat": 3,
+     "lyric": "bite",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0145",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 36,
+     "beat": 4,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0146",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 3,
+     "measure": 37,
+     "beat": 1,
+     "lyric": "nigh,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    37,
+    40
+   ],
+   "lyrics": "As benefits forgot Tho’ thou the waters",
+   "translation": "虽然你使水结冰，你的刺痛也不如朋友的遗忘那样尖锐。",
+   "events": [
+    {
+     "id": "blow-blow-e0147",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 37,
+     "beat": 4,
+     "lyric": "As",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0148",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2,
+     "lyric": "ben",
+     "syllabic": "begin"
+    },
+    {
+     "id": "blow-blow-e0149",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0150",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 3,
+     "lyric": "e",
+     "syllabic": "middle"
+    },
+    {
+     "id": "blow-blow-e0151",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0152",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 4,
+     "lyric": "fits",
+     "syllabic": "end"
+    },
+    {
+     "id": "blow-blow-e0153",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0154",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1,
+     "lyric": "for",
+     "syllabic": "begin"
+    },
+    {
+     "id": "blow-blow-e0155",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1,
+     "measure": 38,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0156",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0157",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 2,
+     "measure": 39,
+     "beat": 1,
+     "lyric": "got",
+     "syllabic": "end"
+    },
+    {
+     "id": "blow-blow-e0158",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 39,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0159",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 39,
+     "beat": 4,
+     "lyric": "Tho’",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0160",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 40,
+     "beat": 1,
+     "lyric": "thou",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0161",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1,
+     "measure": 40,
+     "beat": 2,
+     "lyric": "the",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0162",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 40,
+     "beat": 3,
+     "lyric": "wa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "blow-blow-e0163",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 40,
+     "beat": 4,
+     "lyric": "ters",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    41,
+    43
+   ],
+   "lyrics": "warp, Thy sting is not so sharp,",
+   "translation": "虽然你使水结冰，你的刺痛也不如朋友的遗忘那样尖锐。",
+   "events": [
+    {
+     "id": "blow-blow-e0164",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 41,
+     "beat": 1,
+     "lyric": "warp,",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0165",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 41,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0166",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 41,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0167",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 41,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0168",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 4.5,
+     "lyric": "Thy",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0169",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 1,
+     "lyric": "sting",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0170",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0171",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2,
+     "lyric": "is",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0172",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0173",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 3,
+     "lyric": "not",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0174",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0175",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 4,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0176",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0177",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 1,
+     "lyric": "sharp,",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0178",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0179",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2,
+     "measure": 43,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    43,
+    46
+   ],
+   "lyrics": "Thy sting is not so sharp As friends remember’d",
+   "translation": "虽然你使水结冰，你的刺痛也不如朋友的遗忘那样尖锐。",
+   "events": [
+    {
+     "id": "blow-blow-e0180",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 4,
+     "lyric": "Thy",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0181",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0182",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1,
+     "lyric": "sting",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0183",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0184",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2,
+     "lyric": "is",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0185",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0186",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 3,
+     "lyric": "not",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0187",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0188",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 4,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0189",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0190",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 45,
+     "beat": 1,
+     "lyric": "sharp",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0191",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 45,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0192",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0193",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 4.5,
+     "lyric": "As",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0194",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 46,
+     "beat": 1,
+     "lyric": "friends",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0195",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 46,
+     "beat": 2,
+     "lyric": "re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "blow-blow-e0196",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "blow-blow-e0197",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 46,
+     "beat": 3,
+     "lyric": "mem",
+     "syllabic": "middle"
+    },
+    {
+     "id": "blow-blow-e0198",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 46,
+     "beat": 4,
+     "lyric": "ber’d",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    47,
+    49
+   ],
+   "lyrics": "not, Thy sting is not so sharp,",
+   "translation": "虽然你使水结冰，你的刺痛也不如朋友的遗忘那样尖锐。",
+   "events": [
+    {
+     "id": "blow-blow-e0199",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 47,
+     "beat": 1,
+     "lyric": "not,",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0200",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 47,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0201",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 47,
+     "beat": 3,
+     "lyric": "Thy",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0202",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1,
+     "lyric": "sting",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0203",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0204",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2,
+     "lyric": "is",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0205",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0206",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 48,
+     "beat": 3,
+     "lyric": "not",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0207",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 48,
+     "beat": 4,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0208",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1,
+     "measure": 49,
+     "beat": 1,
+     "lyric": "sharp,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    49,
+    51
+   ],
+   "lyrics": "As friends remember’d not,",
+   "translation": "虽然你使水结冰，你的刺痛也不如朋友的遗忘那样尖锐。",
+   "events": [
+    {
+     "id": "blow-blow-e0209",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 49,
+     "beat": 2,
+     "lyric": "As",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0210",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 49,
+     "beat": 3,
+     "lyric": "friends",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0211",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 49,
+     "beat": 3.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0212",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 49,
+     "beat": 4,
+     "lyric": "re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "blow-blow-e0213",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 49,
+     "beat": 4.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0214",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2,
+     "measure": 50,
+     "beat": 1,
+     "lyric": "mem",
+     "syllabic": "middle"
+    },
+    {
+     "id": "blow-blow-e0215",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2,
+     "measure": 50,
+     "beat": 3,
+     "lyric": "ber’d",
+     "syllabic": "end"
+    },
+    {
+     "id": "blow-blow-e0216",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 1,
+     "lyric": "not,",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0217",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0218",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0219",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0220",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0221",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "measures": [
+    51,
+    55
+   ],
+   "lyrics": "As friends remember’d not.",
+   "translation": "虽然你使水结冰，你的刺痛也不如朋友的遗忘那样尖锐。",
+   "events": [
+    {
+     "id": "blow-blow-e0222",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 4,
+     "lyric": "As",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0223",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0224",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 52,
+     "beat": 1,
+     "lyric": "friends",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0225",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 52,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0226",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 52,
+     "beat": 2,
+     "lyric": "re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "blow-blow-e0227",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 52,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0228",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 52,
+     "beat": 3,
+     "lyric": "mem",
+     "syllabic": "middle"
+    },
+    {
+     "id": "blow-blow-e0229",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 52,
+     "beat": 3.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0230",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 52,
+     "beat": 4,
+     "lyric": "ber’d",
+     "syllabic": "end"
+    },
+    {
+     "id": "blow-blow-e0231",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 52,
+     "beat": 4.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0232",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 3,
+     "measure": 53,
+     "beat": 1,
+     "lyric": "not.",
+     "syllabic": "single"
+    },
+    {
+     "id": "blow-blow-e0233",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 53,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0234",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 54,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0235",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 55,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "blow-blow-e0236",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 55,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 231,
+ "restCount": 15,
+ "lyricNoteCount": 132,
+ "pages": 1,
+ "speech": {
+  "voice": "en_GB-southern_english_female-low",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 19,
+  "slowScale": 1.45
+ }
+}

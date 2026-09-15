@@ -1,0 +1,175 @@
+{
+ "title": "Après un rêve",
+ "titleZh": "梦醒之后",
+ "composer": "G. Fauré",
+ "opera": "3 Mélodies, Op. 7, No. 1（1877；法语艺术歌曲，非歌剧）",
+ "role": "抒情主体：从爱情之梦中醒来的人",
+ "genre": "艺术歌曲",
+ "language": "法语",
+ "voice": "女中音",
+ "difficulty": "中级",
+ "tempoBpm": 60,
+ "complete": true,
+ "sourceGrade": "B",
+ "coverageNote": "完整声乐旋律（c 小调，3/4 Andantino，48 小节）。来源为 OpenScore Lieder 据 Hamelle 版转写的 MXL，法语 verse 1 共 135 个音节；已与 IMSLP Hamelle 声乐谱核对调性、拍号与歌词。原版另附意大利语 verse 2（Romain Bussine 所据的托斯卡纳诗），本页只采用法语。",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Fauré,_Gabriel/3_Songs,_Op.7/1_Après_un_rêve",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Fauré,_Gabriel/3_Songs,_Op.7/1_Après_un_rêve",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；135 个法语音节与 Hamelle 版逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/6810863"
+  },
+  {
+   "name": "IMSLP · 3 Songs, Op.7 (Fauré, Gabriel)",
+   "url": "https://imslp.org/wiki/3_Songs,_Op.7_(Faur%C3%A9,_Gabriel)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "LiederNet · Après un rêve (Bussine)",
+   "url": "https://www.lieder.net/lieder/get_text.html?TextId=2000",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Dans un sommeil que charmait ton image",
+   "zh": "在你的身影令我着迷的睡梦里，"
+  },
+  {
+   "text": "je rêvais le bonheur, ardent mirage;",
+   "zh": "我梦见了幸福，那炽热的幻影；"
+  },
+  {
+   "text": "tes yeux étaient plus doux, ta voix pure et sonore,",
+   "zh": "你的眼更温柔，你的声音纯净而响亮，"
+  },
+  {
+   "text": "tu rayonnais comme un ciel éclairé par l’aurore.",
+   "zh": "你像被晨曦照亮的天空一样发光。"
+  },
+  {
+   "text": "Tu m’appelais et je quittais la terre",
+   "zh": "你呼唤我，我便离开大地，"
+  },
+  {
+   "text": "pour m’enfuir avec toi vers la lumière;",
+   "zh": "与你一起逃向光明；"
+  },
+  {
+   "text": "les cieux pour nous entr’ouvraient leurs nues,",
+   "zh": "天空为我们微微拨开云层，"
+  },
+  {
+   "text": "splendeurs inconnues, lueurs divines entrevues.",
+   "zh": "未知的辉煌、瞥见的神圣微光。"
+  },
+  {
+   "text": "Hélas! hélas, triste réveil des songes!",
+   "zh": "唉！唉，从梦中悲伤地醒来！"
+  },
+  {
+   "text": "Je t’appelle, ô nuit, rends-moi tes mensonges;",
+   "zh": "我呼唤你，夜啊，把你的谎言还给我；"
+  },
+  {
+   "text": "reviens, reviens radieuse,",
+   "zh": "回来吧，回来吧，光彩夺目的夜，"
+  },
+  {
+   "text": "reviens, ô nuit mystérieuse!",
+   "zh": "回来吧，神秘的夜！"
+  }
+ ],
+ "hints": [
+  {
+   "title": "鼻化元音",
+   "items": [
+    "Dans、charmait 的 an [ɑ̃]、sommeil 无鼻化；un [œ̃]、bonheur 的 on [ɔ̃]、lumière 无鼻化——鼻化元音不要收成 n。",
+    "mensonges 含 en [ɑ̃] 与 on [ɔ̃] 两个鼻化元音，歌唱时保持口腔打开、软腭放松。"
+   ]
+  },
+  {
+   "title": "联诵与省音",
+   "items": [
+    "“Dans‿un”“charmait‿ton” 不联诵（t 不发）；“étaient‿plus”不联诵；“comme‿un” 联诵 [kɔmœ̃]；“les‿cieux” [le sjø]。",
+    "“m’appelais”“t’appelle”“entr’ouvraient” 是省音，唱成一个词。"
+   ]
+  },
+  {
+   "title": "词尾与舞台法语",
+   "items": [
+    "image、mirage、sonore、aurore、lumière 的词尾 e 在旋律上占一个音时读弱 [ə]，不要吞掉。",
+    "r 用舞台法语的轻弹舌或小舌 [ʁ] 均可，但整首保持一致；radieuse、mystérieuse 的 -euse [øz] 圆唇。"
+   ]
+  }
+ ],
+ "story": {
+  "background": "《梦醒之后》是福雷 1877 年前后创作的三首歌曲 Op. 7 之首，歌词由罗曼·比西纳据一首托斯卡纳无名诗改写。它是福雷早期最著名的旋律，也是法语艺术歌曲课堂的必修曲，常被改编为大提琴独奏。原调 c 小调，3/4 Andantino，钢琴以持续的三连音和弦作背景。",
+  "situation": "叙述者在梦中与爱人相会：对方比现实更温柔、更明亮，呼唤他一起飞向光明；天空为他们打开。然后梦醒了。剩下的只有对夜的呼唤——“把你的谎言还给我”。他想要的是回到梦里，害怕的是白昼的真实。",
+  "relationships": "只有“我”与梦中的“你”。“你”可能是恋人，也可能是已逝或已失去的人；歌曲从未说明，这种不确定正是它的魅力。全曲是一场从第二人称的亲密呼唤转向对“夜”的祈求的独白。",
+  "intent": "第一段（梦境）要唱得温暖、连绵，像在回忆中微笑；“Tu m’appelais” 起音区上升、情绪升温，“splendeurs inconnues” 是梦的顶点。“Hélas!” 是转折——声音突然变暗、变直；结尾三次 “reviens” 逐渐放轻，最后的 “mystérieuse” 像消失在夜里。",
+  "plain30": "有人梦见了心爱的人，两人一起飞向光明。醒来后，他对着黑夜说：请把那个美梦还给我，哪怕它是假的。这是一首关于“宁愿被梦欺骗”的歌。",
+  "arc": "c 小调，3/4 Andantino。旋律以长线条的级进上行为主，每句从低处起、缓缓抬升，钢琴三连音像呼吸。前两段（梦境）不断向上攀升，直到 “lueurs divines” 达到最高音 F5；“Hélas” 后音区骤降、节奏变宽；尾声 “reviens” 在小调主音周围徘徊，渐弱结束。情绪：陶醉—升腾—失落—哀求。",
+  "motif": "核心动机是级进上行的长线条：“Dans un som-meil” 从 C 逐级上行到 G，再落回。它在 “Tu m’appelais” 时从更高的起点重复，在 “les cieux pour nous” 到达顶峰；“Hélas” 把同一动机反向为下行。演唱时每个上行都要靠气息一口连贯，不能一格一格推。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Dans un sommeil” 级进上行动机首次呈示。"
+   },
+   {
+    "phrase": 5,
+    "note": "第 5 句 “Tu m’appelais” 动机从更高起点再现，情绪升温。"
+   },
+   {
+    "phrase": 8,
+    "note": "第 8 句 “splendeurs inconnues” 上行到达最高音，是梦的顶点。"
+   },
+   {
+    "phrase": 9,
+    "note": "第 9 句 “Hélas!” 动机反向下行，梦醒。"
+   }
+  ],
+  "technique": "呼吸：每句四小节，句尾长音后换气；“Tu m’appelais et je quittais la terre” 需一口气唱完。咬字：鼻化元音在长音上保持，不提前收 n；“charmait”“quittais” 的词尾辅音不发。换声区：女中音在 D5–E5（“lumière”“divines”）经过换声区，元音略收窄、用头腔。高音：F5 只在 “entrevues” 一处，靠前面的上行线蓄力，不要单独用力冲。",
+  "classroom": [
+   "先读中文，分清梦境（前八句）与梦醒（后四句）。",
+   "慢速读法语原文，标出所有鼻化元音。",
+   "分离元音：只唱元音链，练长线条上口型不变。",
+   "按 3/4 拍说词，感受钢琴三连音的流动。",
+   "听单音旋律，注意每句的上行是否连贯。",
+   "把歌词放回旋律，先练前两段的温暖，再练 “Hélas” 的转折。",
+   "用正常速度完整演唱，尾声 “reviens” 逐次放轻。"
+  ]
+ },
+ "phraseFixes": {
+  "i– mage": "image",
+  "mira– ge": "mirage",
+  "plusdoux": "plus doux",
+  "rayon– nais": "rayonnais",
+  "unciel": "un ciel",
+  "l'au– rore": "l'aurore",
+  "m'appe– lais": "m'appelais",
+  "lu– mière": "lumière",
+  "splen– deurs": "splendeurs",
+  "entre– vues": "entrevues",
+  "Hé– las": "Hélas",
+  "dessonges": "des songes",
+  "ônuit": "ô nuit",
+  "rendsmoi": "rends-moi",
+  "radieu– se": "radieuse",
+  "mystéri– euse": "mystérieuse",
+  "Re- viens": "Reviens"
+ }
+}

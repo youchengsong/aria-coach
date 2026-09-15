@@ -1,0 +1,3579 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "von-ewiger-liebe",
+ "title": "Von ewiger Liebe",
+ "titleZh": "永恒的爱",
+ "composer": "J. Brahms",
+ "opera": "Op.43 No.1（独立艺术歌曲，1864；诗：J. Wenzig/民歌改编）",
+ "language": "德语",
+ "voice": "男高音",
+ "difficulty": "中级",
+ "tempoBpm": 66,
+ "timeSignature": "3/4",
+ "coverage": {
+  "measures": [
+   1,
+   121
+  ],
+  "firstSungMeasure": 4,
+  "complete": true,
+  "note": "完整声乐旋律（降b小调—降B大调，3/4，变化速度，约100小节）。勃拉姆斯最富戏剧性的歌曲之一——从阴暗的夜到光明的誓言。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "A3",
+  "high": "F#5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "叙事者（见证永恒之爱的旁观者）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Dunkel, wie dunkel in Wald und in Feld!",
+   "zh": "黑暗，森林和田野多么黑暗！"
+  },
+  {
+   "text": "Abend schon ist es, nun schweiget die Welt.",
+   "zh": "已是黄昏，世界沉默了。"
+  },
+  {
+   "text": "Nirgend noch Licht und nirgend noch Rauch,",
+   "zh": "哪里都没有灯光，哪里都没有炊烟，"
+  },
+  {
+   "text": "ja, und die Lerche sie schweiget nun auch.",
+   "zh": "是的，连云雀也沉默了。"
+  },
+  {
+   "text": "Kommt aus dem Dorfe der Bursche heraus,",
+   "zh": "一个年轻人从村子里走出来，"
+  },
+  {
+   "text": "gibt das Geleit der Geliebten nach Haus,",
+   "zh": "送他的爱人回家，"
+  },
+  {
+   "text": "führt sie am Weidengebüsche vorbei,",
+   "zh": "带她走过柳树丛，"
+  },
+  {
+   "text": "redet so viel und so mancherlei:",
+   "zh": "说了许多许多话："
+  },
+  {
+   "text": "\"Leidest du Schmach und betrübest du dich,",
+   "zh": "“如果你受到耻辱和忧伤，"
+  },
+  {
+   "text": "leidest du Schmach von Andern um mich,",
+   "zh": "如果你因我而受到别人的羞辱，"
+  },
+  {
+   "text": "werde die Liebe getrennt so geschwind,",
+   "zh": "让这爱就像被风"
+  },
+  {
+   "text": "schnell wie wir früher vereiniget sind.\"",
+   "zh": "吹散一样迅速地分开吧。”"
+  },
+  {
+   "text": "\"Eisen und Stahl, man schmiedet sie um,",
+   "zh": "“铁和钢，可以重新锻造，"
+  },
+  {
+   "text": "unsere Liebe, wer wandelt sie um?",
+   "zh": "我们的爱，谁能改变它？"
+  },
+  {
+   "text": "Eisen und Stahl, sie können zergehn,",
+   "zh": "铁和钢，它们会消融，"
+  },
+  {
+   "text": "unsere Liebe muß ewig bestehn!",
+   "zh": "我们的爱必须永恒长存！"
+  }
+ ],
+ "story": {
+  "background": "这首歌取自文齐希改编的温德/索布族民歌。三段式结构：第一段叙述黄昏的黑暗场景，第二段是男子提议分手（如果爱情带来耻辱），第三段是女子的回答——我们的爱比钢铁更强。勃拉姆斯的音乐从降b小调的阴暗转入降B大调的辉煌。",
+  "situation": "黄昏。森林和田野一片黑暗，世界沉寂。一个年轻人送他的爱人回家。走过柳树丛时，他说：如果因为我你受到耻辱，那就让我们分开。女子回答：铁和钢可以被改变，但我们的爱永恒不灭。",
+  "relationships": "一对村庄里的恋人。男子因为外界的压力想放手，女子以坚定的誓言回应——爱比任何金属都更持久。",
+  "intent": "第一段建立阴沉的氛围。第二段男子的话要唱得犹豫、痛苦。第三段女子的誓言是全曲的转折——从'Eisen und Stahl'开始时仍在小调，到'unsere Liebe muß ewig bestehn!'时转入大调，要唱出光明和力量。",
+  "plain30": "黄昏的黑暗中，年轻人送爱人回家，说如果爱带来耻辱就分开吧。女子回答：铁和钢会消融，我们的爱永恒不变。",
+  "arc": "降b小调→降B大调，3/4。第一段阴暗的叙述（pp）。第二段男子的话（mp，不安的节奏）。第三段女子的誓言从小调开始，逐渐加速加强，最终在降B大调上以 fortissimo 结束——从黑暗到光明。",
+  "motif": "黑暗-光明对比：第一段的低音级进下行代表黑暗。第三段'Eisen und Stahl'的附点节奏像铁锤敲击。'unsere Liebe muß ewig bestehn' 的上行大跳是全曲的胜利动机。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "'Dunkel, wie dunkel' 黑暗动机——低音区下行"
+   },
+   {
+    "phrase": "9",
+    "note": "'Leidest du Schmach' 男子的犹豫——不安的半音"
+   },
+   {
+    "phrase": "13",
+    "note": "'Eisen und Stahl' 铁锤动机——附点节奏"
+   },
+   {
+    "phrase": "16",
+    "note": "'unsere Liebe muß ewig bestehn!' 永恒动机——上行大跳，大调"
+   }
+  ],
+  "technique": "音域较宽，需要从 pianissimo 的低音叙述到 fortissimo 的高音誓言。呼吸管理是关键——第三段的长乐句需要充足的气息储备。'ewig bestehn' 的高音要用胸腔支撑，不要收紧喉咙。",
+  "classroom": [
+   "先读中文——三个段落，三个声音：叙述者、男子、女子。",
+   "朗读德语：注意复合词的重音和 sch/ch 的区别。",
+   "分段练习：第一段低沉，第二段不安，第三段坚定。",
+   "第三段的调性变化是关键——从小调到大调，声音色彩要'变亮'。",
+   "'unsere Liebe muß ewig bestehn!' 是全曲高潮——要有力但不粗暴。",
+   "完整演唱——体会从黑暗到光明的旅程。",
+   "这首歌适合在音乐会上展示声音的对比和戏剧能力。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音与辅音",
+   "items": [
+    "Dunkel 的 u 短 [ʊ]",
+    "schweiget 的 ei 读 [aɪ]",
+    "Geliebten 的 ie 是长 [iː]",
+    "Weidengebüsche 的 ei [aɪ] + ü [ʏ]",
+    "geschwind 的 sch 是 [ʃ]（类似'石'）"
+   ]
+  },
+  {
+   "title": "歌唱风格",
+   "items": [
+    "三段分别是叙述者、男子、女子——声音色彩要有变化",
+    "第一段（暗夜）要低沉阴郁",
+    "第二段（男子的话）犹豫不安",
+    "第三段（女子的誓言）坚定光明——从小调转入大调"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    4,
+    8
+   ],
+   "lyrics": "Dunkel, wie dunkel in Wald und in Feld!",
+   "translation": "黑暗，森林和田野多么黑暗！",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0004",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0005",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "Dun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0006",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "kel,",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0007",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0008",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.5,
+     "lyric": "wie",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0009",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "dun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0010",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "kel",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0011",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0012",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0013",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "Wald",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0014",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0015",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 3.0,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0016",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "Feld!",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0017",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    9,
+    13
+   ],
+   "lyrics": "Abend schon ist es, nun schweiget die Welt.",
+   "translation": "已是黄昏，世界沉默了。",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0018",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "A",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0019",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "bend",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0020",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "schon",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0021",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0022",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "es,",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0023",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "nun",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0024",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "schwei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0025",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "get",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0026",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0027",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "Welt.",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0028",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0029",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0030",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    14,
+    17
+   ],
+   "lyrics": "Nirgend noch Licht und nirgend noch Rauch,",
+   "translation": "哪里都没有灯光，哪里都没有炊烟，",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0031",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "Nir",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0032",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "gend",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0033",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 3.5,
+     "lyric": "noch",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0034",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "Licht",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0035",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0036",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "nir",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0037",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "gend",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0038",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.5,
+     "lyric": "noch",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0039",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "Rauch,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    17,
+    24
+   ],
+   "lyrics": "ja, und die Lerche sie schweiget nun auch.",
+   "translation": "是的，连云雀也沉默了。",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0040",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "ja,",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0041",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0042",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0043",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0044",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "Ler",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0045",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "che",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0046",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0047",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "schwei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0048",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "get",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0049",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3.5,
+     "lyric": "nun",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0050",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "auch.",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0051",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0052",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0053",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0054",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0055",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    25,
+    28
+   ],
+   "lyrics": "Kommt aus dem Dorfe der Bursche heraus,",
+   "translation": "一个年轻人从村子里走出来，",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0056",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "Kommt",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0057",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.5,
+     "lyric": "aus",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0058",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0059",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "Dor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0060",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "fe",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0061",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0062",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "Bur",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0063",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "sche",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0064",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "her",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0065",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "aus,",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0066",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    29,
+    33
+   ],
+   "lyrics": "gibt das Geleit der Geliebten nach Haus,",
+   "translation": "送他的爱人回家，",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0067",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "gibt",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0068",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 2.0,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0069",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 3.0,
+     "lyric": "Ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0070",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "leit",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0071",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 2.0,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0072",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 3.0,
+     "lyric": "Ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0073",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "lieb",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0074",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.5,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0075",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 3.0,
+     "lyric": "nach",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0076",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "Haus,",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0077",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0078",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0079",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    34,
+    37
+   ],
+   "lyrics": "führt sie am Weidengebüsche vorbei,",
+   "translation": "带她走过柳树丛，",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0080",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "führt",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0081",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 34,
+     "beat": 2.0,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0082",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 3.5,
+     "lyric": "am",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0083",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "Wei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0084",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.5,
+     "lyric": "den",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0085",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 3.0,
+     "lyric": "ge",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0086",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "bü",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0087",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 2.0,
+     "lyric": "sche",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0088",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 3.0,
+     "lyric": "vor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0089",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "bei,",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0090",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    38,
+    44
+   ],
+   "lyrics": "redet so viel und somancherlei",
+   "translation": "说了许多许多话：",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0091",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0092",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "det",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0093",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 3.0,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0094",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "viel",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0095",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 2.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0096",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 3.0,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0097",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "man",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0098",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 40,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0099",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 3.5,
+     "lyric": "cher",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0100",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "lei",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0101",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0102",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0103",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0104",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    45,
+    48
+   ],
+   "lyrics": "Leidest du Schmach und betrübest du dich,",
+   "translation": "“如果你受到耻辱和忧伤，",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0105",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "Lei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0106",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 45,
+     "beat": 2.0,
+     "lyric": "dest",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0107",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 3.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0108",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "Schmach",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0109",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 46,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0110",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0111",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 1.5,
+     "lyric": "be",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0112",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.0,
+     "lyric": "trü",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0113",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0114",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 3.0,
+     "lyric": "best",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0115",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 3.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0116",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "dich,",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0117",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    49,
+    52
+   ],
+   "lyrics": "leidest du Schmach von andern um mich,",
+   "translation": "如果你因我而受到别人的羞辱，",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0118",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "lei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0119",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 49,
+     "beat": 2.0,
+     "lyric": "dest",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0120",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 49,
+     "beat": 3.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0121",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "Schmach",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0122",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 50,
+     "beat": 3.0,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0123",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "an",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0124",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 51,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0125",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 51,
+     "beat": 2.0,
+     "lyric": "dern",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0126",
+     "pitch": "E#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 51,
+     "beat": 3.0,
+     "lyric": "um",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0127",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "mich,",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0128",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 52,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    53,
+    56
+   ],
+   "lyrics": "werde die Liebe getrennt so geschwind,",
+   "translation": "让这爱就像被风",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0129",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "wer",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0130",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 53,
+     "beat": 2.0,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0131",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 3.5,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0132",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 54,
+     "beat": 1.0,
+     "lyric": "Lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0133",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 3.0,
+     "lyric": "be",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0134",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 3.5,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0135",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 1.0,
+     "lyric": "trennt",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0136",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0137",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 2.0,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0138",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0139",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 3.0,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0140",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0141",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 56,
+     "beat": 1.0,
+     "lyric": "schwind,",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0142",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 56,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    57,
+    60
+   ],
+   "lyrics": "schnell wie wir früher vereiniget sind.",
+   "translation": "吹散一样迅速地分开吧。”",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0143",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 57,
+     "beat": 1.0,
+     "lyric": "schnell",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0144",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 57,
+     "beat": 2.0,
+     "lyric": "wie",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0145",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 57,
+     "beat": 3.0,
+     "lyric": "wir",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0146",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 58,
+     "beat": 1.0,
+     "lyric": "frü",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0147",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.5,
+     "lyric": "her",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0148",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 58,
+     "beat": 3.0,
+     "lyric": "ver",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0149",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 59,
+     "beat": 1.0,
+     "lyric": "ei",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0150",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 59,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0151",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 59,
+     "beat": 2.0,
+     "lyric": "ni",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0152",
+     "pitch": "E#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 59,
+     "beat": 3.0,
+     "lyric": "get",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0153",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 60,
+     "beat": 1.0,
+     "lyric": "sind.",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0154",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 60,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    61,
+    64
+   ],
+   "lyrics": "Scheide mit Regen und scheide mit Wind,",
+   "translation": "“铁和钢，可以重新锻造，",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0155",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 61,
+     "beat": 1.0,
+     "lyric": "Schei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0156",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 61,
+     "beat": 2.0,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0157",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 3.5,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0158",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 62,
+     "beat": 1.0,
+     "lyric": "Re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0159",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 2.5,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0160",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 62,
+     "beat": 3.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0161",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 1.0,
+     "lyric": "schei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0162",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0163",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 2.0,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0164",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0165",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 3.0,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0166",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0167",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 64,
+     "beat": 1.0,
+     "lyric": "Wind,",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0168",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 64,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    65,
+    79
+   ],
+   "lyrics": "schnell wie wir früher vereiniget sind.",
+   "translation": "吹散一样迅速地分开吧。”",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0169",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 65,
+     "beat": 1.0,
+     "lyric": "schnell",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0170",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 65,
+     "beat": 2.0,
+     "lyric": "wie",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0171",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 65,
+     "beat": 3.0,
+     "lyric": "wir",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0172",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 66,
+     "beat": 1.0,
+     "lyric": "frü",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0173",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 66,
+     "beat": 2.0,
+     "lyric": "her",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0174",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 66,
+     "beat": 3.0,
+     "lyric": "ver",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0175",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 67,
+     "beat": 1.0,
+     "lyric": "ei",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0176",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 67,
+     "beat": 2.0,
+     "lyric": "ni",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0177",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 67,
+     "beat": 3.0,
+     "lyric": "get",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0178",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 68,
+     "beat": 1.0,
+     "lyric": "sind.",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0179",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 68,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0180",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 69,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0181",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 70,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0182",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 71,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0183",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 72,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0184",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 73,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0185",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 74,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0186",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 75,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0187",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 76,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0188",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 77,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0189",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 78,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0190",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 79,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0191",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 79,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    79,
+    80
+   ],
+   "lyrics": "Spricht das Mägdelein,",
+   "translation": "吹散一样迅速地分开吧。”",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0192",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 79,
+     "beat": 2.0,
+     "lyric": "Spricht",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0193",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 79,
+     "beat": 2.667,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0194",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 80,
+     "beat": 1.0,
+     "lyric": "Mäg",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0195",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 80,
+     "beat": 1.667,
+     "lyric": "de",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0196",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 80,
+     "beat": 2.0,
+     "lyric": "lein,",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0197",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 80,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    81,
+    82
+   ],
+   "lyrics": "Mägdelein spricht",
+   "translation": "吹散一样迅速地分开吧。”",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0198",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 81,
+     "beat": 1.0,
+     "lyric": "Mäg",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0199",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 81,
+     "beat": 2.0,
+     "lyric": "de",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0200",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 81,
+     "beat": 2.667,
+     "lyric": "lein",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0201",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 82,
+     "beat": 1.0,
+     "lyric": "spricht",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0202",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 82,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0203",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 82,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0204",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 82,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    83,
+    86
+   ],
+   "lyrics": "Unsere Liebe, sie trennet sich nicht!",
+   "translation": "我们的爱，谁能改变它？",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0205",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 83,
+     "beat": 1.0,
+     "lyric": "Un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0206",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 83,
+     "beat": 2.0,
+     "lyric": "se",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0207",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 83,
+     "beat": 2.667,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0208",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 84,
+     "beat": 1.0,
+     "lyric": "Lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0209",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 84,
+     "beat": 2.0,
+     "lyric": "be,",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0210",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 84,
+     "beat": 2.667,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0211",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 85,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "von-ewiger-liebe-e0212",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 85,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "von-ewiger-liebe-e0213",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 85,
+     "beat": 1.0,
+     "lyric": "tren",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0214",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 85,
+     "beat": 2.0,
+     "lyric": "net",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0215",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 85,
+     "beat": 2.667,
+     "lyric": "sich",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0216",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 86,
+     "beat": 1.0,
+     "lyric": "nicht!",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0217",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 86,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0218",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 86,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0219",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 86,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    87,
+    90
+   ],
+   "lyrics": "Fest ist der Stahl und das Eisen gar sehr,",
+   "translation": "铁和钢，它们会消融，",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0220",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 87,
+     "beat": 1.0,
+     "lyric": "Fest",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0221",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 87,
+     "beat": 2.333,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0222",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 87,
+     "beat": 2.667,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0223",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 88,
+     "beat": 1.0,
+     "lyric": "Stahl",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0224",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 88,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0225",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 88,
+     "beat": 2.333,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0226",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 88,
+     "beat": 2.667,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0227",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 89,
+     "beat": 1.0,
+     "lyric": "Ei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0228",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 89,
+     "beat": 2.333,
+     "lyric": "sen",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0229",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 89,
+     "beat": 2.667,
+     "lyric": "gar",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0230",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 90,
+     "beat": 1.0,
+     "lyric": "sehr,",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0231",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 90,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0232",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "measures": [
+    91,
+    98
+   ],
+   "lyrics": "unsere Liebe ist fester noch mehr.",
+   "translation": "我们的爱必须永恒长存！",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0233",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 91,
+     "beat": 1.0,
+     "lyric": "un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0234",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 91,
+     "beat": 2.0,
+     "lyric": "se",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0235",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 91,
+     "beat": 2.667,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0236",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 92,
+     "beat": 1.0,
+     "lyric": "Lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0237",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 92,
+     "beat": 2.0,
+     "lyric": "be",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0238",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 2.667,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0239",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 93,
+     "beat": 1.0,
+     "lyric": "fe",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0240",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 93,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0241",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 93,
+     "beat": 2.0,
+     "lyric": "ster",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0242",
+     "pitch": "E#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 93,
+     "beat": 2.667,
+     "lyric": "noch",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0243",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 94,
+     "beat": 1.0,
+     "lyric": "mehr.",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0244",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 94,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0245",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 94,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0246",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 95,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0247",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 96,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0248",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 97,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0249",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 98,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "measures": [
+    99,
+    102
+   ],
+   "lyrics": "Eisen und Stahl, man schmiedet sie um,",
+   "translation": "铁和钢，它们会消融，",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0250",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 99,
+     "beat": 1.0,
+     "lyric": "Ei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0251",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 99,
+     "beat": 2.0,
+     "lyric": "sen",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0252",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 99,
+     "beat": 2.667,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0253",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 100,
+     "beat": 1.0,
+     "lyric": "Stahl,",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0254",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 100,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0255",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 100,
+     "beat": 2.667,
+     "lyric": "man",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0256",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 101,
+     "beat": 1.0,
+     "lyric": "schmie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0257",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 101,
+     "beat": 2.0,
+     "lyric": "det",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0258",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 101,
+     "beat": 2.667,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0259",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 102,
+     "beat": 1.0,
+     "lyric": "um,",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0260",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 102,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0261",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 102,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0262",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 102,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "measures": [
+    103,
+    106
+   ],
+   "lyrics": "unsere Liebe, wer wandelt sie um?",
+   "translation": "我们的爱，谁能改变它？",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0263",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 103,
+     "beat": 1.0,
+     "lyric": "un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0264",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 103,
+     "beat": 2.0,
+     "lyric": "se",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0265",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 103,
+     "beat": 2.667,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0266",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 104,
+     "beat": 1.0,
+     "lyric": "Lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0267",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 104,
+     "beat": 2.0,
+     "lyric": "be,",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0268",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 104,
+     "beat": 2.667,
+     "lyric": "wer",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0269",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 105,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "von-ewiger-liebe-e0270",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 105,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "von-ewiger-liebe-e0271",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 105,
+     "beat": 1.0,
+     "lyric": "wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0272",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 105,
+     "beat": 2.0,
+     "lyric": "delt",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0273",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 105,
+     "beat": 2.667,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0274",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 106,
+     "beat": 1.0,
+     "lyric": "um?",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0275",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 106,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0276",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 106,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0277",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 106,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 22,
+   "measures": [
+    107,
+    108
+   ],
+   "lyrics": "Eisen und Stahl,",
+   "translation": "“铁和钢，可以重新锻造，",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0278",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 107,
+     "beat": 1.0,
+     "lyric": "Ei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0279",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 107,
+     "beat": 2.333,
+     "lyric": "sen",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0280",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 107,
+     "beat": 2.667,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0281",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 108,
+     "beat": 1.0,
+     "lyric": "Stahl,",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0282",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 108,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 23,
+   "measures": [
+    108,
+    110
+   ],
+   "lyrics": "sie können zergehn,",
+   "translation": "铁和钢，它们会消融，",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0283",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 108,
+     "beat": 2.667,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0284",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 109,
+     "beat": 1.0,
+     "lyric": "kön",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0285",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 109,
+     "beat": 2.333,
+     "lyric": "nen",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0286",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 109,
+     "beat": 2.667,
+     "lyric": "zer",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0287",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 110,
+     "beat": 1.0,
+     "lyric": "gehn,",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0288",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 110,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0289",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 110,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 24,
+   "measures": [
+    111,
+    112
+   ],
+   "lyrics": "unsere Liebe,",
+   "translation": "我们的爱必须永恒长存！",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0290",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 111,
+     "beat": 1.0,
+     "lyric": "un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0291",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 111,
+     "beat": 2.0,
+     "lyric": "se",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0292",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 111,
+     "beat": 2.667,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0293",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 112,
+     "beat": 1.0,
+     "lyric": "Lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0294",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 112,
+     "beat": 2.0,
+     "lyric": "be,",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0295",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 112,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 25,
+   "measures": [
+    113,
+    115
+   ],
+   "lyrics": "unsere Liebe muss ewig,",
+   "translation": "我们的爱必须永恒长存！",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0296",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 113,
+     "beat": 1.0,
+     "lyric": "un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0297",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 113,
+     "beat": 2.0,
+     "lyric": "se",
+     "syllabic": "middle"
+    },
+    {
+     "id": "von-ewiger-liebe-e0298",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 113,
+     "beat": 2.667,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0299",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 114,
+     "beat": 1.0,
+     "lyric": "Lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0300",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 114,
+     "beat": 2.0,
+     "lyric": "be",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0301",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 114,
+     "beat": 2.667,
+     "lyric": "muss",
+     "syllabic": "single"
+    },
+    {
+     "id": "von-ewiger-liebe-e0302",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 115,
+     "beat": 1.0,
+     "lyric": "e",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0303",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 115,
+     "beat": 1.667,
+     "lyric": "wig,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 26,
+   "measures": [
+    115,
+    121
+   ],
+   "lyrics": "ewig bestehn!",
+   "translation": "我们的爱必须永恒长存！",
+   "events": [
+    {
+     "id": "von-ewiger-liebe-e0304",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 115,
+     "beat": 2.0,
+     "lyric": "e",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0305",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 116,
+     "beat": 2.0,
+     "lyric": "wig",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0306",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 116,
+     "beat": 2.667,
+     "lyric": "be",
+     "syllabic": "begin"
+    },
+    {
+     "id": "von-ewiger-liebe-e0307",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 117,
+     "beat": 1.0,
+     "lyric": "stehn!",
+     "syllabic": "end"
+    },
+    {
+     "id": "von-ewiger-liebe-e0308",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 117,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0309",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 117,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0310",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 117,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0311",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 118,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0312",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 119,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0313",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 120,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "von-ewiger-liebe-e0314",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 121,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 311,
+ "restCount": 74,
+ "lyricNoteCount": 221,
+ "pages": 2,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 26,
+  "slowScale": 1.45
+ }
+}

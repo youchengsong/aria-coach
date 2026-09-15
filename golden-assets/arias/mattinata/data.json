@@ -1,0 +1,1509 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "mattinata",
+ "title": "Mattinata",
+ "titleZh": "晨歌",
+ "composer": "R. Leoncavallo",
+ "opera": "Mattinata（1904；为 Enrico Caruso 与留声机公司而作的意大利语独唱曲）",
+ "language": "意大利语",
+ "voice": "男高音",
+ "difficulty": "中级",
+ "tempoBpm": 80,
+ "timeSignature": "6/8",
+ "coverage": {
+  "measures": [
+   1,
+   32
+  ],
+  "firstSungMeasure": 6,
+  "complete": true,
+  "note": "完整声乐旋律（6/8，32 小节），106 个意大利语音节；OpenScore 据 Ricordi 版转写，已与 IMSLP 声乐谱核对。来源文件声部名误标为 “Flute”，音域（C♯4–A5）与歌词确认为男高音声乐线。"
+ },
+ "range": {
+  "low": "C#4",
+  "high": "A5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主体：在清晨向恋人窗前歌唱的人",
+ "genre": "独唱歌曲",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Leoncavallo,_Ruggero/_/Mattinata",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Leoncavallo,_Ruggero/_/Mattinata",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；106 个音节与 Ricordi 版逐一核对；声部名 Flute 为转写者误标",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/29421746"
+  },
+  {
+   "name": "IMSLP · Mattinata (Leoncavallo, Ruggero)",
+   "url": "https://imslp.org/wiki/Mattinata_(Leoncavallo,_Ruggero)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "Wikipedia · Mattinata (song)",
+   "url": "https://en.wikipedia.org/wiki/Mattinata_(song)",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "L’aurora di bianco vestita già l’uscio dischiude al gran sol,",
+   "zh": "身披白衣的曙光已向太阳敞开门户，"
+  },
+  {
+   "text": "di già con le rose e sue dita carezza de’ fiori lo stuol.",
+   "zh": "已用她玫瑰色的手指抚摸成群的花朵。"
+  },
+  {
+   "text": "Commosso da un fremito arcano intorno il creato già par;",
+   "zh": "四周的万物仿佛被一阵神秘的颤动打动；"
+  },
+  {
+   "text": "e tu non ti desti, ed invano mi sto qui dolente a cantar.",
+   "zh": "而你还没有醒来，我徒然在这里忧伤地歌唱。"
+  },
+  {
+   "text": "Metti anche tu la veste bianca e schiudi l’uscio al tuo cantor!",
+   "zh": "你也披上白衣，向你的歌者打开门吧！"
+  },
+  {
+   "text": "Ove non sei la luce manca, ove tu sei nasce l’amor!",
+   "zh": "你不在的地方没有光，你在的地方爱便诞生！"
+  }
+ ],
+ "story": {
+  "background": "《晨歌》是列昂卡瓦洛 1904 年专为留声机公司与男高音卡鲁索创作的歌曲，作曲家亲自钢琴伴奏录音，是最早为唱片而写的名曲之一。它继承了那不勒斯民歌式的晨间小夜曲（mattinata）传统：清晨在恋人窗下歌唱。",
+  "situation": "黎明来了，万物苏醒，只有恋人还在睡。歌者站在门外，既赞美晨光，也委屈地抱怨“你还没醒，我白白在这里唱”，最后请求她穿上白衣、打开门。他想要的是被看见，害怕的是歌声无人听。",
+  "relationships": "“我”（歌者）与门内沉睡的“你”。曙光（l’aurora）被拟人化为身披白衣的女子，与恋人的白衣相呼应——歌者希望恋人像曙光一样出现。",
+  "intent": "第一段描写晨光，要明亮、从容，像在讲一个美景；“e tu non ti desti” 转为略带撒娇的抱怨，音色变柔。第二段 “Metti anche tu” 是请求，逐渐放宽；“ove tu sei nasce l’amor” 是全曲最高最亮处，靠前面的积累一气推上去，然后满足地收束。",
+  "plain30": "天亮了，花开了，可她还在睡。歌者在门外唱：你也披上白衣、把门打开吧——你在哪里，哪里才有光。这是一首把晨光和恋人叠在一起的情歌。",
+  "arc": "6/8 Allegretto，意大利式小夜曲节奏。旋律以级进与三度为主，每两小节一个波浪。第一段（描写）在中音区，“e tu non ti desti” 略降；第二段从 “Metti anche tu” 起逐句抬高，“nasce l’amor” 到达最高音 A5（原调），然后落回主音。情绪：赞美—委屈—请求—狂喜。",
+  "motif": "核心动机是 6/8 上的三音级进上行：“L’au-ro-ra” 三个音一步步向上，像太阳升起。它在 “Commosso” 与 “Metti anche tu” 处以相同轮廓出现，在 “nasce l’amor” 放大为向最高音的跳进。演唱时上行的三个音要越来越亮，不要平均。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “L’aurora” 三音上行动机首次出现。"
+   },
+   {
+    "phrase": 3,
+    "note": "第 3 句 “Commosso da un fremito” 动机再现，力度略增。"
+   },
+   {
+    "phrase": 5,
+    "note": "第 5 句 “Metti anche tu” 动机从更高起点再现，开始推向高潮。"
+   },
+   {
+    "phrase": 6,
+    "note": "第 6 句 “nasce l’amor” 动机放大为跳进到最高音。"
+   }
+  ],
+  "technique": "呼吸：两小节一句，句间短促换气；结尾 “ove tu sei nasce l’amor” 需一口气。咬字：双辅音要停顿（carezza、commosso），元音饱满。换声区：男高音在 F4–G4（“dischiude”“dolente”）经过换声区，保持元音略窄、不撑。高音：A5（或按移调）在 “l’amor” 上，是全曲唯一的高音，用元音 [ɔ] 的开放共鸣，靠气息推上去，不要提前紧张。",
+  "classroom": [
+   "先读中文，找出“晨光”和“你”的对应关系。",
+   "慢速读原文，标出重音音节和双辅音。",
+   "分离元音和辅音：单独练 zz、ss、sch 三种辅音。",
+   "按 6/8 说词，两个大拍，感受小夜曲的摇摆。",
+   "听单音旋律，注意每句的三音上行。",
+   "把歌词放回旋律，先练第一段，再练第二段的逐句抬升。",
+   "用正常速度完整演唱，高音前先想好气息。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "auRÒra、veSTÌta、diSCHIÙde、caRÉZza（zz 双辅音）、comMÒSso（ss）、FRÈmito——双辅音前元音短、辅音停顿。",
+    "“dischiude”“schiudi” 的 sch 读 [sk]，不是 [ʃ]。"
+   ]
+  },
+  {
+   "title": "连读与省略",
+   "items": [
+    "“de’ fiori” 是 dei 的截略；“L’aurora”“l’uscio”“l’amor” 省音。",
+    "“rose‿e sue” 在同一音上连读；“Metti anche tu” 的 -i a- 合为一音。"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "sol、stuol、cantor、amor 的 o 为开口 [ɔ]；“vestita” 的 e 为闭口 [e]，“desti” 的 e 为开口 [ɛ]。",
+    "r 全部弹舌，“carezza”“arcano” 的 r 清晰。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    6,
+    10
+   ],
+   "lyrics": "L’aurora di bianco vestita Già l’uscio dischiude al gran sol,",
+   "translation": "身披白衣的曙光已向太阳敞开门户，",
+   "events": [
+    {
+     "id": "mattinata-e0008",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 6,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mattinata-e0009",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.667,
+     "lyric": "L’au",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0010",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "ro",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mattinata-e0011",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1.333,
+     "lyric": "ra",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0012",
+     "pitch": "G#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1.667,
+     "lyric": "di",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0013",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 2,
+     "lyric": "bian",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0014",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 2.111,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mattinata-e0015",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 2.222,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mattinata-e0016",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.333,
+     "lyric": "co",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0017",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.667,
+     "lyric": "ve",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0018",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1,
+     "lyric": "sti",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mattinata-e0019",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 8,
+     "beat": 1.333,
+     "lyric": "ta",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0020",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mattinata-e0021",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.667,
+     "lyric": "Già",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0022",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "l’u",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0023",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.333,
+     "lyric": "scio",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0024",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.667,
+     "lyric": "di",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0025",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 9,
+     "beat": 2,
+     "lyric": "schiu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mattinata-e0026",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 9,
+     "beat": 2.111,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mattinata-e0027",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 9,
+     "beat": 2.222,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mattinata-e0028",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 2.333,
+     "lyric": "de al",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0029",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.833,
+     "lyric": "gran",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0030",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "sol,",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0031",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    10,
+    17
+   ],
+   "lyrics": "Di già con le rose e sue dita Carezza de’ fiori lo stuol Commosso da un fremito arcano",
+   "translation": "已用她玫瑰色的手指抚摸成群的花朵。",
+   "events": [
+    {
+     "id": "mattinata-e0032",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.667,
+     "lyric": "Di",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0033",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "già",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0034",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.333,
+     "lyric": "con",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0035",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.667,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0036",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2,
+     "lyric": "ro",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0037",
+     "pitch": "E#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 2.333,
+     "lyric": "se e",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0038",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 2.833,
+     "lyric": "sue",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0039",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "di",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0040",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 12,
+     "beat": 1.333,
+     "lyric": "ta",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0041",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mattinata-e0042",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 2.667,
+     "lyric": "Ca",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0043",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "rez",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mattinata-e0044",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.333,
+     "lyric": "za",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0045",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.667,
+     "lyric": "de’",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0046",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2,
+     "lyric": "fio",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0047",
+     "pitch": "F##4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.333,
+     "lyric": "ri",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0048",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.667,
+     "lyric": "lo",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0049",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 5.5,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "stuol",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0050",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.667,
+     "lyric": "Com",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0051",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "mos",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mattinata-e0052",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.333,
+     "lyric": "so",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0053",
+     "pitch": "G#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.667,
+     "lyric": "da un",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0054",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 16,
+     "beat": 2,
+     "lyric": "fre",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0055",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 16,
+     "beat": 2.111,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mattinata-e0056",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 16,
+     "beat": 2.222,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mattinata-e0057",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.333,
+     "lyric": "mi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mattinata-e0058",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.667,
+     "lyric": "to ar",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mattinata-e0059",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "ca",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mattinata-e0060",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 17,
+     "beat": 1.333,
+     "lyric": "no",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0061",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    17,
+    20
+   ],
+   "lyrics": "Intorno il creato già par E tu non ti desti,",
+   "translation": "四周的万物仿佛被一阵神秘的颤动打动；",
+   "events": [
+    {
+     "id": "mattinata-e0062",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.667,
+     "lyric": "In",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0063",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1,
+     "lyric": "tor",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mattinata-e0064",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.333,
+     "lyric": "no il",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0065",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.667,
+     "lyric": "cre",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0066",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 18,
+     "beat": 2,
+     "lyric": "a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mattinata-e0067",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 18,
+     "beat": 2.111,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mattinata-e0068",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 18,
+     "beat": 2.222,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mattinata-e0069",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 2.333,
+     "lyric": "to",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0070",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.833,
+     "lyric": "già",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0071",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2,
+     "measure": 19,
+     "beat": 1,
+     "lyric": "par",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0072",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mattinata-e0073",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.667,
+     "lyric": "E",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0074",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1,
+     "lyric": "tu",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0075",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.333,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0076",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.667,
+     "lyric": "ti",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0077",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2,
+     "lyric": "de",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0078",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.333,
+     "lyric": "sti,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    20,
+    24
+   ],
+   "lyrics": "ed invano Mi sto qui dolente a cantar… Metti anche",
+   "translation": "而你还没有醒来，我徒然在这里忧伤地歌唱。",
+   "events": [
+    {
+     "id": "mattinata-e0079",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2.667,
+     "lyric": "ed",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0080",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2.833,
+     "lyric": "in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0081",
+     "pitch": "G#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 21,
+     "beat": 1,
+     "lyric": "va",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mattinata-e0082",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1,
+     "measure": 21,
+     "beat": 2,
+     "lyric": "no",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0083",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.667,
+     "lyric": "Mi",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0084",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1,
+     "lyric": "sto",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0085",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.333,
+     "lyric": "qui",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0086",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.667,
+     "lyric": "do",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0087",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2,
+     "lyric": "len",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mattinata-e0088",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.333,
+     "lyric": "te a",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0089",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.667,
+     "lyric": "can",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0090",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 3,
+     "measure": 23,
+     "beat": 1,
+     "lyric": "tar…",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0091",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 24,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mattinata-e0092",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mattinata-e0093",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2,
+     "lyric": "Met",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0094",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.333,
+     "lyric": "ti an",
+     "syllabic": "middle"
+    },
+    {
+     "id": "mattinata-e0095",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.667,
+     "lyric": "che",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    25,
+    28
+   ],
+   "lyrics": "tu la veste bianca e schiudi l’uscio al tuo cantor!",
+   "translation": "你也披上白衣，向你的歌者打开门吧！",
+   "events": [
+    {
+     "id": "mattinata-e0096",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 25,
+     "beat": 1,
+     "lyric": "tu",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0097",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0098",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "mattinata-e0099",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "mattinata-e0100",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.333,
+     "lyric": "ve",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0101",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.667,
+     "lyric": "ste",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0102",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 1,
+     "lyric": "bian",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0103",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1,
+     "measure": 26,
+     "beat": 1.333,
+     "lyric": "ca",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0104",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0105",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.333,
+     "lyric": "schiu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0106",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.667,
+     "lyric": "di",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0107",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1,
+     "measure": 27,
+     "beat": 1,
+     "lyric": "l’u",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0108",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 1.667,
+     "lyric": "scio",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0109",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2,
+     "lyric": "al",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0110",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.333,
+     "lyric": "tuo",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0111",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.667,
+     "lyric": "can",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0112",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 28,
+     "beat": 1,
+     "lyric": "tor!",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    28,
+    30
+   ],
+   "lyrics": "Ove non sei la luce manca,",
+   "translation": "你不在的地方没有光，你在的地方爱便诞生！",
+   "events": [
+    {
+     "id": "mattinata-e0113",
+     "pitch": "A5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2,
+     "lyric": "O",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0114",
+     "pitch": "G#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 28,
+     "beat": 2.333,
+     "lyric": "ve",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0115",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 2.833,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0116",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1,
+     "measure": 29,
+     "beat": 1,
+     "lyric": "se",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0117",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.667,
+     "lyric": "i",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0118",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0119",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 29,
+     "beat": 2.333,
+     "lyric": "lu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0120",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 2.833,
+     "lyric": "ce",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0121",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1,
+     "measure": 30,
+     "beat": 1,
+     "lyric": "man",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0122",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1.667,
+     "lyric": "ca,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    30,
+    32
+   ],
+   "lyrics": "Ove tu sei nasce l’amor!",
+   "translation": "你不在的地方没有光，你在的地方爱便诞生！",
+   "events": [
+    {
+     "id": "mattinata-e0123",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2,
+     "lyric": "O",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0124",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.333,
+     "lyric": "ve",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0125",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.667,
+     "lyric": "tu",
+     "syllabic": "single"
+    },
+    {
+     "id": "mattinata-e0126",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1,
+     "lyric": "se",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0127",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mattinata-e0128",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.667,
+     "lyric": "i",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0129",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2,
+     "lyric": "na",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0130",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 31,
+     "beat": 2.333,
+     "lyric": "sce",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0131",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.833,
+     "lyric": "l’a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "mattinata-e0132",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 32,
+     "beat": 1,
+     "lyric": "mor!",
+     "syllabic": "end"
+    },
+    {
+     "id": "mattinata-e0133",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "mattinata-e0134",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 127,
+ "restCount": 10,
+ "lyricNoteCount": 106,
+ "pages": 1,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 7,
+  "slowScale": 1.45
+ }
+}

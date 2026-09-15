@@ -1,0 +1,118 @@
+{
+  "title": "Der Atlas",
+  "titleZh": "阿特拉斯",
+  "composer": "F. Schubert",
+  "opera": "Schwanengesang D.957 No.8（天鹅之歌第8首，1828；诗：H. Heine）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男中音",
+  "difficulty": "高阶",
+  "genre": "艺术歌曲",
+  "tempoBpm": 60,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（g小调，3/4，不太快但有分量，约60小节）。诗人自比神话中扛天的阿特拉斯——肩负着无尽的痛苦。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Ich unglücksel'ger Atlas! Eine Welt,",
+      "zh": "我这不幸的阿特拉斯！整个世界，"
+    },
+    {
+      "text": "die ganze Welt der Schmerzen muß ich tragen,",
+      "zh": "整个痛苦的世界我都必须承受，"
+    },
+    {
+      "text": "ich trage Unerträgliches, und brechen",
+      "zh": "我承受着无法承受的重压，"
+    },
+    {
+      "text": "will mir das Herz im Leibe.",
+      "zh": "心脏要在身体里碎裂了。"
+    },
+    {
+      "text": "Du stolzes Herz, du hast es ja gewollt!",
+      "zh": "你这骄傲的心，这是你自找的！"
+    },
+    {
+      "text": "Du wolltest glücklich sein, unendlich glücklich,",
+      "zh": "你想要幸福，无尽的幸福，"
+    },
+    {
+      "text": "oder unendlich elend, stolzes Herz,",
+      "zh": "或者无尽的悲惨，骄傲的心啊，"
+    },
+    {
+      "text": "und jetzo bist du elend.",
+      "zh": "如今你果然悲惨了。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "注意长短元音的区别",
+        "ö 和 ü 需要圆唇",
+        "ei 读 [aɪ]，ie 读 [iː]",
+        "ch 在 i/e 后读软 [ç]，在 a/o/u 后读硬 [x]"
+      ]
+    },
+    {
+      "title": "歌唱风格",
+      "items": [
+        "注意德语歌曲中词与音的密切关系",
+        "每个词的语气要和旋律的走向一致",
+        "德语辅音要清晰但不过重"
+      ]
+    }
+  ],
+  "story": {
+    "background": "海涅以希腊神话中扛天的巨人阿特拉斯自喻——诗人肩负着'整个痛苦的世界'。舒伯特的设定极具力量——g小调的震音和弦像大地在颤抖，声乐线条从呐喊到崩溃。中间段转入自嘲：骄傲的心啊，你自找的——你要么极乐，要么极苦。",
+    "situation": "诗人独自承受爱情失败的痛苦。他把自己比作阿特拉斯——整个世界的重量都在他肩上。他对自己的心说话：是你自己要追求极致的幸福，如今你得到了极致的痛苦。",
+    "relationships": "诗人与他自己的骄傲之心——海涅笔下的阿特拉斯不是神话中扛天的巨人，而是一个因为渴求'无尽的幸福'而被判'无尽的悲惨'的凡人。整首诗是诗人对自己内心的审判：'Du stolzes Herz, du hast es ja gewollt!'（骄傲的心，这是你自找的！）——这既是指控，也是无法挣脱的自嘲。",
+    "intent": "以猛烈的悲愤开场——'Ich unglücksel'ger Atlas!'是一声从胸腔爆发的呐喊。钢琴的八度震音是压在肩上的千斤重担，声乐线在上面挣扎。'die ganze Welt der Schmerzen muß ich tragen'每次重复都更沉重。中段突然转向自省——'Du stolzes Herz'像是对着镜中的自己说话，语气从愤怒变成痛苦的清醒。结尾'und bist nun elend'以空洞的低音收束，像巨人终于被压塌。",
+    "plain30": "我像阿特拉斯一样扛着整个世界的痛苦——心脏要碎了。骄傲的心，你自找的：你要么极乐要么极苦——如今你极苦了。",
+    "arc": "g小调，稍快速度（Etwas geschwind），驱动性的6/8拍。钢琴的八度震音从第一个音就建立了令人窒息的紧张感。声乐在中低音区强力宣叙——这不是抒情歌曲，而是戏剧性的独白。中段短暂转入降B大调（'Du wolltest glücklich sein'），像对幸福的回忆一闪而过，随即被拉回g小调的深渊。全曲约两分半，但情感浓度极高——每一个字都被钢琴的震音逼得没有喘息空间。",
+    "motif": "震音动机：钢琴的低音震音像大地震颤、像巨人的脚步。声乐的'Ich unglücksel'ger Atlas'以强有力的下行跳进开始——沉重的宣告。'stolzes Herz'处转入自嘲的内省。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "开头「Ich unglücksel'ger Atlas」——声乐以 g 小调主和弦分解的沉重跳进直接砸下，钢琴低音八度震音是肩上世界的重量"
+      },
+      {
+        "phrase": "4",
+        "note": "「die ganze Welt muss ich tragen」——旋律在 ganze Welt 上冲到高音区，是全曲力量的顶点"
+      },
+      {
+        "phrase": "7",
+        "note": "「Du stolzes Herz, du hast es ja gewollt!」——转为宣叙调式的质问，和声短暂转向大调又立刻转回，像自我嘲讽"
+      },
+      {
+        "phrase": "11",
+        "note": "结尾「und jetzo bist du elend」——旋律跌落到最低音区，钢琴归于死寂"
+      }
+    ],
+    "technique": "需要英雄般的低音域力量——最低到D4，最高到降A5，跨度超过一个半八度。'die ganze Welt der Schmerzen'的强音（fortissimo）要有控制，不能喊叫——声音要像巨人的呻吟而非歇斯底里。中段'Du stolzes Herz'突然转轻，这个动态对比是全曲的关键。6/8拍的律动不能拖——虽然情感沉重，但节奏必须前进，像无法放下的重担在催你走。",
+    "classroom": [
+      "先读中文翻译，理解歌曲的核心情感。",
+      "慢速朗读德语原文，注意元音和辅音的准确发音。",
+      "分离元音和辅音，按音节练习。",
+      "用节拍器按标注速度朗读歌词。",
+      "听合成旋律参考，注意旋律走向。",
+      "配上歌词，先用一半速度练唱。",
+      "以正常速度完整演唱。"
+    ]
+  },
+  "role": "阿特拉斯（背负世界者）"
+}

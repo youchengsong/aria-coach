@@ -1,0 +1,245 @@
+[
+  {
+    "id": "dalila-aria",
+    "title": "Mon cœur s’ouvre à ta voix",
+    "titleZh": "我的心迎着你的声音敞开",
+    "composer": "C. Saint-Saëns",
+    "opera": "Samson et Dalila",
+    "language": "法语",
+    "voice": "女中音",
+    "difficulty": "中级",
+    "status": "来源核验中",
+    "reason": "Tarakanov 提供两份自动识别 MusicXML（dalila3-fr_it-klavir.mxl、aria1669045067.mxl）；声乐声部可解析（102 小节、269 音），但法语歌词音节自第 7 小节起识别错误过多，尚无法建立可靠的词—音对应。待 IMSLP（Durand 声乐谱）人工核校后开放。",
+    "state": "research",
+    "sourceGrade": "D→E",
+    "missing": [
+      "法语音节与音符的可靠对应"
+    ],
+    "nextSource": "IMSLP Durand 声乐谱 PDF（https://imslp.org/wiki/Samson_et_Dalila,_Op.47_(Saint-Sa%C3%ABns,_Camille)）",
+    "method": "以 dalila-fr-it-ru.mxl 的音符为骨架，按 Durand 声乐谱逐音节人工录入 verse 2 法语歌词（约 200 音节），再用 syllables 覆盖并核对音高八度",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "michaela-aria",
+    "title": "Je dis que rien ne m’épouvante",
+    "titleZh": "我说我什么都不怕",
+    "composer": "G. Bizet",
+    "opera": "Carmen",
+    "language": "法语",
+    "voice": "女高音",
+    "difficulty": "高阶",
+    "status": "来源核验中",
+    "reason": "Tarakanov 自动识别 MusicXML（bizet-mikaela.mxl）将声乐线拆入三个声部且谱号识别错误（G2/G3 混用、出现 G1 等不可能音高），歌词法/俄混排。已排除该文件；待其他 MusicXML 或据 IMSLP（Choudens 声乐谱）重新录入。",
+    "state": "research",
+    "sourceGrade": "E",
+    "missing": [
+      "可靠的声乐旋律",
+      "法语歌词"
+    ],
+    "nextSource": "IMSLP Choudens 声乐谱（https://imslp.org/wiki/Carmen_(Bizet,_Georges)）；MuseScore 公共曲谱检索 “Je dis que rien ne m'épouvante”",
+    "method": "寻找第二个结构化来源；若无，按 Choudens 谱人工录入声乐线（约 90 小节）",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "iolanta-aria",
+    "title": "Ариозо Иоланты «Отчего это прежде не знала»",
+    "titleZh": "伊奥兰塔咏叙调",
+    "composer": "P. I. Tchaikovsky",
+    "opera": "Иоланта",
+    "language": "俄语",
+    "voice": "女高音",
+    "difficulty": "中级",
+    "status": "来源核验中",
+    "reason": "Tarakanov 自动识别 MusicXML（chaikovskiy-arioso-iolanta.mxl）仅 28 小节、拆为 7 个声部且歌词不可读；已排除。待 IMSLP（Jurgenson 声乐谱）或其他结构化来源。",
+    "state": "research",
+    "sourceGrade": "E",
+    "missing": [
+      "完整声乐旋律",
+      "俄语歌词"
+    ],
+    "nextSource": "IMSLP Jurgenson 声乐谱（https://imslp.org/wiki/Iolanta,_Op.69_(Tchaikovsky,_Pyotr)）",
+    "method": "按 Jurgenson 谱人工录入或重新 OMR（Audiveris）后校正",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "lensky-aria",
+    "title": "Ария Ленского «Куда, куда вы удалились»",
+    "titleZh": "连斯基咏叹调",
+    "composer": "P. I. Tchaikovsky",
+    "opera": "Евгений Онегин",
+    "language": "俄语",
+    "voice": "男高音",
+    "difficulty": "高阶",
+    "status": "来源核验中",
+    "reason": "Tarakanov 自动识别 MusicXML（arlens2.mxl）音高存在多处八度错误（出现 G#5），歌词仅 117/277 音有效；不满足“听准确旋律”要求，暂不开放。",
+    "state": "research",
+    "sourceGrade": "E",
+    "missing": [
+      "可靠音高",
+      "俄语歌词"
+    ],
+    "nextSource": "IMSLP Jurgenson 声乐谱；MuseScore 公共曲谱 “Kuda, kuda”",
+    "method": "需第二个结构化来源；OMR 版本不可修复",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "onegin-ariozo",
+    "title": "Ариозо Онегина",
+    "titleZh": "奥涅金咏叙调",
+    "composer": "P. I. Tchaikovsky",
+    "opera": "Евгений Онегин",
+    "language": "俄语",
+    "voice": "男中音",
+    "difficulty": "中级",
+    "status": "来源已定位",
+    "reason": "Tarakanov 自动识别 MusicXML（chaik-onegin-oneginariozo.mxl）已定位，尚未下载核验。",
+    "state": "research",
+    "sourceGrade": "E",
+    "missing": [
+      "下载与声部/歌词核验"
+    ],
+    "nextSource": "Tarakanov chaik-onegin-oneginariozo.mxl；IMSLP Jurgenson 声乐谱",
+    "method": "下载（需 Range 续传）→ 打印声部音域/歌词覆盖 → 决定是否可用",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "lyubasha-aria",
+    "title": "Ария Любаши",
+    "titleZh": "柳巴莎咏叹调",
+    "composer": "N. Rimsky-Korsakov",
+    "opera": "Царская невеста",
+    "language": "俄语",
+    "voice": "女中音",
+    "difficulty": "中级",
+    "status": "来源已定位",
+    "reason": "Tarakanov 自动识别 MusicXML（lyub.mxl）已定位，尚未下载核验。",
+    "state": "research",
+    "sourceGrade": "E",
+    "missing": [
+      "下载与声部/歌词核验"
+    ],
+    "nextSource": "Tarakanov lyub.mxl；IMSLP Belaieff 声乐谱",
+    "method": "同上",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "marfa-ariya",
+    "title": "Ария Марфы",
+    "titleZh": "玛尔法咏叹调",
+    "composer": "N. Rimsky-Korsakov",
+    "opera": "Царская невеста",
+    "language": "俄语",
+    "voice": "女高音",
+    "difficulty": "高阶",
+    "status": "仅有 PDF",
+    "reason": "Tarakanov 完整 PDF（6 页）已缓存，无结构化谱面，待谱面识别与人工校对。",
+    "state": "research",
+    "sourceGrade": "E",
+    "missing": [
+      "结构化谱面"
+    ],
+    "nextSource": "已缓存 Tarakanov PDF（6 页）；IMSLP Belaieff 声乐谱",
+    "method": "Audiveris OMR → 声部提取 → 逐音节校正",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "liza-scena-ariya",
+    "title": "Сцена и ария Лизы",
+    "titleZh": "丽莎的场景与咏叹调",
+    "composer": "P. I. Tchaikovsky",
+    "opera": "Пиковая дама",
+    "language": "俄语",
+    "voice": "女高音",
+    "difficulty": "高阶",
+    "status": "仅有 PDF",
+    "reason": "Tarakanov 完整 PDF（24 页）已缓存，无结构化谱面。",
+    "state": "research",
+    "sourceGrade": "E",
+    "missing": [
+      "结构化谱面"
+    ],
+    "nextSource": "已缓存 Tarakanov PDF（24 页）",
+    "method": "同上，且需先切出咏叹调范围",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "o-mio-babbino-caro",
+    "title": "O mio babbino caro",
+    "titleZh": "我亲爱的爸爸",
+    "composer": "G. Puccini",
+    "opera": "Gianni Schicchi",
+    "language": "意大利语",
+    "voice": "女高音",
+    "difficulty": "基础",
+    "status": "待可核验原谱",
+    "reason": "尚未找到可解析的公开 MusicXML；IMSLP 有 Ricordi 声乐谱 PDF。",
+    "state": "research",
+    "sourceGrade": "E",
+    "missing": [
+      "MusicXML/MXL"
+    ],
+    "nextSource": "MuseScore 公共曲谱；IMSLP Ricordi 声乐谱 PDF（https://imslp.org/wiki/Gianni_Schicchi_(Puccini,_Giacomo)）",
+    "method": "检索结构化来源；若仅 PDF 则 OMR + 校正",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "una-furtiva-lagrima",
+    "title": "Una furtiva lagrima",
+    "titleZh": "偷洒一滴泪",
+    "composer": "G. Donizetti",
+    "opera": "L’elisir d’amore",
+    "language": "意大利语",
+    "voice": "男高音",
+    "difficulty": "中级",
+    "status": "待可核验原谱",
+    "reason": "尚未找到可解析的公开 MusicXML；IMSLP 有 Ricordi 声乐谱 PDF。",
+    "state": "research",
+    "sourceGrade": "E",
+    "missing": [
+      "MusicXML/MXL"
+    ],
+    "nextSource": "IMSLP Ricordi 声乐谱 PDF（https://imslp.org/wiki/L%27elisir_d%27amore_(Donizetti,_Gaetano)）",
+    "method": "同上",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "der-holle-rache",
+    "title": "Der Hölle Rache",
+    "titleZh": "复仇的火焰",
+    "composer": "W. A. Mozart",
+    "opera": "Die Zauberflöte",
+    "language": "德语",
+    "voice": "女高音",
+    "difficulty": "高阶",
+    "status": "待可核验原谱",
+    "reason": "尚未找到可解析的公开 MusicXML；IMSLP 有 NMA 总谱。",
+    "state": "research",
+    "sourceGrade": "E",
+    "missing": [
+      "MusicXML/MXL"
+    ],
+    "nextSource": "IMSLP NMA 总谱（https://imslp.org/wiki/Die_Zauberfl%C3%B6te,_K.620_(Mozart,_Wolfgang_Amadeus)）",
+    "method": "同上；花腔段 OMR 难度高",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "didos-lament",
+    "title": "When I am laid in earth",
+    "titleZh": "狄朵的哀歌",
+    "composer": "H. Purcell",
+    "opera": "Dido and Aeneas",
+    "language": "英语",
+    "voice": "女中音",
+    "difficulty": "基础",
+    "status": "待可核验原谱",
+    "reason": "尚未找到可解析的公开 MusicXML；Mutopia/IMSLP 有 PDF 与 LilyPond 源。",
+    "state": "research",
+    "sourceGrade": "E",
+    "missing": [
+      "MusicXML/MXL"
+    ],
+    "nextSource": "Mutopia（LilyPond 源，https://www.mutopiaproject.org/）；IMSLP Purcell Society 版",
+    "method": "若 Mutopia 有 .ly 源可用 LilyPond 导出 MusicXML",
+    "accessed": "2026-09-07"
+  }
+]

@@ -1,0 +1,178 @@
+{
+  "title": "Gretchen am Spinnrade",
+  "titleZh": "纺车旁的格蕾琴",
+  "composer": "F. Schubert",
+  "opera": "D. 118（独立艺术歌曲，1814；诗：J.W. von Goethe《浮士德》第一部）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "genre": "艺术歌曲",
+  "tempoBpm": 72,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（d 小调，6/8 Nicht zu geschwind，约 120 小节）。钢琴右手的十六分音符持续模拟纺车转动，左手踏板低音。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    },
+    {
+      "name": "IMSLP — Gretchen am Spinnrade, D.118",
+      "url": "https://imslp.org/wiki/Gretchen_am_Spinnrade,_D.118_(Schubert,_Franz)",
+      "format": "PDF",
+      "role": "音高与歌词校验参考",
+      "status": "Breitkopf & Härtel 版（公有领域）",
+      "grade": "A",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Meine Ruh' ist hin, mein Herz ist schwer;",
+      "zh": "我的安宁已逝，我的心好沉重；"
+    },
+    {
+      "text": "ich finde sie nimmer und nimmermehr.",
+      "zh": "我再也找不回它了，永远找不回了。"
+    },
+    {
+      "text": "Wo ich ihn nicht hab', ist mir das Grab,",
+      "zh": "没有他在的地方，对我就是坟墓，"
+    },
+    {
+      "text": "die ganze Welt ist mir vergällt.",
+      "zh": "整个世界都变得苦涩。"
+    },
+    {
+      "text": "Mein armer Kopf ist mir verrückt,",
+      "zh": "我可怜的头脑已经疯了，"
+    },
+    {
+      "text": "mein armer Sinn ist mir zerstückt.",
+      "zh": "我可怜的心智已被撕碎。"
+    },
+    {
+      "text": "Meine Ruh' ist hin, mein Herz ist schwer;",
+      "zh": "我的安宁已逝，我的心好沉重；"
+    },
+    {
+      "text": "ich finde sie nimmer und nimmermehr.",
+      "zh": "我再也找不回它了，永远找不回了。"
+    },
+    {
+      "text": "Nach ihm nur schau' ich zum Fenster hinaus,",
+      "zh": "我只为他望向窗外，"
+    },
+    {
+      "text": "nach ihm nur geh' ich aus dem Haus.",
+      "zh": "只为他才走出家门。"
+    },
+    {
+      "text": "Sein hoher Gang, sein' edle Gestalt,",
+      "zh": "他高大的步伐，高贵的身姿，"
+    },
+    {
+      "text": "seines Mundes Lächeln, seiner Augen Gewalt,",
+      "zh": "他嘴角的微笑，他目光的力量，"
+    },
+    {
+      "text": "und seiner Rede Zauberfluss,",
+      "zh": "还有他言语的魔力，"
+    },
+    {
+      "text": "sein Händedruck, und ach, sein Kuss!",
+      "zh": "他的握手，还有，啊，他的吻！"
+    },
+    {
+      "text": "Meine Ruh' ist hin, mein Herz ist schwer;",
+      "zh": "我的安宁已逝，我的心好沉重；"
+    },
+    {
+      "text": "ich finde sie nimmer und nimmermehr.",
+      "zh": "我再也找不回它了，永远找不回了。"
+    },
+    {
+      "text": "Mein Busen drängt sich nach ihm hin.",
+      "zh": "我的胸膛向他靠拢。"
+    },
+    {
+      "text": "Ach, dürft' ich fassen und halten ihn,",
+      "zh": "啊，要是我能抓住他、留住他，"
+    },
+    {
+      "text": "und küssen ihn, so wie ich wollt',",
+      "zh": "按照我渴望的那样亲吻他，"
+    },
+    {
+      "text": "an seinen Küssen vergehen sollt'!",
+      "zh": "在他的吻中消融！"
+    },
+    {
+      "text": "Meine Ruh' ist hin, mein Herz ist schwer.",
+      "zh": "我的安宁已逝，我的心好沉重。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "Ruh' 的 u 保持深圆 [uː]，最后的呼气像叹息",
+        "verrückt 的 ü 是圆唇前元音 [ʏ]，Küssen 的 ü 是 [yː]",
+        "Gewalt 的 a 是开口 [a]，要充分打开"
+      ]
+    },
+    {
+      "title": "辅音与连贯性",
+      "items": [
+        "nimmermehr 的双 m 要适度延长，增强'永远不'的绝望感",
+        "Zauberfluss 的 Z 读 [ts]，fluss 的 ss 是清擦音",
+        "6/8 拍中歌词的节奏要自然流动，不要过分强调每个拍点——模拟纺车的连续转动"
+      ]
+    }
+  ],
+  "story": {
+    "background": "这是舒伯特 17 岁时（1814 年 10 月 19 日）创作的作品，被许多音乐学者视为现代德语艺术歌曲的开端。歌词选自歌德《浮士德》第一部中格蕾琴的独白——她已深深爱上浮士德，独自在纺车旁唱出内心的焦灼与渴望。钢琴持续不断的十六分音符模拟纺车转动，这一图像化的伴奏手法深刻影响了后世全部艺术歌曲创作。",
+    "situation": "格蕾琴独自坐在纺车旁。浮士德已经离开，她不知道他会不会回来。她的手在机械地转着纺车，但脑海里全是浮士德——他的步伐、微笑、眼神、话语、握手和亲吻。每当想到'他的吻'，她的情绪就失控，纺车在音乐中也随之停顿。",
+    "relationships": "格蕾琴是一个纯真的市民少女，浮士德是年长的学者（与魔鬼签了约）。她的爱是全身心的、毫无保留的，但她并不了解浮士德的真实处境。这首歌没有对话，只有她一个人的内心独白——这让孤独感更加强烈。",
+    "intent": "开头的'Meine Ruh' ist hin'要像叹息般轻声开始，仿佛自言自语。中间描述浮士德特征的段落应该越来越热烈。到'sein Kuss!'时达到情感爆发点——纺车停顿。之后重新开始转动，格蕾琴试图平静下来，但最后一段的渴望更加强烈，直到'an seinen Küssen vergehen sollt'——她愿意在他的吻中消融。",
+    "plain30": "一个少女爱上了一个男人，他走了，她坐在纺车旁反复想他——他的样子、他的声音、他的吻。每次想到那个吻，她的思绪就断了，纺车也停了。这是一首关于被初恋灼烧的内心独白。",
+    "arc": "d 小调，6/8。纺车音型从头到尾几乎不间断。'Meine Ruh' ist hin' 作为副歌反复出现三次，旋律不变但情感层次递进。中间段落随着对浮士德的回忆从 F 大调逐步攀升到 A 大调高潮——'sein Kuss!'——此处纺车突然停止（全曲唯一的中断），然后缓慢重新启动。尾声在 d 小调中渐弱结束。",
+    "motif": "副歌动机：'Meine Ruh' ist hin' 的下行旋律——从 A 到 D 的四度下行像叹息，每次出现都带着更深的疲惫。纺车动机：钢琴右手连续的十六分音符，在 'sein Kuss!' 处突然中断再缓慢重启——这一刻的沉默比任何音符都有力。上行高潮动机：描述浮士德特征时旋律不断攀升，代表格蕾琴不可抑制的渴望。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "第一次副歌：'Meine Ruh' ist hin' 平静的叹息，建立基调"
+      },
+      {
+        "phrase": "9",
+        "note": "'Nach ihm nur schau' ich' 开始上行——回忆的温度在升高"
+      },
+      {
+        "phrase": "14",
+        "note": "'sein Kuss!' 全曲高潮——纺车停顿，声音应该有爆发后的空白"
+      },
+      {
+        "phrase": "17",
+        "note": "最后一段的渴望：'Mein Busen drängt sich' 比之前更强烈，是无法自拔的绝望"
+      }
+    ],
+    "technique": "6/8 拍的流动感是关键——歌声要像纺车一样连续流动，不要把每个小节都切断。副歌要控制音量，像内心独白而非舞台宣言。高潮处 'sein Kuss!' 之后的重新启动需要非常好的气息控制——从静止到转动，像发动机重新点火。最高音在第三段副歌和 'vergehen sollt' 附近，需要混声区的良好衔接。",
+    "classroom": [
+      "先读中文，理解格蕾琴的处境：她是一个被初恋冲昏头脑的普通少女，不是歌剧里的女英雄。",
+      "慢速朗读德语，注意'Meine Ruh' ist hin'的叹息语气和 'sein Kuss' 的爆发。",
+      "练习 6/8 拍的流动感：用'嗒嗒嗒 嗒嗒嗒'哼唱旋律，保持连续性。",
+      "单独练副歌——三次出现，每次在情感上要有区别。",
+      "练习高潮段落：'sein Händedruck, und ach, sein Kuss!' 的渐强和停顿。",
+      "把歌词放回旋律，注意纺车停顿后重启的呼吸处理。",
+      "完整演唱。想象自己坐在纺车旁，双手在机械地工作，但思绪完全在别处。"
+    ]
+  },
+  "role": "玛格丽特（浮士德中的少女）"
+}

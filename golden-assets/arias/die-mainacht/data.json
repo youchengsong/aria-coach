@@ -1,0 +1,1862 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "die-mainacht",
+ "title": "Die Mainacht",
+ "titleZh": "五月之夜",
+ "composer": "J. Brahms",
+ "opera": "Op.43 No.2（独立艺术歌曲，1868；诗：L.H.C. Hölty）",
+ "language": "德语",
+ "voice": "男中音",
+ "difficulty": "中级",
+ "tempoBpm": 52,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   52
+  ],
+  "firstSungMeasure": 2,
+  "complete": true,
+  "note": "完整声乐旋律（降E大调，4/4，非常缓慢而富有表情，约48小节，三段通作歌曲）。勃拉姆斯最感人的独唱歌曲之一。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "Bb3",
+  "high": "Fb5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主人公（孤独的恋人）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Wann der silberne Mond durch die Gesträuche blinkt,",
+   "zh": "当银色的月亮透过灌木丛闪烁，"
+  },
+  {
+   "text": "und sein schlummerndes Licht über den Rasen streut,",
+   "zh": "将沉睡的光芒洒在草地上，"
+  },
+  {
+   "text": "und die Nachtigall flötet,",
+   "zh": "夜莺在歌唱，"
+  },
+  {
+   "text": "wandl' ich traurig von Busch zu Busch.",
+   "zh": "我悲伤地从树丛走到树丛。"
+  },
+  {
+   "text": "Überhüllet vom Laub girret ein Taubenpaar",
+   "zh": "一对鸽子在绿叶的掩映下咕咕低语，"
+  },
+  {
+   "text": "sein Entzücken mir vor;",
+   "zh": "向我炫耀它们的欢愉；"
+  },
+  {
+   "text": "aber ich wende mich,",
+   "zh": "但我转过身去，"
+  },
+  {
+   "text": "suche dunklere Schatten,",
+   "zh": "寻找更深的阴影，"
+  },
+  {
+   "text": "und die einsame Träne rinnt.",
+   "zh": "孤独的泪珠滑落。"
+  },
+  {
+   "text": "Wann, o lächelndes Bild, welches wie Morgenrot",
+   "zh": "何时，哦微笑的面容，像晨曦一样"
+  },
+  {
+   "text": "durch die Seele mir strahlt, find' ich auf Erden dich?",
+   "zh": "照亮我的灵魂，我能在人间找到你吗？"
+  },
+  {
+   "text": "Und die einsame Träne",
+   "zh": "孤独的泪珠"
+  },
+  {
+   "text": "bebt mir heißer die Wang' herab.",
+   "zh": "更加滚烫地从我脸颊滑落。"
+  }
+ ],
+ "story": {
+  "background": "勃拉姆斯的《五月之夜》取自霍尔蒂的诗——描绘一个人在五月的夜晚独自漫步，被大自然的美丽和他人的幸福映衬出内心的孤独。这是勃拉姆斯最受演唱家喜爱的独唱歌曲之一，降E大调的温暖中隐藏着深沉的忧伤。",
+  "situation": "月光下的花园。银色的月亮、草地上的光、夜莺的歌声——一切都很美。但歌者是孤独的。一对鸽子的亲密让他更加悲伤。他转身走向阴影深处，流下了眼泪。最后他问：那个像晨曦一样照亮灵魂的微笑面容，何时才能在人间找到？",
+  "relationships": "歌者与一个缺席的爱人——'lächelndes Bild'（微笑的面容）是记忆中或想象中的人。大自然的一切美好都在提醒他的孤独。",
+  "intent": "第一段平静地叙述夜景，但'traurig'已经暗示情绪。第二段鸽子的幸福形成对比，'einsame Träne'是第一个情感落点。第三段是高潮——'Wann, o lächelndes Bild' 的呐喊，最后以更热的泪珠结束。",
+  "plain30": "月光下的夜晚，夜莺在唱，鸽子在相爱——而我独自走在阴影里流泪。那个照亮我灵魂的微笑面容，何时才能在人间找到？",
+  "arc": "降E大调，4/4。第一段在中低音区展开夜景描写。第二段稍上行（鸽子的欢愉），然后'wende mich'转入小调阴影。第三段'Wann, o lächelndes Bild'在高音区爆发，然后回落到'heißer die Wang' herab'——更加灼热的泪珠，情感比开头更深。",
+  "motif": "夜行动机：开头的下行级进像月光下的脚步。'einsame Träne'的小二度叹息动机在第二段和第三段反复出现，每次更深沉。第三段'lächelndes Bild'的上行跳进是全曲的情感顶点——对缺席爱人的呼唤。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "'Wann der silberne Mond' 月光下行动机——宁静的开始"
+   },
+   {
+    "phrase": "4",
+    "note": "'traurig von Busch zu Busch' 悲伤的脚步"
+   },
+   {
+    "phrase": "9",
+    "note": "'einsame Träne rinnt' 孤独的泪珠——叹息动机"
+   },
+   {
+    "phrase": "10",
+    "note": "'Wann, o lächelndes Bild' 情感高潮——对爱人的呐喊"
+   }
+  ],
+  "technique": "需要极好的气息控制——4/4 的慢速意味着每个乐句都很长。'silberne Mond' 的长音需要均匀的气流。第三段的力度变化要自然——不是突然变大，而是情感的积累。最后的 'herab' 要控制好渐弱——泪珠滑落的感觉。",
+  "classroom": [
+   "先读中文——月夜、孤独、泪水、渴望。这是一首关于思念的歌。",
+   "朗读德语：注意复合词的重音（'Nachtigall'重音在第一音节）和 äu/ü/ä 的发音。",
+   "这首歌很慢——先用节拍器确定速度，不要快。",
+   "第一段平静叙述，先用说话的语气练。",
+   "第三段是情感高潮——'Wann, o lächelndes Bild' 可以推到 forte。",
+   "最后的'heißer die Wang' herab' 要回到 piano——泪珠是安静的。",
+   "完整演唱。这首歌需要一个安静的练习空间。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "silberne 的 i 短 [ɪ]",
+    "Gesträuche 的 äu 读 [ɔʏ]",
+    "Nachtigall 的 a 是短 [a]，i 是短 [ɪ]",
+    "Überhüllet 的 ü 是长 [yː]",
+    "Träne 的 ä 是长 [ɛː]"
+   ]
+  },
+  {
+   "title": "歌唱风格",
+   "items": [
+    "这是一首极其缓慢的夜曲——呼吸要深长",
+    "第一段是叙述性的，像夜间散步的独白",
+    "第二段（鸽子）加入对比——别人的幸福 vs 自己的孤独",
+    "第三段的'Wann, o lächelndes Bild'是情感爆发——从 piano 到 forte 再回落"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    2,
+    5
+   ],
+   "lyrics": "Wann der silberne Mond durch die Gesträuche blinkt",
+   "translation": "当银色的月亮透过灌木丛闪烁，",
+   "events": [
+    {
+     "id": "die-mainacht-e0002",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0003",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "Wann",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0004",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0005",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 3.0,
+     "lyric": "sil",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0006",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 4.0,
+     "lyric": "ber",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-mainacht-e0007",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 4.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0008",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "Mond",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0009",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "durch",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0010",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 4.0,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0011",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 4.5,
+     "lyric": "Ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0012",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "sträu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-mainacht-e0013",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "che",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0014",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "blinkt",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    6,
+    8
+   ],
+   "lyrics": "und sein schlummerndes Licht über den Rasen streut,",
+   "translation": "将沉睡的光芒洒在草地上，",
+   "events": [
+    {
+     "id": "die-mainacht-e0015",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0016",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "sein",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0017",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 3.0,
+     "lyric": "schlum",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0018",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 4.0,
+     "lyric": "mern",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-mainacht-e0019",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 4.5,
+     "lyric": "des",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0020",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "Licht",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0021",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 3.0,
+     "lyric": "ü",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0022",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 4.0,
+     "lyric": "ber",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0023",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 4.5,
+     "lyric": "den",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0024",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "Ra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0025",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "sen",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0026",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "streut,",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0027",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    9,
+    10
+   ],
+   "lyrics": "und die Nachtigall flötet,",
+   "translation": "夜莺在歌唱，",
+   "events": [
+    {
+     "id": "die-mainacht-e0028",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0029",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0030",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "Nach",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0031",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 4.0,
+     "lyric": "ti",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-mainacht-e0032",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 4.5,
+     "lyric": "gall",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0033",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "flö",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0034",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "tet,",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0035",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    11,
+    14
+   ],
+   "lyrics": "wandl ich traurig von Busch zu Busch.",
+   "translation": "我悲伤地从树丛走到树丛。",
+   "events": [
+    {
+     "id": "die-mainacht-e0036",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "wandl",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0037",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0038",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "trau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0039",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 4.0,
+     "lyric": "rig",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0040",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 4.5,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0041",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "Busch",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0042",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 4.0,
+     "lyric": "zu",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0043",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "Busch.",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0044",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0045",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    15,
+    17
+   ],
+   "lyrics": "Überhüllet vom Laub girret ein Taubenpaar",
+   "translation": "一对鸽子在绿叶的掩映下咕咕低语，",
+   "events": [
+    {
+     "id": "die-mainacht-e0046",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "Ü",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0047",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "ber",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-mainacht-e0048",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "hül",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-mainacht-e0049",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 4.0,
+     "lyric": "let",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0050",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 4.5,
+     "lyric": "vom",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0051",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "Laub",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0052",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0053",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "gir",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0054",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 4.0,
+     "lyric": "ret",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0055",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 4.5,
+     "lyric": "ein",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0056",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "Tau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0057",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "ben",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-mainacht-e0058",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "paar",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    18,
+    22
+   ],
+   "lyrics": "sein Entzücken mir vor",
+   "translation": "向我炫耀它们的欢愉；",
+   "events": [
+    {
+     "id": "die-mainacht-e0059",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "sein",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0060",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "Ent",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0061",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "zü",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-mainacht-e0062",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 4.0,
+     "lyric": "cken",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0063",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 4.5,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0064",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "vor",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0065",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0066",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0067",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 21,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0068",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    22,
+    24
+   ],
+   "lyrics": "aber ich wende mich,",
+   "translation": "但我转过身去，",
+   "events": [
+    {
+     "id": "die-mainacht-e0069",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0070",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 4.0,
+     "lyric": "ber",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0071",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 4.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0072",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "wen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0073",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0074",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 23,
+     "beat": 3.0,
+     "lyric": "mich,",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0075",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0076",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    24,
+    27
+   ],
+   "lyrics": "suche dunklere Schatten,",
+   "translation": "寻找更深的阴影，",
+   "events": [
+    {
+     "id": "die-mainacht-e0077",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 24,
+     "beat": 2.0,
+     "lyric": "su",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0078",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 4.0,
+     "lyric": "che",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0079",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "dunk",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0080",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0081",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "le",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-mainacht-e0082",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 4.0,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0083",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "Schat",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0084",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "ten,",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0085",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0086",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    28,
+    31
+   ],
+   "lyrics": "und die einsame Träne",
+   "translation": "孤独的泪珠滑落。",
+   "events": [
+    {
+     "id": "die-mainacht-e0087",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0088",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 4.0,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0089",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "ein",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0090",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 3.0,
+     "lyric": "sa",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-mainacht-e0091",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 4.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0092",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 5.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "Trä",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0093",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0094",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0095",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 4.0,
+     "lyric": "ne",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    32,
+    34
+   ],
+   "lyrics": "rinnt. Wann, o lächelndes",
+   "translation": "何时，哦微笑的面容，像晨曦一样",
+   "events": [
+    {
+     "id": "die-mainacht-e0096",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "rinnt.",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0097",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0098",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0099",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "Wann,",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0100",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 2.0,
+     "lyric": "o",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0101",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 3.0,
+     "lyric": "lä",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0102",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 4.0,
+     "lyric": "cheln",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-mainacht-e0103",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 4.5,
+     "lyric": "des",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    35,
+    37
+   ],
+   "lyrics": "Bild, welches wie Morgenrot durch die Seele mir",
+   "translation": "照亮我的灵魂，我能在人间找到你吗？",
+   "events": [
+    {
+     "id": "die-mainacht-e0104",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "Bild,",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0105",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0106",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 3.0,
+     "lyric": "wel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0107",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 4.0,
+     "lyric": "ches",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0108",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 4.5,
+     "lyric": "wie",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0109",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "Mor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0110",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 2.0,
+     "lyric": "gen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-mainacht-e0111",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 36,
+     "beat": 3.0,
+     "lyric": "rot",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0112",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0113",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "durch",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0114",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 2.0,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0115",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 3.0,
+     "lyric": "See",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0116",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 4.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0117",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 4.5,
+     "lyric": "mir",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    38,
+    39
+   ],
+   "lyrics": "strahlt, find ich auf Erden dich?",
+   "translation": "照亮我的灵魂，我能在人间找到你吗？",
+   "events": [
+    {
+     "id": "die-mainacht-e0118",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "strahlt,",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0119",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "find",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0120",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 4.0,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0121",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 4.5,
+     "lyric": "auf",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0122",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "Er",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0123",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.5,
+     "lyric": "den",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0124",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 39,
+     "beat": 3.0,
+     "lyric": "dich?",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0125",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    40,
+    43
+   ],
+   "lyrics": "Und die einsame Träne",
+   "translation": "孤独的泪珠",
+   "events": [
+    {
+     "id": "die-mainacht-e0126",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "Und",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0127",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 4.0,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0128",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "ein",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0129",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 3.0,
+     "lyric": "sa",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-mainacht-e0130",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 4.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0131",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 5.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "Trä",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0132",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0133",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0134",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 4.0,
+     "lyric": "ne",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    44,
+    45
+   ],
+   "lyrics": "bebt mir heisser,",
+   "translation": "更加滚烫地从我脸颊滑落。",
+   "events": [
+    {
+     "id": "die-mainacht-e0135",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "bebt",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0136",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 44,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0137",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 44,
+     "beat": 4.0,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0138",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "heis",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0139",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 3.0,
+     "lyric": "ser,",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0140",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    46,
+    52
+   ],
+   "lyrics": "heisser die Wang herab.",
+   "translation": "更加滚烫地从我脸颊滑落。",
+   "events": [
+    {
+     "id": "die-mainacht-e0141",
+     "pitch": "Fb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "heis",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0142",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 46,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0143",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 46,
+     "beat": 3.0,
+     "lyric": "ser",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0144",
+     "pitch": "Fb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 46,
+     "beat": 4.0,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0145",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "Wang",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-mainacht-e0146",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 47,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0147",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 48,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0148",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0149",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 4.0,
+     "lyric": "her",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-mainacht-e0150",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "ab.",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-mainacht-e0151",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 49,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0152",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0153",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-mainacht-e0154",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 153,
+ "restCount": 26,
+ "lyricNoteCount": 119,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 15,
+  "slowScale": 1.45
+ }
+}

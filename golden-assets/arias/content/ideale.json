@@ -1,0 +1,148 @@
+{
+ "title": "Ideale",
+ "titleZh": "理想",
+ "composer": "F. P. Tosti",
+ "opera": "Ideale（1882；意大利语浪漫曲，词 Carmelo Errico）",
+ "role": "抒情主体：呼唤已逝理想之爱的人",
+ "genre": "浪漫曲",
+ "language": "意大利语",
+ "voice": "男高音",
+ "difficulty": "中级",
+ "tempoBpm": 63,
+ "complete": true,
+ "sourceGrade": "B",
+ "coverageNote": "完整声乐旋律（4/4，42 小节），163 个意大利语音节；OpenScore 据 Ricordi 版转写，已与 IMSLP 声乐谱核对。",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Tosti,_Francesco_Paolo/_/Ideale",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Tosti,_Francesco_Paolo/_/Ideale",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；163 个音节与 Ricordi 版逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/29381987"
+  },
+  {
+   "name": "IMSLP · Ideale (Tosti, Francesco Paolo)",
+   "url": "https://imslp.org/wiki/Ideale_(Tosti,_Francesco_Paolo)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "LiederNet · Ideale (Errico)",
+   "url": "https://www.lieder.net/lieder/get_text.html?TextId=47230",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Io ti seguii come iride di pace lungo le vie del cielo;",
+   "zh": "我追随你，像追随天路上和平的彩虹；"
+  },
+  {
+   "text": "io ti seguii come un’amica face de la notte nel velo.",
+   "zh": "我追随你，像追随夜幕中一支友善的火炬。"
+  },
+  {
+   "text": "E ti sentii ne la luce, ne l’aria, nel profumo dei fiori;",
+   "zh": "我在光里、在空气里、在花香里感到你；"
+  },
+  {
+   "text": "e fu piena la stanza solitaria di te, dei tuoi splendori.",
+   "zh": "孤寂的房间充满了你、你的光辉。"
+  },
+  {
+   "text": "In te rapito, al suon de la tua voce lungamente sognai;",
+   "zh": "陶醉于你，听着你的声音，我久久地梦着；"
+  },
+  {
+   "text": "e de la terra ogni affanno, ogni croce in quel giorno scordai.",
+   "zh": "那一天我忘了尘世的一切忧愁与苦难。"
+  },
+  {
+   "text": "Torna, caro ideal, torna un istante a sorridermi ancora,",
+   "zh": "回来吧，亲爱的理想，回来片刻，再对我微笑一次，"
+  },
+  {
+   "text": "e a me risplenderà nel tuo sembiante una novella aurora.",
+   "zh": "在你的面容里，一道新的曙光将为我闪耀。"
+  },
+  {
+   "text": "Torna, caro ideal, torna, torna.",
+   "zh": "回来吧，亲爱的理想，回来，回来。"
+  }
+ ],
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "seGUÌI（三音节，重音在 gui）、Ìride、soliTÀria、SPLENdori、riSPLENderà；双辅音 aFFANno、TERra、sorRÌDermi。",
+    "“affanno” nn 双辅音；“notte” tt。"
+   ]
+  },
+  {
+   "title": "连读与省略",
+   "items": [
+    "“un’amica” 省音；“de la”“ne la” 是诗体分写的 della/nella；“caro‿ideal” 连读为一音。",
+    "“ogni affanno, ogni croce” 中 -i a- / -i c- 不连读。"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "pace、face、luce 的 e 为闭口 [e]；cielo、velo 的 e 为开口 [ɛ]；“ideal”“istante” 的 e 开口。",
+    "“sognai”“scordai” 的 -ai 是双元音，重音在 a。"
+   ]
+  }
+ ],
+ "story": {
+  "background": "托斯蒂是 19 世纪末最成功的意大利沙龙歌曲作曲家，长期任英国王室声乐教师。《理想》（1882，词 Carmelo Errico）是他最著名的浪漫曲之一，卡鲁索、吉利、帕瓦罗蒂都留下录音。它是男高音学习意大利语抒情线条的标准曲目。",
+  "situation": "叙述者回忆曾经追随的“理想”——一个像彩虹、像火炬的爱人，曾让他忘记一切苦难。现在她（或它）已不在，他呼唤：回来片刻，再对我笑一次。他想要的是重温那份光，害怕的是它永远不再。",
+  "relationships": "“我”与被称为 “caro ideal”（亲爱的理想）的“你”。这个“你”既是具体的人，也是抽象的理想；歌曲刻意不区分，使呼唤同时指向爱情与青春。",
+  "intent": "前两段（回忆）要唱得柔和、连绵，像在讲一个已经过去的美好；“E ti sentii ne la luce” 略微升温。“Torna, caro ideal” 是全曲的转折——从回忆到祈求，声音放宽、放亮；“una novella aurora” 是高潮；最后的 “torna, torna” 逐渐放轻，像呼唤远去。",
+  "plain30": "他曾追随一个像彩虹一样的爱人，在她身边忘掉一切苦难。如今她不在了，他唱：回来吧，亲爱的理想，哪怕只再笑一次。",
+  "arc": "4/4 Andante，钢琴以分解和弦作背景。旋律以长线条级进为主，前两段在中音区平稳流动；“In te rapito” 起音区抬高；“Torna, caro ideal” 转为向上的跳进，“novella aurora” 到达最高音，尾声 “torna, torna” 落回主音并渐弱。情绪：怀念—陶醉—祈求—余音。",
+  "motif": "核心动机是 “Io ti seguii” 的级进上行三音再回落：追随的动作。它在第二句以同样形式出现，在 “In te rapito” 音区升高，“Torna, caro ideal” 把上行变为跳进，成为呼唤。演唱时保持每次上行的连贯，让呼唤段的跳进对比更明显。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Io ti seguii” 追随动机首次出现。"
+   },
+   {
+    "phrase": 2,
+    "note": "第 2 句 “io ti seguii come un’amica face” 动机重复，织体不变。"
+   },
+   {
+    "phrase": 5,
+    "note": "第 5 句 “In te rapito” 动机音区抬高，情绪升温。"
+   },
+   {
+    "phrase": 7,
+    "note": "第 7 句 “Torna, caro ideal” 动机变为跳进，全曲转折。"
+   }
+  ],
+  "technique": "呼吸：句子长，每两小节换气一次，“lungamente sognai” 前吸足。咬字：双辅音停顿，词尾元音饱满；“seguii” 的两个 i 分开唱。换声区：男高音在 F4–G4（“splendori”“sognai”）经过换声区，保持元音略窄。高音：“aurora” 上的最高音（G4–A♭4 视调而定）靠前句的上行推上去，不单独发力；最后的 “torna” 要弱而稳。",
+  "classroom": [
+   "先读中文，找出“过去（追随）”与“现在（呼唤）”的分界。",
+   "慢速读原文，标出重音与双辅音。",
+   "分离元音：练开口 e 与闭口 e 的区别。",
+   "按 4/4 说词，每小节四拍平稳。",
+   "听单音旋律，注意上行三音的连贯。",
+   "把歌词放回旋律，先练前两段的平稳，再练 “Torna” 的跳进。",
+   "用正常速度完整演唱，结尾逐渐放轻。"
+  ]
+ },
+ "phraseFixes": {
+  "De la note": "De la notte",
+  "caro‿ideal": "caro ideal"
+ }
+}

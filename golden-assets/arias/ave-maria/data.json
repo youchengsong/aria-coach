@@ -1,0 +1,4148 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "ave-maria",
+ "title": "Ave Maria (Ellens Gesang III)",
+ "titleZh": "圣母颂（埃伦的第三首歌）",
+ "composer": "F. Schubert",
+ "opera": "Ellens Gesang III, D. 839, Op. 52 No. 6（1825；德语艺术歌曲，词 Walter Scott 德译 Adam Storck）",
+ "language": "德语",
+ "voice": "女高音",
+ "difficulty": "中级",
+ "tempoBpm": 52,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   17
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "分节歌，三节歌词同一旋律（B♭ 大调，4/4 Sehr langsam，17 小节）。本页把三节展开为三遍通读（73 × 3 = 219 个音节），每节标注 verse。歌词为 Storck 的德语译本（舒伯特所用），不是拉丁文祷词。已与 IMSLP Breitkopf 版核对。"
+ },
+ "range": {
+  "low": "F4",
+  "high": "F5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "埃伦（Ellen）：向圣母祈求庇护的少女",
+ "genre": "艺术歌曲（分节歌）",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Schubert,_Franz/Op.52/6_Ellens_Gesang_III,_D.839_(Ave_Maria)",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Schubert,_Franz/Op.52/6_Ellens_Gesang_III,_D.839_(Ave_Maria)",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；三节共 219 个音节与 Breitkopf 版逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/6389103"
+  },
+  {
+   "name": "IMSLP · Ellens Gesang III, D.839 (Schubert, Franz)",
+   "url": "https://imslp.org/wiki/Ellens_Gesang_III,_D.839_(Schubert,_Franz)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "Wikipedia · Ellens dritter Gesang",
+   "url": "https://en.wikipedia.org/wiki/Ellens_dritter_Gesang",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Ave Maria! Jungfrau mild, erhöre einer Jungfrau Flehen!",
+   "zh": "万福玛利亚！温柔的圣女，请垂听一个少女的恳求！"
+  },
+  {
+   "text": "Aus diesem Felsen, starr und wild, soll mein Gebet zu dir hinwehen.",
+   "zh": "从这坚硬荒凉的岩石上，愿我的祈祷飘向你。"
+  },
+  {
+   "text": "Wir schlafen sicher bis zum Morgen, ob Menschen noch so grausam sind.",
+   "zh": "我们将安稳地睡到天明，哪怕人们如此残忍。"
+  },
+  {
+   "text": "O Jungfrau, sieh der Jungfrau Sorgen, o Mutter, hör ein bittend Kind! Ave Maria!",
+   "zh": "圣女啊，看这少女的忧愁；母亲啊，听这恳求的孩子！万福玛利亚！"
+  },
+  {
+   "text": "Ave Maria! Unbefleckt! Wenn wir auf diesen Fels hinsinken",
+   "zh": "万福玛利亚！无玷者！当我们在这岩石上"
+  },
+  {
+   "text": "zum Schlaf, und uns dein Schutz bedeckt, wird weich der harte Fels uns dünken.",
+   "zh": "倒下入睡，你的庇护覆盖我们，坚硬的岩石也会变得柔软。"
+  },
+  {
+   "text": "Du lächelst, Rosendüfte wehen in dieser dumpfen Felsengruft.",
+   "zh": "你微笑，玫瑰的香气便飘进这阴暗的石窟。"
+  },
+  {
+   "text": "O Mutter, höre Kindes Flehen, o Jungfrau, eine Jungfrau ruft! Ave Maria!",
+   "zh": "母亲啊，听孩子的恳求；圣女啊，一个少女在呼唤！万福玛利亚！"
+  },
+  {
+   "text": "Ave Maria! Reine Magd! Der Erde und der Luft Dämonen,",
+   "zh": "万福玛利亚！纯洁的少女！大地与空气的魔鬼，"
+  },
+  {
+   "text": "von deines Auges Huld verjagt, sie können hier nicht bei uns wohnen!",
+   "zh": "被你眼中的恩慈驱逐，不能在此与我们同住！"
+  },
+  {
+   "text": "Wir woll’n uns still dem Schicksal beugen, da uns dein heil’ger Trost anweht;",
+   "zh": "我们愿静静顺从命运，因你神圣的安慰吹拂我们；"
+  },
+  {
+   "text": "der Jungfrau wolle hold dich neigen, dem Kind, das für den Vater fleht! Ave Maria!",
+   "zh": "愿你慈爱地俯身向这少女，向这为父亲祈求的孩子！万福玛利亚！"
+  }
+ ],
+ "story": {
+  "background": "这首《圣母颂》出自舒伯特 1825 年据沃尔特·司各特长诗《湖上夫人》德译本创作的七首歌曲（Op. 52），是女主角埃伦的第三首歌。它后来被配上拉丁文祷词而成为世界最著名的“圣母颂”，但舒伯特写的是 Storck 的德语诗。B♭ 大调，4/4 Sehr langsam，钢琴以六连音模仿竖琴。",
+  "situation": "埃伦与被放逐的父亲道格拉斯躲在苏格兰高地的山洞里，敌人的军队正在搜捕。夜里，她向圣母祈祷：让我们安睡到天明，驱走魔鬼，庇护我为父亲祈求的心。她想要的是父亲的平安，害怕的是黎明带来的追兵。",
+  "relationships": "埃伦（歌者）、圣母玛利亚（被祈求者）、父亲道格拉斯（祈求的对象，不在歌词中出场但第三节点明 “für den Vater”）。歌曲是女儿替父亲的代祷，也是全诗中最静的一刻。",
+  "intent": "开口 “Ave Maria” 要极轻、极稳，像从远处飘来；每节的中段（“Aus diesem Felsen”“Du lächelst”“Wir woll’n uns still”）稍加温度；“O Jungfrau, sieh der Jungfrau Sorgen” 是每节的高点，可放宽但不失祈祷的克制；每节末尾的 “Ave Maria” 回到最弱。三节：祈求—信赖—顺从。",
+  "plain30": "一个少女和父亲躲在山洞里，敌人在外面搜捕。她对圣母祈祷：让我们安睡到天明，赶走魔鬼，保佑我父亲。这就是舒伯特《圣母颂》原本的故事。",
+  "arc": "B♭ 大调，4/4 Sehr langsam，竖琴式六连音伴奏。旋律以级进和小跳构成宽广的两小节乐句，“Ave Maria” 的起句从主音上行到属音再落回；中段音区抬高，“O Jungfrau” 处到达最高音 F5；结尾 “Ave Maria” 回到起句。三节相同，情绪由恳求到信赖到顺从。",
+  "motif": "核心动机是 “A-ve Ma-ri-a” 的祈祷式级进上行再回落：像双手合十抬起又放下。它在每节开头与结尾出现，中段 “O Jungfrau, sieh” 把它抬高一个四度成为呼喊。演唱时上行要连绵，回落要轻，不要在 “Maria” 的长音上推力度。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Ave Maria! Jungfrau mild” 祈祷动机首次出现。"
+   },
+   {
+    "phrase": 4,
+    "note": "第 4 句 “O Jungfrau, sieh der Jungfrau Sorgen” 动机抬高为呼喊，每节高点。"
+   },
+   {
+    "phrase": 5,
+    "note": "第 5 句（第二节）“Ave Maria! Unbefleckt” 动机再现，更信赖。"
+   },
+   {
+    "phrase": 12,
+    "note": "第 12 句（第三节末）“Ave Maria” 最后一次，用最弱音收束。"
+   }
+  ],
+  "technique": "呼吸：速度极慢，每句两小节仍需一口气，吸气深而无声；“erhöre einer Jungfrau Flehen” 前吸足。咬字：长元音要保持纯净，辅音群（bedeckt、verjagt）收清但不打断线条。换声区：女高音在 E♭5–F5（“Jungfrau”“Sorgen”）长时间停留在换声区，用头腔、元音略窄。高音：F5 在 “sieh der Jungfrau” 上，是祈祷的顶点，靠气息的连续推上，不要喊。",
+  "classroom": [
+   "先读中文，弄清她是在替父亲祈祷。",
+   "慢速读德语，标出长元音和辅音群。",
+   "分离元音：练 a-e-i-a 的连贯（Ave Maria）。",
+   "按 4/4 极慢速说词，每拍不超过一个音节。",
+   "听单音旋律，注意起句的上行与回落。",
+   "把歌词放回旋律，先练第一节，再套第二、三节。",
+   "用正常速度完整演唱，每节末尾的 Ave Maria 最弱。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "长短元音",
+   "items": [
+    "Ave [aːvə]、Maria [maˈriːa]、mild [ɪ] 短、Flehen [eː] 长、wild 短、Gebet 长 e。",
+    "Jungfrau 的 u 短、au 双元音；hör、höre 的 ö 长；dünken 的 ü 短。"
+   ]
+  },
+  {
+   "title": "ich/ach 音与辅音结尾",
+   "items": [
+    "sicher、Menschen（sch）、weich、nicht 的 ch [ç]；bedeckt、verjagt 的词尾辅音群 [kt] 要收清。",
+    "Kind、sind、Schutz 的词尾清辅音；“Rosendüfte” 的 f 清晰。"
+   ]
+  },
+  {
+   "title": "复合词重音",
+   "items": [
+    "JUNGfrau、ROsendüfte、FELsengruft、hinWEhen（hin- 前缀不重读，重音在 weh）。",
+    "“Unbefleckt” 重音在 fleckt；“Dämonen” 重音在 mo。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    2,
+    4
+   ],
+   "verse": 1,
+   "lyrics": "Ave Maria!",
+   "translation": "万福玛利亚！温柔的圣女，请垂听一个少女的恳求！",
+   "events": [
+    {
+     "id": "ave-maria-e0002",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 2,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0003",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 3,
+     "beat": 1,
+     "lyric": "A",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0004",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 2.5,
+     "lyric": "ve",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0005",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 2.75,
+     "lyric": "Ma",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0006",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 3,
+     "beat": 3,
+     "lyric": "ri",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ave-maria-e0007",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 4.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0008",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 4,
+     "beat": 1,
+     "lyric": "a!",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0009",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 4,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    4,
+    5
+   ],
+   "verse": 1,
+   "lyrics": "Jungfrau mild!",
+   "translation": "万福玛利亚！温柔的圣女，请垂听一个少女的恳求！",
+   "events": [
+    {
+     "id": "ave-maria-e0010",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 4,
+     "beat": 3,
+     "lyric": "Jung",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0011",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0012",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0013",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0014",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0015",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4.5,
+     "lyric": "frau",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0016",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0017",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 5,
+     "beat": 1,
+     "lyric": "mild!",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0018",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    5,
+    6
+   ],
+   "verse": 1,
+   "lyrics": "Erhöre einer Jungfrau Flehen!",
+   "translation": "万福玛利亚！温柔的圣女，请垂听一个少女的恳求！",
+   "events": [
+    {
+     "id": "ave-maria-e0019",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "Er",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0020",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 5,
+     "beat": 3,
+     "lyric": "hö",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ave-maria-e0021",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 5,
+     "beat": 3.75,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0022",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 5,
+     "beat": 3.875,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0023",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 4,
+     "lyric": "ei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0024",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 4.25,
+     "lyric": "ner",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0025",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 4.5,
+     "lyric": "Jung",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0026",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 4.75,
+     "lyric": "frau",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0027",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 6,
+     "beat": 1,
+     "lyric": "Fle",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0028",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 2,
+     "lyric": "hen!",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    6,
+    8
+   ],
+   "verse": 1,
+   "lyrics": "Aus diesem Felsen, starr und wild, soll mein Gebet zu dir hinwehen.",
+   "translation": "从这坚硬荒凉的岩石上，愿我的祈祷飘向你。",
+   "events": [
+    {
+     "id": "ave-maria-e0029",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 2.75,
+     "lyric": "Aus",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0030",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 3,
+     "lyric": "die",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0031",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 3.75,
+     "lyric": "sem",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0032",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4,
+     "lyric": "Fel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0033",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0034",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4.333,
+     "lyric": "sen,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0035",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4.5,
+     "lyric": "starr",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0036",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0037",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4.833,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0038",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "wild,",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0039",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "soll",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0040",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0041",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 7,
+     "beat": 3,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0042",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 3.75,
+     "lyric": "Ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0043",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4,
+     "lyric": "bet",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0044",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0045",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4.333,
+     "lyric": "zu",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0046",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4.5,
+     "lyric": "dir",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0047",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0048",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4.833,
+     "lyric": "hin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0049",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.1667,
+     "measure": 8,
+     "beat": 1,
+     "lyric": "we",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ave-maria-e0050",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 8,
+     "beat": 2.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0051",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 8,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0052",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0053",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0054",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0055",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 8,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0056",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 8,
+     "beat": 2.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0057",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 8,
+     "beat": 3,
+     "lyric": "hen.",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0058",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    8,
+    10
+   ],
+   "verse": 1,
+   "lyrics": "Wir schlafen sicher bis zum Morgen, ob Menschen noch so grausam sind.",
+   "translation": "我们将安稳地睡到天明，哪怕人们如此残忍。",
+   "events": [
+    {
+     "id": "ave-maria-e0059",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 4.5,
+     "lyric": "Wir",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0060",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "schla",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0061",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.75,
+     "lyric": "fen",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0062",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 9,
+     "beat": 2,
+     "lyric": "si",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0063",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 9,
+     "beat": 2.375,
+     "lyric": "cher",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0064",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "bis",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0065",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 9,
+     "beat": 2.875,
+     "lyric": "zum",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0066",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 9,
+     "beat": 3,
+     "lyric": "Mor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0067",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 9,
+     "beat": 3.375,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0068",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.5,
+     "lyric": "gen,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0069",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0070",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 4.5,
+     "lyric": "ob",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0071",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "Men",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0072",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.75,
+     "lyric": "schen",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0073",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2,
+     "lyric": "noch",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0074",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0075",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.333,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0076",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "grau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0077",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0078",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.833,
+     "lyric": "sam",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0079",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 3,
+     "lyric": "sind.",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0080",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    10,
+    12
+   ],
+   "verse": 1,
+   "lyrics": "O Jungfrau, sieh der Jungfrau Sorgen o Mutter,",
+   "translation": "圣女啊，看这少女的忧愁；母亲啊，听这恳求的孩子！万福玛利亚！",
+   "events": [
+    {
+     "id": "ave-maria-e0081",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 4.5,
+     "lyric": "O",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0082",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "Jung",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0083",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.75,
+     "lyric": "frau,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0084",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 11,
+     "beat": 2,
+     "lyric": "sieh'",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0085",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 11,
+     "beat": 2.375,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0086",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "Jung",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0087",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 11,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0088",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 11,
+     "beat": 2.833,
+     "lyric": "frau",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0089",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0090",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 3,
+     "lyric": "Sor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0091",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 3.5,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0092",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0093",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 4.75,
+     "lyric": "o",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0094",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0095",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "Mut",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0096",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "ter,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    12,
+    12
+   ],
+   "verse": 1,
+   "lyrics": "hör ein bittend Kind!",
+   "translation": "圣女啊，看这少女的忧愁；母亲啊，听这恳求的孩子！万福玛利亚！",
+   "events": [
+    {
+     "id": "ave-maria-e0097",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2,
+     "lyric": "hör'",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0098",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0099",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2.333,
+     "lyric": "ein",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0100",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "bit",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0101",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0102",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2.833,
+     "lyric": "end",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0103",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 12,
+     "beat": 3,
+     "lyric": "Kind!",
+     "syllabic": "single"
+    },
+    {
+     "id": "ave-maria-e0104",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    13,
+    17
+   ],
+   "verse": 1,
+   "lyrics": "Ave Maria!",
+   "translation": "圣女啊，看这少女的忧愁；母亲啊，听这恳求的孩子！万福玛利亚！",
+   "events": [
+    {
+     "id": "ave-maria-e0105",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "A",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0106",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "ve",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0107",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.75,
+     "lyric": "Ma",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ave-maria-e0108",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 13,
+     "beat": 3,
+     "lyric": "ri",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ave-maria-e0109",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 4.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0110",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "a!",
+     "syllabic": "end"
+    },
+    {
+     "id": "ave-maria-e0111",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0112",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 14,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0113",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0114",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ave-maria-e0115",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    1,
+    4
+   ],
+   "verse": 2,
+   "lyrics": "Ave Maria!",
+   "translation": "万福玛利亚！无玷者！当我们在这岩石上",
+   "events": [
+    {
+     "id": "ave-maria-e0116",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 1,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0117",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 2,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0118",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 3,
+     "beat": 1,
+     "lyric": "A",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0119",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 2.5,
+     "lyric": "ve",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0120",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 2.75,
+     "lyric": "Ma",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0121",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 3,
+     "beat": 3,
+     "lyric": "ri",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0122",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 4.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0123",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 4,
+     "beat": 1,
+     "lyric": "a!",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0124",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 4,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    4,
+    5
+   ],
+   "verse": 2,
+   "lyrics": "Unbefleckt!",
+   "translation": "万福玛利亚！无玷者！当我们在这岩石上",
+   "events": [
+    {
+     "id": "ave-maria-e0125",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 4,
+     "beat": 3,
+     "lyric": "Un",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0126",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0127",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0128",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0129",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0130",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4.5,
+     "lyric": "be",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0131",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0132",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 5,
+     "beat": 1,
+     "lyric": "fleckt!",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0133",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    5,
+    7
+   ],
+   "verse": 2,
+   "lyrics": "Wenn wir auf diesen Fels hinsinken zum Schlaf, und uns dein Schutz bedeckt,",
+   "translation": "倒下入睡，你的庇护覆盖我们，坚硬的岩石也会变得柔软。",
+   "events": [
+    {
+     "id": "ave-maria-e0134",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "Wenn",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0135",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 5,
+     "beat": 3,
+     "lyric": "wir",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0136",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 5,
+     "beat": 3.75,
+     "lyric": "auf",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0137",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 5,
+     "beat": 3.875,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0138",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 4,
+     "lyric": "die",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0139",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 4.25,
+     "lyric": "sen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0140",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 4.5,
+     "lyric": "Fels",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0141",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 4.75,
+     "lyric": "hin",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0142",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 6,
+     "beat": 1,
+     "lyric": "sin",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0143",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 2,
+     "lyric": "ken",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0144",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 2.75,
+     "lyric": "zum",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0145",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 3,
+     "lyric": "Schlaf,",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0146",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 3.75,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0147",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4,
+     "lyric": "uns",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0148",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0149",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4.333,
+     "lyric": "dein",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0150",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4.5,
+     "lyric": "Schutz",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0151",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0152",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4.833,
+     "lyric": "be",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0153",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "deckt,",
+     "syllabic": "end",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    7,
+    8
+   ],
+   "verse": 2,
+   "lyrics": "wird weich der harte Fels uns dünken.",
+   "translation": "倒下入睡，你的庇护覆盖我们，坚硬的岩石也会变得柔软。",
+   "events": [
+    {
+     "id": "ave-maria-e0154",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "wird",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0155",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0156",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 7,
+     "beat": 3,
+     "lyric": "weich",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0157",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 3.75,
+     "lyric": "der",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0158",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4,
+     "lyric": "har",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0159",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0160",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4.333,
+     "lyric": "te",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0161",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4.5,
+     "lyric": "Fels",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0162",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0163",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4.833,
+     "lyric": "uns",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0164",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.1667,
+     "measure": 8,
+     "beat": 1,
+     "lyric": "dün",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0165",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 8,
+     "beat": 2.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0166",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 8,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0167",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0168",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0169",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0170",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 8,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0171",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 8,
+     "beat": 2.833,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0172",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 8,
+     "beat": 3,
+     "lyric": "ken.",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0173",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    8,
+    10
+   ],
+   "verse": 2,
+   "lyrics": "Du lächelst, Rosendüfte wehen in dieser dumpfen Felsengruft.",
+   "translation": "你微笑，玫瑰的香气便飘进这阴暗的石窟。",
+   "events": [
+    {
+     "id": "ave-maria-e0174",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 4.5,
+     "lyric": "Du",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0175",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "lä",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0176",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.75,
+     "lyric": "chelst,",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0177",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 9,
+     "beat": 2,
+     "lyric": "Ro",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0178",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 9,
+     "beat": 2.375,
+     "lyric": "sen",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0179",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "düf",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0180",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 9,
+     "beat": 2.875,
+     "lyric": "te",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0181",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 9,
+     "beat": 3,
+     "lyric": "we",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0182",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 9,
+     "beat": 3.375,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0183",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.5,
+     "lyric": "hen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0184",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0185",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 4.5,
+     "lyric": "in",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0186",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "die",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0187",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.75,
+     "lyric": "ser",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0188",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2,
+     "lyric": "dump",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0189",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0190",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.333,
+     "lyric": "fen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0191",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "Fel",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0192",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0193",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.833,
+     "lyric": "sen",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0194",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 3,
+     "lyric": "gruft.",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0195",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    10,
+    12
+   ],
+   "verse": 2,
+   "lyrics": "O Mutter, höre Kindes Flehen, o Jungfrau,",
+   "translation": "母亲啊，听孩子的恳求；圣女啊，一个少女在呼唤！万福玛利亚！",
+   "events": [
+    {
+     "id": "ave-maria-e0196",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 4.5,
+     "lyric": "O",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0197",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "Mut",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0198",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.75,
+     "lyric": "ter,",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0199",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 11,
+     "beat": 2,
+     "lyric": "hö",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0200",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 11,
+     "beat": 2.375,
+     "lyric": "re",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0201",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "Kin",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0202",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 11,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0203",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 11,
+     "beat": 2.833,
+     "lyric": "des",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0204",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0205",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 3,
+     "lyric": "Fle",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0206",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 3.5,
+     "lyric": "hen,",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0207",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0208",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 4.75,
+     "lyric": "o",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0209",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0210",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "Jung",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0211",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "frau,",
+     "syllabic": "end",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    12,
+    12
+   ],
+   "verse": 2,
+   "lyrics": "eine Jungfrau ruft!",
+   "translation": "母亲啊，听孩子的恳求；圣女啊，一个少女在呼唤！万福玛利亚！",
+   "events": [
+    {
+     "id": "ave-maria-e0212",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2,
+     "lyric": "ei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0213",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0214",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2.333,
+     "lyric": "ne",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0215",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "Jung",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0216",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0217",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2.833,
+     "lyric": "frau",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0218",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 12,
+     "beat": 3,
+     "lyric": "ruft!",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0219",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    13,
+    17
+   ],
+   "verse": 2,
+   "lyrics": "Ave Maria!",
+   "translation": "母亲啊，听孩子的恳求；圣女啊，一个少女在呼唤！万福玛利亚！",
+   "events": [
+    {
+     "id": "ave-maria-e0220",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "A",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0221",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "ve",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0222",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.75,
+     "lyric": "Ma",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0223",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 13,
+     "beat": 3,
+     "lyric": "ri",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0224",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 4.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0225",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "a!",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0226",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0227",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 14,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0228",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0229",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ave-maria-e0230",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    1,
+    4
+   ],
+   "verse": 3,
+   "lyrics": "Ave Maria!",
+   "translation": "万福玛利亚！纯洁的少女！大地与空气的魔鬼，",
+   "events": [
+    {
+     "id": "ave-maria-e0231",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 1,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0232",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 2,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0233",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 3,
+     "beat": 1,
+     "lyric": "A",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0234",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 2.5,
+     "lyric": "ve",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0235",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 2.75,
+     "lyric": "Ma",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0236",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 3,
+     "beat": 3,
+     "lyric": "ri",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0237",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 4.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0238",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 4,
+     "beat": 1,
+     "lyric": "a!",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0239",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 4,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    4,
+    5
+   ],
+   "verse": 3,
+   "lyrics": "Reine Magd!",
+   "translation": "万福玛利亚！纯洁的少女！大地与空气的魔鬼，",
+   "events": [
+    {
+     "id": "ave-maria-e0240",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 4,
+     "beat": 3,
+     "lyric": "Rei",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0241",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0242",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0243",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0244",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0245",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4.5,
+     "lyric": "ne",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0246",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 4.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0247",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 5,
+     "beat": 1,
+     "lyric": "Magd!",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0248",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "measures": [
+    5,
+    7
+   ],
+   "verse": 3,
+   "lyrics": "Der Erde und der Luft Dämonen, von deines Auges Huld verjagt,",
+   "translation": "万福玛利亚！纯洁的少女！大地与空气的魔鬼，",
+   "events": [
+    {
+     "id": "ave-maria-e0249",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "Der",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0250",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 5,
+     "beat": 3,
+     "lyric": "Er",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0251",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 5,
+     "beat": 3.75,
+     "lyric": "de",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0252",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 5,
+     "beat": 3.875,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0253",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 4,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0254",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 4.25,
+     "lyric": "der",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0255",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 4.5,
+     "lyric": "Luft",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0256",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 4.75,
+     "lyric": "Dä",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0257",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 6,
+     "beat": 1,
+     "lyric": "mo",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0258",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 2,
+     "lyric": "nen,",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0259",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 2.75,
+     "lyric": "von",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0260",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 3,
+     "lyric": "dei",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0261",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 3.75,
+     "lyric": "nes",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0262",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4,
+     "lyric": "Au",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0263",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0264",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4.333,
+     "lyric": "ges",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0265",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4.5,
+     "lyric": "Huld",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0266",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0267",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 6,
+     "beat": 4.833,
+     "lyric": "ver",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0268",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "jagt,",
+     "syllabic": "end",
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "measures": [
+    7,
+    8
+   ],
+   "verse": 3,
+   "lyrics": "sie können hier nicht bei uns wohnen!",
+   "translation": "被你眼中的恩慈驱逐，不能在此与我们同住！",
+   "events": [
+    {
+     "id": "ave-maria-e0269",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "sie",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0270",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0271",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 7,
+     "beat": 3,
+     "lyric": "kön",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0272",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 3.75,
+     "lyric": "nen",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0273",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4,
+     "lyric": "hier",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0274",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0275",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4.333,
+     "lyric": "nicht",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0276",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4.5,
+     "lyric": "bei",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0277",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0278",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 7,
+     "beat": 4.833,
+     "lyric": "uns",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0279",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.1667,
+     "measure": 8,
+     "beat": 1,
+     "lyric": "woh",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0280",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 8,
+     "beat": 2.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0281",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 8,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0282",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0283",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0284",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0285",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 8,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0286",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 8,
+     "beat": 2.833,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0287",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 8,
+     "beat": 3,
+     "lyric": "nen!",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0288",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "measures": [
+    8,
+    11
+   ],
+   "verse": 3,
+   "lyrics": "Wir woll'n uns still dem Schicksal beugen, da uns dein heil'ger Trost anweht der Jungfrau wolle hold dich neigen,",
+   "translation": "我们愿静静顺从命运，因你神圣的安慰吹拂我们；",
+   "events": [
+    {
+     "id": "ave-maria-e0289",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 4.5,
+     "lyric": "Wir",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0290",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "woll'n",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0291",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.75,
+     "lyric": "uns",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0292",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 9,
+     "beat": 2,
+     "lyric": "still",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0293",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 9,
+     "beat": 2.375,
+     "lyric": "dem",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0294",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "Schick",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0295",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 9,
+     "beat": 2.875,
+     "lyric": "sal",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0296",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 9,
+     "beat": 3,
+     "lyric": "beu",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0297",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 9,
+     "beat": 3.375,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0298",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.5,
+     "lyric": "gen,",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0299",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0300",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 4.5,
+     "lyric": "da",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0301",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "uns",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0302",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.75,
+     "lyric": "dein",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0303",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2,
+     "lyric": "heil'",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0304",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0305",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.333,
+     "lyric": "ger",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0306",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "Trost",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0307",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0308",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 10,
+     "beat": 2.833,
+     "lyric": "an",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0309",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 3,
+     "lyric": "weht",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0310",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0311",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 4.5,
+     "lyric": "der",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0312",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "Jung",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0313",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.75,
+     "lyric": "frau",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0314",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 11,
+     "beat": 2,
+     "lyric": "wol",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0315",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 11,
+     "beat": 2.375,
+     "lyric": "le",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0316",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "hold",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0317",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 11,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0318",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 11,
+     "beat": 2.833,
+     "lyric": "dich",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0319",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0320",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 3,
+     "lyric": "nei",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0321",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 3.5,
+     "lyric": "gen,",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0322",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 22,
+   "measures": [
+    11,
+    12
+   ],
+   "verse": 3,
+   "lyrics": "dem Kind, das für den Vater fleht!",
+   "translation": "愿你慈爱地俯身向这少女，向这为父亲祈求的孩子！万福玛利亚！",
+   "events": [
+    {
+     "id": "ave-maria-e0323",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 4.75,
+     "lyric": "dem",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0324",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3,
+     "grace": true
+    },
+    {
+     "id": "ave-maria-e0325",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "Kind,",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0326",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "das",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0327",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2,
+     "lyric": "für",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0328",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2.167,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0329",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2.333,
+     "lyric": "den",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0330",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "Va",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0331",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0332",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 12,
+     "beat": 2.833,
+     "lyric": "ter",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0333",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 12,
+     "beat": 3,
+     "lyric": "fleht!",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0334",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 23,
+   "measures": [
+    13,
+    17
+   ],
+   "verse": 3,
+   "lyrics": "Ave Maria!",
+   "translation": "愿你慈爱地俯身向这少女，向这为父亲祈求的孩子！万福玛利亚！",
+   "events": [
+    {
+     "id": "ave-maria-e0335",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "A",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0336",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "ve",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0337",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.75,
+     "lyric": "Ma",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0338",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 13,
+     "beat": 3,
+     "lyric": "ri",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0339",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 4.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0340",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "a!",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0341",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0342",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 14,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0343",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0344",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ave-maria-e0345",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    }
+   ]
+  }
+ ],
+ "eventCount": 344,
+ "restCount": 41,
+ "lyricNoteCount": 219,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 23,
+  "slowScale": 1.45
+ }
+}

@@ -1,0 +1,1888 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "an-die-musik",
+ "title": "An die Musik",
+ "titleZh": "致音乐",
+ "composer": "F. Schubert",
+ "opera": "D. 547（独立艺术歌曲，1817；诗：F. von Schober）",
+ "language": "德语",
+ "voice": "男高音",
+ "difficulty": "基础",
+ "tempoBpm": 60,
+ "timeSignature": "2/2",
+ "coverage": {
+  "measures": [
+   1,
+   23
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "完整声乐旋律（D 大调，2/4 Mäßig，约 28 小节，两段分节歌）。舒伯特最被广泛演唱的抒情小品之一。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "C#4",
+  "high": "F#5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主人公（艺术爱好者）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Du holde Kunst, in wieviel grauen Stunden,",
+   "zh": "你，美好的艺术，在多少灰暗的时刻，"
+  },
+  {
+   "text": "wo mich des Lebens wilder Kreis umstrickt,",
+   "zh": "当生活的残酷旋涡将我缠绕，"
+  },
+  {
+   "text": "hast du mein Herz zu warmer Lieb' entzunden,",
+   "zh": "你点燃了我心中温暖的爱，"
+  },
+  {
+   "text": "hast mich in eine bess're Welt entrückt!",
+   "zh": "将我带入了一个更美好的世界！"
+  },
+  {
+   "text": "Oft hat ein Seufzer, deiner Harf' entflossen,",
+   "zh": "常常是你竖琴发出的一声叹息，"
+  },
+  {
+   "text": "ein süßer, heiliger Akkord von dir,",
+   "zh": "你的一个甜美而神圣的和弦，"
+  },
+  {
+   "text": "den Himmel bessrer Zeiten mir erschlossen,",
+   "zh": "为我开启了更好时光的天堂，"
+  },
+  {
+   "text": "du holde Kunst, ich danke dir dafür!",
+   "zh": "你，美好的艺术，为此我感谢你！"
+  }
+ ],
+ "story": {
+  "background": "《致音乐》是舒伯特最著名的颂歌之一，歌词由他的好友弗朗茨·冯·舒伯（Franz von Schober）所写。这首歌常在音乐会的安可曲中出现，也是许多声乐学生最先学习的德语艺术歌曲之一。它只有两段歌词（分节歌形式），旋律简洁感人，被认为是舒伯特对音乐本身最直接的致敬。",
+  "situation": "没有具体的戏剧情境——这是诗人/歌者对音乐艺术本身的感谢。在灰暗的日子里，音乐点燃了心中的爱；在绝望的时刻，一个和弦就能打开通往更好世界的门。这是一封写给音乐的情书。",
+  "relationships": "歌者与'音乐'之间是感恩与被救赎的关系——音乐被人格化为'holde Kunst'（美好的艺术），像一个温柔的拯救者。",
+  "intent": "从头到尾保持真诚、内省的语气。'Du holde Kunst' 是一个呼唤——不是呐喊，而是感恩的低语。第一段讲述音乐如何在黑暗中点燃希望；第二段更具体——竖琴的叹息、神圣的和弦——然后以 'ich danke dir dafür' 的感谢结束。整首歌不应有任何炫技的痕迹。",
+  "plain30": "这是舒伯特写给音乐本身的情书：在最灰暗的日子里，音乐照亮了我的心。一个和弦就能让我看到更好的世界。谢谢你，美好的艺术。",
+  "arc": "D 大调，2/4，中速。两段使用相同旋律。旋律开头在中音区平稳展开，像感恩的叙述。'hast mich in eine bess're Welt entrückt' 处上升到最高音（'更好的世界'），然后平静下落到结尾。第二段结束时的 'ich danke dir dafür' 以主音结束——完美的解决，像一声满足的叹息。",
+  "motif": "感恩动机：开头'Du holde Kunst'的级进上行——从主音缓缓攀升，像双手合十的姿态。'entrückt/erschlossen' 处的高点是唯一的情感突出——'被带入另一个世界'——然后旋律温柔地回落。整首歌没有戏剧冲突，只有一个人安静的感谢。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "'Du holde Kunst' 级进上行，感恩的开始"
+   },
+   {
+    "phrase": "4",
+    "note": "'bess're Welt entrückt' 全曲最高点——被带入更好的世界"
+   },
+   {
+    "phrase": "8",
+    "note": "'ich danke dir dafür' 结尾——主音上的完美解决，感恩的落点"
+   }
+  ],
+  "technique": "这首歌技巧要求不高，但对音乐表达力的要求很高。关键是控制音量——全曲应该在 piano 到 mezzo-forte 之间，不需要 forte。呼吸点很自然（每两行一换），旋律线条要平滑连贯。'entrückt' 的高音不要冲——用气息托上去，像被轻轻举起。",
+  "classroom": [
+   "先读中文——这是一封写给音乐的感谢信，理解这个核心就够了。",
+   "朗读德语原文，注意 'holde Kunst' 的温柔语气。",
+   "这首歌只有两段，旋律完全相同——先学会旋律，再分别配上两段歌词。",
+   "用很轻的声音练唱——不需要大声，真诚最重要。",
+   "特别注意最后的 'ich danke dir dafür'——这是全曲的目的地，到达时要自然、不刻意。",
+   "完整演唱。如果你正在学音乐，想想音乐对你意味着什么——把那个感觉放进去。",
+   "这首歌适合作为音乐会的结束曲或安可曲——学会它，以后用得上。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "holde 的 o 是长元音 [oː]，保持圆润",
+    "Kunst 的 u 短促 [ʊ]，不要拉长",
+    "entrückt 的 ü 是圆唇 [ʏ]，entzunden 的 u 是 [ʊ]",
+    "Seufzer 的 eu 读 [ɔʏ]，像中文的'哦—伊'快速合并"
+   ]
+  },
+  {
+   "title": "歌唱语气",
+   "items": [
+    "这是一首感恩之歌，语气要真诚而非华丽",
+    "'Du holde Kunst' 每次出现都像在轻声呼唤一位老朋友",
+    "最后的 'ich danke dir dafür!' 是全曲的情感落点——不要太大声，真诚即可"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    3,
+    5
+   ],
+   "verse": 1,
+   "lyrics": "Du hol deKunst, in wie viel grauen",
+   "translation": "你，美好的艺术，在多少灰暗的时刻，",
+   "events": [
+    {
+     "id": "an-die-musik-e0003",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0004",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 1.5,
+     "lyric": "Du",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0005",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "hol",
+     "syllabic": "begin"
+    },
+    {
+     "id": "an-die-musik-e0006",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0007",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "Kunst,",
+     "syllabic": "end"
+    },
+    {
+     "id": "an-die-musik-e0008",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0009",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "an-die-musik-e0010",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "wie",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0011",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.75,
+     "lyric": "viel",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0012",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "grau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "an-die-musik-e0013",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0014",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "en",
+     "syllabic": "end"
+    },
+    {
+     "id": "an-die-musik-e0015",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    6,
+    8
+   ],
+   "verse": 1,
+   "lyrics": "Stun den, womich desLebens wilder",
+   "translation": "当生活的残酷旋涡将我缠绕，",
+   "events": [
+    {
+     "id": "an-die-musik-e0016",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "Stun",
+     "syllabic": "middle"
+    },
+    {
+     "id": "an-die-musik-e0017",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 1.5,
+     "lyric": "den,",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0018",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0019",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0020",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.5,
+     "lyric": "wo",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0021",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "mich",
+     "syllabic": "end"
+    },
+    {
+     "id": "an-die-musik-e0022",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0023",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "Le",
+     "syllabic": "middle"
+    },
+    {
+     "id": "an-die-musik-e0024",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.75,
+     "lyric": "bens",
+     "syllabic": "end"
+    },
+    {
+     "id": "an-die-musik-e0025",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "wil",
+     "syllabic": "begin"
+    },
+    {
+     "id": "an-die-musik-e0026",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.75,
+     "lyric": "der",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    9,
+    11
+   ],
+   "verse": 1,
+   "lyrics": "Kreis um strickt,",
+   "translation": "当生活的残酷旋涡将我缠绕，",
+   "events": [
+    {
+     "id": "an-die-musik-e0027",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "Kreis",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0028",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0029",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "um",
+     "syllabic": "begin"
+    },
+    {
+     "id": "an-die-musik-e0030",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0031",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "strickt,",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0032",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0033",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    11,
+    14
+   ],
+   "verse": 1,
+   "lyrics": "hastdu meinHerz zu war mer Liebentzunden,",
+   "translation": "你点燃了我心中温暖的爱，",
+   "events": [
+    {
+     "id": "an-die-musik-e0034",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.5,
+     "lyric": "hast",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0035",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "du",
+     "syllabic": "end"
+    },
+    {
+     "id": "an-die-musik-e0036",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.75,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0037",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "Herz",
+     "syllabic": "end"
+    },
+    {
+     "id": "an-die-musik-e0038",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0039",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "zu",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0040",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "war",
+     "syllabic": "begin"
+    },
+    {
+     "id": "an-die-musik-e0041",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.75,
+     "lyric": "mer",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0042",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "Lieb",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0043",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0044",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "ent",
+     "syllabic": "middle"
+    },
+    {
+     "id": "an-die-musik-e0045",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0046",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "an-die-musik-e0047",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "zun",
+     "syllabic": "middle"
+    },
+    {
+     "id": "an-die-musik-e0048",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "den,",
+     "syllabic": "end"
+    },
+    {
+     "id": "an-die-musik-e0049",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    14,
+    17
+   ],
+   "verse": 1,
+   "lyrics": "hastmich in ei nebess re Weltentrückt,",
+   "translation": "将我带入了一个更美好的世界！",
+   "events": [
+    {
+     "id": "an-die-musik-e0050",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.5,
+     "lyric": "hast",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0051",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "mich",
+     "syllabic": "end"
+    },
+    {
+     "id": "an-die-musik-e0052",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.75,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0053",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "ei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "an-die-musik-e0054",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "ne",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0055",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0056",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "bess",
+     "syllabic": "middle"
+    },
+    {
+     "id": "an-die-musik-e0057",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.75,
+     "lyric": "re",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0058",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "Welt",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0059",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.75,
+     "lyric": "ent",
+     "syllabic": "middle"
+    },
+    {
+     "id": "an-die-musik-e0060",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "an-die-musik-e0061",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "rückt,",
+     "syllabic": "end"
+    },
+    {
+     "id": "an-die-musik-e0062",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    17,
+    23
+   ],
+   "verse": 1,
+   "lyrics": "inei ne bess reWelt ent rückt.",
+   "translation": "常常是你竖琴发出的一声叹息，",
+   "events": [
+    {
+     "id": "an-die-musik-e0063",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.25,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0064",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "ei",
+     "syllabic": "middle"
+    },
+    {
+     "id": "an-die-musik-e0065",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.75,
+     "lyric": "ne",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0066",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "bess",
+     "syllabic": "begin"
+    },
+    {
+     "id": "an-die-musik-e0067",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0068",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.75,
+     "lyric": "re",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0069",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "Welt",
+     "syllabic": "end"
+    },
+    {
+     "id": "an-die-musik-e0070",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0071",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.75,
+     "lyric": "ent",
+     "syllabic": "begin"
+    },
+    {
+     "id": "an-die-musik-e0072",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "rückt.",
+     "syllabic": "single"
+    },
+    {
+     "id": "an-die-musik-e0073",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0074",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0075",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0076",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "an-die-musik-e0077",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    1,
+    3
+   ],
+   "verse": 2,
+   "lyrics": "Oft hat ein",
+   "translation": "常常是你竖琴发出的一声叹息，",
+   "events": [
+    {
+     "id": "an-die-musik-e0078",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 1,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0079",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0080",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0081",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 1.5,
+     "lyric": "Oft",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0082",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "hat",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0083",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 2.5,
+     "lyric": "ein",
+     "syllabic": "single",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    4,
+    7
+   ],
+   "verse": 2,
+   "lyrics": "Seufzer deiner Harf entflossen,",
+   "translation": "常常是你竖琴发出的一声叹息，",
+   "events": [
+    {
+     "id": "an-die-musik-e0084",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "Seuf",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0085",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "zer",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0086",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2,
+     "grace": true
+    },
+    {
+     "id": "an-die-musik-e0087",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "dei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0088",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.75,
+     "lyric": "ner",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0089",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "Harf",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0090",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0091",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "ent",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0092",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0093",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "flos",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0094",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 1.5,
+     "lyric": "sen,",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0095",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0096",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    7,
+    11
+   ],
+   "verse": 2,
+   "lyrics": "ein süsser, heiliger Akkord von dir,",
+   "translation": "你的一个甜美而神圣的和弦，",
+   "events": [
+    {
+     "id": "an-die-musik-e0097",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.5,
+     "lyric": "ein",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0098",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "sü",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0099",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "sser,",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0100",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "hei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0101",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.75,
+     "lyric": "li",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0102",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "ger",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0103",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.75,
+     "lyric": "Ak",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0104",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "kord",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0105",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0106",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "von",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0107",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0108",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "dir,",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0109",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0110",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    11,
+    14
+   ],
+   "verse": 2,
+   "lyrics": "den Himmel bessrer Zeiten mir erschlossen,",
+   "translation": "为我开启了更好时光的天堂，",
+   "events": [
+    {
+     "id": "an-die-musik-e0111",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.5,
+     "lyric": "den",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0112",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "Him",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0113",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.75,
+     "lyric": "mel",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0114",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "bess",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0115",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0116",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "rer",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0117",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "Zei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0118",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.75,
+     "lyric": "ten",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0119",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "mir",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0120",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0121",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "er",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0122",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0123",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2,
+     "grace": true
+    },
+    {
+     "id": "an-die-musik-e0124",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "schlos",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0125",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "sen,",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0126",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    14,
+    17
+   ],
+   "verse": 2,
+   "lyrics": "du holde Kunst, ich danke dir dafür,",
+   "translation": "你，美好的艺术，为此我感谢你！",
+   "events": [
+    {
+     "id": "an-die-musik-e0127",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.5,
+     "lyric": "du",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0128",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "hol",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0129",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.75,
+     "lyric": "de",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0130",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "Kunst,",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0131",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "ich",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0132",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0133",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "dan",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0134",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.75,
+     "lyric": "ke",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0135",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "dir",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0136",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.75,
+     "lyric": "da",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0137",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2,
+     "grace": true
+    },
+    {
+     "id": "an-die-musik-e0138",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "für,",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0139",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    17,
+    23
+   ],
+   "verse": 2,
+   "lyrics": "du holde Kunst ich danke dir.",
+   "translation": "你，美好的艺术，为此我感谢你！",
+   "events": [
+    {
+     "id": "an-die-musik-e0140",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.25,
+     "lyric": "du",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0141",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "hol",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0142",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.75,
+     "lyric": "de",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0143",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "Kunst",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0144",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0145",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.75,
+     "lyric": "ich",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0146",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "dan",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0147",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0148",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.75,
+     "lyric": "ke",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0149",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "dir.",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0150",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0151",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0152",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0153",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "an-die-musik-e0154",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  }
+ ],
+ "eventCount": 152,
+ "restCount": 26,
+ "lyricNoteCount": 100,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 12,
+  "slowScale": 1.45
+ }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Tre giorni son che Nina",
+  "titleZh": "尼娜已经在床上躺了三天",
+  "composer": "G. B. Pergolesi (attr.)",
+  "opera": "独立咏叹调（约 18 世纪；常归于 Pergolesi，实际作者存疑）",
+  "role": "抒情主体：守在尼娜床边的恋人或朋友",
+  "genre": "小咏叹调",
+  "language": "意大利语",
+  "script": "latin",
+  "voice": "女中音",
+  "difficulty": "基础",
+  "tempoBpm": 66,
+  "complete": true,
+  "sourceGrade": "C",
+  "coverageNote": "完整声乐旋律（g 小调，4/4 Andantino），依据 Parisotti 版编码。",
+  "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+  "sources": [
+    {
+      "name": "手工编码 MusicXML",
+      "url": "https://imslp.org/wiki/Tre_giorni_son_che_Nina_(Pergolesi,_Giovanni_Battista)",
+      "format": "MusicXML",
+      "role": "声乐旋律线",
+      "status": "依据标准声乐教学版本编码",
+      "grade": "C",
+      "accessed": "2026-09-15"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Tre giorni son che Nina, che Nina,",
+      "zh": "尼娜已经三天了，尼娜，"
+    },
+    {
+      "text": "in letto se ne sta.",
+      "zh": "一直躺在床上。"
+    },
+    {
+      "text": "Pifferi, timpani, cembali,",
+      "zh": "笛子、定音鼓、钹，"
+    },
+    {
+      "text": "svegliate mia Ninetta,",
+      "zh": "请唤醒我的小尼娜，"
+    },
+    {
+      "text": "accio non dorma piu.",
+      "zh": "让她不要再沉睡了。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "发音",
+      "items": [
+        "Nina 重音在第一音节 NÌ-na",
+        "pifferi：双 f，重音在第一音节 PÌF-fe-ri",
+        "cembali 重音在第一音节 CÉM-ba-li",
+        "accio = affinche 的古体缩写"
+      ]
+    },
+    {
+      "title": "情感",
+      "items": [
+        "这首歌表面上是在叫乐器叫醒尼娜",
+        "但在某些解读中，尼娜已经死了——乐器的呼唤是绝望的",
+        "无论哪种解读，歌者的焦急都是真实的"
+      ]
+    }
+  ],
+  "story": {
+    "background": "这首简短的咏叹调长期归于佩尔戈莱西名下，但实际作者可能是 Legrenzio Vincenzo Ciampi 或其他 18 世纪意大利作曲家。经 Parisotti 编入标准教学集后广为流传。它的旋律哀婉动人，常被视为表达死别之痛的经典——尽管歌词字面上只是在说一个沉睡的姑娘。",
+    "situation": "尼娜已经在床上躺了三天不醒。歌者守在旁边，请求乐师们用笛子、鼓和钹来唤醒她。这是一种天真的期待还是绝望的最后尝试？歌曲故意让人分不清。",
+    "relationships": "尼娜是一位沉睡不醒的少女。歌者是她的爱人或友人，焦急地请求乐师们用音乐唤醒她。这首歌是意大利声乐教学中最基础的曲目之一，以其朴素的旋律和深沉的感情著称。",
+    "intent": "开头平静但带着忧虑。三次重复'che Nina'表达焦急。'Pifferi, timpani, cembali'突然轻快——像是在命令乐手。'svegliate mia Ninetta'恢复恳求的语气。结尾'accio non dorma piu'可以唱得充满希望，也可以唱得绝望——取决于你的解读。",
+    "plain30": "尼娜已经躺了三天不醒。歌者请求笛手和鼓手来唤醒她。这首歌的美在于它的双重含义——尼娜是在沉睡还是已经死去？",
+    "arc": "g 小调，4/4 Andantino。开头的旋律在低音区徘徊，'che Nina'的重复像钟摆。'Pifferi, timpani'处旋律变得活泼（仿佛乐器真的在演奏）。'svegliate'处有一个温柔的高潮。结尾回到低音区的安静。",
+    "motif": "核心动机是'Tre giorni son che Nina'的摇摆节奏——像在床边守夜的人来回踱步。'Pifferi, timpani, cembali'用快速的音节模仿乐器的声音，形成对比。",
+    "motifPositions": [
+      {
+        "phrase": 1,
+        "note": "'Tre giorni son che Nina'——摇摆守夜动机"
+      },
+      {
+        "phrase": 3,
+        "note": "'Pifferi, timpani, cembali'——乐器模仿，突然活泼"
+      },
+      {
+        "phrase": 5,
+        "note": "'accio non dorma piu'——结尾恳求，回归安静"
+      }
+    ],
+    "technique": "保持 Andantino 的流动感——不要太慢。三次'che Nina'要有细微的力度变化（第三次最急切）。'Pifferi, timpani, cembali'的快速吐字是技术难点——练习清晰的意大利语双辅音。结尾可以选择渐弱（希望解读）或保持力度（绝望解读）。",
+    "classroom": [
+      "先读中文，思考：尼娜是在沉睡还是已经死去？你选择哪种解读？",
+      "慢速朗读意大利语，注意 pifferi、timpani、cembali 的清晰吐字。",
+      "练习三次'che Nina'——每次语气略有不同。",
+      "按节拍说词，♩=66。",
+      "听旋律参考，注意安静段与活泼段的对比。",
+      "放入歌词，先练前两句的忧虑，再练乐器段的活泼。",
+      "完整演唱。选择你的解读——希望还是绝望——并从头到尾坚持它。"
+    ]
+  }
+}

@@ -1,0 +1,1033 @@
+<?xml version='1.0' encoding='utf-8'?>
+<score-partwise version="4.0">
+  <work><work-title>Caro Mio Ben (Come Once Again) — Vocal Golden Sample</work-title></work>
+  <identification><creator type="composer">G. Giordano</creator><rights>Public Domain contribution, Mutopia Project</rights><source>https://www.mutopiaproject.org/ftp/GiordanoG/caromioben/caromioben.ly</source><encoding><software>AI Aria Coach vocal MVP extraction</software><encoding-date>2026-09-01</encoding-date></encoding><source>Vocal line extended from Mutopia public-domain MIDI voice track; piano tracks excluded.</source></identification>
+  <part-list><score-part id="P1"><part-name>Voice</part-name><score-instrument id="P1-I1"><instrument-name>Voice</instrument-name></score-instrument></score-part></part-list>
+  <part id="P1">
+    <measure number="4"><attributes><divisions>4</divisions><key><fifths>2</fifths><mode>major</mode></key><time><beats>4</beats><beat-type>4</beat-type></time><clef><sign>G</sign><line>2</line></clef></attributes><note id="v_m4_n01"><rest /><duration>8</duration><type>half</type></note><note id="v_m4_n02"><pitch><step>D</step><octave>5</octave></pitch><duration>4</duration><type>quarter</type><lyric><syllabic>begin</syllabic><text>Ca-</text></lyric></note><note id="v_m4_n03"><pitch><step>C</step><alter>1</alter><octave>5</octave></pitch><duration>3</duration><type>eighth</type><dot /><lyric><syllabic>end</syllabic><text>ro</text></lyric></note><note id="v_m4_n04"><pitch><step>B</step><octave>4</octave></pitch><duration>1</duration><type>16th</type><lyric><syllabic>single</syllabic><text>mio</text></lyric></note></measure>
+    <measure number="5"><note id="v_m5_n01"><pitch><step>A</step><octave>4</octave></pitch><duration>8</duration><type>half</type><lyric><syllabic>single</syllabic><text>ben</text></lyric></note><note id="v_m5_n02"><pitch><step>B</step><octave>4</octave></pitch><duration>4</duration><type>quarter</type><lyric><syllabic>begin</syllabic><text>cre-</text></lyric></note><note id="v_m5_n03"><pitch><step>A</step><octave>4</octave></pitch><duration>3</duration><type>eighth</type><dot /><lyric><syllabic>begin</syllabic><text>di-</text></lyric></note><note id="v_m5_n04"><pitch><step>G</step><octave>4</octave></pitch><duration>1</duration><type>16th</type><lyric><syllabic>middle</syllabic><text>mi~al</text><extend type="start" /></lyric></note></measure>
+    <measure number="6"><note id="v_m6_n01"><pitch><step>F</step><alter>1</alter><octave>4</octave></pitch><duration>8</duration><type>half</type><lyric><syllabic>end</syllabic><text>men</text></lyric></note><note id="v_m6_n02"><pitch><step>G</step><octave>4</octave></pitch><duration>4</duration><type>quarter</type><lyric><syllabic>begin</syllabic><text>sen-</text></lyric></note><note id="v_m6_n03"><pitch><step>F</step><alter>1</alter><octave>4</octave></pitch><duration>2</duration><type>eighth</type><lyric><syllabic>end</syllabic><text>za</text></lyric></note><note id="v_m6_n04"><pitch><step>E</step><octave>4</octave></pitch><duration>2</duration><type>eighth</type><lyric><syllabic>single</syllabic><text>di</text></lyric></note></measure>
+    <measure number="7"><note id="v_m7_n01"><pitch><step>A</step><octave>4</octave></pitch><duration>8</duration><type>half</type><lyric><syllabic>single</syllabic><text>te</text></lyric></note><note id="v_m7_n02"><pitch><step>D</step><octave>4</octave></pitch><duration>4</duration><type>quarter</type><lyric><syllabic>begin</syllabic><text>lan-</text></lyric></note><note id="v_m7_g01"><pitch><step>E</step><octave>4</octave></pitch><grace /></note><note id="v_m7_g02"><pitch><step>D</step><octave>4</octave></pitch><grace /></note><note id="v_m7_n03"><pitch><step>C</step><alter>1</alter><octave>4</octave></pitch><duration>2</duration><type>eighth</type><lyric><syllabic>begin</syllabic><text>gui-</text></lyric></note><note id="v_m7_n04"><pitch><step>D</step><octave>4</octave></pitch><duration>2</duration><type>eighth</type><lyric><syllabic>end</syllabic><text>sce_il</text></lyric></note></measure>
+    <measure number="8"><note id="v_m8_n01"><pitch><step>F</step><alter>1</alter><octave>4</octave></pitch><duration>4</duration><type>quarter</type><notations><slur type="start" number="1" /></notations><lyric><syllabic>single</syllabic><text>cor</text><extend type="start" /></lyric></note><note id="v_m8_n02"><pitch><step>E</step><octave>4</octave></pitch><duration>4</duration><type>quarter</type><notations><slur type="stop" number="1" /></notations></note><note id="v_m8_n03"><rest /><duration>8</duration><type>half</type><barline location="right"><bar-style>light-heavy</bar-style></barline></note></measure>
+  <measure implicit="no" number="9">
+      <note id="v_m9_n01">
+        <rest measure="yes" />
+        <duration>16</duration>
+      </note>
+    </measure>
+
+    <measure implicit="no" number="10">
+      <note dynamics="141.11" id="v_m10_n01">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      <lyric><syllabic>single</syllabic><text>Il</text></lyric></note>
+      <note dynamics="141.11" id="v_m10_n02">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <dot />
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      <lyric><syllabic>single</syllabic><text>tuo</text></lyric></note>
+      <note dynamics="141.11" id="v_m10_n03">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+      <lyric><syllabic>single</syllabic><text>fe-</text></lyric></note>
+      <note dynamics="141.11" id="v_m10_n04">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <type>half</type>
+      <lyric><syllabic>single</syllabic><text>del</text></lyric></note>
+    </measure>
+
+    <measure implicit="no" number="11">
+      <note dynamics="141.11" id="v_m11_n01">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      <lyric><syllabic>single</syllabic><text>so-</text></lyric></note>
+      <note dynamics="141.11" id="v_m11_n02">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      <lyric><syllabic>single</syllabic><text>spir-</text></lyric></note>
+      <note dynamics="141.11" id="v_m11_n03">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+      <lyric><syllabic>single</syllabic><text>a~o-</text></lyric></note>
+      <note dynamics="141.11" id="v_m11_n04">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      <lyric><syllabic>single</syllabic><text>gnor</text></lyric></note>
+      <note dynamics="141.11" id="v_m11_n05">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      <lyric><syllabic>single</syllabic><text>ces-</text></lyric></note>
+      <note dynamics="141.11" id="v_m11_n06">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      <lyric><syllabic>single</syllabic><text>sa</text></lyric></note>
+      <note dynamics="141.11" id="v_m11_n07">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+      <lyric><syllabic>single</syllabic><text>cru-</text></lyric></note>
+    </measure>
+
+    <measure implicit="no" number="12">
+      <note dynamics="141.11" id="v_m12_n01">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      <lyric><syllabic>single</syllabic><text>del</text></lyric></note>
+      <note dynamics="141.11" id="v_m12_n02">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <dot />
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      <lyric><syllabic>single</syllabic><text>tan-</text></lyric></note>
+      <note dynamics="141.11" id="v_m12_n03">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+      <lyric><syllabic>single</syllabic><text>to</text></lyric></note>
+      <note dynamics="141.11" id="v_m12_n04">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <type>half</type>
+      <lyric><syllabic>single</syllabic><text>ri-</text></lyric></note>
+    </measure>
+
+    <measure implicit="no" number="13">
+      <note id="v_m13_n01">
+        <rest measure="yes" />
+        <duration>16</duration>
+      </note>
+    </measure>
+
+    <measure implicit="no" number="14">
+      <note id="v_m14_n01">
+        <rest measure="yes" />
+        <duration>16</duration>
+      </note>
+    </measure>
+
+    <measure implicit="no" number="15">
+      <note dynamics="141.11" id="v_m15_n01">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      <lyric><syllabic>single</syllabic><text>gor</text></lyric></note>
+      <note dynamics="141.11" id="v_m15_n02">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m15_n03">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note dynamics="141.11" id="v_m15_n04">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <type>half</type>
+      </note>
+    </measure>
+
+    <measure implicit="no" number="16">
+      <note dynamics="141.11" id="v_m16_n01">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+      <note dynamics="141.11" id="v_m16_n02">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m16_n03">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note dynamics="141.11" id="v_m16_n04">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>8</duration>
+        <type>half</type>
+      </note>
+    </measure>
+
+    <measure implicit="no" number="17">
+      <note dynamics="141.11" id="v_m17_n01">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+      <note dynamics="141.11" id="v_m17_n02">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m17_n03">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note dynamics="141.11" id="v_m17_n04">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m17_n05">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note dynamics="141.11" id="v_m17_n06">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m17_n07">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+    </measure>
+
+    <measure implicit="no" number="18">
+      <note dynamics="141.11" id="v_m18_n01">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+      <note dynamics="141.11" id="v_m18_n02">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <dot />
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m18_n03">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+      </note>
+      <note dynamics="141.11" id="v_m18_n04">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <type>half</type>
+      </note>
+    </measure>
+
+    <measure implicit="no" number="19">
+      <note dynamics="141.11" id="v_m19_n01">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+      <note dynamics="141.11" id="v_m19_n02">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <dot />
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m19_n03">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+      </note>
+      <note dynamics="141.11" id="v_m19_n04">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+      <note id="v_m19_n05">
+        <rest />
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+
+    <measure implicit="no" number="20">
+      <note dynamics="141.11" id="v_m20_n01">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+      <note dynamics="141.11" id="v_m20_n02">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m20_n03">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note dynamics="141.11" id="v_m20_n04">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+      <note dynamics="141.11" id="v_m20_n05">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+
+    <measure implicit="no" number="21">
+      <note dynamics="141.11" id="v_m21_n01">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+      <note dynamics="141.11" id="v_m21_n02">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m21_n03">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note dynamics="141.11" id="v_m21_n04">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <type>half</type>
+      </note>
+    </measure>
+
+    <measure implicit="no" number="22">
+      <note dynamics="141.11" id="v_m22_n01">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+      <note dynamics="141.11" id="v_m22_n02">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <dot />
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m22_n03">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+      </note>
+      <note dynamics="141.11" id="v_m22_n04">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <type>half</type>
+      </note>
+    </measure>
+
+    <measure implicit="no" number="23">
+      <note dynamics="141.11" id="v_m23_n01">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+      <note dynamics="141.11" id="v_m23_n02">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <dot />
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m23_n03">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+      </note>
+      <note dynamics="141.11" id="v_m23_n04">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <type>half</type>
+      </note>
+    </measure>
+
+    <measure implicit="no" number="24">
+      <note dynamics="141.11" id="v_m24_n01">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+      <note dynamics="141.11" id="v_m24_n02">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m24_n03">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note dynamics="141.11" id="v_m24_n04">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m24_n05">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note dynamics="141.11" id="v_m24_n06">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m24_n07">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+      </note>
+    </measure>
+
+    <measure implicit="no" number="25">
+      <note dynamics="141.11" id="v_m25_n01">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+      <note dynamics="141.11" id="v_m25_n02">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <dot />
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m25_n03">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+      </note>
+      <note dynamics="141.11" id="v_m25_n04">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <type>half</type>
+      </note>
+    </measure>
+
+    <measure implicit="no" number="26">
+      <note id="v_m26_n01">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+      </note>
+      <note id="v_m26_n02">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+      </note>
+      <note id="v_m26_n03">
+        <rest />
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot />
+      </note>
+      <note dynamics="141.11" id="v_m26_n04">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot />
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m26_n05">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+      </note>
+      <note dynamics="141.11" id="v_m26_n06">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note id="v_m26_n07">
+        <rest />
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <backup>
+        <duration>40320</duration>
+      </backup>
+      <note dynamics="141.11" id="v_m26_n08">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+      </note>
+      <note id="v_m26_n09">
+        <rest />
+        <duration>12</duration>
+        <voice>2</voice>
+        <type>half</type>
+        <dot />
+      </note>
+    </measure>
+
+    <measure implicit="no" number="27">
+      <note id="v_m27_n01">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+      </note>
+      <note id="v_m27_n02">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+      </note>
+      <note id="v_m27_n03">
+        <rest />
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot />
+      </note>
+      <note dynamics="141.11" id="v_m27_n04">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot />
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m27_n05">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+      </note>
+      <note dynamics="141.11" id="v_m27_n06">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note id="v_m27_n07">
+        <rest />
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <backup>
+        <duration>40320</duration>
+      </backup>
+      <note dynamics="141.11" id="v_m27_n08">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+      </note>
+      <note id="v_m27_n09">
+        <rest />
+        <duration>12</duration>
+        <voice>2</voice>
+        <type>half</type>
+        <dot />
+      </note>
+    </measure>
+
+    <measure implicit="no" number="28">
+      <note dynamics="141.11" id="v_m28_n01">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+      <note dynamics="141.11" id="v_m28_n02">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note dynamics="141.11" id="v_m28_n03">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note dynamics="141.11" id="v_m28_n04">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>7</duration>
+        <type>quarter</type>
+        <dot />
+        <dot />
+      </note>
+      <note id="v_m28_n05">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+      </note>
+      <note id="v_m28_n06">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+      </note>
+      <note id="v_m28_n07">
+        <chord />
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note id="v_m28_n08">
+        <chord />
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+      </note>
+    </measure>
+
+    <measure implicit="no" number="29">
+      <note dynamics="141.11" id="v_m29_n01">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+      <note id="v_m29_n02">
+        <rest />
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+      <note dynamics="141.11" id="v_m29_n03">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <type>half</type>
+      </note>
+    </measure>
+
+    <measure implicit="no" number="30">
+      <note dynamics="141.11" id="v_m30_n01">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6</duration>
+        <type>quarter</type>
+        <dot />
+      </note>
+      <note dynamics="141.11" id="v_m30_n02">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+      </note>
+      <note dynamics="141.11" id="v_m30_n03">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <type>half</type>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+</score-partwise>

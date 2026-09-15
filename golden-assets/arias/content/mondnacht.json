@@ -1,0 +1,136 @@
+{
+  "title": "Mondnacht",
+  "titleZh": "月夜",
+  "composer": "R. Schumann",
+  "opera": "Liederkreis Op.39 No.5（歌曲集，1840；诗：J. von Eichendorff）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "genre": "艺术歌曲",
+  "tempoBpm": 60,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（E大调，3/8，柔和而梦幻，约68小节，三段分节歌）。舒曼最受喜爱的歌曲之一。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Es war, als hätt' der Himmel",
+      "zh": "仿佛天空"
+    },
+    {
+      "text": "die Erde still geküßt,",
+      "zh": "静静地亲吻了大地，"
+    },
+    {
+      "text": "daß sie im Blütenschimmer",
+      "zh": "使她在花的微光中"
+    },
+    {
+      "text": "von ihm nun träumen müßt'.",
+      "zh": "不得不梦见他。"
+    },
+    {
+      "text": "Die Luft ging durch die Felder,",
+      "zh": "微风穿过田野，"
+    },
+    {
+      "text": "die Ähren wogten sacht,",
+      "zh": "麦穗轻轻摇曳，"
+    },
+    {
+      "text": "es rauschten leis die Wälder,",
+      "zh": "森林轻声低语，"
+    },
+    {
+      "text": "so sternklar war die Nacht.",
+      "zh": "夜晚如此星光灿烂。"
+    },
+    {
+      "text": "Und meine Seele spannte",
+      "zh": "而我的灵魂"
+    },
+    {
+      "text": "weit ihre Flügel aus,",
+      "zh": "张开了宽阔的翅膀，"
+    },
+    {
+      "text": "flog durch die stillen Lande,",
+      "zh": "飞过寂静的大地，"
+    },
+    {
+      "text": "als flöge sie nach Haus.",
+      "zh": "仿佛飞向了家。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "Himmel 的 i 短促 [ɪ]",
+        "geküßt 的 ü 是圆唇 [ʏ]",
+        "Blütenschimmer 的 ü 是长 [yː]",
+        "Ähren 的 ä 读 [ɛː]，接近'艾'",
+        "Seele 的 ee 是长 [eː]"
+      ]
+    },
+    {
+      "title": "歌唱风格",
+      "items": [
+        "全曲像一个悬浮的梦——声音要轻盈、透明",
+        "3/8 拍的摇摆感像月光下的微风",
+        "最后一段'Und meine Seele spannte'是情感高潮——灵魂展翅飞翔",
+        "'als flöge sie nach Haus' 要唱出回家的温暖与安宁"
+      ]
+    }
+  ],
+  "story": {
+    "background": "《月夜》选自舒曼《歌曲集》Op.39，取艾兴多夫的浪漫主义诗歌。这是德国艺术歌曲中最著名的'夜曲'之一——三段诗描绘天空亲吻大地、微风穿过田野、灵魂展翅飞翔的意象。舒曼用E大调的宁静和声和钢琴的琶音织出一个星光下的梦境。",
+    "situation": "一个宁静的月夜。诗人站在田野间，看到天空仿佛亲吻了大地，一切都在月光中安睡。微风、麦穗、森林——大自然的一切都在轻声呼吸。在这寂静中，诗人的灵魂张开翅膀飞翔，飞向一个叫做'家'的地方——也许是天堂，也许是灵魂的归宿。",
+    "relationships": "诗人与大自然、与自己的灵魂之间的对话。天空与大地是一对恋人（亲吻的意象），而诗人的灵魂在这宇宙的宁静中找到了自由。",
+    "intent": "三段递进：第一段是客观的自然描写（天空亲吻大地）；第二段加入感官细节（风、麦穗、森林）；第三段突然转向内心——'我的灵魂'展翅飞翔。最后的'als flöge sie nach Haus'是全曲最深沉的一刻——'回家'在这里意味着灵魂的归宿。",
+    "plain30": "月夜里，天空亲吻大地，微风穿过田野，星光灿烂。在这宁静中，诗人的灵魂张开翅膀飞过大地，仿佛飞向了家。",
+    "arc": "E大调，3/8，柔和的三拍摇摆。三段用相似旋律但渐次加深。钢琴的分解和弦像月光洒落。第三段'Und meine Seele'处旋律升高，情感由外在的自然转入内心的飞翔。结尾在主音上安静地解决——灵魂找到了归宿。",
+    "motif": "月光琶音：钢琴的分解和弦像月光的柔波。声乐的下行级进动机象征安宁——'Es war, als hätt' der Himmel' 从高处温柔下落，像月光降临大地。第三段的上行跳进是灵魂的'展翅'动机。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "'Es war, als hätt' der Himmel' 月光降临——温柔的下行"
+      },
+      {
+        "phrase": "5",
+        "note": "'Die Luft ging durch die Felder' 微风穿过——旋律的流动"
+      },
+      {
+        "phrase": "9",
+        "note": "'Und meine Seele spannte' 灵魂展翅——上行跳进，情感高点"
+      },
+      {
+        "phrase": "9",
+        "note": "'als flöge sie nach Haus' 回家——安静的解决"
+      }
+    ],
+    "technique": "全曲在 pianissimo 到 mezzo-piano 之间。3/8 拍不要打成明显的强拍——要像呼吸一样自然流动。'Seele' 的长音需要稳定的气息支撑。最后的 'nach Haus' 不要渐弱到听不见——要有'到达'的踏实感。",
+    "classroom": [
+      "先读中文：天空亲吻大地，微风穿过田野，灵魂飞向了家。",
+      "朗读德语：注意 'geküßt' 的 ü、'Ähren' 的 ä、'Seele' 的长 e。",
+      "听钢琴前奏的琶音——你的声音要像月光一样轻盈地落在上面。",
+      "三段旋律相似：先学一段，再配三段不同的歌词。",
+      "第三段是关键——'Und meine Seele' 开始时可以稍微加一点力度。",
+      "'als flöge sie nach Haus' 是目的地——唱到'Haus'时要有'到了'的安心感。",
+      "完整演唱。在一个安静的夜晚练习效果最好。"
+    ]
+  },
+  "role": "抒情主人公（夜行者）"
+}

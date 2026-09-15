@@ -1,0 +1,144 @@
+{
+ "title": "Heidenröslein",
+ "titleZh": "野玫瑰",
+ "composer": "F. Schubert",
+ "opera": "Heidenröslein, D. 257, Op. 3 No. 3（1815；德语艺术歌曲，词 J. W. von Goethe）",
+ "role": "叙述者：讲述少年与野玫瑰的故事",
+ "genre": "艺术歌曲（分节歌）",
+ "language": "德语",
+ "voice": "女高音",
+ "difficulty": "基础",
+ "tempoBpm": 84,
+ "complete": true,
+ "sourceGrade": "B",
+ "coverageNote": "分节歌，三节歌词同一旋律（G 大调，2/4 Lieblich，16 小节）。本页把三节展开为三遍通读（46 × 3 = 138 个音节），每节标注 verse。来源文件把声部记高八度（音域出现 G6），已移回实际音高。已与 IMSLP Breitkopf 版核对。",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Schubert,_Franz/Op.3/3_Heidenröslein,_D.257",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Schubert,_Franz/Op.3/3_Heidenröslein,_D.257",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；三节共 138 个音节与 Breitkopf 版逐一核对；声部移回实际八度",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/30321236"
+  },
+  {
+   "name": "IMSLP · Heidenröslein, D.257 (Schubert, Franz)",
+   "url": "https://imslp.org/wiki/Heidenr%C3%B6slein,_D.257_(Schubert,_Franz)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "Wikisource · Heidenröslein (Goethe)",
+   "url": "https://de.wikisource.org/wiki/Heidenr%C3%B6slein",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Sah ein Knab’ ein Röslein stehn, Röslein auf der Heiden,",
+   "zh": "少年看见一朵小玫瑰，荒野上的小玫瑰，"
+  },
+  {
+   "text": "war so jung und morgenschön, lief er schnell, es nah zu sehn,",
+   "zh": "它那么年轻、像清晨一样美，他跑过去细看，"
+  },
+  {
+   "text": "sah’s mit vielen Freuden. Röslein, Röslein, Röslein rot, Röslein auf der Heiden.",
+   "zh": "满心欢喜地看着它。玫瑰，玫瑰，红玫瑰，荒野上的小玫瑰。"
+  },
+  {
+   "text": "Knabe sprach: ich breche dich, Röslein auf der Heiden!",
+   "zh": "少年说：我要折下你，荒野上的小玫瑰！"
+  },
+  {
+   "text": "Röslein sprach: ich steche dich, dass du ewig denkst an mich, und ich will’s nicht leiden.",
+   "zh": "玫瑰说：我要刺你，让你永远记得我，我不愿忍受。"
+  },
+  {
+   "text": "Röslein, Röslein, Röslein rot, Röslein auf der Heiden.",
+   "zh": "玫瑰，玫瑰，红玫瑰，荒野上的小玫瑰。"
+  },
+  {
+   "text": "Und der wilde Knabe brach’s Röslein auf der Heiden;",
+   "zh": "野蛮的少年折下了荒野上的小玫瑰；"
+  },
+  {
+   "text": "Röslein wehrte sich und stach, half ihm doch kein Weh und Ach, musst’ es eben leiden.",
+   "zh": "玫瑰反抗并刺了他，可哀叹也没用，只得忍受。"
+  },
+  {
+   "text": "Röslein, Röslein, Röslein rot, Röslein auf der Heiden.",
+   "zh": "玫瑰，玫瑰，红玫瑰，荒野上的小玫瑰。"
+  }
+ ],
+ "hints": [
+  {
+   "title": "长短元音",
+   "items": [
+    "Röslein 的 ö 长 [øː]；stehn、sehn 的 eh 长 [eː]；Knab’、sah 的 a 长；jung、und 短。",
+    "Heiden、leiden 的 ei [aɪ]；Freuden 的 eu [ɔʏ]。"
+   ]
+  },
+  {
+   "title": "ich/ach 音与辅音结尾",
+   "items": [
+    "dich、mich、ich 为 [ç]；brach’s、stach、Ach 为 [x]——第三节集中出现 ach 音。",
+    "rot、stach、brach’s 的词尾辅音清晰；“sah’s”“will’s”“brach’s” 的 ’s 要发。"
+   ]
+  },
+  {
+   "title": "复合词重音",
+   "items": [
+    "HEIdenröslein、MORgenschön——复合词重音在第一成分。",
+    "“ewig” 重音在第一音节；“eben” 同。"
+   ]
+  }
+ ],
+ "story": {
+  "background": "歌德 1771 年的诗《野玫瑰》被百余位作曲家谱曲，舒伯特 1815 年（18 岁）的版本最为流传，G 大调、2/4，三节分节歌，几乎像民歌。诗表面讲少年折花，实则暗喻强占与伤害——玫瑰的刺没能阻止少年，只能让他“永远记得”。",
+  "situation": "叙述者讲一个三幕小故事：少年看见玫瑰（第一节，欢喜），少年与玫瑰对话（第二节，威胁与反抗），少年折花、玫瑰刺他却仍被折（第三节，暴力与无奈）。每节以副歌 “Röslein, Röslein, Röslein rot” 收束，语气随内容变化。",
+  "relationships": "少年（Knabe）与玫瑰（Röslein）。玫瑰被拟人化为有声音、能反抗的女性；叙述者是旁观者。三节的关系从“看见”到“对峙”到“伤害”，副歌的重复让悲剧显得平静而残酷。",
+  "intent": "第一节要天真、轻快，像讲童话；第二节对话有戏剧感——少年的 “ich breche dich” 略带威胁，玫瑰的 “ich steche dich” 倔强。第三节 “Und der wilde Knabe brach’s” 稍加重量，“musst’ es eben leiden” 无奈。三次副歌用同样的旋律，但从欢快到沉重。",
+  "plain30": "少年看见一朵野玫瑰想折它，玫瑰说“我会刺你，让你永远记得我”，少年还是折了。同一段旋律唱三遍，故事却从童话变成了伤害。",
+  "arc": "G 大调，2/4 Lieblich，16 小节的民歌式旋律：前四句级进为主、句尾略跳，副歌 “Röslein, Röslein” 用同音反复加下行收束。三节完全相同，靠速度、力度与音色区分：第一节轻快，第二节略慢有对话感，第三节略重，副歌最后一次可放慢。",
+  "motif": "核心动机是副歌 “Rös-lein, Rös-lein, Rös-lein rot” 的同音反复加三度下行：像一声声呼唤名字。它在每节末尾出现三次，第一次欢快、第二次倔强、第三次哀伤。演唱时三个 “Röslein” 不要一样重，让最后一个最轻。",
+  "motifPositions": [
+   {
+    "phrase": 3,
+    "note": "第 3 句副歌 “Röslein, Röslein, Röslein rot” 首次出现，欢快。"
+   },
+   {
+    "phrase": 6,
+    "note": "第 6 句（第二节副歌）同一动机，倔强的语气。"
+   },
+   {
+    "phrase": 9,
+    "note": "第 9 句（第三节副歌）同一动机，哀伤，可放慢。"
+   },
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Sah ein Knab’” 的级进上行是主歌动机，与副歌的下行形成问答。"
+   }
+  ],
+  "technique": "呼吸：两小节一句，句间自然换气；副歌前吸足。咬字：ch 的两种读法要分清，词尾辅音清晰；“sah’s”“brach’s” 的 s 不能丢。换声区：女高音音域 D4–E5 大多在中声区，第三节可稍加重量但不撑。高音：最高音 E5 在副歌 “rot”，是明亮的呼唤，轻巧点到。",
+  "classroom": [
+   "先读中文，分清三节的情节：看见、对话、折花。",
+   "慢速读德语，标出 ich/ach 音。",
+   "分离元音和辅音：练 ö、ei、eu 与词尾 s。",
+   "按 2/4 说词，轻快。",
+   "听单音旋律，记住 16 小节的结构。",
+   "把歌词放回旋律，先练第一节，再套第二、三节。",
+   "用正常速度完整演唱，三节用不同语气。"
+  ]
+ }
+}

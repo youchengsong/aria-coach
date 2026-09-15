@@ -1,0 +1,149 @@
+{
+  "title": "Il pleure dans mon cœur",
+  "titleZh": "我心中在下雨",
+  "composer": "C. Debussy",
+  "opera": "Ariettes oubliées, No. 2（1887；诗：P. Verlaine）",
+  "language": "法语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "genre": "艺术歌曲",
+  "tempoBpm": 58,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（G# 小调，3/4，轻柔的忧伤）。德布西最知名的歌曲之一。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Il pleure dans mon cœur",
+      "zh": "我心中在下雨，"
+    },
+    {
+      "text": "comme il pleut sur la ville;",
+      "zh": "就像城市上空在下雨；"
+    },
+    {
+      "text": "quelle est cette langueur",
+      "zh": "这是怎样的慵懒"
+    },
+    {
+      "text": "qui pénètre mon cœur?",
+      "zh": "渗透了我的心？"
+    },
+    {
+      "text": "Ô bruit doux de la pluie",
+      "zh": "哦雨水温柔的声响，"
+    },
+    {
+      "text": "par terre et sur les toits!",
+      "zh": "落在地上和屋顶上！"
+    },
+    {
+      "text": "Pour un cœur qui s'ennuie,",
+      "zh": "对一颗百无聊赖的心来说，"
+    },
+    {
+      "text": "ô le chant de la pluie!",
+      "zh": "哦雨的歌声！"
+    },
+    {
+      "text": "Il pleure sans raison",
+      "zh": "无缘无故地在流泪——"
+    },
+    {
+      "text": "dans ce cœur qui s'écœure.",
+      "zh": "在这颗厌倦的心中。"
+    },
+    {
+      "text": "Quoi! nulle trahison?",
+      "zh": "什么！没有被背叛？"
+    },
+    {
+      "text": "Ce deuil est sans raison.",
+      "zh": "这悲伤没有理由。"
+    },
+    {
+      "text": "C'est bien la pire peine",
+      "zh": "这才是最糟糕的痛苦——"
+    },
+    {
+      "text": "de ne savoir pourquoi",
+      "zh": "不知道为什么"
+    },
+    {
+      "text": "sans amour et sans haine",
+      "zh": "没有爱也没有恨"
+    },
+    {
+      "text": "mon cœur a tant de peine!",
+      "zh": "我的心却如此痛苦！"
+    }
+  ],
+  "hints": [
+    {
+      "title": "法语鼻化元音",
+      "items": [
+        "dans [dɑ̃]、langueur 的 an [ɑ̃]、chant [ʃɑ̃]、sans [sɑ̃]——an/en 鼻化贯穿全曲",
+        "mon [mɔ̃]、raison [ʁɛzɔ̃]、trahison [tʁaizɔ̃]——on 鼻化",
+        "pénètre 的 é [e] 不是鼻化——注意区分 en 的两种读法"
+      ]
+    },
+    {
+      "title": "语音色彩",
+      "items": [
+        "pleure [plœʁ] 与 pleut [plø]——两个不同的 eu 元音，一个开一个闭",
+        "cœur [kœʁ] 与 s'écœure [sekœʁ]——开口的 œ",
+        "peine [pɛn] 的 ei [ɛ]——最后一行反复出现，要保持纯净"
+      ]
+    }
+  ],
+  "story": {
+    "background": "魏尔兰的这首诗原题为「无言的浪漫曲 III」，是法语象征主义诗歌的经典——用外部的雨来映射内心无名的忧伤。德布西在 1887 年为它谱曲时只有 25 岁，已经展现出成熟的印象派风格：音乐不去描绘雨或悲伤，而是创造一种介于两者之间的朦胧情绪。",
+    "situation": "下雨天。歌者坐在窗边听雨，发现心中也在「下雨」——一种无法命名的忧伤。他试图找到原因：没有人背叛我，没有人离开——那为什么这么难过？最后他意识到，最糟糕的不是有原因的痛苦，而是没有原因的痛苦。",
+    "relationships": "只有歌者和雨——没有其他人物。这首歌的核心是一个人与自己情绪的关系：他感到悲伤，但不知道为什么。这种没有对象的忧伤比失恋更令人困惑。",
+    "intent": "声音要像雨滴——轻、均匀、不间断。不要唱得太悲伤——这首歌的要点恰恰是歌者不知道自己为什么悲伤。开头像是自言自语。「Quoi! nulle trahison?」是一个惊讶的自问——稍微提高音量。结尾的「mon cœur a tant de peine」要有无奈感，但不是痛哭，而是摇头叹气。",
+    "plain30": "外面在下雨，我心里也在下雨。没有人伤害我，没有人背叛我——可我就是难过。不知道为什么悲伤，这才是最糟糕的。一首关于无名忧伤的小歌。",
+    "arc": "G# 小调，3/4，温和的流动。钢琴用轻快的三拍子模仿雨滴——但不是暴雨，是绵绵细雨。声乐在窄音域中轻轻浮动。四段诗对应四个阶段：发现忧伤→听雨→自问→接受。和声偶尔触及大调色彩（像阳光穿过云层），但总是回到小调。",
+    "motif": "雨滴动机：钢琴的三拍子分解和弦——均匀、不断、温柔，从不停止。叹息动机：声乐的「Il pleure」下行二度——像一声轻叹。自问动机：「Quoi!」的突然上行——全曲唯一的惊讶。钢琴的雨滴始终不变——外面的雨不在乎你快不快乐。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "开头「Il pleure dans mon cœur」——叹息动机，声音像雨后的雾"
+      },
+      {
+        "phrase": "5",
+        "note": "「Ô bruit doux de la pluie」——对雨声的温柔感叹"
+      },
+      {
+        "phrase": "11",
+        "note": "「Quoi! nulle trahison?」——自问动机，短暂的惊醒"
+      },
+      {
+        "phrase": "14",
+        "note": "「mon cœur a tant de peine」——接受无名的悲伤"
+      }
+    ],
+    "technique": "技术上是最容易入门的德布西歌曲之一——音域适中、节奏规整、没有极端力度。难点在风格：保持声音的轻盈和透明，不要用太多胸声。法语的鼻化元音在三拍子中要像雨滴般均匀。「cœur」这个词反复出现四次，每次的 [œ] 元音要一致。最后一行要能唱到渐弱中消失。",
+    "classroom": [
+      "先读中文——理解「无缘无故的悲伤」这个主题。想一想自己有没有过这样的时刻。",
+      "听一段雨声——然后朗读法语，让节奏像雨滴一样均匀。",
+      "练习 pleure/pleut/pluie 三个「雨」相关的词——不同的元音。",
+      "用 3/4 轻轻打拍子说词——每小节三个轻拍，像雨点。",
+      "哼唱旋律——保持在 mp 以下，像窗边的自言自语。",
+      "加入歌词——注意「Quoi!」的惊讶要短暂，马上回到平静。",
+      "原速演唱。这首歌不需要「表现」——你只是一个坐在窗边听雨的人，发现自己不知道为什么难过。"
+    ]
+  },
+  "role": "抒情主人公（忧伤的恋人）"
+}

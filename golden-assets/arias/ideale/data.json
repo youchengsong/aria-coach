@@ -1,0 +1,2245 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "ideale",
+ "title": "Ideale",
+ "titleZh": "理想",
+ "composer": "F. P. Tosti",
+ "opera": "Ideale（1882；意大利语浪漫曲，词 Carmelo Errico）",
+ "language": "意大利语",
+ "voice": "男高音",
+ "difficulty": "中级",
+ "tempoBpm": 63,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   42
+  ],
+  "firstSungMeasure": 5,
+  "complete": true,
+  "note": "完整声乐旋律（4/4，42 小节），163 个意大利语音节；OpenScore 据 Ricordi 版转写，已与 IMSLP 声乐谱核对。"
+ },
+ "range": {
+  "low": "E4",
+  "high": "F#5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主体：呼唤已逝理想之爱的人",
+ "genre": "浪漫曲",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Tosti,_Francesco_Paolo/_/Ideale",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Tosti,_Francesco_Paolo/_/Ideale",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；163 个音节与 Ricordi 版逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/29381987"
+  },
+  {
+   "name": "IMSLP · Ideale (Tosti, Francesco Paolo)",
+   "url": "https://imslp.org/wiki/Ideale_(Tosti,_Francesco_Paolo)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "LiederNet · Ideale (Errico)",
+   "url": "https://www.lieder.net/lieder/get_text.html?TextId=47230",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Io ti seguii come iride di pace lungo le vie del cielo;",
+   "zh": "我追随你，像追随天路上和平的彩虹；"
+  },
+  {
+   "text": "io ti seguii come un’amica face de la notte nel velo.",
+   "zh": "我追随你，像追随夜幕中一支友善的火炬。"
+  },
+  {
+   "text": "E ti sentii ne la luce, ne l’aria, nel profumo dei fiori;",
+   "zh": "我在光里、在空气里、在花香里感到你；"
+  },
+  {
+   "text": "e fu piena la stanza solitaria di te, dei tuoi splendori.",
+   "zh": "孤寂的房间充满了你、你的光辉。"
+  },
+  {
+   "text": "In te rapito, al suon de la tua voce lungamente sognai;",
+   "zh": "陶醉于你，听着你的声音，我久久地梦着；"
+  },
+  {
+   "text": "e de la terra ogni affanno, ogni croce in quel giorno scordai.",
+   "zh": "那一天我忘了尘世的一切忧愁与苦难。"
+  },
+  {
+   "text": "Torna, caro ideal, torna un istante a sorridermi ancora,",
+   "zh": "回来吧，亲爱的理想，回来片刻，再对我微笑一次，"
+  },
+  {
+   "text": "e a me risplenderà nel tuo sembiante una novella aurora.",
+   "zh": "在你的面容里，一道新的曙光将为我闪耀。"
+  },
+  {
+   "text": "Torna, caro ideal, torna, torna.",
+   "zh": "回来吧，亲爱的理想，回来，回来。"
+  }
+ ],
+ "story": {
+  "background": "托斯蒂是 19 世纪末最成功的意大利沙龙歌曲作曲家，长期任英国王室声乐教师。《理想》（1882，词 Carmelo Errico）是他最著名的浪漫曲之一，卡鲁索、吉利、帕瓦罗蒂都留下录音。它是男高音学习意大利语抒情线条的标准曲目。",
+  "situation": "叙述者回忆曾经追随的“理想”——一个像彩虹、像火炬的爱人，曾让他忘记一切苦难。现在她（或它）已不在，他呼唤：回来片刻，再对我笑一次。他想要的是重温那份光，害怕的是它永远不再。",
+  "relationships": "“我”与被称为 “caro ideal”（亲爱的理想）的“你”。这个“你”既是具体的人，也是抽象的理想；歌曲刻意不区分，使呼唤同时指向爱情与青春。",
+  "intent": "前两段（回忆）要唱得柔和、连绵，像在讲一个已经过去的美好；“E ti sentii ne la luce” 略微升温。“Torna, caro ideal” 是全曲的转折——从回忆到祈求，声音放宽、放亮；“una novella aurora” 是高潮；最后的 “torna, torna” 逐渐放轻，像呼唤远去。",
+  "plain30": "他曾追随一个像彩虹一样的爱人，在她身边忘掉一切苦难。如今她不在了，他唱：回来吧，亲爱的理想，哪怕只再笑一次。",
+  "arc": "4/4 Andante，钢琴以分解和弦作背景。旋律以长线条级进为主，前两段在中音区平稳流动；“In te rapito” 起音区抬高；“Torna, caro ideal” 转为向上的跳进，“novella aurora” 到达最高音，尾声 “torna, torna” 落回主音并渐弱。情绪：怀念—陶醉—祈求—余音。",
+  "motif": "核心动机是 “Io ti seguii” 的级进上行三音再回落：追随的动作。它在第二句以同样形式出现，在 “In te rapito” 音区升高，“Torna, caro ideal” 把上行变为跳进，成为呼唤。演唱时保持每次上行的连贯，让呼唤段的跳进对比更明显。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Io ti seguii” 追随动机首次出现。"
+   },
+   {
+    "phrase": 2,
+    "note": "第 2 句 “io ti seguii come un’amica face” 动机重复，织体不变。"
+   },
+   {
+    "phrase": 5,
+    "note": "第 5 句 “In te rapito” 动机音区抬高，情绪升温。"
+   },
+   {
+    "phrase": 7,
+    "note": "第 7 句 “Torna, caro ideal” 动机变为跳进，全曲转折。"
+   }
+  ],
+  "technique": "呼吸：句子长，每两小节换气一次，“lungamente sognai” 前吸足。咬字：双辅音停顿，词尾元音饱满；“seguii” 的两个 i 分开唱。换声区：男高音在 F4–G4（“splendori”“sognai”）经过换声区，保持元音略窄。高音：“aurora” 上的最高音（G4–A♭4 视调而定）靠前句的上行推上去，不单独发力；最后的 “torna” 要弱而稳。",
+  "classroom": [
+   "先读中文，找出“过去（追随）”与“现在（呼唤）”的分界。",
+   "慢速读原文，标出重音与双辅音。",
+   "分离元音：练开口 e 与闭口 e 的区别。",
+   "按 4/4 说词，每小节四拍平稳。",
+   "听单音旋律，注意上行三音的连贯。",
+   "把歌词放回旋律，先练前两段的平稳，再练 “Torna” 的跳进。",
+   "用正常速度完整演唱，结尾逐渐放轻。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "seGUÌI（三音节，重音在 gui）、Ìride、soliTÀria、SPLENdori、riSPLENderà；双辅音 aFFANno、TERra、sorRÌDermi。",
+    "“affanno” nn 双辅音；“notte” tt。"
+   ]
+  },
+  {
+   "title": "连读与省略",
+   "items": [
+    "“un’amica” 省音；“de la”“ne la” 是诗体分写的 della/nella；“caro‿ideal” 连读为一音。",
+    "“ogni affanno, ogni croce” 中 -i a- / -i c- 不连读。"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "pace、face、luce 的 e 为闭口 [e]；cielo、velo 的 e 为开口 [ɛ]；“ideal”“istante” 的 e 开口。",
+    "“sognai”“scordai” 的 -ai 是双元音，重音在 a。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    5,
+    9
+   ],
+   "lyrics": "Io ti seguii com’ iride di pace Lungo le vie del cielo Io ti seguii come un’ amica",
+   "translation": "我追随你，像追随天路上和平的彩虹；",
+   "events": [
+    {
+     "id": "ideale-e0006",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0007",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.5,
+     "lyric": "Io",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0008",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 4,
+     "lyric": "ti",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0009",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 4.5,
+     "lyric": "se",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0010",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 6,
+     "beat": 1,
+     "lyric": "guii",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0011",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.5,
+     "lyric": "com’",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0012",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3,
+     "lyric": "i",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0013",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3.5,
+     "lyric": "ri",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0014",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 4,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0015",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 4.5,
+     "lyric": "di",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0016",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "pa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0017",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2,
+     "lyric": "ce",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0018",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0019",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 7,
+     "beat": 3,
+     "lyric": "Lun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0020",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 7,
+     "beat": 3.333,
+     "lyric": "go",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0021",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 7,
+     "beat": 3.667,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0022",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 7,
+     "beat": 4,
+     "lyric": "vie",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0023",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 4.75,
+     "lyric": "del",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0024",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 8,
+     "beat": 1,
+     "lyric": "cie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0025",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 8,
+     "beat": 2,
+     "lyric": "lo",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0026",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0027",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.5,
+     "lyric": "Io",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0028",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 4,
+     "lyric": "ti",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0029",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 4.5,
+     "lyric": "se",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0030",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "guii",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0031",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 9,
+     "beat": 3,
+     "lyric": "come",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0032",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 9,
+     "beat": 3.333,
+     "lyric": "un’",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0033",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 9,
+     "beat": 3.667,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0034",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 4,
+     "lyric": "mi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0035",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 4.5,
+     "lyric": "ca",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    10,
+    11
+   ],
+   "lyrics": "face De la notte nel velo.",
+   "translation": "我追随你，像追随夜幕中一支友善的火炬。",
+   "events": [
+    {
+     "id": "ideale-e0036",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "fa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0037",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 2,
+     "lyric": "ce",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0038",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.3333,
+     "measure": 10,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0039",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 10,
+     "beat": 3.333,
+     "lyric": "De",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0040",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 10,
+     "beat": 3.667,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0041",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 10,
+     "beat": 4,
+     "lyric": "no",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0042",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 10,
+     "beat": 4.333,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0043",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 10,
+     "beat": 4.667,
+     "lyric": "nel",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0044",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "ve",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0045",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 11,
+     "beat": 2,
+     "lyric": "lo.",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0046",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    11,
+    13
+   ],
+   "lyrics": "E ti sentii ne la luce, ne l’aria,",
+   "translation": "我在光里、在空气里、在花香里感到你；",
+   "events": [
+    {
+     "id": "ideale-e0047",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 3.5,
+     "lyric": "E",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0048",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 4,
+     "lyric": "ti",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0049",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 4.5,
+     "lyric": "sen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0050",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "tii",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0051",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "ne",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0052",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.75,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0053",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 12,
+     "beat": 3,
+     "lyric": "lu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0054",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 4,
+     "lyric": "ce,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0055",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0056",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 4.75,
+     "lyric": "ne",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0057",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "l’a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0058",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2,
+     "lyric": "ria,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    13,
+    16
+   ],
+   "lyrics": "Nel profumo dei fiori E fu piena la stanza solitaria Di te,",
+   "translation": "孤寂的房间充满了你、你的光辉。",
+   "events": [
+    {
+     "id": "ideale-e0059",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "Nel",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0060",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.75,
+     "lyric": "pro",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0061",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 13,
+     "beat": 3,
+     "lyric": "fu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0062",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 4,
+     "lyric": "mo",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0063",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 4.5,
+     "lyric": "dei",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0064",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "fio",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0065",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "ri",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0066",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 14,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0067",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 14,
+     "beat": 4,
+     "lyric": "E",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0068",
+     "pitch": "E#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 4.75,
+     "lyric": "fu",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0069",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "pie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0070",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2,
+     "lyric": "na",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0071",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0072",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 3,
+     "lyric": "stan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0073",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 3.5,
+     "lyric": "za",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0074",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 4,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0075",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 4.5,
+     "lyric": "li",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0076",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "ta",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0077",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2,
+     "lyric": "ria",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0078",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "Di",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0079",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3,
+     "lyric": "te,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    16,
+    21
+   ],
+   "lyrics": "dei tuoi splendori.",
+   "translation": "孤寂的房间充满了你、你的光辉。",
+   "events": [
+    {
+     "id": "ideale-e0080",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.5,
+     "lyric": "dei",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0081",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 4,
+     "lyric": "tuoi",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0082",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 4.75,
+     "lyric": "splen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0083",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "do",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0084",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 17,
+     "beat": 2,
+     "lyric": "ri.",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0085",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 17,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0086",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 18,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0087",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 19,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0088",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 20,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0089",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 21,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0090",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    21,
+    24
+   ],
+   "lyrics": "In te rapito, al suon de la tua voce Lungamente sognai E de la",
+   "translation": "陶醉于你，听着你的声音，我久久地梦着；",
+   "events": [
+    {
+     "id": "ideale-e0091",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3.5,
+     "lyric": "In",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0092",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 4,
+     "lyric": "te",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0093",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 4.5,
+     "lyric": "ra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0094",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 22,
+     "beat": 1,
+     "lyric": "pi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0095",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2,
+     "lyric": "to,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0096",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "al",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0097",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3,
+     "lyric": "suon",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0098",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3.5,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0099",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 4,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0100",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 4.5,
+     "lyric": "tua",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0101",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 23,
+     "beat": 1,
+     "lyric": "vo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0102",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 23,
+     "beat": 2,
+     "lyric": "ce",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0103",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.3333,
+     "measure": 23,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0104",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 23,
+     "beat": 3.333,
+     "lyric": "Lun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0105",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 23,
+     "beat": 3.667,
+     "lyric": "ga",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0106",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 23,
+     "beat": 4,
+     "lyric": "men",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0107",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 23,
+     "beat": 4.333,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0108",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 23,
+     "beat": 4.667,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0109",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 24,
+     "beat": 1,
+     "lyric": "gnai",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0110",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0111",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0112",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3.5,
+     "lyric": "E",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0113",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 4,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0114",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 4.5,
+     "lyric": "la",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    25,
+    27
+   ],
+   "lyrics": "terra ogni affanno, ogni croce In quel giorno scordai.",
+   "translation": "那一天我忘了尘世的一切忧愁与苦难。",
+   "events": [
+    {
+     "id": "ideale-e0115",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 25,
+     "beat": 1,
+     "lyric": "ter",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0116",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2,
+     "lyric": "ra",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0117",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 2.5,
+     "lyric": "ogni",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0118",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 2.75,
+     "lyric": "af",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0119",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 3,
+     "lyric": "fan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0120",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 3.5,
+     "lyric": "no,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0121",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 4,
+     "lyric": "o",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0122",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 4.5,
+     "lyric": "gni",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0123",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1,
+     "measure": 26,
+     "beat": 1,
+     "lyric": "cro",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0124",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 26,
+     "beat": 2,
+     "lyric": "ce",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0125",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.3333,
+     "measure": 26,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0126",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 26,
+     "beat": 3.333,
+     "lyric": "In",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0127",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 26,
+     "beat": 3.667,
+     "lyric": "quel",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0128",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 26,
+     "beat": 4,
+     "lyric": "gior",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0129",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 26,
+     "beat": 4.333,
+     "lyric": "no",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0130",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 26,
+     "beat": 4.667,
+     "lyric": "scor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0131",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 27,
+     "beat": 1,
+     "lyric": "dai.",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0132",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0133",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 27,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    28,
+    29
+   ],
+   "lyrics": "Torna, caro ideal,",
+   "translation": "回来吧，亲爱的理想，回来片刻，再对我微笑一次，",
+   "events": [
+    {
+     "id": "ideale-e0134",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2,
+     "measure": 28,
+     "beat": 1,
+     "lyric": "Tor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0135",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 3,
+     "lyric": "na,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0136",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0137",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 28,
+     "beat": 4,
+     "lyric": "ca",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0138",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 28,
+     "beat": 4.333,
+     "lyric": "ro i",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0139",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 28,
+     "beat": 4.667,
+     "lyric": "de",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0140",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 3,
+     "measure": 29,
+     "beat": 1,
+     "lyric": "al,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0141",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 29,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    30,
+    34
+   ],
+   "lyrics": "torna un istante A sorridermi ancora, E a me risplenderà nel tuo sembiante Una novell’aurora,",
+   "translation": "在你的面容里，一道新的曙光将为我闪耀。",
+   "events": [
+    {
+     "id": "ideale-e0142",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 30,
+     "beat": 1,
+     "lyric": "tor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0143",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2,
+     "lyric": "na un",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0144",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.5,
+     "lyric": "i",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0145",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 30,
+     "beat": 3,
+     "lyric": "stan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0146",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 30,
+     "beat": 3.333,
+     "lyric": "te A",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0147",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 30,
+     "beat": 3.667,
+     "lyric": "sor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0148",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 30,
+     "beat": 4,
+     "lyric": "ri",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0149",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 30,
+     "beat": 4.333,
+     "lyric": "der",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0150",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 30,
+     "beat": 4.667,
+     "lyric": "mi an",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0151",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 2,
+     "measure": 31,
+     "beat": 1,
+     "lyric": "co",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0152",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 3,
+     "lyric": "ra,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0153",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0154",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 4,
+     "lyric": "E",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0155",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 4.5,
+     "lyric": "a",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0156",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1,
+     "lyric": "me",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0157",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.5,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0158",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2,
+     "lyric": "splen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0159",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0160",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 3,
+     "lyric": "rà",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0161",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 3.5,
+     "lyric": "nel",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0162",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 4,
+     "lyric": "tuo",
+     "syllabic": "single"
+    },
+    {
+     "id": "ideale-e0163",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 4.5,
+     "lyric": "sem",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0164",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 33,
+     "beat": 1,
+     "lyric": "bian",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0165",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 33,
+     "beat": 2,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0166",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 33,
+     "beat": 3,
+     "lyric": "U",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0167",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 33,
+     "beat": 3.333,
+     "lyric": "na",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0168",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 33,
+     "beat": 3.667,
+     "lyric": "no",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0169",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 4,
+     "lyric": "vel",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0170",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 4.5,
+     "lyric": "l’au",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0171",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 2,
+     "measure": 34,
+     "beat": 1,
+     "lyric": "ro",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0172",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 3,
+     "lyric": "ra,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    34,
+    37
+   ],
+   "lyrics": "una novella aurora.",
+   "translation": "在你的面容里，一道新的曙光将为我闪耀。",
+   "events": [
+    {
+     "id": "ideale-e0173",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 3.5,
+     "lyric": "u",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0174",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 4,
+     "lyric": "na",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0175",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 4.5,
+     "lyric": "no",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0176",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1,
+     "measure": 35,
+     "beat": 1,
+     "lyric": "vel",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0177",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0178",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.5,
+     "lyric": "au",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0179",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 35,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "ideale-e0180",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 35,
+     "beat": 3,
+     "lyric": "ro",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0181",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0182",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 36,
+     "beat": 1,
+     "lyric": "ra.",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0183",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 36,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0184",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 36,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0185",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 37,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    38,
+    39
+   ],
+   "lyrics": "Torna, caro ideal,",
+   "translation": "回来吧，亲爱的理想，回来片刻，再对我微笑一次，",
+   "events": [
+    {
+     "id": "ideale-e0186",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2,
+     "measure": 38,
+     "beat": 1,
+     "lyric": "Tor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0187",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 3,
+     "lyric": "na,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0188",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 3.5,
+     "lyric": "ca",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0189",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 4,
+     "lyric": "ro‿i",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0190",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 4.5,
+     "lyric": "de",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ideale-e0191",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 39,
+     "beat": 1,
+     "lyric": "al,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0192",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 39,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0193",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 39,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    40,
+    42
+   ],
+   "lyrics": "torna torna.",
+   "translation": "回来吧，亲爱的理想，回来片刻，再对我微笑一次，",
+   "events": [
+    {
+     "id": "ideale-e0194",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 40,
+     "beat": 1,
+     "lyric": "tor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0195",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 40,
+     "beat": 3,
+     "lyric": "na",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0196",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 40,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ideale-e0197",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 3,
+     "measure": 41,
+     "beat": 1,
+     "lyric": "tor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ideale-e0198",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 41,
+     "beat": 4,
+     "lyric": "na.",
+     "syllabic": "end"
+    },
+    {
+     "id": "ideale-e0199",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 42,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 194,
+ "restCount": 29,
+ "lyricNoteCount": 163,
+ "pages": 1,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 12,
+  "slowScale": 1.45
+ }
+}

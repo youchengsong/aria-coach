@@ -1,0 +1,197 @@
+{
+ "title": "La donna è mobile",
+ "titleZh": "女人善变",
+ "composer": "G. Verdi",
+ "opera": "Rigoletto（《弄臣》，1851）",
+ "language": "意大利语",
+ "voice": "男高音",
+ "difficulty": "中级",
+ "tempoBpm": 96,
+ "complete": true,
+ "coverageNote": "声乐旋律完整导入（3/8，35 小节）。该版本为降 B 大调（原调 B 大调，低半音），来源文件将男高音声部记于高八度谱表，已按实际音高移回原八度。原谱第 26 小节起为尾声，歌词未标注音节，学习页以完整歌词文本对照。",
+ "sourceStatus": "MusicXML 原谱 · 已核验",
+ "sources": [
+  {
+   "name": "music21 corpus · verdi/laDonnaEMobile.mxl",
+   "url": "https://github.com/cuthbertLab/music21/tree/master/music21/corpus/verdi",
+   "format": "MXL (MuseScore 1.1 编码)",
+   "status": "已解析；歌词音节按标准歌词逐一校正",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "IMSLP · Rigoletto (Verdi)",
+   "url": "https://imslp.org/wiki/Rigoletto_(Verdi,_Giuseppe)",
+   "format": "PDF 声乐谱（Ricordi）",
+   "status": "用于核对调性、拍号与歌词",
+   "role": "参照原谱",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "Wikipedia · La donna è mobile",
+   "url": "https://en.wikipedia.org/wiki/La_donna_%C3%A8_mobile",
+   "format": "网页",
+   "status": "背景与歌词校对",
+   "role": "剧情与文本",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  }
+ ],
+ "syllables": [
+  "La",
+  "don-",
+  "na è",
+  "mo-",
+  "bi-",
+  "le",
+  "qual",
+  "piu-",
+  "ma al",
+  "ven-",
+  "",
+  "to,",
+  "mu-",
+  "ta",
+  "d’ac-",
+  "cen-",
+  "to",
+  "e",
+  "di",
+  "pen-",
+  "sie-",
+  "ro.",
+  "Sem-",
+  "pre un",
+  "a-",
+  "ma-",
+  "bi-",
+  "le,",
+  "leg-",
+  "gia-",
+  "dro",
+  "vi-",
+  "",
+  "so,",
+  "in",
+  "pian-",
+  "to o",
+  "ri-",
+  "so,",
+  "è",
+  "men-",
+  "zo-",
+  "gne-",
+  "ro.",
+  "La",
+  "don-",
+  "na è",
+  "mo-",
+  "bi-",
+  "le",
+  "qual",
+  "piu-",
+  "ma al",
+  "ven-",
+  "to,",
+  "mu-",
+  "ta",
+  "d’ac-",
+  "cen-",
+  "to",
+  "e",
+  "di",
+  "pen-",
+  "sier."
+ ],
+ "lyrics": [
+  {
+   "text": "La donna è mobile qual piuma al vento,",
+   "zh": "女人善变，像风中的羽毛，"
+  },
+  {
+   "text": "muta d’accento e di pensiero.",
+   "zh": "变换着语气，也变换着心思。"
+  },
+  {
+   "text": "Sempre un amabile leggiadro viso,",
+   "zh": "那张可爱又俏丽的脸，"
+  },
+  {
+   "text": "in pianto o in riso, è menzognero.",
+   "zh": "无论哭或笑，都是骗人的。"
+  },
+  {
+   "text": "La donna è mobile qual piuma al vento,",
+   "zh": "女人善变，像风中的羽毛，"
+  },
+  {
+   "text": "muta d’accento e di pensier.",
+   "zh": "变换着语气，也变换着心思。"
+  }
+ ],
+ "story": {
+  "background": "《弄臣》由威尔第作曲、皮亚韦据雨果《国王取乐》改编，1851 年在威尼斯凤凰剧院首演。这段坎佐涅塔出现在第三幕开头：曼图亚公爵化装成士兵来到斯帕拉夫奇莱的客栈，一边等玛达莲娜，一边唱这支轻佻的小调。威尔第担心旋律太上口而被泄露，首演前禁止歌者在剧院外哼唱。",
+  "situation": "公爵刚刚得手于吉尔达，转眼又追逐新的女人。他此刻心情极好、毫无愧疚，唱歌是为了炫耀自己的人生哲学：既然女人善变，我为什么要忠诚？他不害怕任何人，只想要下一次快乐。",
+  "relationships": "公爵是弄臣里戈莱托的主人，也是他女儿吉尔达的引诱者；玛达莲娜是刺客的妹妹，正在替哥哥引诱他。里戈莱托和吉尔达在客栈外偷听：这支欢快的歌让吉尔达彻底看清爱人的本性，也为结尾的悲剧埋下反讽——公爵幸存后在远处再度哼起它。",
+  "intent": "开口要轻巧、带笑，像随口哼唱，不要一上来就用力。第二段可以更放肆，装饰音带点炫耀。结尾 “pensier” 的高音是得意的呐喊，不是抒情长音，收得干脆。全曲的关键是 “不认真”：越轻松越像公爵。",
+  "plain30": "一个花花公子在酒馆里唱：女人像风中羽毛一样善变，所以别当真。他不知道，门外正有人因为这首歌决定复仇。",
+  "arc": "B 大调，3/8 Allegretto，典型的三拍舞曲。旋律由上行分解和弦起步，每句以级进下行收束，反复的节奏型让歌像华尔兹。第一段陈述，第二段完全重复，结尾以高音 B 与向下的收束句作炫技式终止。情绪弧线是 “得意—更得意”，没有真正的对比，这正是角色的空洞。",
+  "motif": "核心动机是三拍舞曲节奏上的上行分解和弦：“La don-na è” 从主音跳上去，再在 “mo-bi-le” 上折回。每一句都以同样的起跳开始，第二段同样重复。演唱时把重音放在每小节第一拍、其余两拍放轻，保持 leggiero（轻盈）弹性，不要把每个音都唱满。",
+  "classroom": [
+   "先读中文，理解这是一段轻佻的自夸，而不是真诚抒情。",
+   "慢速读原文，注意 “mobile” 重音在第一音节 MO-bi-le。",
+   "分离元音和辅音：练 “qual piuma al vento” 的连读，让辅音短而清晰。",
+   "按 3/8 拍说话：一、二、三，第一拍重、后两拍轻。",
+   "听单音旋律，感受每句开头的上行跳进。",
+   "把歌词放回旋律，逐句练，尤其是连读 “piuma‿al”。",
+   "用正常速度完整演唱，保持笑意和弹性。"
+  ],
+  "technique": "呼吸：每四小节一句，句尾短促收音后立即换气，保持舞曲弹性。咬字：双辅音（mobile 的 b 不双，accento 的 cc [tt͜ʃ]、leggiadro 的 gg）要清晰但轻；连读 “piuma‿al”“pianto‿o” 在同一个音上完成。换声区：男高音在 F4–G4 处（“vento”“pensier”）经过换声区，保持轻机能不要压。高音：结尾 “pensier” 的高音（本版 F5，原调 B4 对应移位）是得意的呐喊，靠气息迅速冲上、干脆收住，不拖长。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “La donna è mobile” 上行分解和弦起跳，是核心动机的原型。"
+   },
+   {
+    "phrase": 3,
+    "note": "第 3–6 句 “Sempre un amabile…” 动机缩短为两小节单位，节奏更跳跃。"
+   },
+   {
+    "phrase": 7,
+    "note": "第 7 句主题原样再现（第二段）。"
+   },
+   {
+    "phrase": 9,
+    "note": "第 9–10 句尾声无歌词旋律段，把动机的起跳放大到最高音作终止。"
+   }
+  ]
+ },
+ "sourceGrade": "B",
+ "role": "曼图亚公爵（Il Duca di Mantova）：轻佻的贵族",
+ "genre": "歌剧咏叹调",
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "DÒN-na（nn 双辅音）、MÒ-bi-le（重音在第一音节）、PIÙ-ma、VÈN-to、ac-CÈN-to（cc 双辅音读 [ttʃ]）、pen-SIÈ-ro、a-MÀ-bi-le、leg-GIÀ-dro（gg）、VÌ-so、men-zo-GNÈ-ro（gn 读 [ɲ]）。",
+    "donna、accento、leggiadro 的双辅音要“停一下再发”，前面的元音变短。"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "mobile、vento、accento、pensiero 的 e 开口 [ɛ]；riso、viso 的 i 清亮；menzognero 的 e 闭口 [e]。",
+    "“è” 带重音符是开口 [ɛ]（动词“是”）。"
+   ]
+  },
+  {
+   "title": "r、连读与省略",
+   "items": [
+    "r 弹舌：leggiadro、riso、menzognero、pensier。",
+    "“donna‿è”“piuma‿al”“pianto‿o”“pre‿un” 在同一音上连读（原谱以连音标出）；“d’accento” 省音；“pensier” 是 pensiero 的截略。"
+   ]
+  }
+ ]
+}

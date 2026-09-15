@@ -1,0 +1,2449 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "apres-un-reve",
+ "title": "Après un rêve",
+ "titleZh": "梦醒之后",
+ "composer": "G. Fauré",
+ "opera": "3 Mélodies, Op. 7, No. 1（1877；法语艺术歌曲，非歌剧）",
+ "language": "法语",
+ "voice": "女中音",
+ "difficulty": "中级",
+ "tempoBpm": 60,
+ "timeSignature": "3/4",
+ "coverage": {
+  "measures": [
+   1,
+   48
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "完整声乐旋律（c 小调，3/4 Andantino，48 小节）。来源为 OpenScore Lieder 据 Hamelle 版转写的 MXL，法语 verse 1 共 135 个音节；已与 IMSLP Hamelle 声乐谱核对调性、拍号与歌词。原版另附意大利语 verse 2（Romain Bussine 所据的托斯卡纳诗），本页只采用法语。"
+ },
+ "range": {
+  "low": "C4",
+  "high": "F5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主体：从爱情之梦中醒来的人",
+ "genre": "艺术歌曲",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Fauré,_Gabriel/3_Songs,_Op.7/1_Après_un_rêve",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Fauré,_Gabriel/3_Songs,_Op.7/1_Après_un_rêve",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；135 个法语音节与 Hamelle 版逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/6810863"
+  },
+  {
+   "name": "IMSLP · 3 Songs, Op.7 (Fauré, Gabriel)",
+   "url": "https://imslp.org/wiki/3_Songs,_Op.7_(Faur%C3%A9,_Gabriel)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "LiederNet · Après un rêve (Bussine)",
+   "url": "https://www.lieder.net/lieder/get_text.html?TextId=2000",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Dans un sommeil que charmait ton image",
+   "zh": "在你的身影令我着迷的睡梦里，"
+  },
+  {
+   "text": "je rêvais le bonheur, ardent mirage;",
+   "zh": "我梦见了幸福，那炽热的幻影；"
+  },
+  {
+   "text": "tes yeux étaient plus doux, ta voix pure et sonore,",
+   "zh": "你的眼更温柔，你的声音纯净而响亮，"
+  },
+  {
+   "text": "tu rayonnais comme un ciel éclairé par l’aurore.",
+   "zh": "你像被晨曦照亮的天空一样发光。"
+  },
+  {
+   "text": "Tu m’appelais et je quittais la terre",
+   "zh": "你呼唤我，我便离开大地，"
+  },
+  {
+   "text": "pour m’enfuir avec toi vers la lumière;",
+   "zh": "与你一起逃向光明；"
+  },
+  {
+   "text": "les cieux pour nous entr’ouvraient leurs nues,",
+   "zh": "天空为我们微微拨开云层，"
+  },
+  {
+   "text": "splendeurs inconnues, lueurs divines entrevues.",
+   "zh": "未知的辉煌、瞥见的神圣微光。"
+  },
+  {
+   "text": "Hélas! hélas, triste réveil des songes!",
+   "zh": "唉！唉，从梦中悲伤地醒来！"
+  },
+  {
+   "text": "Je t’appelle, ô nuit, rends-moi tes mensonges;",
+   "zh": "我呼唤你，夜啊，把你的谎言还给我；"
+  },
+  {
+   "text": "reviens, reviens radieuse,",
+   "zh": "回来吧，回来吧，光彩夺目的夜，"
+  },
+  {
+   "text": "reviens, ô nuit mystérieuse!",
+   "zh": "回来吧，神秘的夜！"
+  }
+ ],
+ "story": {
+  "background": "《梦醒之后》是福雷 1877 年前后创作的三首歌曲 Op. 7 之首，歌词由罗曼·比西纳据一首托斯卡纳无名诗改写。它是福雷早期最著名的旋律，也是法语艺术歌曲课堂的必修曲，常被改编为大提琴独奏。原调 c 小调，3/4 Andantino，钢琴以持续的三连音和弦作背景。",
+  "situation": "叙述者在梦中与爱人相会：对方比现实更温柔、更明亮，呼唤他一起飞向光明；天空为他们打开。然后梦醒了。剩下的只有对夜的呼唤——“把你的谎言还给我”。他想要的是回到梦里，害怕的是白昼的真实。",
+  "relationships": "只有“我”与梦中的“你”。“你”可能是恋人，也可能是已逝或已失去的人；歌曲从未说明，这种不确定正是它的魅力。全曲是一场从第二人称的亲密呼唤转向对“夜”的祈求的独白。",
+  "intent": "第一段（梦境）要唱得温暖、连绵，像在回忆中微笑；“Tu m’appelais” 起音区上升、情绪升温，“splendeurs inconnues” 是梦的顶点。“Hélas!” 是转折——声音突然变暗、变直；结尾三次 “reviens” 逐渐放轻，最后的 “mystérieuse” 像消失在夜里。",
+  "plain30": "有人梦见了心爱的人，两人一起飞向光明。醒来后，他对着黑夜说：请把那个美梦还给我，哪怕它是假的。这是一首关于“宁愿被梦欺骗”的歌。",
+  "arc": "c 小调，3/4 Andantino。旋律以长线条的级进上行为主，每句从低处起、缓缓抬升，钢琴三连音像呼吸。前两段（梦境）不断向上攀升，直到 “lueurs divines” 达到最高音 F5；“Hélas” 后音区骤降、节奏变宽；尾声 “reviens” 在小调主音周围徘徊，渐弱结束。情绪：陶醉—升腾—失落—哀求。",
+  "motif": "核心动机是级进上行的长线条：“Dans un som-meil” 从 C 逐级上行到 G，再落回。它在 “Tu m’appelais” 时从更高的起点重复，在 “les cieux pour nous” 到达顶峰；“Hélas” 把同一动机反向为下行。演唱时每个上行都要靠气息一口连贯，不能一格一格推。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Dans un sommeil” 级进上行动机首次呈示。"
+   },
+   {
+    "phrase": 5,
+    "note": "第 5 句 “Tu m’appelais” 动机从更高起点再现，情绪升温。"
+   },
+   {
+    "phrase": 8,
+    "note": "第 8 句 “splendeurs inconnues” 上行到达最高音，是梦的顶点。"
+   },
+   {
+    "phrase": 9,
+    "note": "第 9 句 “Hélas!” 动机反向下行，梦醒。"
+   }
+  ],
+  "technique": "呼吸：每句四小节，句尾长音后换气；“Tu m’appelais et je quittais la terre” 需一口气唱完。咬字：鼻化元音在长音上保持，不提前收 n；“charmait”“quittais” 的词尾辅音不发。换声区：女中音在 D5–E5（“lumière”“divines”）经过换声区，元音略收窄、用头腔。高音：F5 只在 “entrevues” 一处，靠前面的上行线蓄力，不要单独用力冲。",
+  "classroom": [
+   "先读中文，分清梦境（前八句）与梦醒（后四句）。",
+   "慢速读法语原文，标出所有鼻化元音。",
+   "分离元音：只唱元音链，练长线条上口型不变。",
+   "按 3/4 拍说词，感受钢琴三连音的流动。",
+   "听单音旋律，注意每句的上行是否连贯。",
+   "把歌词放回旋律，先练前两段的温暖，再练 “Hélas” 的转折。",
+   "用正常速度完整演唱，尾声 “reviens” 逐次放轻。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "鼻化元音",
+   "items": [
+    "Dans、charmait 的 an [ɑ̃]、sommeil 无鼻化；un [œ̃]、bonheur 的 on [ɔ̃]、lumière 无鼻化——鼻化元音不要收成 n。",
+    "mensonges 含 en [ɑ̃] 与 on [ɔ̃] 两个鼻化元音，歌唱时保持口腔打开、软腭放松。"
+   ]
+  },
+  {
+   "title": "联诵与省音",
+   "items": [
+    "“Dans‿un”“charmait‿ton” 不联诵（t 不发）；“étaient‿plus”不联诵；“comme‿un” 联诵 [kɔmœ̃]；“les‿cieux” [le sjø]。",
+    "“m’appelais”“t’appelle”“entr’ouvraient” 是省音，唱成一个词。"
+   ]
+  },
+  {
+   "title": "词尾与舞台法语",
+   "items": [
+    "image、mirage、sonore、aurore、lumière 的词尾 e 在旋律上占一个音时读弱 [ə]，不要吞掉。",
+    "r 用舞台法语的轻弹舌或小舌 [ʁ] 均可，但整首保持一致；radieuse、mystérieuse 的 -euse [øz] 圆唇。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    1,
+    4
+   ],
+   "lyrics": "Dans un sommeil que charmait ton image,",
+   "translation": "在你的身影令我着迷的睡梦里，",
+   "events": [
+    {
+     "id": "apres-un-reve-e0001",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 1,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0002",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 2,
+     "beat": 1,
+     "lyric": "Dans",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0003",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 2,
+     "beat": 2,
+     "lyric": "un",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0004",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 2,
+     "beat": 3,
+     "lyric": "som",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0005",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.3333,
+     "measure": 3,
+     "beat": 1,
+     "lyric": "meil",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0006",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 3,
+     "beat": 2.333,
+     "lyric": "que",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0007",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 3,
+     "beat": 2.667,
+     "lyric": "char",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0008",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 3,
+     "beat": 3,
+     "lyric": "mait",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0009",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 3,
+     "beat": 3.333,
+     "lyric": "ton",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0010",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 3,
+     "beat": 3.667,
+     "lyric": "i",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0011",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 4,
+     "beat": 1,
+     "lyric": "ma",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0012",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 4,
+     "beat": 3,
+     "lyric": "ge,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    5,
+    8
+   ],
+   "lyrics": "Je rêvais le bonheur, ardent mirage,",
+   "translation": "我梦见了幸福，那炽热的幻影；",
+   "events": [
+    {
+     "id": "apres-un-reve-e0013",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1,
+     "lyric": "Je",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0014",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.5,
+     "lyric": "rê",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0015",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1,
+     "measure": 5,
+     "beat": 2,
+     "lyric": "vais",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0016",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0017",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.5,
+     "lyric": "bon",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0018",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 6,
+     "beat": 1,
+     "lyric": "heur,",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0019",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.5,
+     "lyric": "ar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0020",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 3,
+     "lyric": "dent",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0021",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 3.75,
+     "lyric": "mi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0022",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.3333,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "ra",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0023",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 7,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0024",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 7,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0025",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 7,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0026",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 7,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0027",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 7,
+     "beat": 3.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0028",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 3,
+     "measure": 8,
+     "beat": 1,
+     "lyric": "ge,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    9,
+    11
+   ],
+   "lyrics": "Tes yeux étaient plus doux, ta voix pure et sonore,",
+   "translation": "你的眼更温柔，你的声音纯净而响亮，",
+   "events": [
+    {
+     "id": "apres-un-reve-e0029",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "Tes",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0030",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.6667,
+     "measure": 9,
+     "beat": 2,
+     "lyric": "yeux",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0031",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 9,
+     "beat": 2.667,
+     "lyric": "é",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0032",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.6667,
+     "measure": 9,
+     "beat": 3,
+     "lyric": "taient",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0033",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 9,
+     "beat": 3.667,
+     "lyric": "plus",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0034",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.3333,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "doux,",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0035",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 10,
+     "beat": 2.333,
+     "lyric": "ta",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0036",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 10,
+     "beat": 2.667,
+     "lyric": "voix",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0037",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 10,
+     "beat": 3,
+     "lyric": "pure",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0038",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 10,
+     "beat": 3.333,
+     "lyric": "et",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0039",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 10,
+     "beat": 3.667,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0040",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "no",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0041",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 11,
+     "beat": 3,
+     "lyric": "re,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    12,
+    16
+   ],
+   "lyrics": "Tu rayonnais comme un ciel éclairé par l'aurore",
+   "translation": "你像被晨曦照亮的天空一样发光。",
+   "events": [
+    {
+     "id": "apres-un-reve-e0042",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "Tu",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0043",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 12,
+     "beat": 2,
+     "lyric": "ray",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0044",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.5,
+     "lyric": "on",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0045",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "nais",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0046",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 13,
+     "beat": 2,
+     "lyric": "comme",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0047",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 13,
+     "beat": 3,
+     "lyric": "un",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0048",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "ciel",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0049",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0050",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0051",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0052",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 14,
+     "beat": 2.333,
+     "lyric": "é",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0053",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 14,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0054",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 14,
+     "beat": 2.667,
+     "lyric": "clai",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0055",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 14,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0056",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 14,
+     "beat": 3,
+     "lyric": "ré",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0057",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 14,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0058",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 14,
+     "beat": 3.333,
+     "lyric": "par",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0059",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 14,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0060",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 14,
+     "beat": 3.667,
+     "lyric": "l'au",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0061",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 14,
+     "beat": 3.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0062",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "ro",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0063",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 15,
+     "beat": 3,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0064",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    17,
+    23
+   ],
+   "lyrics": "Tu m'appelais et je quittais la terre pour m'enfuir avec toi vers la lumière,",
+   "translation": "你呼唤我，我便离开大地，",
+   "events": [
+    {
+     "id": "apres-un-reve-e0065",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "Tu",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0066",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 17,
+     "beat": 2,
+     "lyric": "m'ap",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0067",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 17,
+     "beat": 3,
+     "lyric": "pe",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0068",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.3333,
+     "measure": 18,
+     "beat": 1,
+     "lyric": "lais",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0069",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 18,
+     "beat": 2.333,
+     "lyric": "et",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0070",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 18,
+     "beat": 2.667,
+     "lyric": "je",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0071",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 18,
+     "beat": 3,
+     "lyric": "quit",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0072",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 18,
+     "beat": 3.333,
+     "lyric": "tais",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0073",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 18,
+     "beat": 3.667,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0074",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 19,
+     "beat": 1,
+     "lyric": "ter",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0075",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 19,
+     "beat": 3,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0076",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1,
+     "lyric": "pour",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0077",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.5,
+     "lyric": "m'en",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0078",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1,
+     "measure": 20,
+     "beat": 2,
+     "lyric": "fuir",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0079",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0080",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3.5,
+     "lyric": "vec",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0081",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 21,
+     "beat": 1,
+     "lyric": "toi",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0082",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.5,
+     "lyric": "vers",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0083",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0084",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3.5,
+     "lyric": "lu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0085",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.3333,
+     "measure": 22,
+     "beat": 1,
+     "lyric": "miè",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0086",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 22,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0087",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 22,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0088",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 22,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0089",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 22,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0090",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 22,
+     "beat": 3.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0091",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 3,
+     "measure": 23,
+     "beat": 1,
+     "lyric": "re,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    24,
+    26
+   ],
+   "lyrics": "Les cieux pour nous entr’ouvraient leurs nues,",
+   "translation": "天空为我们微微拨开云层，",
+   "events": [
+    {
+     "id": "apres-un-reve-e0092",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 24,
+     "beat": 1,
+     "lyric": "Les",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0093",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.6667,
+     "measure": 24,
+     "beat": 2,
+     "lyric": "cieux",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0094",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 24,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0095",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.6667,
+     "measure": 24,
+     "beat": 3,
+     "lyric": "pour",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0096",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 24,
+     "beat": 3.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0097",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 25,
+     "beat": 1,
+     "lyric": "nous",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0098",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.5,
+     "lyric": "en",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0099",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 25,
+     "beat": 3,
+     "lyric": "tr’ou",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0100",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 25,
+     "beat": 3.333,
+     "lyric": "vraient",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0101",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 25,
+     "beat": 3.667,
+     "lyric": "leurs",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0102",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 26,
+     "beat": 1,
+     "lyric": "nu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0103",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 26,
+     "beat": 2,
+     "lyric": "es,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    26,
+    28
+   ],
+   "lyrics": "splendeurs inconnues,",
+   "translation": "未知的辉煌、瞥见的神圣微光。",
+   "events": [
+    {
+     "id": "apres-un-reve-e0104",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1,
+     "measure": 26,
+     "beat": 3,
+     "lyric": "splen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0105",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 1.3333,
+     "measure": 27,
+     "beat": 1,
+     "lyric": "deurs",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0106",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 27,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0107",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 27,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0108",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 27,
+     "beat": 3,
+     "lyric": "in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0109",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 27,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0110",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 27,
+     "beat": 3.667,
+     "lyric": "con",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0111",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 28,
+     "beat": 1,
+     "lyric": "nu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0112",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 28,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0113",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1,
+     "measure": 28,
+     "beat": 2,
+     "lyric": "es,",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0114",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 28,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    28,
+    30
+   ],
+   "lyrics": "lueurs divines entrevues,",
+   "translation": "未知的辉煌、瞥见的神圣微光。",
+   "events": [
+    {
+     "id": "apres-un-reve-e0115",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 28,
+     "beat": 3,
+     "lyric": "lu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0116",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 28,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0117",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0118",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.6667,
+     "measure": 29,
+     "beat": 1,
+     "lyric": "eurs",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0119",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 29,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0120",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 29,
+     "beat": 1.667,
+     "lyric": "di",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0121",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 29,
+     "beat": 2,
+     "lyric": "vi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0122",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 29,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0123",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 29,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0124",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 29,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0125",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 29,
+     "beat": 2.667,
+     "lyric": "nes",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0126",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 29,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0127",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 29,
+     "beat": 3,
+     "lyric": "en",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0128",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 29,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0129",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 29,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0130",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 29,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0131",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 29,
+     "beat": 3.667,
+     "lyric": "tre",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0132",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 29,
+     "beat": 3.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0133",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 30,
+     "beat": 1,
+     "lyric": "vu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0134",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1,
+     "measure": 30,
+     "beat": 2,
+     "lyric": "es,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    30,
+    32
+   ],
+   "lyrics": "Hélas! Hélas,",
+   "translation": "唉！唉，从梦中悲伤地醒来！",
+   "events": [
+    {
+     "id": "apres-un-reve-e0135",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 30,
+     "beat": 3,
+     "lyric": "Hé",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0136",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2,
+     "measure": 31,
+     "beat": 1,
+     "lyric": "las!",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0137",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 31,
+     "beat": 3,
+     "lyric": "Hé",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0138",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 32,
+     "beat": 1,
+     "lyric": "las,",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0139",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 32,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    32,
+    34
+   ],
+   "lyrics": "triste réveil des songes.",
+   "translation": "唉！唉，从梦中悲伤地醒来！",
+   "events": [
+    {
+     "id": "apres-un-reve-e0140",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 32,
+     "beat": 2,
+     "lyric": "tris",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0141",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 32,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0142",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 32,
+     "beat": 2.333,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0143",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 32,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0144",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 32,
+     "beat": 2.667,
+     "lyric": "ré",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0145",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 32,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0146",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 32,
+     "beat": 3,
+     "lyric": "veil",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0147",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 32,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0148",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 32,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0149",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 32,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0150",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 32,
+     "beat": 3.667,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0151",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 32,
+     "beat": 3.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0152",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.3333,
+     "measure": 33,
+     "beat": 1,
+     "lyric": "son",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0153",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 33,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0154",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 33,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0155",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 33,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0156",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 33,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0157",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 33,
+     "beat": 3.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0158",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 2,
+     "measure": 34,
+     "beat": 1,
+     "lyric": "ges.",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0159",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 34,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    34,
+    36
+   ],
+   "lyrics": "Je t’appelle, ô nuit,",
+   "translation": "我呼唤你，夜啊，把你的谎言还给我；",
+   "events": [
+    {
+     "id": "apres-un-reve-e0160",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 34,
+     "beat": 3,
+     "lyric": "Je",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0161",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 34,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0162",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 34,
+     "beat": 3.75,
+     "lyric": "t’ap",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0163",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2,
+     "measure": 35,
+     "beat": 1,
+     "lyric": "pel",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0164",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1,
+     "measure": 35,
+     "beat": 3,
+     "lyric": "le, ô",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0165",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1,
+     "measure": 36,
+     "beat": 1,
+     "lyric": "nuit,",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0166",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1,
+     "measure": 36,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0167",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 36,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0168",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 36,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0169",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 36,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0170",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 36,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    36,
+    38
+   ],
+   "lyrics": "rends-moi tes mensonges,",
+   "translation": "我呼唤你，夜啊，把你的谎言还给我；",
+   "events": [
+    {
+     "id": "apres-un-reve-e0171",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 36,
+     "beat": 2.667,
+     "lyric": "rends",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0172",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 36,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0173",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 36,
+     "beat": 3,
+     "lyric": "moi",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0174",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 36,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0175",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 36,
+     "beat": 3.333,
+     "lyric": "tes",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0176",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 36,
+     "beat": 3.667,
+     "lyric": "men",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0177",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.3333,
+     "measure": 37,
+     "beat": 1,
+     "lyric": "son",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0178",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 37,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0179",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 37,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0180",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 37,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0181",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 37,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0182",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 37,
+     "beat": 3.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0183",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2,
+     "measure": 38,
+     "beat": 1,
+     "lyric": "ges,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    38,
+    40
+   ],
+   "lyrics": "Reviens, reviens",
+   "translation": "回来吧，回来吧，光彩夺目的夜，",
+   "events": [
+    {
+     "id": "apres-un-reve-e0184",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 38,
+     "beat": 3,
+     "lyric": "Re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0185",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 39,
+     "beat": 1,
+     "lyric": "viens,",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0186",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 39,
+     "beat": 3,
+     "lyric": "re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0187",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 40,
+     "beat": 1,
+     "lyric": "viens",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0188",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 40,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    40,
+    42
+   ],
+   "lyrics": "radieuse,",
+   "translation": "回来吧，回来吧，光彩夺目的夜，",
+   "events": [
+    {
+     "id": "apres-un-reve-e0189",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 40,
+     "beat": 3,
+     "lyric": "ra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0190",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 40,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0191",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 40,
+     "beat": 3.75,
+     "lyric": "di",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0192",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 40,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0193",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 3,
+     "measure": 41,
+     "beat": 1,
+     "lyric": "eu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0194",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2,
+     "measure": 42,
+     "beat": 1,
+     "lyric": "se,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    42,
+    48
+   ],
+   "lyrics": "Reviens, ô nuit mystérieuse!",
+   "translation": "回来吧，神秘的夜！",
+   "events": [
+    {
+     "id": "apres-un-reve-e0195",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 42,
+     "beat": 3,
+     "lyric": "Re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0196",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2,
+     "measure": 43,
+     "beat": 1,
+     "lyric": "viens,",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0197",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 43,
+     "beat": 3,
+     "lyric": "ô",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0198",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 44,
+     "beat": 1,
+     "lyric": "nuit",
+     "syllabic": "single"
+    },
+    {
+     "id": "apres-un-reve-e0199",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.5,
+     "lyric": "mys",
+     "syllabic": "begin"
+    },
+    {
+     "id": "apres-un-reve-e0200",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 3,
+     "lyric": "té",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0201",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 3.5,
+     "lyric": "ri",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0202",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.3333,
+     "measure": 45,
+     "beat": 1,
+     "lyric": "eu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "apres-un-reve-e0203",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 45,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0204",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 45,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0205",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 45,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0206",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 45,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0207",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 45,
+     "beat": 3.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0208",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 3,
+     "measure": 46,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "apres-un-reve-e0209",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 3,
+     "measure": 47,
+     "beat": 1,
+     "lyric": "se!",
+     "syllabic": "end"
+    },
+    {
+     "id": "apres-un-reve-e0210",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 48,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 210,
+ "restCount": 10,
+ "lyricNoteCount": 135,
+ "pages": 1,
+ "speech": {
+  "voice": "fr_FR-siwis-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 15,
+  "slowScale": 1.45
+ }
+}

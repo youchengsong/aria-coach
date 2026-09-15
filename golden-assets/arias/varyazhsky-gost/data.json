@@ -1,0 +1,1926 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "varyazhsky-gost",
+ "title": "Песня Варяжского гостя",
+ "titleZh": "瓦良格客商之歌",
+ "composer": "N. Rimsky-Korsakov",
+ "opera": "Садко（《萨特阔》，1898）",
+ "language": "俄语",
+ "voice": "男低音",
+ "difficulty": "中级",
+ "tempoBpm": 72,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   37
+  ],
+  "firstSungMeasure": 4,
+  "complete": true,
+  "note": "完整独唱段（4/4，37 小节）声乐旋律与逐音节俄语歌词。来源为 LilyPond 排版导出的 MusicXML（非光学识别），音高与时值可靠；歌词音节按里姆斯基-科萨科夫原谱标准文本逐一校正了字母大小写与个别识别错误。"
+ },
+ "range": {
+  "low": "A2",
+  "high": "Eb4"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "瓦良格客商（Варяжский гость）：北方来的商人",
+ "genre": "歌剧独唱",
+ "sourceStatus": "MusicXML 原谱（LilyPond 排版） · 已核验",
+ "sources": [
+  {
+   "name": "Нотный архив Бориса Тараканова · Песня варяжского гостя",
+   "url": "https://notes.tarakanov.net/katalog/kompozitsii/pesnya-varyazhskogo-gostya/",
+   "format": "MXL（LilyPond 导出 MusicXML，声乐与钢琴）",
+   "status": "已解析；130 个歌词音节与原文逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "IMSLP · Sadko (Rimsky-Korsakov)",
+   "url": "https://imslp.org/wiki/Sadko_(Rimsky-Korsakov,_Nikolay)",
+   "format": "PDF 声乐谱（Belaieff）",
+   "status": "用于核对调性、拍号与歌词",
+   "role": "参照原谱",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "Википедия · Садко (опера)",
+   "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B4%D0%BA%D0%BE_(%D0%BE%D0%BF%D0%B5%D1%80%D0%B0)",
+   "format": "网页",
+   "status": "背景与剧情校对",
+   "role": "剧情与文本",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "О скалы грозные дробятся с рёвом волны",
+   "zh": "海浪咆哮着在险峭的礁石上撞碎，"
+  },
+  {
+   "text": "и с белой пеною крутясь бегут назад;",
+   "zh": "翻卷着白色泡沫退回去；"
+  },
+  {
+   "text": "но твёрдо серые утёсы выносят волн напор, над морем стоя.",
+   "zh": "灰色的峭壁却稳稳承受浪的冲击，屹立在海上。"
+  },
+  {
+   "text": "От скал тех каменных у нас, варягов, кости;",
+   "zh": "我们瓦良格人的骨头，来自那些石头山岩；"
+  },
+  {
+   "text": "от той волны морской в нас кровь-руда пошла;",
+   "zh": "我们的血，来自那海上的浪；"
+  },
+  {
+   "text": "а мысли тайны от туманов.",
+   "zh": "而我们隐秘的心思，来自雾。"
+  },
+  {
+   "text": "Мы в море родились, умрём на море.",
+   "zh": "我们生在海上，也将死在海上。"
+  },
+  {
+   "text": "Мечи булатны, стрелы остры у варягов,",
+   "zh": "瓦良格人有精钢的剑、锋利的箭，"
+  },
+  {
+   "text": "наносят смерть они без промаха врагу.",
+   "zh": "它们百发百中，给敌人带来死亡。"
+  },
+  {
+   "text": "Отважны люди стран полночных,",
+   "zh": "北方之国的人们勇敢无畏，"
+  },
+  {
+   "text": "велик их бог Один, угрюмо море.",
+   "zh": "他们的神奥丁伟大，海洋阴沉。"
+  }
+ ],
+ "story": {
+  "background": "《萨特阔》是里姆斯基-科萨科夫据诺夫哥罗德史诗（былина）创作的 “歌剧-史诗”，1898 年在莫斯科由马蒙托夫私人歌剧院首演。第四场（伊尔门湖畔的诺夫哥罗德码头）里，三位外国商人依次唱起家乡之歌：瓦良格（北欧）客商、印度客商与威尼斯客商。这是第一支，也是俄罗斯男低音曲目中最常演唱的选段之一。",
+  "situation": "萨特阔在打赌赢得财富后，准备远航寻找幸福，问诸位商人哪里最好。瓦良格客商站起来，用粗犷、坚定的口气描述北方：礁石、巨浪、雾和铁一样的人。他不是在推销，而是在宣告自己民族的性格。他想要的是被尊重，不害怕任何海。",
+  "relationships": "瓦良格客商是外来者，与萨特阔没有私人关系；他和随后的印度客商、威尼斯客商形成三种气质的对照（北方的刚硬、东方的神秘、南方的明快）。萨特阔最终选择前往威尼斯，这段歌因此是剧情的 “未被选择的道路”，却是全剧最著名的独唱。",
+  "intent": "开口要沉稳、宽阔，像海浪一下一下推上来，不要急。“но твёрдо серые утёсы” 是转折，声音更结实、更直。中段 “Мы в море родились, умрём на море” 放慢、放低，像誓言。结尾 “угрюмо море” 用最厚的低音收住，不要渐弱到消失，而是像礁石一样停在那里。",
+  "plain30": "一个北欧商人对准备出海的人说：我们那里的海会把浪撞碎在石头上，我们就是那些石头和浪——生在海上，死在海上，我们的神叫奥丁。这是一首关于 “硬骨头” 的自我介绍。",
+  "arc": "自然小调（c 小调色彩），4/4 Moderato，进行曲式的方正节奏。旋律以低音区的重复音和四度、五度跳进构成，长音落在句尾，像浪头拍岸后退去。三段结构：礁石与浪（画面）、骨与血（身份）、剑与神（力量），音区逐段略升，结尾回到最低处，情绪从描述到宣告，再到近乎威严的沉默。",
+  "motif": "核心动机是开头 “О скалы грозные” 的重复音加向下跳进：同一个音连击数次，再向下落到主音，模拟浪头的冲击与退落。它在 “От скал тех каменных” 和 “Мечи булатны” 处以同样节奏再现，只换起音。演唱时重复音要每一个都咬实、不粘连，向下的跳进落地要稳，不要滑音。",
+  "classroom": [
+   "先读中文译文，找出三段分别在说 “海—血统—力量”。",
+   "慢速读俄语原文，按重音提示标出每个词的重音。",
+   "分离元音和辅音：单独练软辅音 дробя́тся、лю́ди、крутя́сь。",
+   "按 4/4 拍说词，一、三拍重，像船桨划水。",
+   "听单音旋律，注意重复音后的向下跳进。",
+   "把歌词放回旋律，每句先慢速，再原速。",
+   "用正常速度完整演唱，结尾低音站稳。"
+  ],
+  "technique": "呼吸：句子长、音区低，每句前深而安静地吸气，气息像海浪推上来；不要在 “выносят волн напор” 中间换。咬字：重复音上的每个音节都要独立咬清（дро-бят-ся），软辅音（лю-ди、мыс-ли）舌面抬起；前置词与后词（с рёвом、в нас）连成一个音节。换声区：男低音在 C4–E♭4（“пеною”“выносят”）处进入高声区，保持胸腔共鸣、不要变薄。低音：结尾 “угрюмо море” 落到 A2–B♭2，靠松开下颌与稳定气流，不要压喉。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “О скалы грозные дробятся” 重复音加向下跳进的浪头动机首次出现。"
+   },
+   {
+    "phrase": 4,
+    "note": "第 4 句 “От скал тех каменных” 动机原样再现，只换起音（第二段：血统）。"
+   },
+   {
+    "phrase": 9,
+    "note": "第 9 句 “Мечи булатны, стрелы остры” 动机第三次出现，音区略高（第三段：力量）。"
+   },
+   {
+    "phrase": 12,
+    "note": "第 12 句 “угрюмо море” 动机落到最低处，以长音结束。"
+   }
+  ]
+ },
+ "hints": [
+  {
+   "title": "重音提示",
+   "items": [
+    "ска́лы гро́зные дробя́тся с рё́вом во́лны — 俄语重音落在 ска́、гро́з、бя́、рё́、во́л；重音元音拉长，非重音 о 读作 [ə/a]。",
+    "утё́сы выно́сят волн напо́р — ё 永远带重音。",
+    "варя́гов、була́тны、отва́жны — 三音节词重音在中间音节。",
+    "Оди́н（神名奥丁）重音在第二音节，与 оди́н（“一”）同形；угрю́мо мо́ре 重音在 рю́ 和 мо́。"
+   ]
+  },
+  {
+   "title": "软硬辅音提示",
+   "items": [
+    "дробя́тся、крутя́сь、мы́сли、лю́ди — я/ю/и 前的辅音要软化（舌面抬起），不要读成硬音。",
+    "твёрдо、се́рые — т 在 в 前为硬音，р 在 ы/е 前分别为硬/软。",
+    "-тся（дробятся）读作长硬音 [цца]；-сь（родились, крутясь）为软 [с’]。",
+    "с рёвом、с белой、в нас — 前置词与后词连读为一个音节，谱面上占同一个音。"
+   ]
+  },
+  {
+   "title": "元音弱化",
+   "items": [
+    "非重音 о → [а]：волны → [вална́]（此处 -ы 结尾），моря́ → [мар’а́]。",
+    "非重音 е/я → [и]：дробя́тся 的 -ся → [с’а]，стре́лы 的 -ы 清晰。",
+    "演唱时保留元音弱化的方向，但比口语略开，以保证共鸣。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    4,
+    8
+   ],
+   "lyrics": "О скалы грозные дробятся с рёвом волны и с белой пеною крутясь бегут назад;",
+   "translation": "海浪咆哮着在险峭的礁石上撞碎，",
+   "events": [
+    {
+     "id": "varyazhsky-gost-e0006",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0007",
+     "pitch": "A2",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 4.5,
+     "lyric": "О",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0008",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 5,
+     "beat": 1,
+     "lyric": "ска",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0009",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "лы",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0010",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3,
+     "lyric": "гроз",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0011",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.5,
+     "lyric": "ны",
+     "syllabic": "middle"
+    },
+    {
+     "id": "varyazhsky-gost-e0012",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 4,
+     "lyric": "е",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0013",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 4.5,
+     "lyric": "дро",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0014",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 1,
+     "lyric": "бят",
+     "syllabic": "middle"
+    },
+    {
+     "id": "varyazhsky-gost-e0015",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 1.5,
+     "lyric": "ся",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0016",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2,
+     "lyric": "с рё",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0017",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.5,
+     "lyric": "вом",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0018",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3,
+     "lyric": "вол",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0019",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3.5,
+     "lyric": "ны",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0020",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0021",
+     "pitch": "A2",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 4.5,
+     "lyric": "и",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0022",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "с бе",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0023",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "лой",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0024",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 3,
+     "lyric": "пе",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0025",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 3.5,
+     "lyric": "но",
+     "syllabic": "middle"
+    },
+    {
+     "id": "varyazhsky-gost-e0026",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 4,
+     "lyric": "ю",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0027",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 4.5,
+     "lyric": "кру",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0028",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1,
+     "lyric": "тясь",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0029",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.5,
+     "lyric": "бе",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0030",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2,
+     "lyric": "гут",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0031",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "на",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0032",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1,
+     "measure": 8,
+     "beat": 3,
+     "lyric": "зад;",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0033",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    8,
+    11
+   ],
+   "lyrics": "но твёрдо серые утёсы выносят волн напор,",
+   "translation": "灰色的峭壁却稳稳承受浪的冲击，屹立在海上。",
+   "events": [
+    {
+     "id": "varyazhsky-gost-e0034",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 4.5,
+     "lyric": "но",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0035",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "твёр",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0036",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "до",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0037",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3,
+     "lyric": "се",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0038",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.5,
+     "lyric": "ры",
+     "syllabic": "middle"
+    },
+    {
+     "id": "varyazhsky-gost-e0039",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 4,
+     "lyric": "е",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0040",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 4.5,
+     "lyric": "у",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0041",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "тё",
+     "syllabic": "middle"
+    },
+    {
+     "id": "varyazhsky-gost-e0042",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2,
+     "lyric": "сы",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0043",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "вы",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0044",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 3,
+     "lyric": "но",
+     "syllabic": "middle"
+    },
+    {
+     "id": "varyazhsky-gost-e0045",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 3.5,
+     "lyric": "сят",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0046",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 4,
+     "lyric": "волн",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0047",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 4.5,
+     "lyric": "на",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0048",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "пор,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    11,
+    15
+   ],
+   "lyrics": "над морем стоя.",
+   "translation": "灰色的峭壁却稳稳承受浪的冲击，屹立在海上。",
+   "events": [
+    {
+     "id": "varyazhsky-gost-e0049",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "над",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0050",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 11,
+     "beat": 3,
+     "lyric": "мо",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0051",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 4.5,
+     "lyric": "рем",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0052",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "сто",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0053",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "я.",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0054",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 12,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0055",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 12,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0056",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0057",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0058",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0059",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 15,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0060",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    15,
+    17
+   ],
+   "lyrics": "От скал тех каменных у нас,",
+   "translation": "我们瓦良格人的骨头，来自那些石头山岩；",
+   "events": [
+    {
+     "id": "varyazhsky-gost-e0061",
+     "pitch": "A2",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 4.5,
+     "lyric": "От",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0062",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "скал",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0063",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "тех",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0064",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3,
+     "lyric": "каменных",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0065",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0066",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0067",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 4.5,
+     "lyric": "у",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0068",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "нас,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    17,
+    17
+   ],
+   "lyrics": "варягов, кости;",
+   "translation": "我们瓦良格人的骨头，来自那些石头山岩；",
+   "events": [
+    {
+     "id": "varyazhsky-gost-e0069",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.5,
+     "lyric": "варя",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0070",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0071",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "гов,",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0072",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3,
+     "lyric": "ко",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0073",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3.5,
+     "lyric": "сти;",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0074",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    17,
+    19
+   ],
+   "lyrics": "от той волны морской в нас кровь руда пошла;",
+   "translation": "我们的血，来自那海上的浪；",
+   "events": [
+    {
+     "id": "varyazhsky-gost-e0075",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 4.75,
+     "lyric": "от",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0076",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 1,
+     "lyric": "той",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0077",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.75,
+     "lyric": "вол",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0078",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2,
+     "lyric": "ны",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0079",
+     "pitch": "B2",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "мор",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0080",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 18,
+     "beat": 3,
+     "lyric": "ской",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0081",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 4.5,
+     "lyric": "в нас",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0082",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 1,
+     "lyric": "кровь",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0083",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 1.75,
+     "lyric": "ру",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0084",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2,
+     "lyric": "да",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0085",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "по",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0086",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 1,
+     "measure": 19,
+     "beat": 3,
+     "lyric": "шла;",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0087",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    19,
+    21
+   ],
+   "lyrics": "а мысли тайны от туманов.",
+   "translation": "而我们隐秘的心思，来自雾。",
+   "events": [
+    {
+     "id": "varyazhsky-gost-e0088",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 4.5,
+     "lyric": "а",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0089",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 20,
+     "beat": 1,
+     "lyric": "мыс",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0090",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.5,
+     "lyric": "ли",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0091",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3,
+     "lyric": "тай",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0092",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3.5,
+     "lyric": "ны",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0093",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 4,
+     "lyric": "от",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0094",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 4.5,
+     "lyric": "ту",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0095",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 1,
+     "lyric": "ма",
+     "syllabic": "middle"
+    },
+    {
+     "id": "varyazhsky-gost-e0096",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 1.5,
+     "lyric": "нов.",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0097",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    21,
+    26
+   ],
+   "lyrics": "Мы в море родились, умрём на море.",
+   "translation": "我们生在海上，也将死在海上。",
+   "events": [
+    {
+     "id": "varyazhsky-gost-e0098",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.5,
+     "lyric": "Мы",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0099",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3,
+     "lyric": "в мо",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0100",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3.5,
+     "lyric": "ре",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0101",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 4,
+     "lyric": "ро",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0102",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 4.5,
+     "lyric": "ди",
+     "syllabic": "middle"
+    },
+    {
+     "id": "varyazhsky-gost-e0103",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 22,
+     "beat": 1,
+     "lyric": "лись,",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0104",
+     "pitch": "Eb3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 2.75,
+     "lyric": "ум",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0105",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 22,
+     "beat": 3,
+     "lyric": "рём",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0106",
+     "pitch": "C#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 4.5,
+     "lyric": "на",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0107",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1,
+     "lyric": "море.",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0108",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0109",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 23,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0110",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 24,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0111",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 25,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0112",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 26,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0113",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 26,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0114",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    26,
+    28
+   ],
+   "lyrics": "Мечи булатны, стрелы остры у варягов,",
+   "translation": "瓦良格人有精钢的剑、锋利的箭，",
+   "events": [
+    {
+     "id": "varyazhsky-gost-e0115",
+     "pitch": "A2",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 4.5,
+     "lyric": "Ме",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0116",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 27,
+     "beat": 1,
+     "lyric": "чи",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0117",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.5,
+     "lyric": "бу",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0118",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 3,
+     "lyric": "лат",
+     "syllabic": "middle"
+    },
+    {
+     "id": "varyazhsky-gost-e0119",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 3.5,
+     "lyric": "ны,",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0120",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 4,
+     "lyric": "стре",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0121",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 4.5,
+     "lyric": "лы",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0122",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1,
+     "lyric": "ос",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0123",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.5,
+     "lyric": "тры",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0124",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2,
+     "lyric": "у",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0125",
+     "pitch": "E3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.5,
+     "lyric": "ва",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0126",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 3,
+     "lyric": "ря",
+     "syllabic": "middle"
+    },
+    {
+     "id": "varyazhsky-gost-e0127",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 3.5,
+     "lyric": "гов,",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0128",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    28,
+    30
+   ],
+   "lyrics": "наносят смерть они без промаха врагу.",
+   "translation": "它们百发百中，给敌人带来死亡。",
+   "events": [
+    {
+     "id": "varyazhsky-gost-e0129",
+     "pitch": "C3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 4.5,
+     "lyric": "на",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0130",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 29,
+     "beat": 1,
+     "lyric": "но",
+     "syllabic": "middle"
+    },
+    {
+     "id": "varyazhsky-gost-e0131",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2.5,
+     "lyric": "сят",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0132",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 3,
+     "lyric": "смерть",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0133",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 3.5,
+     "lyric": "о",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0134",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 4,
+     "lyric": "ни",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0135",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 4.5,
+     "lyric": "без",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0136",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1,
+     "lyric": "про",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0137",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1.5,
+     "lyric": "ма",
+     "syllabic": "middle"
+    },
+    {
+     "id": "varyazhsky-gost-e0138",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2,
+     "lyric": "ха",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0139",
+     "pitch": "F3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.5,
+     "lyric": "вра",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0140",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1,
+     "measure": 30,
+     "beat": 3,
+     "lyric": "гу.",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0141",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    30,
+    32
+   ],
+   "lyrics": "Отважны люди стран полночных,",
+   "translation": "北方之国的人们勇敢无畏，",
+   "events": [
+    {
+     "id": "varyazhsky-gost-e0142",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 4.5,
+     "lyric": "От",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0143",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 31,
+     "beat": 1,
+     "lyric": "важ",
+     "syllabic": "middle"
+    },
+    {
+     "id": "varyazhsky-gost-e0144",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.5,
+     "lyric": "ны",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0145",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 3,
+     "lyric": "лю",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0146",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 3.5,
+     "lyric": "ди",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0147",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 4,
+     "lyric": "стран",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0148",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 4.5,
+     "lyric": "пол",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0149",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1,
+     "measure": 32,
+     "beat": 1,
+     "lyric": "ноч",
+     "syllabic": "middle"
+    },
+    {
+     "id": "varyazhsky-gost-e0150",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2,
+     "lyric": "ных,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    32,
+    37
+   ],
+   "lyrics": "велик их бог Один, угрюмо море.",
+   "translation": "他们的神奥丁伟大，海洋阴沉。",
+   "events": [
+    {
+     "id": "varyazhsky-gost-e0151",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "ве",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0152",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 3,
+     "lyric": "лик",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0153",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 3.5,
+     "lyric": "их",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0154",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 4,
+     "lyric": "бог",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0155",
+     "pitch": "G3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 4.5,
+     "lyric": "О",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0156",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 1,
+     "measure": 33,
+     "beat": 1,
+     "lyric": "дин,",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0157",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0158",
+     "pitch": "Bb3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2.5,
+     "lyric": "у",
+     "syllabic": "begin"
+    },
+    {
+     "id": "varyazhsky-gost-e0159",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 33,
+     "beat": 3,
+     "lyric": "грю",
+     "syllabic": "middle"
+    },
+    {
+     "id": "varyazhsky-gost-e0160",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 4.5,
+     "lyric": "мо",
+     "syllabic": "end"
+    },
+    {
+     "id": "varyazhsky-gost-e0161",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 8,
+     "measure": 34,
+     "beat": 1,
+     "lyric": "море.",
+     "syllabic": "single"
+    },
+    {
+     "id": "varyazhsky-gost-e0162",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0163",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0164",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 36,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0165",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 36,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "varyazhsky-gost-e0166",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 37,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 161,
+ "restCount": 26,
+ "lyricNoteCount": 130,
+ "pages": 1,
+ "speech": {
+  "voice": "ru_RU-irina-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 12,
+  "slowScale": 1.45
+ }
+}

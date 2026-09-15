@@ -1,0 +1,1571 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "lascia-chio-pianga",
+ "title": "Lascia ch’io pianga",
+ "titleZh": "让我哭泣",
+ "composer": "G. F. Händel",
+ "opera": "Rinaldo（《里纳尔多》，HWV 7，1711）",
+ "language": "意大利语",
+ "voice": "女高音",
+ "difficulty": "基础",
+ "tempoBpm": 60,
+ "timeSignature": "3/4",
+ "coverage": {
+  "measures": [
+   1,
+   42
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "咏叹调主体（Largo，3/4，42 小节）完整导入，已移调至标准 F 大调（来源文件为 D 大调，+3 半音）。小节从咏叹调起点重新编号为 1。来源文件前 12 小节为宣叙调，按项目规则不作为主线。"
+ },
+ "range": {
+  "low": "F4",
+  "high": "G5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "阿尔米雷娜（Almirena）：被女巫囚禁的十字军少女",
+ "genre": "歌剧咏叹调",
+ "sourceStatus": "MusicXML 原谱 · 已核验",
+ "sources": [
+  {
+   "name": "music21 corpus · handel/rinaldo/Lascia_chio_pianga.mxl",
+   "url": "https://github.com/cuthbertLab/music21/tree/master/music21/corpus/handel/rinaldo",
+   "format": "MXL (MuseScore 1.x 编码)",
+   "status": "已解析并核对小节数与歌词",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "IMSLP · Rinaldo, HWV 7 (Händel)",
+   "url": "https://imslp.org/wiki/Rinaldo,_HWV_7_(Handel,_George_Frideric)",
+   "format": "PDF 总谱/声乐谱",
+   "status": "用于核对调性、拍号与歌词",
+   "role": "参照原谱",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "Wikipedia · Lascia ch’io pianga",
+   "url": "https://en.wikipedia.org/wiki/Lascia_ch%27io_pianga",
+   "format": "网页",
+   "status": "背景与歌词校对",
+   "role": "剧情与文本",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Lascia ch’io pianga la dura sorte,",
+   "zh": "让我为自己艰苦的命运哭泣，"
+  },
+  {
+   "text": "e che sospiri la libertà.",
+   "zh": "让我叹息着渴望自由。"
+  },
+  {
+   "text": "Il duolo infranga queste ritorte",
+   "zh": "愿悲痛打碎这些枷锁，"
+  },
+  {
+   "text": "de’ miei martiri sol per pietà.",
+   "zh": "只求怜悯我所受的苦难。"
+  }
+ ],
+ "story": {
+  "background": "《里纳尔多》是亨德尔为伦敦写的第一部意大利歌剧，1711 年在女王剧院首演，剧本由 Giacomo Rossi 据塔索史诗《被解放的耶路撒冷》改编。这段咏叹调出现在第二幕第四场：十字军女主角阿尔米雷娜被女巫阿尔米达囚于魔法花园，异教国王阿尔干特向她求爱，她转身向天祈求。旋律来自亨德尔早年的萨拉班德舞曲（歌剧《阿尔米拉》，1705）与清唱剧《时间与真理的胜利》，1711 年在此处定型为最著名的版本。",
+  "situation": "阿尔米雷娜刚被强行带离爱人里纳尔多，眼前是心怀不轨的阿尔干特。她没有力量反抗，能做的只是请求：至少让我哭，让我为自由叹息。她害怕的是被迫屈从，想要的是尊严和自由。",
+  "relationships": "阿尔米雷娜是十字军统帅戈弗雷多之女、里纳尔多的恋人；阿尔干特是耶路撒冷国王、阿尔米达的情人，此刻却对囚徒动心。这段独唱让阿尔干特一时软化，也让观众看到女主角柔弱外表下的坚持，为第三幕里纳尔多的营救铺垫。",
+  "intent": "开口要像轻声祈祷，而不是哭喊：气息安静、元音圆润。中段 “Il duolo infranga” 情绪上扬，可以稍加重量；再现 “Lascia ch’io pianga” 时回到最初的克制，让结尾的 “libertà” 像一声长长的、放下的叹息。",
+  "plain30": "一个被囚禁的女孩对逼迫她的人说：你可以关住我，但请让我哭，让我为自由叹一口气。全曲只有一个愿望——不被夺走内心的自由。",
+  "arc": "F 大调，3/4 Largo，萨拉班德节奏（第二拍略重）。旋律以级进和小跳为主，多用长音起句、下行结束，形成 “抬头—叹息” 的呼吸感。A 段克制哀伤，B 段 “Il duolo infranga” 转向关系小调、节奏更紧，情绪从祈求变为渴望，随后 A 段返回，整体为 da capo 结构。",
+  "motif": "核心动机是开头的下行叹息音型：“La-scia” 从长音落到低音，再在 “pian-ga” 上重复。它在每个乐句开头以不同起音再现；演唱时把重音放在长音上，下行的第二个音要轻，像松开的气息，不要把每个音唱得同样重。",
+  "classroom": [
+   "先读中文译文，说清楚 “她想要什么、害怕什么”。",
+   "慢速朗读意大利语原文，标出每个词的重音音节（LA-scia, PIAN-ga, sor-TE 除外为 SOR-te）。",
+   "分离元音：只唱 a-i-o-e 的元音链，让口型稳定。",
+   "按节拍说话：用 3/4 拍数着念词，感受第二拍的萨拉班德重音。",
+   "听单音旋律，注意每句结尾的下行音是轻声收束。",
+   "把歌词放回旋律，先按乐句，再合并。",
+   "用正常速度完整演唱，注意 da capo 返回时的音色更轻。"
+  ],
+  "technique": "呼吸：每个乐句两小节，长音后必有休止，在休止处换气，不在 “li-ber-tà” 中途换。咬字：意大利语双辅音（lascia 的 sc [ʃ]、sospiri 的 sp）前元音略短、辅音略长；“ch’io” 连读为 [kjo]。换声区：女高音在 “sospiri” 的 D5–E5 处经过换声区，用更多头腔、保持元音竖直。高音：最高音 E5 只在 “libertà” 与 B 段出现，是渐强后的释放而不是猛击，先想象长音再开口。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Lascia ch’io pianga” 首次呈示下行叹息音型（长音落到低音）。"
+   },
+   {
+    "phrase": 2,
+    "note": "第 2 句 “e che sospiri la libertà” 动机上移一级再下行，情绪略抬。"
+   },
+   {
+    "phrase": 7,
+    "note": "第 7 句 “Il duolo infranga” B 段转入关系小调，叹息音型收紧为更短的下行。"
+   },
+   {
+    "phrase": 10,
+    "note": "第 10 句 “per pietà” 以最完整的下行结束，da capo 返回时用更轻的音色再现第 1 句。"
+   }
+  ]
+ },
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "LÀ-scia、PIÀN-ga、DÙ-ra、SÒR-te、so-SPÌ-ri、li-ber-TÀ（重音在最后，带重音符）、DUÒ-lo、in-FRÀN-ga、QUÉ-ste、ri-TÒR-te、MÀR-ti-ri、pie-TÀ。",
+    "本曲双辅音少：“sospiri” 的 sp 是辅音群不是双辅音；“infranga” 的 nfr 三辅音连读要清楚。"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "pianga、infranga 的 a 开而亮；sorte、ritorte 的 o 开口 [ɔ]；duolo 的 uo 双元音重音在 o。",
+    "che、che 的 e 闭口 [e]；pietà 的 e 开口 [ɛ]；miei 读 [mjɛi]。"
+   ]
+  },
+  {
+   "title": "r、连读与省略",
+   "items": [
+    "r 全部弹舌：dura、sorte、sospiri、ritorte、martiri。",
+    "“ch’io” 省音读 [kjo]；“de’ miei” 的 de’ 是 dei 的截略；“lascia” 的 sc 在 i 前读 [ʃ]。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    1,
+    4
+   ],
+   "lyrics": "Lascia ch’io pianga la dura sorte,",
+   "translation": "让我为自己艰苦的命运哭泣，",
+   "events": [
+    {
+     "id": "lascia-chio-pianga-e0001",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 1,
+     "beat": 1.0,
+     "lyric": "La",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0002",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 1,
+     "beat": 2.0,
+     "lyric": "scia",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0003",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0004",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 3.5,
+     "lyric": "ch’io",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0005",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "pian",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0006",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 2.0,
+     "lyric": "ga",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0007",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0008",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0009",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "du",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0010",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 3.5,
+     "lyric": "ra",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0011",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "sor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0012",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 2.0,
+     "lyric": "te,",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0013",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    5,
+    8
+   ],
+   "lyrics": "e che sospiri la libertà,",
+   "translation": "让我叹息着渴望自由。",
+   "events": [
+    {
+     "id": "lascia-chio-pianga-e0014",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0015",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "che",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0016",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0017",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 5,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0018",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 5,
+     "beat": 3.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0019",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "spi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "lascia-chio-pianga-e0020",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "ri",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0021",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0022",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3.5,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0023",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "li",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0024",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0025",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0026",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 7,
+     "beat": 3.0,
+     "lyric": "ber",
+     "syllabic": "middle"
+    },
+    {
+     "id": "lascia-chio-pianga-e0027",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0028",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "tà,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    9,
+    10
+   ],
+   "lyrics": "e che sospiri,",
+   "translation": "让我叹息着渴望自由。",
+   "events": [
+    {
+     "id": "lascia-chio-pianga-e0029",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0030",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "che",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0031",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.5,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0032",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "spi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "lascia-chio-pianga-e0033",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "ri,",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0034",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    11,
+    14
+   ],
+   "lyrics": "e che sospiri la libertà;",
+   "translation": "让我叹息着渴望自由。",
+   "events": [
+    {
+     "id": "lascia-chio-pianga-e0035",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0036",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "che",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0037",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 3.5,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0038",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "spi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "lascia-chio-pianga-e0039",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0040",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "ri",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0041",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0042",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.5,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0043",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "li",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0044",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0045",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0046",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "ber",
+     "syllabic": "middle"
+    },
+    {
+     "id": "lascia-chio-pianga-e0047",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0048",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "tà;",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    15,
+    18
+   ],
+   "lyrics": "lascia ch’io pianga la dura sorte,",
+   "translation": "让我为自己艰苦的命运哭泣，",
+   "events": [
+    {
+     "id": "lascia-chio-pianga-e0049",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "la",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0050",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "scia",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0051",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0052",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 3.5,
+     "lyric": "ch’io",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0053",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "pian",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0054",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "ga",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0055",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0056",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0057",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "du",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0058",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3.5,
+     "lyric": "ra",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0059",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "sor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0060",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "te,",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0061",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    19,
+    30
+   ],
+   "lyrics": "e che sospiri la libertà.",
+   "translation": "让我叹息着渴望自由。",
+   "events": [
+    {
+     "id": "lascia-chio-pianga-e0062",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "e",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0063",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "che",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0064",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0065",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 19,
+     "beat": 3.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0066",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 19,
+     "beat": 3.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0067",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "spi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "lascia-chio-pianga-e0068",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "ri",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0069",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0070",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3.5,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0071",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "li",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0072",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0073",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0074",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 21,
+     "beat": 3.0,
+     "lyric": "ber",
+     "syllabic": "middle"
+    },
+    {
+     "id": "lascia-chio-pianga-e0075",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0076",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "tà.",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0077",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0078",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0079",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0080",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0081",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0082",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0083",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0084",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    31,
+    34
+   ],
+   "lyrics": "Il duolo infranga queste ritorte",
+   "translation": "愿悲痛打碎这些枷锁，",
+   "events": [
+    {
+     "id": "lascia-chio-pianga-e0085",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "Il",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0086",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "duo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0087",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 3.5,
+     "lyric": "lo in",
+     "syllabic": "middle"
+    },
+    {
+     "id": "lascia-chio-pianga-e0088",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "fran",
+     "syllabic": "middle"
+    },
+    {
+     "id": "lascia-chio-pianga-e0089",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "ga",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0090",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0091",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "que",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0092",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 33,
+     "beat": 2.0,
+     "lyric": "ste",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0093",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 3.5,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0094",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "tor",
+     "syllabic": "middle"
+    },
+    {
+     "id": "lascia-chio-pianga-e0095",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0096",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 2.0,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0097",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    35,
+    38
+   ],
+   "lyrics": "de’ miei martiri sol per pietà,",
+   "translation": "只求怜悯我所受的苦难。",
+   "events": [
+    {
+     "id": "lascia-chio-pianga-e0098",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "de’",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0099",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.0,
+     "lyric": "miei",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0100",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0101",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 3.0,
+     "lyric": "mar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0102",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0103",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "ti",
+     "syllabic": "middle"
+    },
+    {
+     "id": "lascia-chio-pianga-e0104",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0105",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 2.0,
+     "lyric": "ri",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0106",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0107",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 3.5,
+     "lyric": "sol",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0108",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "per",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0109",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0110",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 37,
+     "beat": 2.0,
+     "lyric": "pie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0111",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 37,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0112",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 37,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0113",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "tà,",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0114",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    38,
+    40
+   ],
+   "lyrics": "sì, de’ miei martiri sol,",
+   "translation": "只求怜悯我所受的苦难。",
+   "events": [
+    {
+     "id": "lascia-chio-pianga-e0115",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "sì,",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0116",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "de’",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0117",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0118",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.0,
+     "lyric": "miei",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0119",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0120",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 3.0,
+     "lyric": "mar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0121",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0122",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "ti",
+     "syllabic": "middle"
+    },
+    {
+     "id": "lascia-chio-pianga-e0123",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 2.0,
+     "lyric": "ri",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0124",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0125",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 3.5,
+     "lyric": "sol,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    41,
+    42
+   ],
+   "lyrics": "per pietà.",
+   "translation": "只求怜悯我所受的苦难。",
+   "events": [
+    {
+     "id": "lascia-chio-pianga-e0126",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "per",
+     "syllabic": "single"
+    },
+    {
+     "id": "lascia-chio-pianga-e0127",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0128",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 41,
+     "beat": 2.0,
+     "lyric": "pie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "lascia-chio-pianga-e0129",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "lascia-chio-pianga-e0130",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "tà.",
+     "syllabic": "end"
+    },
+    {
+     "id": "lascia-chio-pianga-e0131",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 131,
+ "restCount": 23,
+ "lyricNoteCount": 81,
+ "pages": 1,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 10,
+  "slowScale": 1.45
+ }
+}

@@ -1,0 +1,1402 @@
+[
+ {
+  "id": "lascia-chio-pianga",
+  "title": "Lascia ch’io pianga",
+  "titleZh": "让我哭泣",
+  "composer": "G. F. Händel",
+  "opera": "Rinaldo（《里纳尔多》，HWV 7，1711）",
+  "language": "意大利语",
+  "voice": "女高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML 原谱 · 已核验",
+  "range": {
+   "low": "F4",
+   "high": "G5"
+  },
+  "role": "阿尔米雷娜（Almirena）：被女巫囚禁的十字军少女",
+  "genre": "歌剧咏叹调",
+  "tempoBpm": 60
+ },
+ {
+  "id": "la-donna-e-mobile",
+  "title": "La donna è mobile",
+  "titleZh": "女人善变",
+  "composer": "G. Verdi",
+  "opera": "Rigoletto（《弄臣》，1851）",
+  "language": "意大利语",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML 原谱 · 已核验",
+  "range": {
+   "low": "F3",
+   "high": "F5"
+  },
+  "role": "曼图亚公爵（Il Duca di Mantova）：轻佻的贵族",
+  "genre": "歌剧咏叹调",
+  "tempoBpm": 96
+ },
+ {
+  "id": "non-piu-andrai",
+  "title": "Non più andrai",
+  "titleZh": "你再不能去飞了",
+  "composer": "W. A. Mozart",
+  "opera": "Le nozze di Figaro（《费加罗的婚礼》，K. 492，1786）",
+  "language": "意大利语",
+  "voice": "男中音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML 原谱 · 已核验",
+  "range": {
+   "low": "C3",
+   "high": "E4"
+  },
+  "role": "费加罗（Figaro）：伯爵的男仆",
+  "genre": "歌剧咏叹调",
+  "tempoBpm": 108
+ },
+ {
+  "id": "cleopatra-aria",
+  "title": "V’adoro, pupille",
+  "titleZh": "我爱慕你们，明眸",
+  "composer": "G. F. Händel",
+  "opera": "Giulio Cesare in Egitto（《朱利奥·凯撒在埃及》，HWV 17，1724）",
+  "language": "意大利语",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "D",
+  "sourceStatus": "MXL 原谱（自动识别） · 音节已校正",
+  "range": {
+   "low": "F4",
+   "high": "G5"
+  },
+  "role": "克娄巴特拉（Cleopatra）：化名莉迪亚的埃及女王",
+  "genre": "歌剧咏叹调",
+  "tempoBpm": 63
+ },
+ {
+  "id": "chio-chio-san",
+  "title": "Un bel dì, vedremo",
+  "titleZh": "晴朗的一天",
+  "composer": "G. Puccini",
+  "opera": "Madama Butterfly（《蝴蝶夫人》，1904）",
+  "language": "意大利语",
+  "voice": "女高音",
+  "difficulty": "高阶",
+  "state": "published",
+  "sourceGrade": "D",
+  "sourceStatus": "MXL 片段（自动识别） · 1–18 小节已校正",
+  "range": {
+   "low": "Db4",
+   "high": "G5"
+  },
+  "role": "巧巧桑（Cio-Cio-San）：等待丈夫归来的蝴蝶夫人",
+  "genre": "歌剧咏叹调",
+  "tempoBpm": 58
+ },
+ {
+  "id": "varyazhsky-gost",
+  "title": "Песня Варяжского гостя",
+  "titleZh": "瓦良格客商之歌",
+  "composer": "N. Rimsky-Korsakov",
+  "opera": "Садко（《萨特阔》，1898）",
+  "language": "俄语",
+  "voice": "男低音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML 原谱（LilyPond 排版） · 已核验",
+  "range": {
+   "low": "A2",
+   "high": "Eb4"
+  },
+  "role": "瓦良格客商（Варяжский гость）：北方来的商人",
+  "genre": "歌剧独唱",
+  "tempoBpm": 72
+ },
+ {
+  "id": "der-lindenbaum",
+  "title": "Der Lindenbaum",
+  "titleZh": "菩提树",
+  "composer": "F. Schubert",
+  "opera": "Winterreise, D. 911, No. 5（《冬之旅》，1827；艺术歌曲，非歌剧）",
+  "language": "德语",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML 原谱（Sibelius 导出） · 已核验",
+  "range": {
+   "low": "B3",
+   "high": "E5"
+  },
+  "role": "流浪者：被拒绝的求婚者（《冬之旅》叙述者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 66
+ },
+ {
+  "id": "apres-un-reve",
+  "title": "Après un rêve",
+  "titleZh": "梦醒之后",
+  "composer": "G. Fauré",
+  "opera": "3 Mélodies, Op. 7, No. 1（1877；法语艺术歌曲，非歌剧）",
+  "language": "法语",
+  "voice": "女中音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+  "range": {
+   "low": "C4",
+   "high": "F5"
+  },
+  "role": "抒情主体：从爱情之梦中醒来的人",
+  "genre": "艺术歌曲",
+  "tempoBpm": 60
+ },
+ {
+  "id": "elegie",
+  "title": "Élégie",
+  "titleZh": "悲歌",
+  "composer": "J. Massenet",
+  "opera": "Les Érinnyes 配乐（1872）中的旋律，1875 年配词为独唱曲；法语艺术歌曲",
+  "language": "法语",
+  "voice": "男中音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+  "range": {
+   "low": "B3",
+   "high": "F5"
+  },
+  "role": "抒情主体：失去爱人、春天不再的人",
+  "genre": "艺术歌曲",
+  "tempoBpm": 56
+ },
+ {
+  "id": "gounod-serenade",
+  "title": "Sérénade",
+  "titleZh": "小夜曲（当你歌唱时）",
+  "composer": "C. Gounod",
+  "opera": "Sérénade, CG 437（1855；法语艺术歌曲，词 Victor Hugo）",
+  "language": "法语",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+  "range": {
+   "low": "C4",
+   "high": "G5"
+  },
+  "role": "抒情主体：在夜里守望恋人歌唱、入睡的人",
+  "genre": "艺术歌曲",
+  "tempoBpm": 66
+ },
+ {
+  "id": "mattinata",
+  "title": "Mattinata",
+  "titleZh": "晨歌",
+  "composer": "R. Leoncavallo",
+  "opera": "Mattinata（1904；为 Enrico Caruso 与留声机公司而作的意大利语独唱曲）",
+  "language": "意大利语",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+  "range": {
+   "low": "C#4",
+   "high": "A5"
+  },
+  "role": "抒情主体：在清晨向恋人窗前歌唱的人",
+  "genre": "独唱歌曲",
+  "tempoBpm": 80
+ },
+ {
+  "id": "ideale",
+  "title": "Ideale",
+  "titleZh": "理想",
+  "composer": "F. P. Tosti",
+  "opera": "Ideale（1882；意大利语浪漫曲，词 Carmelo Errico）",
+  "language": "意大利语",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+  "range": {
+   "low": "E4",
+   "high": "F#5"
+  },
+  "role": "抒情主体：呼唤已逝理想之爱的人",
+  "genre": "浪漫曲",
+  "tempoBpm": 63
+ },
+ {
+  "id": "spirate-pur",
+  "title": "Spirate pur, spirate",
+  "titleZh": "轻风啊，吹吧",
+  "composer": "S. Donaudy",
+  "opera": "36 Arie di stile antico, No. 10（1918；仿古风格咏叹调，词 Alberto Donaudy）",
+  "language": "意大利语",
+  "voice": "女高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+  "range": {
+   "low": "Eb4",
+   "high": "G5"
+  },
+  "role": "抒情主体：托轻风探问爱人心意的人",
+  "genre": "仿古咏叹调",
+  "tempoBpm": 76
+ },
+ {
+  "id": "in-solitaria-stanza",
+  "title": "In solitaria stanza",
+  "titleZh": "在孤寂的房间",
+  "composer": "G. Verdi",
+  "opera": "6 Romanze (1838), No. 3（意大利语浪漫曲，词 Jacopo Vittorelli）",
+  "language": "意大利语",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+  "range": {
+   "low": "Eb4",
+   "high": "Gb5"
+  },
+  "role": "抒情主体：为病重爱人伊蕾内向神求救的人",
+  "genre": "浪漫曲",
+  "tempoBpm": 66
+ },
+ {
+  "id": "linvito",
+  "title": "L’invito",
+  "titleZh": "邀请",
+  "composer": "G. Rossini",
+  "opera": "Soirées musicales, No. 5（1835；意大利语波莱罗风格独唱曲，词 Carlo Pepoli）",
+  "language": "意大利语",
+  "voice": "女中音",
+  "difficulty": "高阶",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+  "range": {
+   "low": "E4",
+   "high": "G5"
+  },
+  "role": "埃洛伊莎（Eloisa）：向鲁杰罗发出邀请的女子",
+  "genre": "独唱歌曲（波莱罗）",
+  "tempoBpm": 88
+ },
+ {
+  "id": "standchen",
+  "title": "Ständchen",
+  "titleZh": "小夜曲",
+  "composer": "F. Schubert",
+  "opera": "Schwanengesang, D. 957, No. 4（1828；德语艺术歌曲，词 Ludwig Rellstab）",
+  "language": "德语",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+  "range": {
+   "low": "D4",
+   "high": "G5"
+  },
+  "role": "抒情主体：在夜里向恋人窗前恳求的人",
+  "genre": "艺术歌曲",
+  "tempoBpm": 66
+ },
+ {
+  "id": "heidenroslein",
+  "title": "Heidenröslein",
+  "titleZh": "野玫瑰",
+  "composer": "F. Schubert",
+  "opera": "Heidenröslein, D. 257, Op. 3 No. 3（1815；德语艺术歌曲，词 J. W. von Goethe）",
+  "language": "德语",
+  "voice": "女高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+  "range": {
+   "low": "G4",
+   "high": "G5"
+  },
+  "role": "叙述者：讲述少年与野玫瑰的故事",
+  "genre": "艺术歌曲（分节歌）",
+  "tempoBpm": 84
+ },
+ {
+  "id": "ave-maria",
+  "title": "Ave Maria (Ellens Gesang III)",
+  "titleZh": "圣母颂（埃伦的第三首歌）",
+  "composer": "F. Schubert",
+  "opera": "Ellens Gesang III, D. 839, Op. 52 No. 6（1825；德语艺术歌曲，词 Walter Scott 德译 Adam Storck）",
+  "language": "德语",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+  "range": {
+   "low": "F4",
+   "high": "F5"
+  },
+  "role": "埃伦（Ellen）：向圣母祈求庇护的少女",
+  "genre": "艺术歌曲（分节歌）",
+  "tempoBpm": 52
+ },
+ {
+  "id": "blow-blow",
+  "title": "Blow, Blow, Thou Winter Wind",
+  "titleZh": "吹吧，吹吧，冬风",
+  "composer": "T. Arne",
+  "opera": "为莎士比亚《皆大欢喜》第二幕第七场所作的歌曲（1740）",
+  "language": "英语",
+  "voice": "女中音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+  "range": {
+   "low": "B3",
+   "high": "F5"
+  },
+  "role": "阿米安（Amiens）：流放公爵的随从，在森林里唱歌的贵族",
+  "genre": "戏剧歌曲",
+  "tempoBpm": 84
+ },
+ {
+  "id": "she-never-told",
+  "title": "She Never Told Her Love",
+  "titleZh": "她从未说出她的爱",
+  "composer": "J. Haydn",
+  "opera": "English Canzonettas, Hob. XXVIa:34（1795；词出自莎士比亚《第十二夜》第二幕第四场）",
+  "language": "英语",
+  "voice": "女高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+  "range": {
+   "low": "D4",
+   "high": "F5"
+  },
+  "role": "薇奥拉（Viola）：假扮男仆、暗恋公爵的女子（借“姐姐”的故事说自己）",
+  "genre": "英语坎佐内塔",
+  "tempoBpm": 54
+ },
+ {
+  "id": "home-sweet-home",
+  "title": "Home, Sweet Home",
+  "titleZh": "甜蜜的家",
+  "composer": "H. R. Bishop",
+  "opera": "Clari, or the Maid of Milan（《克拉丽，米兰少女》，1823）第一幕",
+  "language": "英语",
+  "voice": "女高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+  "range": {
+   "low": "E4",
+   "high": "E5"
+  },
+  "role": "克拉丽（Clari）：被公爵带离乡村、思念家的少女",
+  "genre": "歌剧歌曲",
+  "tempoBpm": 76
+ },
+ {
+  "id": "lost-chord",
+  "title": "The Lost Chord",
+  "titleZh": "失落的和弦",
+  "composer": "A. Sullivan",
+  "opera": "The Lost Chord（1877；英语独唱曲，词 Adelaide Anne Procter）",
+  "language": "英语",
+  "voice": "女中音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+  "range": {
+   "low": "C4",
+   "high": "F5"
+  },
+  "role": "抒情主体：在管风琴上偶然奏出神圣和弦的人",
+  "genre": "独唱歌曲",
+  "tempoBpm": 63
+ },
+ {
+  "id": "gremin-aria",
+  "title": "Ария Гремина «Любви все возрасты покорны»",
+  "titleZh": "格列明的咏叹调「爱情不分年龄」",
+  "composer": "П.И. Чайковский",
+  "opera": "Евгений Онегин（叶甫盖尼·奥涅金），第三幕第一场",
+  "language": "俄语",
+  "voice": "男低音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "D",
+  "sourceStatus": "OMR 自动识别 MusicXML · 歌词已修正",
+  "range": {
+   "low": "Gb2",
+   "high": "Eb4"
+  },
+  "role": "Гремин（格列明亲王）",
+  "genre": "咏叹调",
+  "tempoBpm": 66
+ },
+ {
+  "id": "erlkoenig",
+  "title": "Erlkönig",
+  "titleZh": "魔王",
+  "composer": "F. Schubert",
+  "opera": "D. 328（独立艺术歌曲，1815；诗：J.W. von Goethe）",
+  "language": "德语",
+  "voice": "男中音",
+  "difficulty": "高阶",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "C4",
+   "high": "G5"
+  },
+  "role": "叙述者 / 父亲 / 儿子 / 魔王（四个角色由一位歌手完成）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 152
+ },
+ {
+  "id": "gretchen-am-spinnrade",
+  "title": "Gretchen am Spinnrade",
+  "titleZh": "纺车旁的格蕾琴",
+  "composer": "F. Schubert",
+  "opera": "D. 118（独立艺术歌曲，1814；诗：J.W. von Goethe《浮士德》第一部）",
+  "language": "德语",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "E4",
+   "high": "A5"
+  },
+  "role": "玛格丽特（浮士德中的少女）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 72
+ },
+ {
+  "id": "die-forelle",
+  "title": "Die Forelle",
+  "titleZh": "鳟鱼",
+  "composer": "F. Schubert",
+  "opera": "D. 550（独立艺术歌曲，约 1817；诗：C.F.D. Schubart）",
+  "language": "德语",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "Eb4",
+   "high": "Gb5"
+  },
+  "role": "叙事者（抒情主人公）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 66
+ },
+ {
+  "id": "an-die-musik",
+  "title": "An die Musik",
+  "titleZh": "致音乐",
+  "composer": "F. Schubert",
+  "opera": "D. 547（独立艺术歌曲，1817；诗：F. von Schober）",
+  "language": "德语",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "C#4",
+   "high": "F#5"
+  },
+  "role": "抒情主人公（艺术爱好者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 60
+ },
+ {
+  "id": "du-bist-die-ruh",
+  "title": "Du bist die Ruh",
+  "titleZh": "你是安宁",
+  "composer": "F. Schubert",
+  "opera": "D. 776（独立艺术歌曲，约 1823；诗：F. Rückert）",
+  "language": "德语",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "Eb4",
+   "high": "Ab5"
+  },
+  "role": "抒情主人公（恋人）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 50
+ },
+ {
+  "id": "widmung",
+  "title": "Widmung",
+  "titleZh": "奉献",
+  "composer": "R. Schumann",
+  "opera": "Myrthen, Op. 25, No. 1（《桃金娘》，1840；诗：F. Rückert）",
+  "language": "德语",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "B3",
+   "high": "Gb5"
+  },
+  "role": "抒情主人公（恋人）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 72
+ },
+ {
+  "id": "ich-grolle-nicht",
+  "title": "Ich grolle nicht",
+  "titleZh": "我不怨恨",
+  "composer": "R. Schumann",
+  "opera": "Dichterliebe, Op. 48, No. 7（《诗人之恋》，1840；诗：H. Heine）",
+  "language": "德语",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "C4",
+   "high": "A5"
+  },
+  "role": "抒情主人公（被拒的恋人）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 108
+ },
+ {
+  "id": "wiegenlied-brahms",
+  "title": "Wiegenlied",
+  "titleZh": "摇篮曲",
+  "composer": "J. Brahms",
+  "opera": "Op. 49, No. 4（《五首歌曲》第四首，1868；诗：民间诗歌 / G. Scherer 改编）",
+  "language": "德语",
+  "voice": "女高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "Eb4",
+   "high": "Eb5"
+  },
+  "role": "母亲（摇篮曲的歌唱者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 60
+ },
+ {
+  "id": "morgen",
+  "title": "Morgen!",
+  "titleZh": "明天！",
+  "composer": "R. Strauss",
+  "opera": "Op. 27, No. 4（《四首歌曲》第四首，1894；诗：J.H. Mackay）",
+  "language": "德语",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "F#4",
+   "high": "G5"
+  },
+  "role": "抒情主人公（恋人）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 52
+ },
+ {
+  "id": "auf-dem-wasser",
+  "title": "Auf dem Wasser zu singen",
+  "titleZh": "水上吟唱",
+  "composer": "F. Schubert",
+  "opera": "D.774（独立艺术歌曲，1823；诗：F.L. zu Stolberg）",
+  "language": "德语",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "Eb4",
+   "high": "Gb5"
+  },
+  "role": "抒情主人公（泛舟者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 72
+ },
+ {
+  "id": "botschaft",
+  "title": "Botschaft",
+  "titleZh": "传言",
+  "composer": "J. Brahms",
+  "opera": "Op.47 No.1（独立艺术歌曲，1868；诗：G.F. Daumer/哈菲兹改编）",
+  "language": "德语",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "F4",
+   "high": "Ab5"
+  },
+  "role": "抒情主人公（托付飞鸟传情者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 72
+ },
+ {
+  "id": "das-wandern",
+  "title": "Das Wandern",
+  "titleZh": "漫游",
+  "composer": "F. Schubert",
+  "opera": "Die schöne Müllerin D.795 No.1（美丽的磨坊女第1首，1823；诗：W. Müller）",
+  "language": "德语",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "F4",
+   "high": "F5"
+  },
+  "role": "磨坊学徒（流浪者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 108
+ },
+ {
+  "id": "der-atlas",
+  "title": "Der Atlas",
+  "titleZh": "阿特拉斯",
+  "composer": "F. Schubert",
+  "opera": "Schwanengesang D.957 No.8（天鹅之歌第8首，1828；诗：H. Heine）",
+  "language": "德语",
+  "voice": "男中音",
+  "difficulty": "高阶",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "D4",
+   "high": "Ab5"
+  },
+  "role": "阿特拉斯（背负世界者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 60
+ },
+ {
+  "id": "der-doppelgaenger",
+  "title": "Der Doppelgänger",
+  "titleZh": "幽灵替身",
+  "composer": "F. Schubert",
+  "opera": "Schwanengesang D.957 No.13（天鹅之歌第13首，1828；诗：H. Heine）",
+  "language": "德语",
+  "voice": "男中音",
+  "difficulty": "高阶",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "B3",
+   "high": "G5"
+  },
+  "role": "抒情主人公（与自己的幽灵相遇者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 58
+ },
+ {
+  "id": "der-leiermann",
+  "title": "Der Leiermann",
+  "titleZh": "手摇风琴师",
+  "composer": "F. Schubert",
+  "opera": "Winterreise D.911 No.24（冬之旅第24首，1827；诗：W. Müller）",
+  "language": "德语",
+  "voice": "男中音",
+  "difficulty": "高阶",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "E4",
+   "high": "F5"
+  },
+  "role": "冬日旅人（流浪者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 56
+ },
+ {
+  "id": "die-mainacht",
+  "title": "Die Mainacht",
+  "titleZh": "五月之夜",
+  "composer": "J. Brahms",
+  "opera": "Op.43 No.2（独立艺术歌曲，1868；诗：L.H.C. Hölty）",
+  "language": "德语",
+  "voice": "男中音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "Bb3",
+   "high": "Fb5"
+  },
+  "role": "抒情主人公（孤独的恋人）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 52
+ },
+ {
+  "id": "du-bist-wie-eine-blume",
+  "title": "Du bist wie eine Blume",
+  "titleZh": "你像一朵花",
+  "composer": "R. Schumann",
+  "opera": "Myrthen Op.25 No.24（桃金娘，1840；诗：H. Heine）",
+  "language": "德语",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "G4",
+   "high": "F5"
+  },
+  "role": "抒情主人公（恋人）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 56
+ },
+ {
+  "id": "gute-nacht",
+  "title": "Gute Nacht",
+  "titleZh": "晚安",
+  "composer": "F. Schubert",
+  "opera": "Winterreise D.911 No.1（冬之旅第1首，1827；诗：W. Müller）",
+  "language": "德语",
+  "voice": "男中音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "C4",
+   "high": "F#5"
+  },
+  "role": "冬日旅人（失恋的流浪者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 66
+ },
+ {
+  "id": "im-wunderschoenen-monat-mai",
+  "title": "Im wunderschönen Monat Mai",
+  "titleZh": "在美丽的五月",
+  "composer": "R. Schumann",
+  "opera": "Dichterliebe Op.48 No.1（诗人之恋第1首，1840；诗：H. Heine）",
+  "language": "德语",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "F#4",
+   "high": "G5"
+  },
+  "role": "抒情主人公（初恋者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 66
+ },
+ {
+  "id": "mondnacht",
+  "title": "Mondnacht",
+  "titleZh": "月夜",
+  "composer": "R. Schumann",
+  "opera": "Liederkreis Op.39 No.5（歌曲集，1840；诗：J. von Eichendorff）",
+  "language": "德语",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "E4",
+   "high": "F#5"
+  },
+  "role": "抒情主人公（夜行者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 60
+ },
+ {
+  "id": "ungeduld",
+  "title": "Ungeduld",
+  "titleZh": "急切",
+  "composer": "F. Schubert",
+  "opera": "Die schöne Müllerin D.795 No.7（美丽的磨坊女第7首，1823；诗：W. Müller）",
+  "language": "德语",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "E4",
+   "high": "A5"
+  },
+  "role": "磨坊学徒（热恋中的少年）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 80
+ },
+ {
+  "id": "verborgenheit",
+  "title": "Verborgenheit",
+  "titleZh": "隐逸",
+  "composer": "H. Wolf",
+  "opera": "Mörike-Lieder No.12（莫里克歌曲集，1888；诗：E. Mörike）",
+  "language": "德语",
+  "voice": "男中音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "D4",
+   "high": "G5"
+  },
+  "role": "抒情主人公（隐藏爱意者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 52
+ },
+ {
+  "id": "von-ewiger-liebe",
+  "title": "Von ewiger Liebe",
+  "titleZh": "永恒的爱",
+  "composer": "J. Brahms",
+  "opera": "Op.43 No.1（独立艺术歌曲，1864；诗：J. Wenzig/民歌改编）",
+  "language": "德语",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "A3",
+   "high": "F#5"
+  },
+  "role": "叙事者（见证永恒之爱的旁观者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 66
+ },
+ {
+  "id": "wohin",
+  "title": "Wohin?",
+  "titleZh": "去哪里？",
+  "composer": "F. Schubert",
+  "opera": "Die schöne Müllerin D.795 No.2（美丽的磨坊女第2首，1823；诗：W. Müller）",
+  "language": "德语",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "D4",
+   "high": "G5"
+  },
+  "role": "磨坊学徒（追随溪流的少年）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 72
+ },
+ {
+  "id": "caecilie",
+  "title": "Cäcilie",
+  "titleZh": "致切奇莉亚",
+  "composer": "R. Strauss",
+  "opera": "Op. 27, No. 2（《四首歌曲》第二首，1894；诗：H.H. Hart）",
+  "language": "德语",
+  "voice": "女高音",
+  "difficulty": "高阶",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "E4",
+   "high": "B5"
+  },
+  "role": "抒情主人公（狂喜的恋人）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 80
+ },
+ {
+  "id": "ruhe-meine-seele",
+  "title": "Ruhe, meine Seele!",
+  "titleZh": "安息吧，我的灵魂！",
+  "composer": "R. Strauss",
+  "opera": "Op. 27, No. 1（《四首歌曲》第一首，1894；诗：K.F. Henckell）",
+  "language": "德语",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "C4",
+   "high": "F#5"
+  },
+  "role": "抒情主人公（寻求内心安宁者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 50
+ },
+ {
+  "id": "chanson-damour",
+  "title": "Chanson d'amour",
+  "titleZh": "爱之歌",
+  "composer": "G. Fauré",
+  "opera": "Op. 27, No. 1（1882；诗：A. Silvestre）",
+  "language": "法语",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "D4",
+   "high": "E5"
+  },
+  "role": "抒情主人公（恋人）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 60
+ },
+ {
+  "id": "les-roses-dispahan",
+  "title": "Les roses d'Ispahan",
+  "titleZh": "伊斯法罕的玫瑰",
+  "composer": "G. Fauré",
+  "opera": "Op. 39, No. 4（1884；诗：Leconte de Lisle）",
+  "language": "法语",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "D4",
+   "high": "F#5"
+  },
+  "role": "抒情主人公（向爱人献诗者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 60
+ },
+ {
+  "id": "cest-lextase",
+  "title": "C'est l'extase langoureuse",
+  "titleZh": "这是慵懒的狂喜",
+  "composer": "C. Debussy",
+  "opera": "Ariettes oubliées, No. 1（1887；诗：P. Verlaine）",
+  "language": "法语",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "C4",
+   "high": "A5"
+  },
+  "role": "抒情主人公（沉浸于慵懒狂喜者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 54
+ },
+ {
+  "id": "il-pleure",
+  "title": "Il pleure dans mon cœur",
+  "titleZh": "我心中在下雨",
+  "composer": "C. Debussy",
+  "opera": "Ariettes oubliées, No. 2（1887；诗：P. Verlaine）",
+  "language": "法语",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "C#4",
+   "high": "G#5"
+  },
+  "role": "抒情主人公（忧伤的恋人）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 58
+ },
+ {
+  "id": "green-debussy",
+  "title": "Green",
+  "titleZh": "绿",
+  "composer": "C. Debussy",
+  "opera": "Ariettes oubliées, No. 5（1888；诗：P. Verlaine）",
+  "language": "法语",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "C4",
+   "high": "Ab5"
+  },
+  "role": "抒情主人公（献上花果的恋人）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 66
+ },
+ {
+  "id": "mandoline-debussy",
+  "title": "Mandoline",
+  "titleZh": "曼陀林",
+  "composer": "C. Debussy",
+  "opera": "Fêtes galantes I（1882/1891；诗：P. Verlaine）",
+  "language": "法语",
+  "voice": "女高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "C4",
+   "high": "G5"
+  },
+  "role": "旁观者（描绘欢愉场景的叙事者）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 72
+ },
+ {
+  "id": "sogno-tosti",
+  "title": "Sogno",
+  "titleZh": "梦",
+  "composer": "F.P. Tosti",
+  "opera": "独立艺术歌曲（Romanza da salotto，约 1887）",
+  "language": "意大利语",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "Db4",
+   "high": "Eb5"
+  },
+  "role": "抒情主体：在梦中看见爱人跪在自己面前的人",
+  "genre": "浪漫曲",
+  "tempoBpm": 60
+ },
+ {
+  "id": "pace-non-trovo",
+  "title": "Pace non trovo",
+  "titleZh": "我找不到安宁",
+  "composer": "F. Liszt",
+  "opera": "Tre sonetti di Petrarca S.270（彼特拉克三首十四行诗，1838/1861 修订版）",
+  "language": "意大利语",
+  "voice": "男高音",
+  "difficulty": "高阶",
+  "state": "published",
+  "sourceGrade": "B",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "range": {
+   "low": "D3",
+   "high": "D#4"
+  },
+  "role": "抒情主体：被爱情撕裂的诗人",
+  "genre": "艺术歌曲",
+  "tempoBpm": 60
+ },
+ {
+  "id": "sredi-shumnogo-bala",
+  "title": "Средь шумного бала",
+  "titleZh": "在喧闹的舞会上",
+  "composer": "П.И. Чайковский",
+  "opera": "Op. 38, No. 3（六首浪漫曲，1878；诗：А.К. Толстой）",
+  "language": "俄语",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "D",
+  "sourceStatus": "Tarakanov OMR MusicXML · 歌词已修正",
+  "range": {
+   "low": "B3",
+   "high": "E5"
+  },
+  "role": "抒情主人公（在舞会上遇见真爱的男子）",
+  "genre": "浪漫曲",
+  "tempoBpm": 54
+ },
+ {
+  "id": "ne-poy-krasavitsa",
+  "title": "Не пой, красавица, при мне",
+  "titleZh": "不要唱了，美人",
+  "composer": "С.В. Рахманинов",
+  "opera": "Op. 4, No. 4（六首浪漫曲，1893；诗：А.С. Пушкин）",
+  "language": "俄语",
+  "voice": "男中音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "D",
+  "sourceStatus": "Tarakanov OMR MusicXML · 歌词已修正",
+  "range": {
+   "low": "C#3",
+   "high": "F#4"
+  },
+  "role": "抒情主人公（被歌声唤起的追忆者）",
+  "genre": "浪漫曲",
+  "tempoBpm": 56
+ },
+ {
+  "id": "vesenniye-vody",
+  "title": "Весенние воды",
+  "titleZh": "春潮",
+  "composer": "С.В. Рахманинов",
+  "opera": "Op. 14, No. 11（十二首浪漫曲，1896；诗：Ф.И. Тютчев）",
+  "language": "俄语",
+  "voice": "男高音",
+  "difficulty": "高阶",
+  "state": "published",
+  "sourceGrade": "D",
+  "sourceStatus": "Tarakanov OMR MusicXML · 歌词已修正",
+  "range": {
+   "low": "Ab2",
+   "high": "G#4"
+  },
+  "role": "抒情主人公（欢呼春天到来的歌者）",
+  "genre": "浪漫曲",
+  "tempoBpm": 80
+ },
+ {
+  "id": "vaga-luna",
+  "title": "Vaga luna, che inargenti",
+  "titleZh": "美丽的月亮，你银光洒满",
+  "composer": "V. Bellini",
+  "opera": "三首咏叹调（Tre Ariette, c.1838）",
+  "language": "意大利语",
+  "voice": "女高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "C",
+  "sourceStatus": "手工编码 MusicXML（依据 Ricordi 公有领域版本）",
+  "range": {
+   "low": "G4",
+   "high": "Ab5"
+  },
+  "role": "抒情主人公（向月亮倾诉的恋人）",
+  "genre": "艺术歌曲（Arietta）",
+  "tempoBpm": 63
+ },
+ {
+  "id": "caro-mio-ben-lib",
+  "title": "Caro mio ben",
+  "titleZh": "亲爱的，请相信我",
+  "composer": "T. Giordani",
+  "opera": "独立咏叹调（Arietta，约 1783；词作者不详）",
+  "language": "意大利语",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "C",
+  "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+  "range": {
+   "low": "E4",
+   "high": "D5"
+  },
+  "role": "抒情主体：恳求恋人相信自己忠贞的人",
+  "genre": "小咏叹调",
+  "tempoBpm": 60
+ },
+ {
+  "id": "amarilli",
+  "title": "Amarilli, mia bella",
+  "titleZh": "阿玛丽莉，我的美人",
+  "composer": "G. Caccini",
+  "opera": "Le nuove musiche（1602；独立牧歌风格咏叹调）",
+  "language": "意大利语",
+  "voice": "女中音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "C",
+  "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+  "range": {
+   "low": "G3",
+   "high": "Bb4"
+  },
+  "role": "抒情主体：向心上人阿玛丽莉表白的牧人",
+  "genre": "牧歌风格咏叹调",
+  "tempoBpm": 66
+ },
+ {
+  "id": "ombra-mai-fu-handel",
+  "title": "Ombra mai fu",
+  "titleZh": "树荫下",
+  "composer": "G. F. Handel",
+  "opera": "Serse HWV 40（1738；第一幕，薛西斯王独白）",
+  "language": "意大利语",
+  "voice": "女中音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "C",
+  "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+  "range": {
+   "low": "E4",
+   "high": "D5"
+  },
+  "role": "薛西斯王（Serse）：波斯国王，对一棵梧桐树赞叹",
+  "genre": "咏叹调",
+  "tempoBpm": 60
+ },
+ {
+  "id": "che-faro-senza-euridice",
+  "title": "Che faro senza Euridice",
+  "titleZh": "没有尤里狄切我该怎么办",
+  "composer": "C. W. Gluck",
+  "opera": "Orfeo ed Euridice（1762；第三幕，奥菲欧的哀歌）",
+  "language": "意大利语",
+  "voice": "女中音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "C",
+  "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+  "range": {
+   "low": "C4",
+   "high": "C5"
+  },
+  "role": "奥菲欧（Orfeo）：失去爱妻的歌手",
+  "genre": "咏叹调",
+  "tempoBpm": 69
+ },
+ {
+  "id": "sebben-crudele",
+  "title": "Sebben, crudele",
+  "titleZh": "即使你残忍",
+  "composer": "A. Caldara",
+  "opera": "La costanza in amor vince l'inganno（1710；独立版由 Parisotti 编辑）",
+  "language": "意大利语",
+  "voice": "女中音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "C",
+  "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+  "range": {
+   "low": "E4",
+   "high": "C5"
+  },
+  "role": "抒情主体：被冷落却依然忠贞的恋人",
+  "genre": "咏叹调",
+  "tempoBpm": 100
+ },
+ {
+  "id": "nina-tre-giorni",
+  "title": "Tre giorni son che Nina",
+  "titleZh": "尼娜已经在床上躺了三天",
+  "composer": "G. B. Pergolesi (attr.)",
+  "opera": "独立咏叹调（约 18 世纪；常归于 Pergolesi，实际作者存疑）",
+  "language": "意大利语",
+  "voice": "女中音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "C",
+  "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+  "range": {
+   "low": "A3",
+   "high": "Bb4"
+  },
+  "role": "抒情主体：守在尼娜床边的恋人或朋友",
+  "genre": "小咏叹调",
+  "tempoBpm": 66
+ },
+ {
+  "id": "o-cessate-di-piagarmi",
+  "title": "O cessate di piagarmi",
+  "titleZh": "不要再伤害我",
+  "composer": "A. Scarlatti",
+  "opera": "Il Pompeo（1683；第二幕）",
+  "language": "意大利语",
+  "voice": "男中音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "C",
+  "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+  "range": {
+   "low": "G#3",
+   "high": "A4"
+  },
+  "role": "抒情主体：被爱情折磨的人",
+  "genre": "咏叹调",
+  "tempoBpm": 72
+ },
+ {
+  "id": "pur-dicesti-bocca-bella",
+  "title": "Pur dicesti, o bocca bella",
+  "titleZh": "美丽的嘴唇，你曾说过",
+  "composer": "A. Lotti",
+  "opera": "独立咏叹调（约 1700；编入 Parisotti 教学集）",
+  "language": "意大利语",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "state": "published",
+  "sourceGrade": "C",
+  "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+  "range": {
+   "low": "E4",
+   "high": "C5"
+  },
+  "role": "抒情主体：回味恋人甜言蜜语的人",
+  "genre": "小咏叹调",
+  "tempoBpm": 80
+ },
+ {
+  "id": "vittoria-mio-core",
+  "title": "Vittoria, mio core!",
+  "titleZh": "胜利了，我的心！",
+  "composer": "G. Carissimi",
+  "opera": "独立声乐小品（17 世纪中叶；清唱剧作曲家的室内声乐作品）",
+  "language": "意大利语",
+  "voice": "男中音",
+  "difficulty": "中级",
+  "state": "published",
+  "sourceGrade": "C",
+  "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+  "range": {
+   "low": "D4",
+   "high": "B4"
+  },
+  "role": "抒情主体：从爱情束缚中解脱的胜利者",
+  "genre": "咏叹调",
+  "tempoBpm": 100
+ }
+]

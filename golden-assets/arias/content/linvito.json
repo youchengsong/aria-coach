@@ -1,0 +1,148 @@
+{
+ "title": "L’invito",
+ "titleZh": "邀请",
+ "composer": "G. Rossini",
+ "opera": "Soirées musicales, No. 5（1835；意大利语波莱罗风格独唱曲，词 Carlo Pepoli）",
+ "role": "埃洛伊莎（Eloisa）：向鲁杰罗发出邀请的女子",
+ "genre": "独唱歌曲（波莱罗）",
+ "language": "意大利语",
+ "voice": "女中音",
+ "difficulty": "高阶",
+ "tempoBpm": 88,
+ "complete": true,
+ "sourceGrade": "B",
+ "coverageNote": "完整声乐旋律（3/4 波莱罗，92 小节），192 个意大利语音节；OpenScore 据 Ricordi 版转写，已与 IMSLP 核对。来源文件声部名误标为 “Oboe”，音域（E4–G5）与歌词确认为声乐线。",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Rossini,_Gioachino/Soirées_musicales/5_L’invito",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Rossini,_Gioachino/Soirées_musicales/5_L’invito",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；192 个音节与 Ricordi 版逐一核对；声部名 Oboe 为转写者误标",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/30064748"
+  },
+  {
+   "name": "IMSLP · Soirées musicales (Rossini, Gioacchino)",
+   "url": "https://imslp.org/wiki/Soir%C3%A9es_musicales_(Rossini,_Gioacchino)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "LiederNet · L’invito (Pepoli)",
+   "url": "https://www.lieder.net/lieder/get_text.html?TextId=12513",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "fixes": {
+  "to": "te",
+  "da to": "da te",
+  "64:te": "to",
+  "66:te": "to",
+  "65:te": "to",
+  "67:te": "to"
+ },
+ "lyrics": [
+  {
+   "text": "Vieni, o Ruggiero, la tua Eloisa da te divisa non può restar;",
+   "zh": "来吧，鲁杰罗，你的埃洛伊莎不能与你分离；"
+  },
+  {
+   "text": "alle mie lacrime già rispondevi, vieni, ricevi il mio pregar.",
+   "zh": "你已回应过我的泪水，来吧，接受我的恳求。"
+  },
+  {
+   "text": "Vieni, o bell’angelo, vien, mio diletto, su del mio petto vieni a posar!",
+   "zh": "来吧，美丽的天使，来吧，我的爱人，来靠在我胸口！"
+  },
+  {
+   "text": "Senti se palpita, se amor t’invita, vieni, mia vita, fammi spirar.",
+   "zh": "感受它是否在跳动，是否爱在邀请你——来吧，我的生命，让我为你消魂。"
+  },
+  {
+   "text": "Vieni, bell’angelo, vien, mio diletto, su del mio petto vieni a posar!",
+   "zh": "来吧，美丽的天使，来吧，我的爱人，来靠在我胸口！"
+  },
+  {
+   "text": "Senti se palpita, se amor t’invita, vieni, mia vita, fammi spirar, vieni, vieni, fammi spirar.",
+   "zh": "感受它是否在跳动，是否爱在邀请你——来吧，我的生命，让我为你消魂，来吧，来吧。"
+  }
+ ],
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "VIÈni、RugGIÈro（gg）、EloÌsa、diVÌsa、LÀcrime（重音在第一音节）、PÀLpita（第一音节）、FÀMmi（mm）。",
+    "“bell’angelo” 的 ll 双辅音；“petto” tt。"
+   ]
+  },
+  {
+   "title": "连读与省略",
+   "items": [
+    "“tua‿Eloisa”“ricevi‿il”“vieni‿a posar”“se‿amor” 在同一音上连读（原谱以连音符标出）。",
+    "“bell’angelo”“t’invita” 省音。"
+   ]
+  },
+  {
+   "title": "花腔与装饰",
+   "items": [
+    "“no no no non può restar” 的反复音节要用弹性的断音。",
+    "“fammi spirar” 的装饰性经过句先按骨架音练，再加花。"
+   ]
+  }
+ ],
+ "story": {
+  "background": "《音乐晚会》是罗西尼 1835 年在巴黎出版的 12 首独唱与二重唱集，词作者卡洛·佩波利（他也是《清教徒》的剧作家）。第 5 首《邀请》是一支波莱罗（bolero），三拍西班牙舞曲节奏配合意大利花腔，是女中音/女高音音乐会常见的炫技小品。",
+  "situation": "埃洛伊莎向情人鲁杰罗发出邀请：来吧，靠在我胸口，感受我的心跳。她热烈、主动、毫不掩饰，用舞曲的节奏和装饰音表达渴望。她想要的是他立刻到来，害怕的是分离继续。",
+  "relationships": "埃洛伊莎（歌者）与鲁杰罗（被邀请者，不在场）。歌词借用中世纪爱情故事阿伯拉尔与埃洛伊莎的名字，但内容是纯粹的沙龙情歌。",
+  "intent": "开口要有波莱罗的弹性和自信，“Vieni, o Ruggiero” 像命令又像撒娇；“no no no non può restar” 的反复要俏皮。“Vieni, o bell’angelo” 段更抒情、更甜；“Senti se palpita” 加快心跳般的节奏；结尾的花腔 “fammi spirar” 要炫而轻，收得干脆。",
+  "plain30": "一个热情的女子对情人唱：来吧，靠在我胸口，感受我的心跳，让我为你消魂。三拍子的西班牙舞曲，配上意大利花腔。",
+  "arc": "3/4 波莱罗，附点节奏贯穿。主题 “Vieni, o Ruggiero” 以级进下行加装饰开始，反复的 “no no no” 用同音断奏；中段 “Vieni, o bell’angelo” 转为更宽的抒情线；“Senti se palpita” 节奏加密像心跳；“fammi spirar” 以上行花腔到最高音收束。结构为主题—抒情段—心跳段—再现—尾声花腔。情绪：邀请—甜蜜—急切—炫耀。",
+  "motif": "核心动机是波莱罗附点节奏上的下行级进：“Vie-ni, o Rug-gie-ro” 长短相间地下行。它在每段开头出现，“Senti se palpita” 把它压缩为快速的同音重复（心跳），尾声花腔把它拉伸为上行经过句。演唱时附点要尖锐，短音节不能拖。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Vieni, o Ruggiero” 波莱罗附点下行动机首次出现。"
+   },
+   {
+    "phrase": 3,
+    "note": "第 3 句 “Vieni, o bell’angelo” 动机拉宽为抒情线。"
+   },
+   {
+    "phrase": 4,
+    "note": "第 4 句 “Senti se palpita” 动机压缩为心跳般的同音反复。"
+   },
+   {
+    "phrase": 6,
+    "note": "尾句 “fammi spirar” 动机拉伸为上行花腔。"
+   }
+  ],
+  "technique": "呼吸：舞曲节奏快，句间短换气，花腔前吸足。咬字：附点节奏上的短音节要清楚（lacrime、palpita 的重音在第一音节）；双辅音保持。换声区：女中音在 D5–E5（“bell’angelo”“spirar”）经过换声区，保持轻盈。高音与花腔：最高音 G5 在尾声花腔，先慢练骨架音，再加速；花腔用轻机能、靠横膈膜的弹性，不要每个音都用力。",
+  "classroom": [
+   "先读中文，理解这是主动、热烈的邀请。",
+   "慢速读原文，标出重音在第一音节的词（lacrime、palpita）。",
+   "分离元音和辅音：练双辅音与 “no no no” 的断奏。",
+   "按 3/4 波莱罗说词，附点要尖锐。",
+   "听单音旋律，先听骨架音，忽略花腔。",
+   "把歌词放回旋律，先练主题段，再练花腔。",
+   "用正常速度完整演唱，保持舞曲弹性。"
+  ]
+ },
+ "phraseFixes": {
+  "dilette": "diletto",
+  "pette": "petto",
+  "nono": "no no",
+  "risponde vi": "rispondevi",
+  "rice vi": "ricevi",
+  "mio o pregar": "mio pregar"
+ }
+}

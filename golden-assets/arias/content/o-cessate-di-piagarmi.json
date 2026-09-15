@@ -1,0 +1,108 @@
+{
+  "title": "O cessate di piagarmi",
+  "titleZh": "不要再伤害我",
+  "composer": "A. Scarlatti",
+  "opera": "Il Pompeo（1683；第二幕）",
+  "role": "抒情主体：被爱情折磨的人",
+  "genre": "咏叹调",
+  "language": "意大利语",
+  "script": "latin",
+  "voice": "男中音",
+  "difficulty": "基础",
+  "tempoBpm": 72,
+  "complete": true,
+  "sourceGrade": "C",
+  "coverageNote": "完整声乐旋律（a 小调，3/4 Andante con moto），依据 Parisotti 版编码。",
+  "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+  "sources": [
+    {
+      "name": "手工编码 MusicXML",
+      "url": "https://imslp.org/wiki/Il_Pompeo_(Scarlatti,_Alessandro)",
+      "format": "MusicXML",
+      "role": "声乐旋律线",
+      "status": "依据标准声乐教学版本编码",
+      "grade": "C",
+      "accessed": "2026-09-15"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "O cessate di piagarmi,",
+      "zh": "不要再伤害我了，"
+    },
+    {
+      "text": "o lasciatemi morir!",
+      "zh": "否则就让我死吧！"
+    },
+    {
+      "text": "Luci ingrate, dispietate,",
+      "zh": "忘恩负义的、无情的眼睛，"
+    },
+    {
+      "text": "piu del gelo e piu dei marmi",
+      "zh": "比冰更冷、比大理石更硬，"
+    },
+    {
+      "text": "fredde e sorde ai miei martir.",
+      "zh": "对我的苦难又冷又聋。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "双辅音",
+      "items": [
+        "cessate 双 s [ss]",
+        "piagarmi：g 发 [g]，不是 [dʒ]",
+        "lasciatemi：sc 发 [ʃ]",
+        "dispietate 双音节分界 dis-pie-TA-te"
+      ]
+    },
+    {
+      "title": "3/4 拍",
+      "items": [
+        "注意 3/4 拍的舞曲感——这是一首带有小步舞曲节奏的悲歌",
+        "第一拍略强，但不要机械"
+      ]
+    },
+    {
+      "title": "元音",
+      "items": [
+        "morir 的 i 是长元音，保持到底",
+        "gelo 的 e 是开口 [ɛ]"
+      ]
+    }
+  ],
+  "story": {
+    "background": "亚历山德罗·斯卡拉蒂是那不勒斯歌剧学派的创始人。这首咏叹调出自歌剧《庞培》（1683），经 Parisotti 编入教学集。它用 a 小调和 3/4 拍的小步舞曲节奏表达痛苦——这种优雅形式与激烈内容的对比是巴洛克声乐的典型手法。",
+    "situation": "歌者对恋人（或恋人的眼睛）说：停止伤害我——否则就让我死。你的眼睛无情、冰冷，对我的痛苦视而不见。这是一种夸张的绝望，但在巴洛克美学中完全认真。",
+    "relationships": "歌者被不回应的爱折磨。恋人的'眼睛'（luci）是诗歌中恋人的替身——用眼睛代替整个人是巴洛克诗歌的常见手法。",
+    "intent": "开头直接而激烈——'O cessate'是一个命令。'o lasciatemi morir'更加绝望。'Luci ingrate'转入描述——从命令到控诉。'fredde e sorde'是最冷的一句——要唱得几乎没有表情，像在模仿那双冷漠的眼睛。",
+    "plain30": "别再伤害我了，要么就让我死。你的眼睛冰冷无情，对我的痛苦视而不见。这是巴洛克风格的爱情绝望——用优雅的舞曲节奏包裹激烈的情感。",
+    "arc": "a 小调，3/4 Andante con moto。旋律以三度上行开始，在小步舞曲的节奏中展开。中段'Luci ingrate'转向 C 大调但很快回到小调。结尾在 a 小调主音上以强拍结束——没有解决，只有坚定的绝望。",
+    "motif": "核心动机是'O cessate'的三度跳进——命令的语气。'lasciatemi morir'的下行级进是死亡的意象。这两个动机交替出现：命令—绝望—命令—绝望。",
+    "motifPositions": [
+      {
+        "phrase": 1,
+        "note": "'O cessate di piagarmi'——命令动机，跳进"
+      },
+      {
+        "phrase": 2,
+        "note": "'lasciatemi morir'——死亡意象，下行"
+      },
+      {
+        "phrase": 3,
+        "note": "'Luci ingrate, dispietate'——控诉，描述性旋律"
+      }
+    ],
+    "technique": "3/4 拍要有流动感但不能轻浮——这是悲痛而非舞蹈。注意巴洛克风格的即兴装饰——在重复段可以加少量装饰音。'morir'的结尾长音需要稳定的气息。",
+    "classroom": [
+      "先读中文——这是一个被无视的人的爆发：停止伤害我，否则让我死。",
+      "慢速朗读意大利语，注意 3/4 的节奏感。",
+      "练习'cessate'的双 s 和'piagarmi'的硬 g。",
+      "按 3/4 节拍说词，感受小步舞曲的优雅与歌词痛苦之间的张力。",
+      "听旋律参考。",
+      "放入歌词——先练命令段，再练描述段。",
+      "完整演唱。这首歌的关键是：用优雅的形式表达激烈的情感，不要变成喊叫。"
+    ]
+  }
+}

@@ -1,0 +1,574 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "caro-mio-ben-lib",
+ "title": "Caro mio ben",
+ "titleZh": "亲爱的，请相信我",
+ "composer": "T. Giordani",
+ "opera": "独立咏叹调（Arietta，约 1783；词作者不详）",
+ "language": "意大利语",
+ "voice": "男高音",
+ "difficulty": "基础",
+ "tempoBpm": 60,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   16
+  ],
+  "firstSungMeasure": 4,
+  "complete": true,
+  "note": "完整声乐旋律（F 大调，4/4 Larghetto），依据 Parisotti 版标准声乐教学谱手工编码。"
+ },
+ "range": {
+  "low": "E4",
+  "high": "D5"
+ },
+ "state": "published",
+ "sourceGrade": "C",
+ "role": "抒情主体：恳求恋人相信自己忠贞的人",
+ "genre": "小咏叹调",
+ "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+ "sources": [
+  {
+   "name": "手工编码 MusicXML",
+   "url": "https://imslp.org/wiki/Caro_mio_ben_(Giordani,_Giuseppe)",
+   "format": "MusicXML",
+   "role": "声乐旋律线",
+   "status": "依据 Parisotti 编辑的标准声乐教学版本编码",
+   "grade": "C",
+   "accessed": "2026-09-15"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Caro mio ben, credimi almen,",
+   "zh": "亲爱的，至少请相信我，"
+  },
+  {
+   "text": "senza di te languisce il cor.",
+   "zh": "没有你，我的心在枯萎。"
+  },
+  {
+   "text": "Il tuo fedel sospira ognor.",
+   "zh": "你的忠实爱人时刻叹息。"
+  },
+  {
+   "text": "Cessa, crudel, tanto rigor!",
+   "zh": "够了，残忍的人，别再这样冷酷！"
+  },
+  {
+   "text": "Caro mio ben, credimi almen,",
+   "zh": "亲爱的，至少请相信我，"
+  },
+  {
+   "text": "senza di te languisce il cor.",
+   "zh": "没有你，我的心在枯萎。"
+  }
+ ],
+ "story": {
+  "background": "这首小咏叹调长期归于托马索·焦尔达尼（Tommaso Giordani）名下，后来有学者认为作者可能是朱塞佩·焦尔达尼（Giuseppe Giordani）。无论如何，它经 Parisotti 编入《17 和 18 世纪意大利歌曲与咏叹调集》后，成为全世界声乐学生的入门必修曲目。旋律优美、音域适中、歌词简短，是意大利美声入门的理想选择。",
+  "situation": "歌者对恋人倾诉：你不在我身边，我的心在枯萎，我时刻为你叹息。请停止你的冷酷，至少相信我的真心。这不是愤怒的控诉，而是温柔的恳求。",
+  "relationships": "歌者与恋人之间有距离或隔阂——恋人似乎不信任歌者的感情。歌者用最简洁的方式反复表达：我是忠诚的，没有你我活不下去。",
+  "intent": "全曲保持温柔而恳切的语气。开头的长线条要柔和连贯，像在轻声说话。中段'Il tuo fedel sospira ognor'稍有推进。'Cessa, crudel'是情感最强的一句——不是喊叫，而是更深的恳求。结尾回到开头，音量逐渐减弱。",
+  "plain30": "一个人对恋人说：请相信我，没有你我的心在枯萎。你的忠实爱人时刻叹息。别再这样冷酷了。这是声乐学生的第一首意大利歌——温柔、简单、真诚。",
+  "arc": "F 大调，4/4 Larghetto。钢琴以简单的分解和弦开始，声乐在第 5 小节轻轻进入。旋律以级进为主，音域不超过一个八度半。中段有一次短暂的转调暗示，'Cessa, crudel'处旋律上行到最高点，然后回归主调结束。整体情绪：恳求—叹息—恳求。",
+  "motif": "核心动机是开头的下行级进'Ca-ro mio ben'——从主音下行到属音的叹息。这个形态在每次'Caro mio ben'回归时重现。中段'sospira ognor'的旋律也以同样的下行级进结束，呼应主题。'Cessa, crudel'处旋律上行打破了级进模式，形成全曲唯一的情感高潮。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "开头'Caro mio ben'下行级进——全曲的叹息动机"
+   },
+   {
+    "phrase": 3,
+    "note": "'Il tuo fedel sospira ognor'——叹息动机的回应"
+   },
+   {
+    "phrase": 4,
+    "note": "'Cessa, crudel, tanto rigor'——上行打破级进，情感高潮"
+   }
+  ],
+  "technique": "这是一首训练连音（legato）的基础曲目。每个乐句都要求饱满、均匀的气息支撑。不要在'ben''cor''ognor'等词尾切断——让元音自然延续到下一个音。'languisce'的 sc [ʃ] 发音要柔和。整首歌的音量不超过 mf，结尾回到 pp。",
+  "classroom": [
+   "先读中文，理解这是一首简单的爱情恳求——温柔而非激烈。",
+   "慢速朗读意大利语，标出重音：CAro, creDImi, lanGUIsce, soSPIra, cruDEL。",
+   "练习元音：a-o-i-e 四个元音要清晰饱满，不要含糊。",
+   "按节拍说词，用节拍器在 ♩=60 下朗读，感受 Larghetto 的从容。",
+   "听合成旋律参考，注意下行级进的连贯线条。",
+   "把歌词放回旋律，用一半速度唱。重点：每个音之间不要断开。",
+   "以正常速度完整演唱。想象自己在对一个不相信你的人轻声说话。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "双辅音与重音",
+   "items": [
+    "credimi 重音在第一音节 CRE-di-mi",
+    "languisce 重音在第二音节 lan-GUÌ-sce，sc 发 [ʃ]",
+    "sospira 重音在第二音节 so-SPÌ-ra"
+   ]
+  },
+  {
+   "title": "元音",
+   "items": [
+    "ben 的 e 是闭口 [e]，cor 的 o 是开口 [ɔ]",
+    "crudel 的 e 是开口 [ɛ]",
+    "rigor 的 o 是闭口 [o]"
+   ]
+  },
+  {
+   "title": "连读",
+   "items": [
+    "senza di te：三个词连成一个语流单元",
+    "credimi almen：i-a 连读但元音分明"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    4,
+    5
+   ],
+   "lyrics": "Caro mio ben,",
+   "translation": "亲爱的，至少请相信我，",
+   "events": [
+    {
+     "id": "caro-mio-ben-lib-e0004",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caro-mio-ben-lib-e0005",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "Ca",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0006",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "ro",
+     "syllabic": "end"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0007",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "mio",
+     "syllabic": "single"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0008",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 4.0,
+     "lyric": "ben,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    6,
+    8
+   ],
+   "lyrics": "credimi al men,",
+   "translation": "亲爱的，至少请相信我，",
+   "events": [
+    {
+     "id": "caro-mio-ben-lib-e0009",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "cre",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0010",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 3.0,
+     "lyric": "di",
+     "syllabic": "middle"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0011",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 4.0,
+     "lyric": "mi al",
+     "syllabic": "end"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0012",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "men,",
+     "syllabic": "single"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0013",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caro-mio-ben-lib-e0014",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    8,
+    11
+   ],
+   "lyrics": "senza di te languisce il cor.",
+   "translation": "没有你，我的心在枯萎。",
+   "events": [
+    {
+     "id": "caro-mio-ben-lib-e0015",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "sen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0016",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 4.0,
+     "lyric": "za di",
+     "syllabic": "end"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0017",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "te",
+     "syllabic": "single"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0018",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "lan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0019",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "gui",
+     "syllabic": "middle"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0020",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 4.0,
+     "lyric": "sce il",
+     "syllabic": "end"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0021",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "cor.",
+     "syllabic": "single"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0022",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caro-mio-ben-lib-e0023",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    11,
+    13
+   ],
+   "lyrics": "Il tuo fedel sospira ognor.",
+   "translation": "你的忠实爱人时刻叹息。",
+   "events": [
+    {
+     "id": "caro-mio-ben-lib-e0024",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "Il",
+     "syllabic": "single"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0025",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 4.0,
+     "lyric": "tuo",
+     "syllabic": "single"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0026",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "fe",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0027",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "del",
+     "syllabic": "end"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0028",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0029",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 4.0,
+     "lyric": "spi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0030",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "ra ognor.",
+     "syllabic": "end"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0031",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    14,
+    16
+   ],
+   "lyrics": "Cessa, crudel, tanto rigor!",
+   "translation": "够了，残忍的人，别再这样冷酷！",
+   "events": [
+    {
+     "id": "caro-mio-ben-lib-e0032",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "Ces",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0033",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "sa,",
+     "syllabic": "end"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0034",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "cru",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0035",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 4.0,
+     "lyric": "del,",
+     "syllabic": "end"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0036",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "tan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0037",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "to",
+     "syllabic": "end"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0038",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0039",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 4.0,
+     "lyric": "gor!",
+     "syllabic": "end"
+    },
+    {
+     "id": "caro-mio-ben-lib-e0040",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caro-mio-ben-lib-e0041",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 38,
+ "restCount": 7,
+ "lyricNoteCount": 30,
+ "pages": 1,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 5,
+  "slowScale": 1.45
+ }
+}

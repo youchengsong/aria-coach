@@ -1,0 +1,126 @@
+{
+  "title": "Du bist die Ruh",
+  "titleZh": "你是安宁",
+  "composer": "F. Schubert",
+  "opera": "D. 776（独立艺术歌曲，约 1823；诗：F. Rückert）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "女高音",
+  "difficulty": "中级",
+  "genre": "艺术歌曲",
+  "tempoBpm": 50,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（降 E 大调，3/8 Langsam，约 96 小节）。五段式变化分节歌。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Du bist die Ruh, der Friede mild,",
+      "zh": "你是安宁，温柔的平和，"
+    },
+    {
+      "text": "die Sehnsucht du, und was sie stillt.",
+      "zh": "你是渴望，也是满足渴望之物。"
+    },
+    {
+      "text": "Ich weihe dir voll Lust und Schmerz",
+      "zh": "我把我的目光和心灵"
+    },
+    {
+      "text": "zur Wohnung hier mein Aug' und Herz.",
+      "zh": "满怀欢乐与痛苦地献给你，作为你的居所。"
+    },
+    {
+      "text": "Kehr' ein bei mir und schließe du",
+      "zh": "请走进我心中，轻轻地"
+    },
+    {
+      "text": "still hinter dir die Pforten zu.",
+      "zh": "把身后的门关上。"
+    },
+    {
+      "text": "Treib andern Schmerz aus dieser Brust!",
+      "zh": "把其他的痛苦从我胸中驱走！"
+    },
+    {
+      "text": "Voll sei dies Herz von deiner Lust.",
+      "zh": "让我的心充满你的欢乐。"
+    },
+    {
+      "text": "Dies Augenzelt, von deinem Glanz",
+      "zh": "我这双眼的帐幕，"
+    },
+    {
+      "text": "allein erhellt, o füll' es ganz!",
+      "zh": "唯有你的光辉照亮——请把它完全充满！"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "Ruh 的 u 是长圆唇 [uː]——这是全曲最重要的元音，贯穿始终",
+        "Sehnsucht 的 eh 是长 [eː]，u 是短 [ʊ]",
+        "Pforten 的 o 是短 [ɔ]，Wohnung 的 o 是长 [oː]",
+        "füll' 的 ü 是短圆唇 [ʏ]，Glanz 的 a 是开口 [a]"
+      ]
+    },
+    {
+      "title": "气息与连贯",
+      "items": [
+        "3/8 拍的慢速要求极长的气息线——每个乐句要一口气唱完",
+        "这首歌几乎全部在 piano 到 mezzo-piano 之间，控制音量是关键",
+        "最后的 'o füll es ganz' 是唯一的 forte 时刻——要蓄力到那里才释放"
+      ]
+    }
+  ],
+  "story": {
+    "background": "《你是安宁》是舒伯特最美的抒情歌曲之一，歌词来自吕克特的同名诗。这首歌几乎出现在每一位女高音和男高音的独唱会曲目中。吕克特的诗将爱人等同于内心的平和——不是激情，而是一种安宁的归属感。舒伯特以极简的钢琴伴奏和宽广的声乐线条完美呈现了这种宁静。",
+    "situation": "没有戏剧情境。歌者向爱人说话——你是我的安宁、我的渴望、我的满足。我把我的心和眼睛献给你作为居所。请走进来，关上门，把痛苦留在外面。让你的光辉充满我的全部。",
+    "relationships": "歌者与爱人之间的关系不是热烈的激情，而是深沉的依赖和感恩。爱人在这里被神圣化——像一座圣殿的光。",
+    "intent": "从头到尾保持极度的宁静和温柔。开头的'Du bist die Ruh'像祈祷一样轻声开始。中间段落'Kehr ein bei mir'稍有恳求感。最后的'o füll es ganz'是全曲唯一的爆发——但即使是爆发也是内在的、光明的，而非戏剧性的。",
+    "plain30": "你是安宁，你是我所渴望的一切。请住进我心里，关上门，把痛苦留在外面。让你的光充满我。这是一首关于在爱中找到完全的平和的歌。",
+    "arc": "降 E 大调，3/8，缓慢。前四段使用相似的旋律，声乐在中音区平稳流动，钢琴以简单的分解和弦支撑。第五段'Dies Augenzelt'旋律突然攀升到高音域——'von deinem Glanz allein erhellt'在 Ab5 或 Bb5 附近达到全曲高潮，然后以平静的主和弦结束。整首歌像一个缓慢的呼吸——吸气、吸气、吸气——最后一个'o füll es ganz'是全部释放。",
+    "motif": "安宁动机：开头'Du bist die Ruh'的五度下行——从属音落到主音，像一声叹息后的安定。这个动机在每段开头变形回来。光辉动机：最后一段的高音攀升——'von deinem Glanz'——旋律冲到全曲最高点，代表光充满了整个空间。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "'Du bist die Ruh' 五度下行安宁动机，建立极度宁静的氛围"
+      },
+      {
+        "phrase": "5",
+        "note": "'Kehr ein bei mir' 恳求感出现——'请走进来'"
+      },
+      {
+        "phrase": "9",
+        "note": "'Dies Augenzelt, von deinem Glanz' 旋律攀升至高潮——光辉动机"
+      },
+      {
+        "phrase": "10",
+        "note": "'o füll es ganz' 释放——全曲唯一的 forte，然后回到宁静"
+      }
+    ],
+    "technique": "极长的气息线是最大的技术挑战。3/8 拍速度很慢，每个乐句需要非常经济的气息分配。音量几乎全程控制在 piano——这比唱 forte 更难。最后一段的高音需要良好的头声技巧——不能'冲'上去，要像光线一样自然升起。Ruh/zu/du 的 u 元音要始终保持统一的共鸣位置。",
+    "classroom": [
+      "先读中文——这是一首祈祷般的情歌：'你是安宁，请住进我心里。'",
+      "朗读德语——像在对最亲近的人轻声说话。注意 Ruh、du、zu 的 u 元音。",
+      "用'嗯'哼唱旋律，保持极长的线条和极轻的音量。",
+      "只练前两段——它们旋律相似，是全曲的基础。",
+      "单独练最后一段的高音——从'Dies Augenzelt'到'o füll es ganz'。",
+      "完整演唱。难点不是音高，而是保持极度的宁静——好像全世界都安静了，只有你一个人在说话。",
+      "这首歌的核心技能：用最少的声音传达最深的感情。"
+    ]
+  },
+  "role": "抒情主人公（恋人）"
+}

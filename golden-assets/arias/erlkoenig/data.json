@@ -1,0 +1,4885 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "erlkoenig",
+ "title": "Erlkönig",
+ "titleZh": "魔王",
+ "composer": "F. Schubert",
+ "opera": "D. 328（独立艺术歌曲，1815；诗：J.W. von Goethe）",
+ "language": "德语",
+ "voice": "男中音",
+ "difficulty": "高阶",
+ "tempoBpm": 152,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   148
+  ],
+  "firstSungMeasure": 15,
+  "complete": true,
+  "note": "完整声乐旋律（g 小调，4/4 Schnell，148 小节）。钢琴部分的持续三连音音型模拟急速飞奔的马蹄。四个戏剧角色由同一位歌手用音色变化区分。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "C4",
+  "high": "G5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "叙述者 / 父亲 / 儿子 / 魔王（四个角色由一位歌手完成）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  },
+  {
+   "name": "IMSLP — Erlkönig, D.328 (Schubert)",
+   "url": "https://imslp.org/wiki/Erlk%C3%B6nig,_D.328_(Schubert,_Franz)",
+   "format": "PDF",
+   "role": "歌词与音高校验参考",
+   "status": "Breitkopf & Härtel 版（公有领域）",
+   "grade": "A",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Wer reitet so spät durch Nacht und Wind?",
+   "zh": "谁在深夜里冒着风雨骑马飞奔？"
+  },
+  {
+   "text": "Es ist der Vater mit seinem Kind;",
+   "zh": "是一位父亲抱着孩子；"
+  },
+  {
+   "text": "er hat den Knaben wohl in dem Arm,",
+   "zh": "他把男孩紧紧抱在怀里，"
+  },
+  {
+   "text": "er fasst ihn sicher, er hält ihn warm.",
+   "zh": "抱得很稳，让他暖和。"
+  },
+  {
+   "text": "\"Mein Sohn, was birgst du so bang dein Gesicht?\"",
+   "zh": "「我的儿子，你为何这样害怕地把脸藏起来？」"
+  },
+  {
+   "text": "\"Siehst, Vater, du den Erlkönig nicht?",
+   "zh": "「父亲，你看不见魔王吗？」"
+  },
+  {
+   "text": "Den Erlenkönig mit Kron' und Schweif?\"",
+   "zh": "「那戴着王冠、拖着长袍的魔王？」"
+  },
+  {
+   "text": "\"Mein Sohn, es ist ein Nebelstreif.\"",
+   "zh": "「我的儿子，那只是一片薄雾。」"
+  },
+  {
+   "text": "\"Du liebes Kind, komm, geh mit mir!",
+   "zh": "「可爱的孩子，来吧，跟我走！"
+  },
+  {
+   "text": "Gar schöne Spiele spiel' ich mit dir;",
+   "zh": "我会和你玩最美的游戏；"
+  },
+  {
+   "text": "manch' bunte Blumen sind an dem Strand,",
+   "zh": "河岸上有许多缤纷的花朵，"
+  },
+  {
+   "text": "meine Mutter hat manch gülden Gewand.\"",
+   "zh": "我的母亲有许多金色的衣裳。」"
+  },
+  {
+   "text": "\"Mein Vater, mein Vater, und hörest du nicht,",
+   "zh": "「父亲，父亲，你没有听到吗？"
+  },
+  {
+   "text": "was Erlenkönig mir leise verspricht?\"",
+   "zh": "魔王在悄悄向我许诺些什么？」"
+  },
+  {
+   "text": "\"Sei ruhig, bleibe ruhig, mein Kind;",
+   "zh": "「安静，安静吧，孩子；"
+  },
+  {
+   "text": "in dürren Blättern säuselt der Wind.\"",
+   "zh": "那是风在枯叶间沙沙作响。」"
+  },
+  {
+   "text": "\"Willst, feiner Knabe, du mit mir gehn?",
+   "zh": "「漂亮的孩子，你愿意跟我走吗？"
+  },
+  {
+   "text": "Meine Töchter sollen dich warten schön;",
+   "zh": "我的女儿们会好好照顾你；"
+  },
+  {
+   "text": "meine Töchter führen den nächtlichen Reihn",
+   "zh": "我的女儿们在月夜里跳着圆舞，"
+  },
+  {
+   "text": "und wiegen und tanzen und singen dich ein.\"",
+   "zh": "她们会摇着你、跳着舞，唱你入睡。」"
+  },
+  {
+   "text": "\"Mein Vater, mein Vater, und siehst du nicht dort",
+   "zh": "「父亲，父亲，你看不到那边吗？"
+  },
+  {
+   "text": "Erlkönigs Töchter am düstern Ort?\"",
+   "zh": "魔王的女儿们在那阴暗的地方？」"
+  },
+  {
+   "text": "\"Mein Sohn, mein Sohn, ich seh' es genau:",
+   "zh": "「儿子啊儿子，我看得很清楚："
+  },
+  {
+   "text": "es scheinen die alten Weiden so grau.\"",
+   "zh": "那是灰蒙蒙的老柳树在发光。」"
+  },
+  {
+   "text": "\"Ich liebe dich, mich reizt deine schöne Gestalt;",
+   "zh": "「我爱你，你美丽的身影令我着迷；"
+  },
+  {
+   "text": "und bist du nicht willig, so brauch' ich Gewalt.\"",
+   "zh": "如果你不愿意，我就用强的。」"
+  },
+  {
+   "text": "\"Mein Vater, mein Vater, jetzt fasst er mich an!",
+   "zh": "「父亲，父亲，他抓住我了！"
+  },
+  {
+   "text": "Erlkönig hat mir ein Leids getan!\"",
+   "zh": "魔王伤害了我！」"
+  },
+  {
+   "text": "Dem Vater grauset's, er reitet geschwind,",
+   "zh": "父亲吓坏了，他拼命驱马飞奔，"
+  },
+  {
+   "text": "er hält in Armen das ächzende Kind,",
+   "zh": "怀里抱着呻吟的孩子，"
+  },
+  {
+   "text": "erreicht den Hof mit Müh' und Not;",
+   "zh": "好不容易赶到了家门口——"
+  },
+  {
+   "text": "in seinen Armen das Kind war tot.",
+   "zh": "他怀里的孩子已经死了。"
+  }
+ ],
+ "story": {
+  "background": "《魔王》是舒伯特 18 岁时（1815 年）根据歌德的同名叙事诗创作的艺术歌曲，被认为是德语艺术歌曲史上最具戏剧性的作品之一。歌德的诗本身受到赫尔德翻译的丹麦民谣《Elveskud》启发。钢琴的不间断三连音模拟马蹄声，贯穿全曲直到最后两小节突然转为宣叙调——'孩子死了'。",
+  "situation": "一个漆黑的风雨之夜。父亲抱着生病的儿子在马背上飞奔回家。孩子在发烧中看到了魔王（Erlkönig），魔王三次诱惑孩子跟他走，每次都更加露骨。父亲三次试图用理性解释安慰孩子——薄雾、风声、柳树。第三次魔王说'如果你不愿意，我就用强的'，孩子尖叫'他抓住我了！'然后一切都太迟了。",
+  "relationships": "三组对话关系：父子之间（保护与恐惧），魔王与孩子之间（诱惑与抗拒），父亲与魔王之间（理性与超自然的对峙——但父亲看不见魔王）。叙述者站在一切之外，冷静地开始和结束故事。",
+  "intent": "这是一首'一人四角'的声乐杰作。开头叙述者的问句要平稳、客观；父亲的安慰要沉稳但暗含紧张；儿子每次'Mein Vater'的呼喊要一次比一次高、一次比一次绝望；魔王的诱惑要甜蜜到令人不安。最后两小节的宣叙调'in seinen Armen das Kind war tot'是全曲的重力中心——前面的疯狂奔驰突然停止，只剩下一句冰冷的事实。",
+  "plain30": "一个父亲在暴风雨之夜骑马飞奔，怀里的孩子说看到了魔王。魔王三次引诱孩子，父亲三次说那只是自然现象。最后魔王动了真格，等父亲赶到家时，孩子已经死了。全曲由一位歌手用四种音色完成四个角色。",
+  "arc": "g 小调，4/4，快板。钢琴的三连音从头到尾不间断（马蹄声）。叙述者的问句在 g 小调开始，四平八稳。魔王三次出场分别转到降 B 大调、C 大调、E 大调——每次更明亮、更诱惑。儿子的三次呼喊分别在 A、B、C 上——每次升高一个全音，代表恐惧的升级。最后两小节突然停止三连音，变成缓慢的宣叙调和弦——'孩子死了'——结束在 g 小调主和弦上。",
+  "motif": "魔王的诱惑动机：平稳、甜蜜的大调旋律，与全曲的紧张氛围形成强烈对比——越美越恐怖。儿子的恐惧动机：'Mein Vater, mein Vater' 的呼喊，每次在更高的音上开始，旋律上行后下坠。钢琴的三连音马蹄动机：贯穿全曲的心跳般的节奏底色，最后两小节突然消失=死亡。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "叙述者开头：'Wer reitet so spät' 稳定的 g 小调叙述，建立紧张的底色"
+   },
+   {
+    "phrase": "9",
+    "note": "魔王第一次：'Du liebes Kind' 突转降 B 大调，甜蜜的诱惑动机首次出现"
+   },
+   {
+    "phrase": "13",
+    "note": "儿子第二次呼喊：'Mein Vater' 在 B 音上，比第一次高一个全音"
+   },
+   {
+    "phrase": "25",
+    "note": "魔王第三次：'Ich liebe dich...Gewalt' 诱惑变成威胁，是全曲的转折点"
+   },
+   {
+    "phrase": "31",
+    "note": "最后两小节：三连音停止，宣叙调 'das Kind war tot'——死亡的沉默"
+   }
+  ],
+  "technique": "这是声乐技巧要求最高的艺术歌曲之一。速度极快（♩≈152），歌手需要在不同音区和音色之间瞬间切换，同时保持清晰的德语咬字。儿子的高音呼喊（最高到 A4–Bb4）需要强有力的气息支撑。魔王的段落要放松喉部，用假声般的轻柔音色。最后的宣叙调要完全改变节奏感——从疯狂到冰冷，只有两小节的时间。",
+  "classroom": [
+   "先读中文翻译，分清四个角色的对话结构：叙述者（黑体）、父亲（引号内低沉）、儿子（引号内尖叫）、魔王（引号内甜蜜）。",
+   "用不同的说话声音朗读德语原文——用四种音色分别说四个角色的台词。",
+   "分离辅音练习：Erlkönig 的 rl/kö、Gewalt 的 Gw、geschwind 的 schw。",
+   "先只练魔王的三段，用最轻柔的声音——这是反差的关键。",
+   "再练儿子的三次 'Mein Vater'——注意每次音高上升。",
+   "把歌词放回旋律，先用一半速度。钢琴三连音可以用节拍器替代。",
+   "正常速度完整演唱——这首歌的难度在于角色切换的速度和体力消耗，需要极好的气息管理。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "四角色音色区分",
+   "items": [
+    "叙述者：中性、沉稳的叙述音色，中音区",
+    "父亲：低沉、坚定但逐渐焦虑，低音区为主",
+    "儿子：明亮、紧张、越来越恐惧，高音区，每次呼喊音高递升",
+    "魔王：柔和、诱惑、甜蜜——反差感是关键，中高音区但轻声"
+   ]
+  },
+  {
+   "title": "德语辅音与咬字",
+   "items": [
+    "Erlkönig 的 r 要清晰弹舌，'kö' 是圆唇前元音 [øː]",
+    "Nacht、nicht 的 ch：Nacht 用 [x]（舌后），nicht 用 [ç]（舌前）",
+    "Gewalt、Gestalt 的 G 读浊 [g]，不要轻化",
+    "tot 结尾的 t 要干净利落地收音——全曲最后一个音节"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    15,
+    18
+   ],
+   "lyrics": "Wer reitet so spät durch Nacht und",
+   "translation": "谁在深夜里冒着风雨骑马飞奔？",
+   "events": [
+    {
+     "id": "erlkoenig-e0016",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0017",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 4.0,
+     "lyric": "Wer",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0018",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "rei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0019",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "tet",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0020",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 4.0,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0021",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "spät",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0022",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 4.0,
+     "lyric": "durch",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0023",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "Nacht",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0024",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "und",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    19,
+    21
+   ],
+   "lyrics": "Wind? Es ist der",
+   "translation": "是一位父亲抱着孩子；",
+   "events": [
+    {
+     "id": "erlkoenig-e0025",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "Wind?",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0026",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0027",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0028",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0029",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 4.0,
+     "lyric": "Es",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0030",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0031",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 4.0,
+     "lyric": "der",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    22,
+    24
+   ],
+   "lyrics": "Vater mit seinem Kind er",
+   "translation": "是一位父亲抱着孩子；",
+   "events": [
+    {
+     "id": "erlkoenig-e0032",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "Va",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0033",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 3.0,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0034",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 4.0,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0035",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "sei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0036",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 4.0,
+     "lyric": "nem",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0037",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "Kind",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0038",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0039",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 4.0,
+     "lyric": "er",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    25,
+    28
+   ],
+   "lyrics": "hat den Knaben wohl in dem",
+   "translation": "他把男孩紧紧抱在怀里，",
+   "events": [
+    {
+     "id": "erlkoenig-e0040",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "hat",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0041",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 4.0,
+     "lyric": "den",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0042",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "erlkoenig-e0043",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "Kna",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0044",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "ben",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0045",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "wohl",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0046",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0047",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 4.5,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0048",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    28,
+    30
+   ],
+   "lyrics": "Arm, er fasst ihn sicher,",
+   "translation": "抱得很稳，让他暖和。",
+   "events": [
+    {
+     "id": "erlkoenig-e0049",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "Arm,",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0050",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0051",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 4.0,
+     "lyric": "er",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0052",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "fasst",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0053",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 4.0,
+     "lyric": "ihn",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0054",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "erlkoenig-e0055",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "si",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0056",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 2.0,
+     "lyric": "cher,",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0057",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    30,
+    36
+   ],
+   "lyrics": "er hält ihn warm.",
+   "translation": "抱得很稳，让他暖和。",
+   "events": [
+    {
+     "id": "erlkoenig-e0058",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 4.0,
+     "lyric": "er",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0059",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "hält",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0060",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 31,
+     "beat": 3.0,
+     "lyric": "ihn",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0061",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "warm.",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0062",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 32,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0063",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0064",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0065",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0066",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0067",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    36,
+    41
+   ],
+   "lyrics": "Mein Sohn, was birgst du so bang dein Gesicht?",
+   "translation": "「我的儿子，你为何这样害怕地把脸藏起来？」",
+   "events": [
+    {
+     "id": "erlkoenig-e0068",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 4.0,
+     "lyric": "Mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0069",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "Sohn,",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0070",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0071",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 4.0,
+     "lyric": "was",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0072",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "birgst",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0073",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 38,
+     "beat": 3.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0074",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 4.5,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0075",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "bang",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0076",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 39,
+     "beat": 3.0,
+     "lyric": "dein",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0077",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 4.5,
+     "lyric": "Ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0078",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "sicht?",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0079",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 40,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0080",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0081",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    41,
+    42
+   ],
+   "lyrics": "Siehst, Vater,",
+   "translation": "「父亲，你看不见魔王吗？」",
+   "events": [
+    {
+     "id": "erlkoenig-e0082",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 4.0,
+     "lyric": "Siehst,",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0083",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "Va",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0084",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 4.0,
+     "lyric": "ter,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    43,
+    46
+   ],
+   "lyrics": "du den Erlkönig nicht?",
+   "translation": "「父亲，你看不见魔王吗？」",
+   "events": [
+    {
+     "id": "erlkoenig-e0085",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0086",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 4.0,
+     "lyric": "den",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0087",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "Erl",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0088",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 44,
+     "beat": 3.0,
+     "lyric": "kö",
+     "syllabic": "middle"
+    },
+    {
+     "id": "erlkoenig-e0089",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 44,
+     "beat": 4.0,
+     "lyric": "nig",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0090",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "nicht?",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0091",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 45,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0092",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0093",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 46,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    46,
+    49
+   ],
+   "lyrics": "den Erlenkönig mit Kron’ und",
+   "translation": "「那戴着王冠、拖着长袍的魔王？」",
+   "events": [
+    {
+     "id": "erlkoenig-e0094",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 46,
+     "beat": 4.0,
+     "lyric": "den",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0095",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "Er",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0096",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 47,
+     "beat": 4.0,
+     "lyric": "len",
+     "syllabic": "middle"
+    },
+    {
+     "id": "erlkoenig-e0097",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "kö",
+     "syllabic": "middle"
+    },
+    {
+     "id": "erlkoenig-e0098",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 2.0,
+     "lyric": "nig",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0099",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0100",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 4.0,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0101",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "Kron’",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0102",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 4.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0103",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    50,
+    52
+   ],
+   "lyrics": "Schweif? Mein Sohn,",
+   "translation": "「我的儿子，那只是一片薄雾。」",
+   "events": [
+    {
+     "id": "erlkoenig-e0104",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "Schweif?",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0105",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 50,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0106",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0107",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 51,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0108",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 51,
+     "beat": 4.0,
+     "lyric": "Mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0109",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "Sohn,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    52,
+    57
+   ],
+   "lyrics": "es ist ein Nebelstreif.",
+   "translation": "「我的儿子，那只是一片薄雾。」",
+   "events": [
+    {
+     "id": "erlkoenig-e0110",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 52,
+     "beat": 4.0,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0111",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0112",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 53,
+     "beat": 4.0,
+     "lyric": "ein",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0113",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 54,
+     "beat": 1.0,
+     "lyric": "Ne",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0114",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 2.5,
+     "lyric": "bel",
+     "syllabic": "middle"
+    },
+    {
+     "id": "erlkoenig-e0115",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 54,
+     "beat": 3.0,
+     "lyric": "streif.",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0116",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 54,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0117",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 55,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0118",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 56,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0119",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 57,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0120",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 57,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    57,
+    59
+   ],
+   "lyrics": "Du liebes Kind,",
+   "translation": "「可爱的孩子，来吧，跟我走！",
+   "events": [
+    {
+     "id": "erlkoenig-e0121",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 57,
+     "beat": 4.0,
+     "lyric": "Du",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0122",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 58,
+     "beat": 1.0,
+     "lyric": "lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0123",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 58,
+     "beat": 4.0,
+     "lyric": "bes",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0124",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 59,
+     "beat": 1.0,
+     "lyric": "Kind,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    59,
+    61
+   ],
+   "lyrics": "komm, geh mit mir!",
+   "translation": "「可爱的孩子，来吧，跟我走！",
+   "events": [
+    {
+     "id": "erlkoenig-e0125",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 59,
+     "beat": 4.0,
+     "lyric": "komm,",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0126",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 60,
+     "beat": 1.0,
+     "lyric": "geh",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0127",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 60,
+     "beat": 4.0,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0128",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 61,
+     "beat": 1.0,
+     "lyric": "mir!",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    61,
+    64
+   ],
+   "lyrics": "gar schöne Spiele spiel’ ich mit",
+   "translation": "我会和你玩最美的游戏；",
+   "events": [
+    {
+     "id": "erlkoenig-e0129",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 61,
+     "beat": 4.0,
+     "lyric": "gar",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0130",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 62,
+     "beat": 1.0,
+     "lyric": "schö",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0131",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 62,
+     "beat": 4.0,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0132",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 63,
+     "beat": 1.0,
+     "lyric": "Spie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0133",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 63,
+     "beat": 3.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0134",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 64,
+     "beat": 1.0,
+     "lyric": "spiel’",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0135",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 64,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0136",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 64,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0137",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 64,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0138",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 64,
+     "beat": 3.0,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0139",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 64,
+     "beat": 4.0,
+     "lyric": "mit",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    65,
+    67
+   ],
+   "lyrics": "dir manch bunte Blumen sind",
+   "translation": "河岸上有许多缤纷的花朵，",
+   "events": [
+    {
+     "id": "erlkoenig-e0140",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 65,
+     "beat": 1.0,
+     "lyric": "dir",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0141",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 65,
+     "beat": 4.0,
+     "lyric": "manch",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0142",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 66,
+     "beat": 1.0,
+     "lyric": "bun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0143",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 66,
+     "beat": 4.0,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0144",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 67,
+     "beat": 1.0,
+     "lyric": "Blu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0145",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 67,
+     "beat": 3.0,
+     "lyric": "men",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0146",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 4.0,
+     "lyric": "sind",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0147",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    68,
+    70
+   ],
+   "lyrics": "an dem Strand meine Mutter hat manch’",
+   "translation": "我的母亲有许多金色的衣裳。」",
+   "events": [
+    {
+     "id": "erlkoenig-e0148",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 68,
+     "beat": 1.0,
+     "lyric": "an",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0149",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 68,
+     "beat": 4.0,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0150",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 69,
+     "beat": 1.0,
+     "lyric": "Strand",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0151",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 69,
+     "beat": 4.0,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0152",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 69,
+     "beat": 4.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0153",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 70,
+     "beat": 1.0,
+     "lyric": "Mut",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0154",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 2.5,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0155",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 3.0,
+     "lyric": "hat",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0156",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0157",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 4.0,
+     "lyric": "manch’",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0158",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 70,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    71,
+    72
+   ],
+   "lyrics": "gülden Gewand.",
+   "translation": "我的母亲有许多金色的衣裳。」",
+   "events": [
+    {
+     "id": "erlkoenig-e0159",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 71,
+     "beat": 1.0,
+     "lyric": "gül",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0160",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0161",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 4.0,
+     "lyric": "den",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0162",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 4.5,
+     "lyric": "Ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0163",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 72,
+     "beat": 1.0,
+     "lyric": "wand.",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0164",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 72,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "measures": [
+    72,
+    74
+   ],
+   "lyrics": "Mein Vater, mein Vater,",
+   "translation": "「父亲，父亲，你没有听到吗？",
+   "events": [
+    {
+     "id": "erlkoenig-e0165",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 72,
+     "beat": 4.0,
+     "lyric": "Mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0166",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 73,
+     "beat": 1.0,
+     "lyric": "Va",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0167",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 73,
+     "beat": 3.0,
+     "lyric": "ter,",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0168",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 4.5,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0169",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 74,
+     "beat": 1.0,
+     "lyric": "Va",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0170",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 74,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0171",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 74,
+     "beat": 2.0,
+     "lyric": "ter,",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0172",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 74,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "measures": [
+    74,
+    76
+   ],
+   "lyrics": "und hörest du nicht,",
+   "translation": "「父亲，父亲，你没有听到吗？",
+   "events": [
+    {
+     "id": "erlkoenig-e0173",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 74,
+     "beat": 4.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0174",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 75,
+     "beat": 1.0,
+     "lyric": "hö",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0175",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 75,
+     "beat": 3.0,
+     "lyric": "rest",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0176",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 4.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0177",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 76,
+     "beat": 1.0,
+     "lyric": "nicht,",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0178",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 76,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "measures": [
+    76,
+    80
+   ],
+   "lyrics": "was Erlenkönig mir leise verspricht?",
+   "translation": "魔王在悄悄向我许诺些什么？」",
+   "events": [
+    {
+     "id": "erlkoenig-e0179",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 76,
+     "beat": 4.0,
+     "lyric": "was",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0180",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 77,
+     "beat": 1.0,
+     "lyric": "Er",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0181",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 77,
+     "beat": 2.0,
+     "lyric": "len",
+     "syllabic": "middle"
+    },
+    {
+     "id": "erlkoenig-e0182",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 77,
+     "beat": 3.0,
+     "lyric": "kö",
+     "syllabic": "middle"
+    },
+    {
+     "id": "erlkoenig-e0183",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 77,
+     "beat": 4.0,
+     "lyric": "nig",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0184",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 77,
+     "beat": 4.5,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0185",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 78,
+     "beat": 1.0,
+     "lyric": "lei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0186",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 78,
+     "beat": 3.0,
+     "lyric": "se",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0187",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 78,
+     "beat": 4.5,
+     "lyric": "ver",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0188",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 79,
+     "beat": 1.0,
+     "lyric": "spricht?",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0189",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 80,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0190",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 80,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 22,
+   "measures": [
+    80,
+    81
+   ],
+   "lyrics": "Sei ruhig,",
+   "translation": "「安静，安静吧，孩子；",
+   "events": [
+    {
+     "id": "erlkoenig-e0191",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 80,
+     "beat": 4.0,
+     "lyric": "Sei",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0192",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 81,
+     "beat": 1.0,
+     "lyric": "ru",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0193",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 81,
+     "beat": 2.0,
+     "lyric": "hig,",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0194",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 81,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 23,
+   "measures": [
+    81,
+    84
+   ],
+   "lyrics": "bleibe ruhig, mein Kind in dürren Blättern säuselt der",
+   "translation": "那是风在枯叶间沙沙作响。」",
+   "events": [
+    {
+     "id": "erlkoenig-e0195",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 81,
+     "beat": 4.0,
+     "lyric": "blei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0196",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 81,
+     "beat": 4.5,
+     "lyric": "be",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0197",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 82,
+     "beat": 1.0,
+     "lyric": "ru",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0198",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 82,
+     "beat": 2.0,
+     "lyric": "hig,",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0199",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 82,
+     "beat": 2.5,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0200",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 82,
+     "beat": 3.0,
+     "lyric": "Kind",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0201",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 83,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0202",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 83,
+     "beat": 2.0,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0203",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 83,
+     "beat": 3.0,
+     "lyric": "dür",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0204",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 83,
+     "beat": 4.0,
+     "lyric": "ren",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0205",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 84,
+     "beat": 1.0,
+     "lyric": "Blät",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0206",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 84,
+     "beat": 2.0,
+     "lyric": "tern",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0207",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 84,
+     "beat": 3.0,
+     "lyric": "säu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0208",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 84,
+     "beat": 4.0,
+     "lyric": "selt",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0209",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 84,
+     "beat": 4.5,
+     "lyric": "der",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 24,
+   "measures": [
+    85,
+    87
+   ],
+   "lyrics": "Wind. Willst, feiner Knabe,",
+   "translation": "「漂亮的孩子，你愿意跟我走吗？",
+   "events": [
+    {
+     "id": "erlkoenig-e0210",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 85,
+     "beat": 1.0,
+     "lyric": "Wind.",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0211",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 85,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0212",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 86,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0213",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 86,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0214",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 86,
+     "beat": 4.0,
+     "lyric": "Willst,",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0215",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 87,
+     "beat": 1.0,
+     "lyric": "fei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0216",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 87,
+     "beat": 2.0,
+     "lyric": "ner",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0217",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 87,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0218",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 87,
+     "beat": 3.0,
+     "lyric": "Kna",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0219",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 87,
+     "beat": 4.0,
+     "lyric": "be,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 25,
+   "measures": [
+    87,
+    88
+   ],
+   "lyrics": "du mit mir gehn?",
+   "translation": "「漂亮的孩子，你愿意跟我走吗？",
+   "events": [
+    {
+     "id": "erlkoenig-e0220",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 87,
+     "beat": 4.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0221",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 88,
+     "beat": 1.0,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0222",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 88,
+     "beat": 2.0,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0223",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 88,
+     "beat": 3.0,
+     "lyric": "gehn?",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 26,
+   "measures": [
+    88,
+    91
+   ],
+   "lyrics": "meine Töchter sollen dich warten schön meine Töchter führen den",
+   "translation": "我的女儿们会好好照顾你；",
+   "events": [
+    {
+     "id": "erlkoenig-e0224",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 88,
+     "beat": 4.0,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0225",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 88,
+     "beat": 4.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0226",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 89,
+     "beat": 1.0,
+     "lyric": "Töch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0227",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 89,
+     "beat": 2.0,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0228",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 89,
+     "beat": 3.0,
+     "lyric": "sol",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0229",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 89,
+     "beat": 4.0,
+     "lyric": "len",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0230",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 89,
+     "beat": 4.5,
+     "lyric": "dich",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0231",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 90,
+     "beat": 1.0,
+     "lyric": "war",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0232",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 90,
+     "beat": 2.0,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0233",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 90,
+     "beat": 3.0,
+     "lyric": "schön",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0234",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 4.0,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0235",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 4.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0236",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 91,
+     "beat": 1.0,
+     "lyric": "Töch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0237",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 91,
+     "beat": 2.0,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0238",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 91,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0239",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 91,
+     "beat": 3.0,
+     "lyric": "füh",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0240",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 91,
+     "beat": 4.0,
+     "lyric": "ren",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0241",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 91,
+     "beat": 4.5,
+     "lyric": "den",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 27,
+   "measures": [
+    92,
+    94
+   ],
+   "lyrics": "nächtlichen Reihn, und wiegen und tanzen und singgen dich ein,",
+   "translation": "她们会摇着你、跳着舞，唱你入睡。」",
+   "events": [
+    {
+     "id": "erlkoenig-e0242",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 92,
+     "beat": 1.0,
+     "lyric": "nächt",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0243",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 2.0,
+     "lyric": "li",
+     "syllabic": "middle"
+    },
+    {
+     "id": "erlkoenig-e0244",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 2.5,
+     "lyric": "chen",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0245",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 92,
+     "beat": 3.0,
+     "lyric": "Reihn,",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0246",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0247",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 4.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0248",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 93,
+     "beat": 1.0,
+     "lyric": "wie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0249",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 93,
+     "beat": 2.0,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0250",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 93,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0251",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 93,
+     "beat": 3.0,
+     "lyric": "tan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0252",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 93,
+     "beat": 4.0,
+     "lyric": "zen",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0253",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 93,
+     "beat": 4.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0254",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 94,
+     "beat": 1.0,
+     "lyric": "sing",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0255",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 94,
+     "beat": 2.0,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0256",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 94,
+     "beat": 2.5,
+     "lyric": "dich",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0257",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 94,
+     "beat": 3.0,
+     "lyric": "ein,",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0258",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 94,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 28,
+   "measures": [
+    94,
+    97
+   ],
+   "lyrics": "sie wiegen und tanzen und singen dich ein.",
+   "translation": "她们会摇着你、跳着舞，唱你入睡。」",
+   "events": [
+    {
+     "id": "erlkoenig-e0259",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 94,
+     "beat": 4.5,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0260",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 95,
+     "beat": 1.0,
+     "lyric": "wie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0261",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 95,
+     "beat": 2.0,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0262",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 95,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0263",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 95,
+     "beat": 3.0,
+     "lyric": "tan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0264",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 95,
+     "beat": 4.0,
+     "lyric": "zen",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0265",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 95,
+     "beat": 4.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0266",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 1.0,
+     "lyric": "sin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0267",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0268",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 2.0,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0269",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 2.5,
+     "lyric": "dich",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0270",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 96,
+     "beat": 3.0,
+     "lyric": "ein.",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0271",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 96,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0272",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 97,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0273",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 97,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 29,
+   "measures": [
+    97,
+    99
+   ],
+   "lyrics": "Mein Vater, mein Vater,",
+   "translation": "「父亲，父亲，你看不到那边吗？",
+   "events": [
+    {
+     "id": "erlkoenig-e0274",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 97,
+     "beat": 4.0,
+     "lyric": "Mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0275",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 98,
+     "beat": 1.0,
+     "lyric": "Va",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0276",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 98,
+     "beat": 3.0,
+     "lyric": "ter,",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0277",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 98,
+     "beat": 4.5,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0278",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 99,
+     "beat": 1.0,
+     "lyric": "Va",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0279",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 99,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0280",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 99,
+     "beat": 2.0,
+     "lyric": "ter,",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0281",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 99,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 30,
+   "measures": [
+    99,
+    102
+   ],
+   "lyrics": "und siehst du nicht dort Erlkönigs Töchter am",
+   "translation": "「父亲，父亲，你看不到那边吗？",
+   "events": [
+    {
+     "id": "erlkoenig-e0282",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 99,
+     "beat": 4.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0283",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 100,
+     "beat": 1.0,
+     "lyric": "siehst",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0284",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 100,
+     "beat": 3.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0285",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 100,
+     "beat": 4.5,
+     "lyric": "nicht",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0286",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 101,
+     "beat": 1.0,
+     "lyric": "dort",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0287",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 101,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0288",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 101,
+     "beat": 4.0,
+     "lyric": "Erl",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0289",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 102,
+     "beat": 1.0,
+     "lyric": "kö",
+     "syllabic": "middle"
+    },
+    {
+     "id": "erlkoenig-e0290",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 102,
+     "beat": 2.0,
+     "lyric": "nigs",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0291",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 102,
+     "beat": 3.0,
+     "lyric": "Töch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0292",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 102,
+     "beat": 4.0,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0293",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 102,
+     "beat": 4.5,
+     "lyric": "am",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 31,
+   "measures": [
+    103,
+    105
+   ],
+   "lyrics": "düstern Ort?",
+   "translation": "魔王的女儿们在那阴暗的地方？」",
+   "events": [
+    {
+     "id": "erlkoenig-e0294",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 103,
+     "beat": 1.0,
+     "lyric": "düs",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0295",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 103,
+     "beat": 3.0,
+     "lyric": "tern",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0296",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 104,
+     "beat": 1.0,
+     "lyric": "Ort?",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0297",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 105,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0298",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 105,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 32,
+   "measures": [
+    105,
+    107
+   ],
+   "lyrics": "Mein Sohn, mein Sohn,",
+   "translation": "「儿子啊儿子，我看得很清楚：",
+   "events": [
+    {
+     "id": "erlkoenig-e0299",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 105,
+     "beat": 4.0,
+     "lyric": "Mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0300",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 106,
+     "beat": 1.0,
+     "lyric": "Sohn,",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0301",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 106,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0302",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 106,
+     "beat": 4.0,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0303",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 107,
+     "beat": 1.0,
+     "lyric": "Sohn,",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0304",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 107,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 33,
+   "measures": [
+    107,
+    110
+   ],
+   "lyrics": "ich seh’ es genau es scheinen die alten",
+   "translation": "那是灰蒙蒙的老柳树在发光。」",
+   "events": [
+    {
+     "id": "erlkoenig-e0305",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 107,
+     "beat": 4.0,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0306",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 108,
+     "beat": 1.0,
+     "lyric": "seh’",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0307",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 108,
+     "beat": 3.0,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0308",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 108,
+     "beat": 4.5,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0309",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 109,
+     "beat": 1.0,
+     "lyric": "nau",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0310",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 109,
+     "beat": 4.0,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0311",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 110,
+     "beat": 1.0,
+     "lyric": "schei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0312",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 110,
+     "beat": 2.0,
+     "lyric": "nen",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0313",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 110,
+     "beat": 2.5,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0314",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 110,
+     "beat": 3.0,
+     "lyric": "al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0315",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 110,
+     "beat": 4.0,
+     "lyric": "ten",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 34,
+   "measures": [
+    111,
+    116
+   ],
+   "lyrics": "Weiden so grau.",
+   "translation": "那是灰蒙蒙的老柳树在发光。」",
+   "events": [
+    {
+     "id": "erlkoenig-e0316",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 111,
+     "beat": 1.0,
+     "lyric": "Wei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0317",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 111,
+     "beat": 3.0,
+     "lyric": "den",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0318",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 111,
+     "beat": 4.0,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0319",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 112,
+     "beat": 1.0,
+     "lyric": "grau.",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0320",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 112,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0321",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 113,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0322",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 114,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0323",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 115,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0324",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 116,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0325",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 116,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 35,
+   "measures": [
+    116,
+    119
+   ],
+   "lyrics": "Ich liebe dich, mich reizt deine schöne Gestalt und",
+   "translation": "「我爱你，你美丽的身影令我着迷；",
+   "events": [
+    {
+     "id": "erlkoenig-e0326",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 116,
+     "beat": 4.0,
+     "lyric": "Ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0327",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 117,
+     "beat": 1.0,
+     "lyric": "lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0328",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 117,
+     "beat": 2.5,
+     "lyric": "be",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0329",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 117,
+     "beat": 3.0,
+     "lyric": "dich,",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0330",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 117,
+     "beat": 4.0,
+     "lyric": "mich",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0331",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 118,
+     "beat": 1.0,
+     "lyric": "reizt",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0332",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 118,
+     "beat": 2.0,
+     "lyric": "dei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0333",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 118,
+     "beat": 2.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0334",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 118,
+     "beat": 3.0,
+     "lyric": "schö",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0335",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 118,
+     "beat": 4.0,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0336",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 118,
+     "beat": 4.5,
+     "lyric": "Ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0337",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 119,
+     "beat": 1.0,
+     "lyric": "stalt",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0338",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 119,
+     "beat": 4.0,
+     "lyric": "und",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 36,
+   "measures": [
+    120,
+    123
+   ],
+   "lyrics": "bist du nicht willig, so brauch’ ich Gewalt.",
+   "translation": "如果你不愿意，我就用强的。」",
+   "events": [
+    {
+     "id": "erlkoenig-e0339",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 120,
+     "beat": 1.0,
+     "lyric": "bist",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0340",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 120,
+     "beat": 3.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0341",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 120,
+     "beat": 4.0,
+     "lyric": "nicht",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0342",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 121,
+     "beat": 1.0,
+     "lyric": "wil",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0343",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 121,
+     "beat": 3.0,
+     "lyric": "lig,",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0344",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 121,
+     "beat": 4.5,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0345",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 122,
+     "beat": 1.0,
+     "lyric": "brauch’",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0346",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 122,
+     "beat": 3.0,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0347",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 122,
+     "beat": 4.5,
+     "lyric": "Ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0348",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 123,
+     "beat": 1.0,
+     "lyric": "walt.",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0349",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 123,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 37,
+   "measures": [
+    123,
+    125
+   ],
+   "lyrics": "Mein Vater, mein Vater,",
+   "translation": "「父亲，父亲，他抓住我了！",
+   "events": [
+    {
+     "id": "erlkoenig-e0350",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 123,
+     "beat": 4.0,
+     "lyric": "Mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0351",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 124,
+     "beat": 1.0,
+     "lyric": "Va",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0352",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 124,
+     "beat": 3.0,
+     "lyric": "ter,",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0353",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 124,
+     "beat": 4.5,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0354",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 125,
+     "beat": 1.0,
+     "lyric": "Va",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0355",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 125,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0356",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 125,
+     "beat": 2.0,
+     "lyric": "ter,",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0357",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 125,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 38,
+   "measures": [
+    125,
+    127
+   ],
+   "lyrics": "jetzt fasst er mich an!",
+   "translation": "「父亲，父亲，他抓住我了！",
+   "events": [
+    {
+     "id": "erlkoenig-e0358",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 125,
+     "beat": 4.0,
+     "lyric": "jetzt",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0359",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 126,
+     "beat": 1.0,
+     "lyric": "fasst",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0360",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 126,
+     "beat": 3.0,
+     "lyric": "er",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0361",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 126,
+     "beat": 4.5,
+     "lyric": "mich",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0362",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 127,
+     "beat": 1.0,
+     "lyric": "an!",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0363",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 127,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 39,
+   "measures": [
+    128,
+    132
+   ],
+   "lyrics": "Erlkönig hat mir ein Leids getan!",
+   "translation": "魔王伤害了我！」",
+   "events": [
+    {
+     "id": "erlkoenig-e0364",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 128,
+     "beat": 1.0,
+     "lyric": "Erl",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0365",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 128,
+     "beat": 3.0,
+     "lyric": "kö",
+     "syllabic": "middle"
+    },
+    {
+     "id": "erlkoenig-e0366",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 128,
+     "beat": 4.5,
+     "lyric": "nig",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0367",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 129,
+     "beat": 1.0,
+     "lyric": "hat",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0368",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 129,
+     "beat": 3.0,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0369",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 129,
+     "beat": 4.5,
+     "lyric": "ein",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0370",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 130,
+     "beat": 1.0,
+     "lyric": "Leids",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0371",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 130,
+     "beat": 4.0,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0372",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 131,
+     "beat": 1.0,
+     "lyric": "tan!",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0373",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 131,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0374",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 132,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0375",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 132,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 40,
+   "measures": [
+    132,
+    134
+   ],
+   "lyrics": "Dem Vater grauset’s,",
+   "translation": "父亲吓坏了，他拼命驱马飞奔，",
+   "events": [
+    {
+     "id": "erlkoenig-e0376",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 132,
+     "beat": 4.0,
+     "lyric": "Dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0377",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 133,
+     "beat": 1.0,
+     "lyric": "Va",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0378",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 133,
+     "beat": 4.0,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0379",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 134,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "erlkoenig-e0380",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 134,
+     "beat": 1.0,
+     "lyric": "grau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0381",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 134,
+     "beat": 2.0,
+     "lyric": "set’s,",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0382",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 134,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 41,
+   "measures": [
+    134,
+    136
+   ],
+   "lyrics": "er reitet geschwind,",
+   "translation": "父亲吓坏了，他拼命驱马飞奔，",
+   "events": [
+    {
+     "id": "erlkoenig-e0383",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 134,
+     "beat": 4.0,
+     "lyric": "er",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0384",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 135,
+     "beat": 1.0,
+     "lyric": "rei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0385",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 135,
+     "beat": 3.0,
+     "lyric": "tet",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0386",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 135,
+     "beat": 4.5,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0387",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 136,
+     "beat": 1.0,
+     "lyric": "schwind,",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0388",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 136,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 42,
+   "measures": [
+    136,
+    139
+   ],
+   "lyrics": "er hält in Armen das ächzende",
+   "translation": "怀里抱着呻吟的孩子，",
+   "events": [
+    {
+     "id": "erlkoenig-e0389",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 136,
+     "beat": 4.0,
+     "lyric": "er",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0390",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 137,
+     "beat": 1.0,
+     "lyric": "hält",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0391",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 137,
+     "beat": 3.0,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0392",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 138,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "erlkoenig-e0393",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 138,
+     "beat": 1.0,
+     "lyric": "Ar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0394",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 138,
+     "beat": 2.0,
+     "lyric": "men",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0395",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 138,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0396",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 138,
+     "beat": 4.0,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0397",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 139,
+     "beat": 1.0,
+     "lyric": "äch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0398",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 139,
+     "beat": 3.0,
+     "lyric": "zen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "erlkoenig-e0399",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 139,
+     "beat": 4.5,
+     "lyric": "de",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 43,
+   "measures": [
+    140,
+    143
+   ],
+   "lyrics": "Kind, erreicht den",
+   "translation": "好不容易赶到了家门口——",
+   "events": [
+    {
+     "id": "erlkoenig-e0400",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 140,
+     "beat": 1.0,
+     "lyric": "Kind,",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0401",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 140,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0402",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 141,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0403",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 142,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0404",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 142,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0405",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 142,
+     "beat": 4.0,
+     "lyric": "er",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0406",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 143,
+     "beat": 1.0,
+     "lyric": "reicht",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0407",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 143,
+     "beat": 4.0,
+     "lyric": "den",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 44,
+   "measures": [
+    144,
+    146
+   ],
+   "lyrics": "Hof mit Müh’ und Noth",
+   "translation": "好不容易赶到了家门口——",
+   "events": [
+    {
+     "id": "erlkoenig-e0408",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 144,
+     "beat": 1.0,
+     "lyric": "Hof",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0409",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 144,
+     "beat": 2.5,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0410",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 144,
+     "beat": 3.0,
+     "lyric": "Müh’",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0411",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 144,
+     "beat": 4.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0412",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 145,
+     "beat": 1.0,
+     "lyric": "Noth",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0413",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 145,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0414",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 145,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0415",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 146,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0416",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 146,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 45,
+   "measures": [
+    146,
+    148
+   ],
+   "lyrics": "in seinen Armen das Kind war todt.",
+   "translation": "他怀里的孩子已经死了。",
+   "events": [
+    {
+     "id": "erlkoenig-e0417",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 146,
+     "beat": 2.25,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0418",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 146,
+     "beat": 2.5,
+     "lyric": "sei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0419",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 146,
+     "beat": 2.75,
+     "lyric": "nen",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0420",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 146,
+     "beat": 3.0,
+     "lyric": "Ar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "erlkoenig-e0421",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 146,
+     "beat": 4.0,
+     "lyric": "men",
+     "syllabic": "end"
+    },
+    {
+     "id": "erlkoenig-e0422",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 146,
+     "beat": 4.5,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0423",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 147,
+     "beat": 1.0,
+     "lyric": "Kind",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0424",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 147,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0425",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 147,
+     "beat": 2.5,
+     "lyric": "war",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0426",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 147,
+     "beat": 3.0,
+     "lyric": "todt.",
+     "syllabic": "single"
+    },
+    {
+     "id": "erlkoenig-e0427",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 147,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "erlkoenig-e0428",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 148,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 413,
+ "restCount": 76,
+ "lyricNoteCount": 318,
+ "pages": 2,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 45,
+  "slowScale": 1.45
+ }
+}

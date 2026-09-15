@@ -1,0 +1,105 @@
+{
+  "title": "Pur dicesti, o bocca bella",
+  "titleZh": "美丽的嘴唇，你曾说过",
+  "composer": "A. Lotti",
+  "opera": "独立咏叹调（约 1700；编入 Parisotti 教学集）",
+  "role": "抒情主体：回味恋人甜言蜜语的人",
+  "genre": "小咏叹调",
+  "language": "意大利语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "tempoBpm": 80,
+  "complete": true,
+  "sourceGrade": "C",
+  "coverageNote": "完整声乐旋律（F 大调，4/4 Allegretto grazioso），依据 Parisotti 版编码。",
+  "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+  "sources": [
+    {
+      "name": "手工编码 MusicXML",
+      "url": "https://imslp.org/wiki/Pur_dicesti,_o_bocca_bella_(Lotti,_Antonio)",
+      "format": "MusicXML",
+      "role": "声乐旋律线",
+      "status": "依据标准声乐教学版本编码",
+      "grade": "C",
+      "accessed": "2026-09-15"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Pur dicesti, o bocca bella,",
+      "zh": "美丽的嘴唇，你曾说过，"
+    },
+    {
+      "text": "quel soave e caro si,",
+      "zh": "那甜蜜而珍贵的一声'好'，"
+    },
+    {
+      "text": "che fa tutto il mio piacer.",
+      "zh": "那是我全部的快乐。"
+    },
+    {
+      "text": "Per onor di sua facella",
+      "zh": "为了他的火炬的荣耀，"
+    },
+    {
+      "text": "con un bacio Amor t'apri,",
+      "zh": "爱神用一个吻打开了你，"
+    },
+    {
+      "text": "dolce fonte del goder.",
+      "zh": "甜蜜的快乐之泉。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "发音",
+      "items": [
+        "dicesti 重音在 CÉS：di-CÉS-ti",
+        "bocca 双 c，嘴唇闭合后爆破",
+        "soave 三音节 so-À-ve",
+        "piacer 重音在末音节 pia-CÉR"
+      ]
+    },
+    {
+      "title": "风格",
+      "items": [
+        "Allegretto grazioso：轻快而优雅",
+        "这是一首快乐的歌——回味恋人说'好'的甜蜜时刻"
+      ]
+    }
+  ],
+  "story": {
+    "background": "安东尼奥·洛蒂是威尼斯圣马可大教堂的管风琴师和合唱指挥。这首小咏叹调以其优雅的旋律和甜蜜的情感成为男高音入门教学的标准曲目。",
+    "situation": "歌者回味恋人曾经说的那一声'si'（好）——那是最甜蜜的时刻。爱神用一个吻打开了那美丽的嘴唇。这是一首充满喜悦的回忆之歌。",
+    "relationships": "歌者是一位恋人，回忆着美人嘴唇曾说的那个温柔的「是」。这首歌表达了对爱的回忆和甜蜜。Lotti 的旋律以典雅和简洁著称，是意大利声乐教学的经典入门曲目。",
+    "intent": "全曲充满喜悦和轻快。'bocca bella'要唱得甜蜜。'quel soave e caro si'的'si'是全曲的关键词——要特别温柔地处理。'Amor t'apri'带着一点调皮的得意。",
+    "plain30": "你曾对我说'好'——那一声甜蜜的'好'是我全部的快乐。爱神用一个吻打开了你美丽的嘴唇。这是一首关于被爱的喜悦的轻快小歌。",
+    "arc": "F 大调，4/4 Allegretto grazioso。旋律以 C5 开始下行，轻盈活泼。中段稍有色彩变化但始终明亮。结尾回到 F 大调的主音，以满足的语气结束。",
+    "motif": "核心动机是'Pur dicesti'的下行音阶——像在甜蜜地叙述。'caro si'处的长音是全曲的情感中心。",
+    "motifPositions": [
+      {
+        "phrase": 1,
+        "note": "'Pur dicesti, o bocca bella'——甜蜜叙述的下行音阶"
+      },
+      {
+        "phrase": 2,
+        "note": "'caro si'——情感中心，温柔的长音"
+      },
+      {
+        "phrase": "3",
+        "note": "'con un bacio Amor t'apri'——调皮的爱神意象"
+      }
+    ],
+    "technique": "保持轻快和优雅——不要太重。下行音阶要均匀流畅。'si'的长音需要稳定的气息但不需要大音量。适合练习在中高音区的轻声控制。",
+    "classroom": [
+      "先读中文——这是一首关于甜蜜回忆的快乐歌。",
+      "慢速朗读意大利语，感受每个词的甜蜜。",
+      "练习下行音阶的流畅。",
+      "按节拍说词，♩=80，轻快的 Allegretto。",
+      "听旋律参考。",
+      "放入歌词，保持笑意在声音里。",
+      "完整演唱。想象你在回味世界上最甜蜜的一个'好'字。"
+    ]
+  }
+}

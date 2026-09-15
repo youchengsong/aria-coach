@@ -1,0 +1,118 @@
+{
+  "title": "Gute Nacht",
+  "titleZh": "晚安",
+  "composer": "F. Schubert",
+  "opera": "Winterreise D.911 No.1（冬之旅第1首，1827；诗：W. Müller）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男中音",
+  "difficulty": "中级",
+  "genre": "艺术歌曲",
+  "tempoBpm": 66,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（d小调—D大调，2/4，中等速度，约72小节）。《冬之旅》开篇——被遗弃的旅人在夜晚离开。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Fremd bin ich eingezogen,",
+      "zh": "我来时是个陌生人，"
+    },
+    {
+      "text": "fremd zieh' ich wieder aus.",
+      "zh": "离开时仍是个陌生人。"
+    },
+    {
+      "text": "Der Mai war mir gewogen",
+      "zh": "五月曾对我青睐"
+    },
+    {
+      "text": "mit manchem Blumenstrauß.",
+      "zh": "用一束束鲜花。"
+    },
+    {
+      "text": "Das Mädchen sprach von Liebe,",
+      "zh": "姑娘曾说过爱情，"
+    },
+    {
+      "text": "die Mutter gar von Eh',",
+      "zh": "母亲甚至提起了婚事，"
+    },
+    {
+      "text": "nun ist die Welt so trübe,",
+      "zh": "如今世界如此阴沉，"
+    },
+    {
+      "text": "der Weg gehüllt in Schnee.",
+      "zh": "道路被白雪覆盖。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "注意长短元音的区别",
+        "ö 和 ü 需要圆唇",
+        "ei 读 [aɪ]，ie 读 [iː]",
+        "ch 在 i/e 后读软 [ç]，在 a/o/u 后读硬 [x]"
+      ]
+    },
+    {
+      "title": "歌唱风格",
+      "items": [
+        "注意德语歌曲中词与音的密切关系",
+        "每个词的语气要和旋律的走向一致",
+        "德语辅音要清晰但不过重"
+      ]
+    }
+  ],
+  "story": {
+    "background": "《冬之旅》是舒伯特最后的声乐套曲，24首歌讲述一个被恋人抛弃的旅人在冬天的流浪。《晚安》是开篇——旅人在夜晚悄悄离开，在爱人门前写下'晚安'。",
+    "situation": "深夜。旅人在爱人家门前最后一次停留。他回忆起曾经的温暖——五月的鲜花、爱的承诺。如今一切都结束了，他必须在夜晚的雪中独自上路。",
+    "relationships": "流浪者与已经入睡的曾经恋人——他曾是这个家庭的客人，爱上了那家的女儿。但她选择了另一个人。现在他在冬夜里离开，路过她的房门。他没有敲门——只在门上写了'晚安'两个字。她还在梦中，不会知道他曾来过，也不会知道他已经离去。整首诗弥漫着压抑的尊严：他不怨恨，不乞求，只是走了。",
+    "intent": "以沉重但不愤怒的脚步开始——钢琴的稳定八分音符节奏就是雪地里的脚步声，从第一拍到最后一拍都在走。声乐的叙述是内敛的：'Fremd bin ich eingezogen, fremd zieh ich wieder aus'（我来时是陌生人，走时也是陌生人），语气平静得令人心碎。第三段突然转入D大调（'Will dich im Traum nicht stören, wär schad um deine Ruh'），但这不是安慰也不是希望——而是比小调更深的悲伤：他如此爱她，以至于连在梦中打扰她都不忍心。最后回到小调，脚步渐远。",
+    "plain30": "我来时是陌生人，走时也是。曾经的爱情和鲜花都已过去。如今雪覆盖了道路，我在夜晚悄悄离开，只在门上写下'晚安'。",
+    "arc": "d小调→D大调→d小调，中等步行速度（Mäßig, in gehender Bewegung）。第一段叙述离开的原因，旋律质朴但悲伤。第二段描写冬夜的路，钢琴的伴奏变得更稀疏。第三段转入D大调，旋律不变但和声变暖——这是全曲最令人心痛的地方，因为你知道温暖是假的。第四段回到d小调，以'晚安'的低语结束。套曲中这首被反复两遍（两段歌词用同一旋律），总长约五分钟。",
+    "motif": "行走动机：沉重而规律的脚步声（d小调的持续低音）。中间转入D大调的短暂温暖——回忆五月。但很快回到小调。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "开头「Fremd bin ich eingezogen」——钢琴右手稳定的四分音符像雪地里均匀的脚步声，声乐在 d 小调主音上沉重地开始"
+      },
+      {
+        "phrase": "4",
+        "note": "「Das Mädchen sprach von Liebe」——旋律短暂转向 D 大调，但这不是希望，而是更深的悲伤（回忆中的温暖）"
+      },
+      {
+        "phrase": "12",
+        "note": "「Was soll ich länger weilen」——中段的调性游移，旋律在 weilen 上迟疑停顿，脚步声始终不停"
+      },
+      {
+        "phrase": "39",
+        "note": "结尾「Will dich im Traum nicht stören」——转入 D 大调，但钢琴的行走音型一刻不停，最后的 Gute Nacht 写成渐弱而非解决"
+      }
+    ],
+    "technique": "保持行走的速度是最关键的要求——不要因为情感沉重就越唱越慢。脚步不等人，离开的人没有停下来的权利。音色要始终保持温暖，即使在最悲伤的句子中——他不是在控诉，而是在告别。D大调段落的转换是全曲最微妙的考验：不能唱得像'终于看到光明了'，而要像'假装没事其实更痛'。结尾的'Gute Nacht'要几乎无声——写在门上的字，不是说出来的话。",
+    "classroom": [
+      "先读中文翻译，理解歌曲的核心情感。",
+      "慢速朗读德语原文，注意元音和辅音的准确发音。",
+      "分离元音和辅音，按音节练习。",
+      "用节拍器按标注速度朗读歌词。",
+      "听合成旋律参考，注意旋律走向。",
+      "配上歌词，先用一半速度练唱。",
+      "以正常速度完整演唱。"
+    ]
+  },
+  "role": "冬日旅人（失恋的流浪者）"
+}

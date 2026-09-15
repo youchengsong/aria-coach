@@ -1,0 +1,162 @@
+{
+ "title": "Sérénade",
+ "titleZh": "小夜曲（当你歌唱时）",
+ "composer": "C. Gounod",
+ "opera": "Sérénade, CG 437（1855；法语艺术歌曲，词 Victor Hugo）",
+ "role": "抒情主体：在夜里守望恋人歌唱、入睡的人",
+ "genre": "艺术歌曲",
+ "language": "法语",
+ "voice": "女高音",
+ "difficulty": "中级",
+ "tempoBpm": 66,
+ "complete": true,
+ "sourceGrade": "B",
+ "coverageNote": "完整声乐旋律（6/8 Allegretto，71 小节，含反复），法语 verse 1 共 148 个音节（含 “Quand tu chantes” 与 “Quand tu dors” 两段）；OpenScore 据 Choudens 版转写，已与 IMSLP 声乐谱核对。反复记号下的第三段（“Quand tu ris”）作为 verse 2 保留在第二页完整歌词中。",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Gounod,_Charles/_/Sérénade,_CG_437",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Gounod,_Charles/_/Sérénade,_CG_437",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；148 个法语音节与 Choudens 版逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/29588081"
+  },
+  {
+   "name": "IMSLP · Sérénade (Gounod, Charles)",
+   "url": "https://imslp.org/wiki/S%C3%A9r%C3%A9nade_(Gounod,_Charles)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "LiederNet · Sérénade (Hugo)",
+   "url": "https://www.lieder.net/lieder/get_text.html?TextId=8215",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Quand tu chantes, bercée le soir entre mes bras,",
+   "zh": "当你在夜里躺在我怀中轻轻摇着歌唱，"
+  },
+  {
+   "text": "entends-tu ma pensée qui te répond tout bas?",
+   "zh": "你可听见我的心思在低声回应你？"
+  },
+  {
+   "text": "Ton doux chant me rappelle les plus beaux de mes jours.",
+   "zh": "你甜美的歌让我想起我最美的日子。"
+  },
+  {
+   "text": "Ah! chantez, chantez, ma belle, chantez, chantez toujours!",
+   "zh": "啊！唱吧，唱吧，我的美人，永远唱下去！"
+  },
+  {
+   "text": "Quand tu dors, calme et pure, dans l’ombre sous mes yeux,",
+   "zh": "当你安静纯洁地睡去，在我眼前的阴影里，"
+  },
+  {
+   "text": "ton haleine murmure des mots harmonieux.",
+   "zh": "你的呼吸低语着和谐的话语。"
+  },
+  {
+   "text": "Ton beau corps se révèle sans voile et sans atours.",
+   "zh": "你美丽的身体显露出来，没有面纱也没有妆饰。"
+  },
+  {
+   "text": "Ah! dormez, dormez, ma belle, dormez, dormez toujours!",
+   "zh": "啊！睡吧，睡吧，我的美人，永远睡下去！"
+  },
+  {
+   "text": "Quand tu ris, sur ta bouche l’amour s’épanouit,",
+   "zh": "当你笑时，爱情在你唇上绽放，"
+  },
+  {
+   "text": "et soudain le farouche soupçon s’évanouit.",
+   "zh": "猜疑突然烟消云散。"
+  },
+  {
+   "text": "Ah! le rire fidèle prouve un cœur sans détours.",
+   "zh": "啊！真诚的笑证明一颗坦率的心。"
+  },
+  {
+   "text": "Ah! riez, riez, ma belle, riez, riez toujours!",
+   "zh": "啊！笑吧，笑吧，我的美人，永远笑下去！"
+  }
+ ],
+ "hints": [
+  {
+   "title": "鼻化元音",
+   "items": [
+    "Quand [kɑ̃]、chantes [ʃɑ̃t]、entends [ɑ̃tɑ̃]、pensée [pɑ̃se]、répond [ʁepɔ̃]——本曲鼻化元音极多，每个都要在音上保持。",
+    "harmonieux 中 -ieux [jø] 无鼻化；“sans voile et sans atours” 的 sans [sɑ̃]。"
+   ]
+  },
+  {
+   "title": "联诵",
+   "items": [
+    "“entends‿tu” 加 [t]；“dans‿l’ombre” 不联诵；“sous‿mes” 不联诵；“sans‿atours” [sɑ̃zatuʁ]；“calme‿et” [kalme]。",
+    "“chantez toujours” 的 z 不发。"
+   ]
+  },
+  {
+   "title": "词尾 e 与舞台法语",
+   "items": [
+    "bercée、pensée、belle、pure、murmure 词尾 e 在旋律上有音时读 [ə]，6/8 的第二拍常落在这里，要轻。",
+    "r 建议用舞台法语的弹舌，让 “riez, riez” 清晰。"
+   ]
+  }
+ ],
+ "story": {
+  "background": "古诺 1855 年为雨果诗《小夜曲》（出自《光与影》）谱曲，是他最流行的沙龙歌曲之一，常由女高音演唱（也有男高音版）。6/8 Allegretto 的摇篮曲节奏配合三段歌词：唱—睡—笑，每段以 “Ah! … ma belle, … toujours!” 的副歌收束。",
+  "situation": "夜晚，叙述者抱着恋人，看她唱歌、入睡、微笑。每一种状态都让他（或她）想到最美的日子，并希望永远如此。这是幸福中的守望，唯一的阴影是第三段提到的 “猜疑”——被笑声驱散。",
+  "relationships": "“我”与 “你”（ma belle，被称呼者是女性）。歌者可以是男性恋人，也可以由女高音以第三人称叙述者身份演唱；关系是亲密、安全的两人世界。",
+  "intent": "开口像摇篮曲，6/8 的摇摆要轻；每段第一句是描述，副歌 “Ah! chantez” 是情感释放，可稍放宽。第二段 “Quand tu dors” 更轻更暗，像不敢惊醒她；第三段 “Quand tu ris” 最明亮。三段副歌的 “toujours” 都要有向上的期待感。",
+  "plain30": "有人抱着心爱的人，看她唱歌、睡觉、微笑，每一次都说：请永远这样。这是一首幸福的摇篮曲，摇的是恋人也是自己。",
+  "arc": "6/8 Allegretto 摇篮曲。旋律以级进与小跳构成两小节单位，主歌在中音区流动，副歌 “Ah! chantez” 跳到高音区并三次重复 “chantez”，形成小高潮。三段音乐相同（分节歌），靠歌词与音色作对比：明亮—柔暗—欢快。",
+  "motif": "核心动机是三拍摇篮节奏上的上行小三度：“Quand tu chan-tes” 从主音跳上三度再回落，像摇篮的一去一回。它在每段开头相同，副歌 “Ah! chantez” 把三度放大为五度跳进。演唱时保持 6/8 的两个大拍，不要唱成六个小拍。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Quand tu chantes” 摇篮动机首次出现。"
+   },
+   {
+    "phrase": 4,
+    "note": "第 4 句 “Ah! chantez” 动机放大为五度跳进，副歌。"
+   },
+   {
+    "phrase": 5,
+    "note": "第 5 句 “Quand tu dors” 动机原样再现，音色变暗。"
+   },
+   {
+    "phrase": 8,
+    "note": "第 8 句 “Ah! dormez” 副歌再现，用更轻的音量。"
+   }
+  ],
+  "technique": "呼吸：两小节一句，在 6/8 的休止处换气；副歌三次 “chantez” 中间可短换气一次。咬字：鼻化元音多，保持口腔打开；“chantez”“dormez”“riez” 的动词词尾 -ez [e] 清亮。换声区：女高音在 E5–F♯5（副歌 “chantez”）经过换声区，保持轻机能。高音：最高音 G5 在副歌，是欢快的呼唤而非戏剧高音，轻巧点到即可。",
+  "classroom": [
+   "先读中文，找出三段的关键词：唱、睡、笑。",
+   "慢速读法语，标出每句的鼻化元音。",
+   "分离元音：练 an/on/in 三种鼻化元音的区别。",
+   "按 6/8 说词，两个大拍，感受摇篮的摆动。",
+   "听单音旋律，注意主歌与副歌的音区差别。",
+   "把歌词放回旋律，先练第一段，再用同一旋律套第二、三段。",
+   "用正常速度完整演唱，三段用不同音色。"
+  ]
+ },
+ "phraseFixes": {
+  "Entendstu": "Entends-tu",
+  "chante bercée": "chantes, bercée",
+  "révè le": "révèle",
+  "Dor mez": "Dormez"
+ }
+}

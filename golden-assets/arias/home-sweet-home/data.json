@@ -1,0 +1,3043 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "home-sweet-home",
+ "title": "Home, Sweet Home",
+ "titleZh": "甜蜜的家",
+ "composer": "H. R. Bishop",
+ "opera": "Clari, or the Maid of Milan（《克拉丽，米兰少女》，1823）第一幕",
+ "language": "英语",
+ "voice": "女高音",
+ "difficulty": "基础",
+ "tempoBpm": 76,
+ "timeSignature": "2/4",
+ "coverage": {
+  "measures": [
+   1,
+   99
+  ],
+  "firstSungMeasure": 10,
+  "complete": true,
+  "note": "完整声乐旋律（2/4 与 6/8，99 小节，含反复展开的三段），172 个英语音节；OpenScore 据 19 世纪版本转写，已与 IMSLP 核对。"
+ },
+ "range": {
+  "low": "E4",
+  "high": "E5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "克拉丽（Clari）：被公爵带离乡村、思念家的少女",
+ "genre": "歌剧歌曲",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Bishop,_Henry/_/Home,_Sweet_Home",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Bishop,_Henry/_/Home,_Sweet_Home",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；172 个音节与 19 世纪版本核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/6486038"
+  },
+  {
+   "name": "IMSLP · Home, Sweet Home (Bishop, Henry Rowley)",
+   "url": "https://imslp.org/wiki/Home,_Sweet_Home_(Bishop,_Henry_Rowley)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "Wikipedia · Home! Sweet Home!",
+   "url": "https://en.wikipedia.org/wiki/Home!_Sweet_Home!",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "’Mid pleasures and palaces though we may roam,",
+   "zh": "纵然我们漫游在欢乐与宫殿之间，"
+  },
+  {
+   "text": "be it ever so humble, there’s no place like home!",
+   "zh": "哪怕再简陋，也没有地方比得上家！"
+  },
+  {
+   "text": "A charm from the skies seems to hallow us there,",
+   "zh": "一种来自天上的魅力仿佛在那里祝福我们，"
+  },
+  {
+   "text": "which, seek through the world, is ne’er met with elsewhere.",
+   "zh": "走遍世界，也不会在别处遇到。"
+  },
+  {
+   "text": "Home! Home, sweet, sweet home! There’s no place like home! There’s no place like home!",
+   "zh": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！"
+  },
+  {
+   "text": "An exile from home, splendour dazzles in vain!",
+   "zh": "离家的游子，再耀眼的荣华也是徒然！"
+  },
+  {
+   "text": "Oh, give me my lowly thatched cottage again!",
+   "zh": "啊，把我低矮的茅屋还给我吧！"
+  },
+  {
+   "text": "The birds singing gaily, that came at my call,",
+   "zh": "那些听我呼唤就飞来的欢唱的鸟儿，"
+  },
+  {
+   "text": "give me them with that peace of mind, dearer than all.",
+   "zh": "把它们和那比一切都珍贵的安宁还给我。"
+  },
+  {
+   "text": "Home! Home, sweet, sweet home! There’s no place like home! There’s no place like home!",
+   "zh": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！"
+  }
+ ],
+ "story": {
+  "background": "《甜蜜的家》出自亨利·毕晓普 1823 年的歌剧《克拉丽，米兰少女》（词 John Howard Payne），首演于伦敦科文特花园。它迅速脱离歌剧成为英语世界最流行的家庭歌曲之一，珍妮·林德、阿德利娜·帕蒂都以它作为压轴。旋律先以 2/4 陈述，副歌转 6/8。",
+  "situation": "乡村少女克拉丽被公爵以结婚为诺言带到宫殿，却迟迟不成婚。在华丽的宫殿里她唱起这首歌：欢乐与宫殿再多，也不如简陋的家。她想要的是回家，害怕的是名誉已毁、回不去了。",
+  "relationships": "克拉丽（歌者）、诱拐她的公爵维瓦尔迪（不在场）、远方的父母与家乡。歌曲是她在宫廷中的第一次流露真情，也推动她后来逃回家乡的决定。",
+  "intent": "开口要朴素、真诚，像说话一样，不加装饰；“be it ever so humble” 略带温柔的坚定。副歌 “Home! Home, sweet, sweet home!” 是情感中心，第一个 “Home” 可放宽，之后每次 “there’s no place like home” 更轻、更内心。第二段 “An exile from home” 更痛，“Oh, give me” 是请求。",
+  "plain30": "一个被带进宫殿的乡下女孩唱：再多欢乐和宫殿，也不如我那间小茅屋。这首歌从歌剧里走出来，成了全世界的“家”之歌。",
+  "arc": "主歌 2/4 Andante，旋律以级进为主、朴素如民歌；副歌转 6/8，“Home! Home” 以上行跳进起句，“sweet, sweet home” 回落，“there’s no place like home” 反复两次。两段相同，第二段可更内心。情绪：怀念—坚定—思乡的温暖。",
+  "motif": "核心动机是副歌 “Home! Home” 的上行跳进加 “sweet, sweet home” 的下行回落：呼唤家，再回到家。它在两段副歌出现，尾声反复 “there’s no place like home” 时被压缩为级进。主歌 “’Mid pleasures” 的级进上行是它的预备。演唱时 “Home” 的双元音要保持第一成分。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “’Mid pleasures and palaces” 主歌级进动机，朴素陈述。"
+   },
+   {
+    "phrase": 5,
+    "note": "第 5 句副歌 “Home! Home, sweet, sweet home” 跳进呼唤动机首次出现。"
+   },
+   {
+    "phrase": 6,
+    "note": "第 6 句 “An exile from home” 主歌动机再现，更痛。"
+   },
+   {
+    "phrase": 10,
+    "note": "第 10 句副歌再现并反复 “there’s no place like home”，逐次放轻。"
+   }
+  ],
+  "technique": "呼吸：主歌两小节一句；副歌 “Home! Home, sweet, sweet home” 一口气。咬字：英语词尾辅音（roam、home 的 m，thatched 的 tʃt）收清；弱读词不吞。换声区：女高音在 E5–F5（“home”“vain”）经过换声区，保持自然。高音：最高音 E5–F5 在副歌 “Home!”，是温暖的呼唤，不要撑。",
+  "classroom": [
+   "先读中文，理解“宫殿”与“茅屋”的对比。",
+   "慢速读英语，标出重读音节与缩略词（’mid、ne’er）。",
+   "分离元音：练 home 的双元音 [əʊ]。",
+   "按 2/4 说主歌，按 6/8 说副歌，感受节拍变化。",
+   "听单音旋律，注意副歌的跳进。",
+   "把歌词放回旋律，先练主歌，再练副歌。",
+   "用正常速度完整演唱，第二段更内心。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "重读与弱读",
+   "items": [
+    "’mid PLEA-sures and PAL-a-ces——pleasures、palaces 重音在第一音节；there’s、no、like 弱读，HOME 重读。",
+    "EX-ile、SPLEN-dour、COT-tage、DEAR-er。"
+   ]
+  },
+  {
+   "title": "舞台英语",
+   "items": [
+    "英式舞台发音：home [həʊm]、roam [rəʊm]、there [ðɛə] 词尾 r 不卷；“thatched” 读 [θætʃt]。",
+    "“ne’er” 读 [nɛə]（never 的诗体缩略）；“’Mid” = amid。"
+   ]
+  },
+  {
+   "title": "元音与长音",
+   "items": [
+    "home 的 [əʊ] 双元音在长音上要保持第一成分，不要过早滑到 [ʊ]。",
+    "sweet [iː]、vain [eɪ]、call [ɔː]、all [ɔː]。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    10,
+    15
+   ],
+   "lyrics": "’Mid pleasures and Palaces though we may roam,",
+   "translation": "纵然我们漫游在欢乐与宫殿之间，",
+   "events": [
+    {
+     "id": "home-sweet-home-e0011",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0012",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "’Mid",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0013",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "pleas",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0014",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0015",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 2,
+     "lyric": "ures",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0016",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.75,
+     "lyric": "and",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0017",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "Pa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0018",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.75,
+     "lyric": "la",
+     "syllabic": "middle"
+    },
+    {
+     "id": "home-sweet-home-e0019",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 13,
+     "beat": 2,
+     "lyric": "ces",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0020",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "though",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0021",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0022",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "we",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0023",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.5,
+     "lyric": "may",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0024",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "roam,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    15,
+    19
+   ],
+   "lyrics": "Be it ever so humble there’s no place like home!",
+   "translation": "哪怕再简陋，也没有地方比得上家！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0025",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "Be",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0026",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 2.75,
+     "lyric": "it",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0027",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "e",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0028",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0029",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 2,
+     "lyric": "ver",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0030",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 2.75,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0031",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "hum",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0032",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2,
+     "lyric": "ble",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0033",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "there’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0034",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 1,
+     "lyric": "no",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0035",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0036",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2,
+     "lyric": "place",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0037",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "like",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0038",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 19,
+     "beat": 1,
+     "lyric": "home!",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    19,
+    25
+   ],
+   "lyrics": "A charm from the skies seems to hallow us there Which seek through the world,",
+   "translation": "一种来自天上的魅力仿佛在那里祝福我们，",
+   "events": [
+    {
+     "id": "home-sweet-home-e0039",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "A",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0040",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 20,
+     "beat": 1,
+     "lyric": "charm",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0041",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0042",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0043",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 20,
+     "beat": 2,
+     "lyric": "from",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0044",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2.75,
+     "lyric": "the",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0045",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 21,
+     "beat": 1,
+     "lyric": "skies",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0046",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2,
+     "lyric": "seems",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0047",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.5,
+     "lyric": "to",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0048",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 1,
+     "lyric": "hal",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0049",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0050",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2,
+     "lyric": "low",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0051",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "us",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0052",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 23,
+     "beat": 1,
+     "lyric": "there",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0053",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.5,
+     "lyric": "Which",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0054",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 24,
+     "beat": 1,
+     "lyric": "seek",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0055",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0056",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0057",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 24,
+     "beat": 2,
+     "lyric": "through",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0058",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 2.75,
+     "lyric": "the",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0059",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 25,
+     "beat": 1,
+     "lyric": "world,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    25,
+    28
+   ],
+   "lyrics": "is ne’er met with elsewhere Home!",
+   "translation": "走遍世界，也不会在别处遇到。",
+   "events": [
+    {
+     "id": "home-sweet-home-e0060",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2,
+     "lyric": "is",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0061",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.5,
+     "lyric": "ne’er",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0062",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 1,
+     "lyric": "met",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0063",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 26,
+     "beat": 1.5,
+     "lyric": "with",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0064",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.5,
+     "lyric": "else",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0065",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 27,
+     "beat": 1,
+     "lyric": "where",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0066",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2,
+     "measure": 28,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    29,
+    31
+   ],
+   "lyrics": "Home sweet sweet Home!",
+   "translation": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0067",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 29,
+     "beat": 1,
+     "lyric": "Home",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0068",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 29,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0069",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 30,
+     "beat": 1,
+     "lyric": "sweet",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0070",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 30,
+     "beat": 2,
+     "lyric": "sweet",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0071",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 31,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    31,
+    33
+   ],
+   "lyrics": "There’s no place like Home!",
+   "translation": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0072",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.5,
+     "lyric": "There’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0073",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0074",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 32,
+     "beat": 1,
+     "lyric": "no",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0075",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0076",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0077",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 32,
+     "beat": 2,
+     "lyric": "place",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0078",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 2.75,
+     "lyric": "like",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0079",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 33,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0080",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    33,
+    38
+   ],
+   "lyrics": "There’s no place like Home!",
+   "translation": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0081",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2.5,
+     "lyric": "There’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0082",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1,
+     "lyric": "no",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0083",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0084",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 2,
+     "lyric": "place",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0085",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 2.5,
+     "lyric": "like",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0086",
+     "pitch": "E#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 35,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0087",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 35,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0088",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 35,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0089",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 35,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0090",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 35,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0091",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0092",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 36,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0093",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 37,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0094",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 38,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0095",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    39,
+    41
+   ],
+   "lyrics": "An Exile from Home,",
+   "translation": "离家的游子，再耀眼的荣华也是徒然！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0096",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.5,
+     "lyric": "An",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0097",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 40,
+     "beat": 1,
+     "lyric": "Ex",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0098",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 40,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0099",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2,
+     "lyric": "ile",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0100",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.5,
+     "lyric": "from",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0101",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 41,
+     "beat": 1,
+     "lyric": "Home,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    41,
+    43
+   ],
+   "lyrics": "Splendour dazzles in vain!",
+   "translation": "离家的游子，再耀眼的荣华也是徒然！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0102",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2,
+     "lyric": "Splen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0103",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.5,
+     "lyric": "dour",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0104",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 42,
+     "beat": 1,
+     "lyric": "dazz",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0105",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0106",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2,
+     "lyric": "les",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0107",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0108",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 43,
+     "beat": 1,
+     "lyric": "vain!",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    43,
+    47
+   ],
+   "lyrics": "Oh! give me my lowly thatched Cottage again!",
+   "translation": "啊，把我低矮的茅屋还给我吧！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0109",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.5,
+     "lyric": "Oh!",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0110",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 44,
+     "beat": 1,
+     "lyric": "give",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0111",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 44,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0112",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 44,
+     "beat": 2,
+     "lyric": "me",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0113",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 44,
+     "beat": 2.75,
+     "lyric": "my",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0114",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 45,
+     "beat": 1,
+     "lyric": "low",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0115",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.75,
+     "lyric": "ly",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0116",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2,
+     "lyric": "thatch’d",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0117",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0118",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 1,
+     "lyric": "Cot",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0119",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 46,
+     "beat": 1.25,
+     "lyric": "tage",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0120",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 46,
+     "beat": 2,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0121",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0122",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 47,
+     "beat": 1,
+     "lyric": "gain!",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    47,
+    51
+   ],
+   "lyrics": "The Birds singing gaily that came at my call,",
+   "translation": "那些听我呼唤就飞来的欢唱的鸟儿，",
+   "events": [
+    {
+     "id": "home-sweet-home-e0123",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.5,
+     "lyric": "The",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0124",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 48,
+     "beat": 1,
+     "lyric": "Birds",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0125",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 48,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0126",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 48,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0127",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 48,
+     "beat": 2,
+     "lyric": "sing",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0128",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 48,
+     "beat": 2.75,
+     "lyric": "ing",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0129",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 1,
+     "lyric": "gai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0130",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 49,
+     "beat": 1.5,
+     "lyric": "ly",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0131",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.5,
+     "lyric": "that",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0132",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 50,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0133",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 50,
+     "beat": 1,
+     "lyric": "came",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0134",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 50,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0135",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2,
+     "lyric": "at",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0136",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.5,
+     "lyric": "my",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0137",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 51,
+     "beat": 1,
+     "lyric": "call,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    51,
+    56
+   ],
+   "lyrics": "Give me them with that peace of mind dearer than all Home!",
+   "translation": "把它们和那比一切都珍贵的安宁还给我。",
+   "events": [
+    {
+     "id": "home-sweet-home-e0138",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 51,
+     "beat": 2.5,
+     "lyric": "Give",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0139",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 51,
+     "beat": 2.875,
+     "lyric": "me",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0140",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 52,
+     "beat": 1,
+     "lyric": "them",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0141",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 52,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0142",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 52,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0143",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 52,
+     "beat": 2,
+     "lyric": "with",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0144",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 52,
+     "beat": 2.75,
+     "lyric": "that",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0145",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 53,
+     "beat": 1,
+     "lyric": "peace",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0146",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 53,
+     "beat": 1.75,
+     "lyric": "of",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0147",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2,
+     "lyric": "mind",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0148",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0149",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 1,
+     "lyric": "dear",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0150",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.25,
+     "measure": 54,
+     "beat": 1.25,
+     "lyric": "er",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0151",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 2.5,
+     "lyric": "than",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0152",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2,
+     "measure": 55,
+     "beat": 1,
+     "lyric": "all",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0153",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2,
+     "measure": 56,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    57,
+    59
+   ],
+   "lyrics": "Home sweet sweet Home!",
+   "translation": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0154",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 57,
+     "beat": 1,
+     "lyric": "Home",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0155",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 57,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0156",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 58,
+     "beat": 1,
+     "lyric": "sweet",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0157",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 58,
+     "beat": 2,
+     "lyric": "sweet",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0158",
+     "pitch": "F##4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 59,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0159",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 59,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    59,
+    61
+   ],
+   "lyrics": "There’s no place like Home!",
+   "translation": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0160",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 2.5,
+     "lyric": "There’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0161",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 60,
+     "beat": 1,
+     "lyric": "no",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0162",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 60,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0163",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 60,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0164",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 60,
+     "beat": 2,
+     "lyric": "place",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0165",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 60,
+     "beat": 2.75,
+     "lyric": "like",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0166",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 61,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0167",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    61,
+    73
+   ],
+   "lyrics": "There’s no place like Home!",
+   "translation": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0168",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 2.5,
+     "lyric": "There’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0169",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 1,
+     "lyric": "no",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0170",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0171",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 2,
+     "lyric": "place",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0172",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 2.5,
+     "lyric": "like",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0173",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 63,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0174",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 63,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0175",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 63,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0176",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0177",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0178",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 65,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0179",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 66,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0180",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 67,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0181",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 68,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0182",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 69,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0183",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 70,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0184",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 71,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0185",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 72,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0186",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 73,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0187",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0188",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 73,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    74,
+    78
+   ],
+   "lyrics": "’Mid pleasures and palaces though we may roam,",
+   "translation": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0189",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 74,
+     "beat": 1,
+     "lyric": "’Mid",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0190",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 75,
+     "beat": 1,
+     "lyric": "plea",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0191",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0192",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 75,
+     "beat": 2,
+     "lyric": "sures",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0193",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 75,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0194",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 75,
+     "beat": 2.833,
+     "lyric": "and",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0195",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 76,
+     "beat": 1,
+     "lyric": "pa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0196",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 1.667,
+     "lyric": "la",
+     "syllabic": "middle"
+    },
+    {
+     "id": "home-sweet-home-e0197",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 76,
+     "beat": 2,
+     "lyric": "ces",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0198",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 77,
+     "beat": 1,
+     "lyric": "though",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0199",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 77,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0200",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 77,
+     "beat": 2,
+     "lyric": "we",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0201",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 77,
+     "beat": 2.667,
+     "lyric": "may",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0202",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 78,
+     "beat": 1,
+     "lyric": "roam,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    78,
+    82
+   ],
+   "lyrics": "Be it ever so humble there’s no place like Home!",
+   "translation": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0203",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 2.667,
+     "lyric": "Be",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0204",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 2.833,
+     "lyric": "it",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0205",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 79,
+     "beat": 1,
+     "lyric": "e",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0206",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 79,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0207",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 79,
+     "beat": 2,
+     "lyric": "ver",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0208",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 79,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0209",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 79,
+     "beat": 2.833,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0210",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 80,
+     "beat": 1,
+     "lyric": "hum",
+     "syllabic": "begin"
+    },
+    {
+     "id": "home-sweet-home-e0211",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 80,
+     "beat": 2,
+     "lyric": "ble",
+     "syllabic": "end"
+    },
+    {
+     "id": "home-sweet-home-e0212",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 80,
+     "beat": 2.667,
+     "lyric": "there’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0213",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 81,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0214",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 81,
+     "beat": 1,
+     "lyric": "no",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0215",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 81,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0216",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 81,
+     "beat": 2,
+     "lyric": "place",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0217",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 81,
+     "beat": 2.667,
+     "lyric": "like",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0218",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 3,
+     "measure": 82,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    83,
+    84
+   ],
+   "lyrics": "Home! Home!",
+   "translation": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0219",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 3,
+     "measure": 83,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0220",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 84,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0221",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 84,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "measures": [
+    85,
+    86
+   ],
+   "lyrics": "sweet sweet Home!",
+   "translation": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0222",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 85,
+     "beat": 1,
+     "lyric": "sweet",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0223",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 85,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0224",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 85,
+     "beat": 2,
+     "lyric": "sweet",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0225",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 85,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0226",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 86,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "measures": [
+    86,
+    88
+   ],
+   "lyrics": "There’s no place like Home!",
+   "translation": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0227",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 86,
+     "beat": 2.667,
+     "lyric": "There’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0228",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 87,
+     "beat": 1,
+     "lyric": "no",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0229",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 87,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0230",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 87,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0231",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1,
+     "measure": 87,
+     "beat": 2,
+     "lyric": "place",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0232",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 87,
+     "beat": 2.667,
+     "lyric": "like",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0233",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 88,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0234",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 88,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "measures": [
+    88,
+    90
+   ],
+   "lyrics": "There’s no place like Home!",
+   "translation": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0235",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 88,
+     "beat": 2.667,
+     "lyric": "There’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0236",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 89,
+     "beat": 1,
+     "lyric": "no",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0237",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 89,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0238",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 89,
+     "beat": 2,
+     "lyric": "place",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0239",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 89,
+     "beat": 2.667,
+     "lyric": "like",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0240",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 90,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 22,
+   "measures": [
+    90,
+    92
+   ],
+   "lyrics": "There’s no place like Home!",
+   "translation": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0241",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 2.667,
+     "lyric": "There’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0242",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 91,
+     "beat": 1,
+     "lyric": "no",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0243",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 91,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0244",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 91,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0245",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1,
+     "measure": 91,
+     "beat": 2,
+     "lyric": "place",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0246",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 91,
+     "beat": 2.667,
+     "lyric": "like",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0247",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 92,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0248",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 92,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 23,
+   "measures": [
+    92,
+    94
+   ],
+   "lyrics": "There’s no place like Home!",
+   "translation": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0249",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 2.667,
+     "lyric": "There’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0250",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 93,
+     "beat": 1,
+     "lyric": "no",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0251",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 93,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0252",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 93,
+     "beat": 2,
+     "lyric": "place",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0253",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 93,
+     "beat": 2.667,
+     "lyric": "like",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0254",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 3,
+     "measure": 94,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 24,
+   "measures": [
+    95,
+    99
+   ],
+   "lyrics": "no place like Home!",
+   "translation": "家！家，甜蜜的家！没有地方比得上家！没有地方比得上家！",
+   "events": [
+    {
+     "id": "home-sweet-home-e0255",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 95,
+     "beat": 1,
+     "lyric": "no",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0256",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 95,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0257",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 95,
+     "beat": 2,
+     "lyric": "place",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0258",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 95,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0259",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 95,
+     "beat": 2.667,
+     "lyric": "like",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0260",
+     "pitch": "E#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 96,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0261",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 96,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0262",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 96,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0263",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 96,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "home-sweet-home-e0264",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 96,
+     "beat": 1,
+     "lyric": "Home!",
+     "syllabic": "single"
+    },
+    {
+     "id": "home-sweet-home-e0265",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0266",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 97,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0267",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 98,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "home-sweet-home-e0268",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 99,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 258,
+ "restCount": 27,
+ "lyricNoteCount": 172,
+ "pages": 2,
+ "speech": {
+  "voice": "en_GB-southern_english_female-low",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 24,
+  "slowScale": 1.45
+ }
+}

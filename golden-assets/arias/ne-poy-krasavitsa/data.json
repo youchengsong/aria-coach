@@ -1,0 +1,2238 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "ne-poy-krasavitsa",
+ "title": "Не пой, красавица, при мне",
+ "titleZh": "不要唱了，美人",
+ "composer": "С.В. Рахманинов",
+ "opera": "Op. 4, No. 4（六首浪漫曲，1893；诗：А.С. Пушкин）",
+ "language": "俄语",
+ "voice": "男中音",
+ "difficulty": "中级",
+ "tempoBpm": 56,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   50
+  ],
+  "firstSungMeasure": 9,
+  "complete": true,
+  "note": "完整浪漫曲（升c小调，4/4，约 42 小节）。来源为 Tarakanov OMR 自动识别 MusicXML，声乐声部 154 音符，68% 带歌词；OCR 乱码较重，已用 fixes 映射修正主要错误。中段钢琴间奏（无歌词区域）标记为旋律段。"
+ },
+ "range": {
+  "low": "C#3",
+  "high": "F#4"
+ },
+ "state": "published",
+ "sourceGrade": "D",
+ "role": "抒情主人公（被歌声唤起的追忆者）",
+ "genre": "浪漫曲",
+ "sourceStatus": "Tarakanov OMR MusicXML · 歌词已修正",
+ "sources": [
+  {
+   "name": "Tarakanov Notes",
+   "url": "https://notes.tarakanov.net/",
+   "format": "MXL (OMR 自动识别)",
+   "role": "声乐谱面（MusicXML 结构化数据）",
+   "status": "Part 0 为声乐线，154 音符，68% 带歌词；约 30% 音节为 OCR 乱码，已用 fixes 映射修正",
+   "grade": "D",
+   "accessed": "2026-09-11"
+  },
+  {
+   "name": "IMSLP — Рахманинов, Шесть романсов Op.4",
+   "url": "https://imslp.org/wiki/6_Romances,_Op.4_(Rachmaninoff,_Sergei)",
+   "format": "PDF",
+   "role": "歌词与音高校验参考",
+   "status": "Gutheil 原版（公有领域）",
+   "grade": "A",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Не пой, красавица, при мне",
+   "zh": "不要唱了，美人，在我面前"
+  },
+  {
+   "text": "Ты песен Грузии печальной;",
+   "zh": "不要唱那格鲁吉亚的忧伤歌曲；"
+  },
+  {
+   "text": "Напоминают мне оне",
+   "zh": "它们让我想起"
+  },
+  {
+   "text": "Другую жизнь и берег дальний.",
+   "zh": "另一种生活和遥远的海岸。"
+  },
+  {
+   "text": "Увы! Напоминают мне",
+   "zh": "唉！它们让我想起"
+  },
+  {
+   "text": "Твои жестокие напевы",
+   "zh": "你那残忍的歌声"
+  },
+  {
+   "text": "И степь, и ночь, и при луне",
+   "zh": "和草原、和夜晚、和月光下"
+  },
+  {
+   "text": "Черты далёкой, бедной девы.",
+   "zh": "那遥远的、可怜的少女的面容。"
+  },
+  {
+   "text": "Я призрак милый, роковой,",
+   "zh": "那可爱而致命的幻影，"
+  },
+  {
+   "text": "Тебя увидев, забываю;",
+   "zh": "看到你时，我便忘却；"
+  },
+  {
+   "text": "Но ты поёшь — и предо мной",
+   "zh": "但你一唱——在我面前"
+  },
+  {
+   "text": "Его я вновь воображаю.",
+   "zh": "它又重新浮现。"
+  },
+  {
+   "text": "Не пой, красавица, при мне",
+   "zh": "不要唱了，美人，在我面前"
+  },
+  {
+   "text": "Ты песен Грузии печальной;",
+   "zh": "不要唱那格鲁吉亚的忧伤歌曲；"
+  },
+  {
+   "text": "Напоминают мне оне",
+   "zh": "它们让我想起"
+  },
+  {
+   "text": "Другую жизнь и берег дальний.",
+   "zh": "另一种生活和遥远的海岸。"
+  }
+ ],
+ "story": {
+  "background": "这首浪漫曲是 20 岁的拉赫玛尼诺夫在 1893 年创作的 Op.4 六首浪漫曲之一，歌词选自普希金 1828 年的诗作。普希金原诗写给一位在沙龙中演唱格鲁吉亚歌曲的女子——这些歌曲唤起了诗人在高加索的记忆和对一位远方女子的思念。拉赫玛尼诺夫的谱曲赋予了诗歌一种东方色彩的忧郁旋律，钢琴伴奏中隐含着格鲁吉亚音阶的特征音程。",
+  "situation": "一个沙龙或私人聚会的场景。一位美丽的女子正在唱格鲁吉亚歌曲。叙述者请求她停下来——不是因为不好听，而是因为这些旋律让他想起了遥远高加索的月夜和一位他无法忘怀的女子。",
+  "relationships": "叙述者面对两个女性形象：眼前的'美人'（красавица）正在唱歌，和记忆中'遥远的、可怜的少女'（далёкая, бедная дева）。他在理性上想忘记过去，但每当格鲁吉亚的旋律响起，过去的幻影就会重新浮现。这是一首关于记忆的无力抗拒的歌。",
+  "intent": "演唱应从温柔的恳求开始——'不要唱了'不是命令，而是请求。中段（'唉！它们让我想起'）情感加深，声音变得更沉郁。'我看到你时便忘却；但你一唱——它又浮现'是全曲最戏剧性的转折。最后的再现部回到恳求，但语气中多了一层无奈的接受。",
+  "plain30": "一个男人请求面前的美人不要再唱格鲁吉亚歌曲了——这些旋律让他想起了高加索的月夜和一位他无法忘怀的远方少女。他越想忘记，歌声越让记忆清晰。",
+  "arc": "升c小调，中庸的行板。开头的旋律低沉温和，像一声轻轻的恳求。'напоминают мне оне' 处钢琴出现东方色彩的半音进行，暗示格鲁吉亚的旋律。中段'Увы!'标志着情感爆发，调性短暂偏向大调（A大调/E大调），仿佛阳光穿透云层——但随即回到小调。'Я призрак милый' 处旋律最为激动，声部攀升到高音区。结尾的再现（'Не пой'）钢琴尾奏渐弱消失，像记忆慢慢沉入黑暗。",
+  "motif": "下行半音的'叹息'动机贯穿全曲——每次出现'напоминают'（让我想起）时，旋律都会出现半音下行。钢琴伴奏中的增二度音程（如升F到升G#）模仿格鲁吉亚音阶的异域色彩。声乐线在'Но ты поёшь'（但你一唱）处突然上行跳进，是回忆突然涌来的画面。",
+  "technique": "这首歌要求在低音区保持温暖的共鸣——开头的'Не пой'在C#4附近，需要充分的胸腔支撑而不是压喉。中段的情感爆发不要过于激烈，拉赫玛尼诺夫的浪漫曲风格偏向内敛的热情而非歌剧式的宣泄。注意钢琴间奏段（m14–m18, m20–m21）的东方色彩旋律——演唱者在这些段落中的静默也是表演的一部分。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "开头恳求：'Не пой, красавица' 低沉温和的旋律，C#小调"
+   },
+   {
+    "phrase": "5",
+    "note": "'Увы!' 情感爆发点，调性偏向大调"
+   },
+   {
+    "phrase": "8",
+    "note": "'Я призрак милый, роковой' 最激动的段落，声部攀升"
+   },
+   {
+    "phrase": "8",
+    "note": "'Но ты поёшь' 突然的上行跳进——记忆涌来"
+   },
+   {
+    "phrase": "8",
+    "note": "再现：'Не пой' 回到开头，但语气中多了无奈"
+   }
+  ],
+  "classroom": [
+   "先阅读中文翻译，理解场景：这是一个被记忆困扰的人在请求别人不要唤醒他的过去。",
+   "慢速朗读俄语原文。注意普希金诗歌的韵律：'мне — оне'，'печальной — дальний' 是交叉韵。",
+   "分离元音：'красавица' [кра-са-ви-ца]，'напоминают' [на-по-ми-на-ют]——长词的每个音节都要清晰。",
+   "按节拍说词：用节拍器在 ♩=56 的速度下朗读歌词，注意 4/4 拍的自然强弱。",
+   "听合成旋律参考：感受低音区的温暖和中段向高音区的攀升。",
+   "把歌词放回旋律，先用一半速度唱。保持低音区的共鸣，不要在'Увы!'处过度用力。",
+   "以正常速度完整演唱。想象自己在一个昏暗的沙龙里，听到远方传来的旋律，记忆像潮水般涌来。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "俄语元音弱化",
+   "items": [
+    "'о' 在非重读位置弱化为 [ɐ]：'красавица' 中第一个 'а' 保持，末尾 'а' 弱化",
+    "'е' 在非重读位置弱化：'печальной' 中 'е' 弱化为 [ɪ]",
+    "'я' 在词首读 [ja]：'Я призрак'"
+   ]
+  },
+  {
+   "title": "重音位置",
+   "items": [
+    "краса́вица — 重音在第二音节",
+    "печа́льной — 重音在第二音节",
+    "напомина́ют — 重音在第四音节",
+    "далёкой — ё 永远重读",
+    "вообража́ю — 重音在第四音节"
+   ]
+  },
+  {
+   "title": "软硬辅音与特殊发音",
+   "items": [
+    "'Грузии' 中 'з' 在 'и' 前软化为 [зʲ]",
+    "'пой' 的 'й' 是半元音 [j]，发音短促",
+    "'жестокие' 中 'ж' 永远是硬音 [ж]，不受后面 'е' 影响",
+    "'ночь' 的 'чь' 是软音，嘴唇略圆"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    9,
+    12
+   ],
+   "lyrics": "Не пой кра са ви ца при мне ты песен Грузии пе11аm)НОI/IZ На поми",
+   "translation": "不要唱了，美人，在我面前",
+   "events": [
+    {
+     "id": "ne-poy-krasavitsa-e0009",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0010",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "Не",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0011",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "пой",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0012",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.75,
+     "lyric": "кра",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0013",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "са",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0014",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.5,
+     "lyric": "ви",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0015",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 4.0,
+     "lyric": "ца",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0016",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 4.75,
+     "lyric": "при",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0017",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "мне",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0018",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0019",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0020",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 3.5,
+     "lyric": "ты",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0021",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 4.0,
+     "lyric": "пе",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0022",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 4.75,
+     "lyric": "сен",
+     "syllabic": "end"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0023",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "Гру",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0024",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.75,
+     "lyric": "зи",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0025",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "и",
+     "syllabic": "end"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0026",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0027",
+     "pitch": "C#3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 4.0,
+     "lyric": "пе",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0028",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "11аm)",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0029",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "НОI/IZ",
+     "syllabic": "end"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0030",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0031",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0032",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.5,
+     "lyric": "На",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0033",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 4.0,
+     "lyric": "по",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0034",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 4.5,
+     "lyric": "ми",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    13,
+    19
+   ],
+   "lyrics": "На ют не о дру гу ю жизнь И бе рег дальний.",
+   "translation": "另一种生活和遥远的海岸。",
+   "events": [
+    {
+     "id": "ne-poy-krasavitsa-e0035",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "На",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0036",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0037",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "ют",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0038",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0039",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 3.75,
+     "lyric": "не",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0040",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1.25,
+     "measure": 13,
+     "beat": 4.0,
+     "lyric": "о",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0041",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0042",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0043",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0044",
+     "pitch": "A#3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0045",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0046",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0047",
+     "pitch": "A#3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0048",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0049",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0050",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0051",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0052",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.5,
+     "lyric": "дру",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0053",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "гу",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0054",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 2.75,
+     "lyric": "ю",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0055",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "жизнь",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0056",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0057",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0058",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.5,
+     "lyric": "И",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0059",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "бе",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0060",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 2.75,
+     "lyric": "рег",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0061",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "даль",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0062",
+     "pitch": "E#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 4.0,
+     "lyric": "ний.",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0063",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0064",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0065",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0066",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    19,
+    22
+   ],
+   "lyrics": "У вы! На по ми степь И ночь И при лу",
+   "translation": "和草原、和夜晚、和月光下",
+   "events": [
+    {
+     "id": "ne-poy-krasavitsa-e0067",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 1.75,
+     "lyric": "У",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0068",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "вы!",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0069",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0070",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 3.5,
+     "lyric": "На",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0071",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 4.0,
+     "lyric": "по",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0072",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 4.5,
+     "lyric": "ми",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0073",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0074",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0075",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0076",
+     "pitch": "B#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0077",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0078",
+     "pitch": "B#3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 4.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0079",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0080",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0081",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0082",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0083",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0084",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0085",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0086",
+     "pitch": "B#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0087",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0088",
+     "pitch": "B#3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 4.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0089",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "степь",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0090",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0091",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 2.75,
+     "lyric": "И",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0092",
+     "pitch": "A#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3.0,
+     "lyric": "ночь",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0093",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0094",
+     "pitch": "A#3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 3.75,
+     "lyric": "И",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0095",
+     "pitch": "A#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 4.0,
+     "lyric": "при",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0096",
+     "pitch": "A#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 4.5,
+     "lyric": "лу",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    23,
+    26
+   ],
+   "lyrics": "не чер ты дале кой, бед ной де вы.",
+   "translation": "那遥远的、可怜的少女的面容。",
+   "events": [
+    {
+     "id": "ne-poy-krasavitsa-e0097",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "не",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0098",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.25,
+     "lyric": "чер",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0099",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.5,
+     "lyric": "ты",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0100",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.75,
+     "lyric": "да",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0101",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "ле",
+     "syllabic": "end"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0102",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 2.25,
+     "lyric": "кой,",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0103",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 23,
+     "beat": 2.5,
+     "lyric": "бед",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0104",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 2.875,
+     "lyric": "ной",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0105",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 3.875,
+     "lyric": "де",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0106",
+     "pitch": "A#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 4.875,
+     "lyric": "вы.",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0107",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0108",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0109",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0110",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    26,
+    28
+   ],
+   "lyrics": "Я при зрак милый, роковой,",
+   "translation": "那可爱而致命的幻影，",
+   "events": [
+    {
+     "id": "ne-poy-krasavitsa-e0111",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 4.5,
+     "lyric": "Я",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0112",
+     "pitch": "A#3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "при",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0113",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "зрак",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0114",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0115",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "ми",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0116",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 3.5,
+     "lyric": "лый",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0117",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 27,
+     "beat": 4.0,
+     "lyric": "ро",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0118",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 4.75,
+     "lyric": "ко",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0119",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "вой,",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0120",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    28,
+    32
+   ],
+   "lyrics": "те бя у ви дев, за бы ва ю но ты поёшь — И предомной е го я вновь во об ра",
+   "translation": "但你一唱——在我面前",
+   "events": [
+    {
+     "id": "ne-poy-krasavitsa-e0121",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.5,
+     "lyric": "те",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0122",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 28,
+     "beat": 3.0,
+     "lyric": "бя",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0123",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 4.5,
+     "lyric": "у",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0124",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "ви",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0125",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.5,
+     "lyric": "дев,",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0126",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 29,
+     "beat": 2.0,
+     "lyric": "за",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0127",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 2.75,
+     "lyric": "бы",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0128",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 3.0,
+     "lyric": "ва",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0129",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 4.0,
+     "lyric": "ю",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0130",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0131",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0132",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1.5,
+     "lyric": "но",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0133",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.0,
+     "lyric": "ты",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0134",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.5,
+     "lyric": "по",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0135",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 30,
+     "beat": 3.0,
+     "lyric": "ёшь",
+     "syllabic": "end"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0136",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 3.0,
+     "lyric": "—",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0137",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 3.5,
+     "lyric": "И",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0138",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 31,
+     "beat": 4.0,
+     "lyric": "пре",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0139",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 4.75,
+     "lyric": "до",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0140",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "мной",
+     "syllabic": "end"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0141",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.5,
+     "lyric": "е",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0142",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "го",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0143",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "я",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0144",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 3.0,
+     "lyric": "вновь",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0145",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 3.5,
+     "lyric": "во",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0146",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 32,
+     "beat": 4.0,
+     "lyric": "об",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0147",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 4.75,
+     "lyric": "ра",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    33,
+    35
+   ],
+   "lyrics": "жа ю. Не пой,",
+   "translation": "不要唱了，美人，在我面前",
+   "events": [
+    {
+     "id": "ne-poy-krasavitsa-e0148",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "жа",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0149",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2.0,
+     "lyric": "ю.",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0150",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0151",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 33,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0152",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0153",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0154",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 1.5,
+     "lyric": "Не",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0155",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 35,
+     "beat": 2.0,
+     "lyric": "пой,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    35,
+    50
+   ],
+   "lyrics": "кра са ви ца, при мне ты пе сен Гру зии пе",
+   "translation": "不要唱了，美人，在我面前",
+   "events": [
+    {
+     "id": "ne-poy-krasavitsa-e0156",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 35,
+     "beat": 2.75,
+     "lyric": "кра",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0157",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 3.0,
+     "lyric": "са",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0158",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 3.5,
+     "lyric": "ви",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0159",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 35,
+     "beat": 4.0,
+     "lyric": "ца,",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0160",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 35,
+     "beat": 4.75,
+     "lyric": "при",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0161",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "мне",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0162",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0163",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0164",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 3.5,
+     "lyric": "ты",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0165",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 36,
+     "beat": 4.0,
+     "lyric": "пе",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0166",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 4.75,
+     "lyric": "сен",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0167",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "Гру",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0168",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 37,
+     "beat": 1.75,
+     "lyric": "зи",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0169",
+     "pitch": "D3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 2.0,
+     "lyric": "и",
+     "syllabic": "end"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0170",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0171",
+     "pitch": "C#3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 4.0,
+     "lyric": "пе",
+     "syllabic": "single"
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0172",
+     "pitch": "G#3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0173",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0174",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0175",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0176",
+     "pitch": "F#3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0177",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0178",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0179",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0180",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0181",
+     "pitch": "E#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 39,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0182",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0183",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0184",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0185",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0186",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0187",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0188",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0189",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0190",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 41,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0191",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0192",
+     "pitch": "B#3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0193",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0194",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 42,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0195",
+     "pitch": "A3",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 4.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0196",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0197",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0198",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0199",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0200",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0201",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0202",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ne-poy-krasavitsa-e0203",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 195,
+ "restCount": 45,
+ "lyricNoteCount": 104,
+ "pages": 1,
+ "speech": {
+  "voice": "ru_RU-irina-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 8,
+  "slowScale": 1.45
+ }
+}

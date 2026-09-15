@@ -1,0 +1,2284 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "cleopatra-aria",
+ "title": "V’adoro, pupille",
+ "titleZh": "我爱慕你们，明眸",
+ "composer": "G. F. Händel",
+ "opera": "Giulio Cesare in Egitto（《朱利奥·凯撒在埃及》，HWV 17，1724）",
+ "language": "意大利语",
+ "voice": "女高音",
+ "difficulty": "中级",
+ "tempoBpm": 63,
+ "timeSignature": "3/4",
+ "coverage": {
+  "measures": [
+   1,
+   47
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "克娄巴特拉咏叹调主体完整导入（3/4，47 小节）。来源为俄语资料库自动生成的 MusicXML，识别出的 101 个歌词音节已按标准歌词逐一校正；个别音节在原识别中合并（如 “faville”），谱面音符数未改动。"
+ },
+ "range": {
+  "low": "F4",
+  "high": "G5"
+ },
+ "state": "published",
+ "sourceGrade": "D",
+ "role": "克娄巴特拉（Cleopatra）：化名莉迪亚的埃及女王",
+ "genre": "歌剧咏叹调",
+ "sourceStatus": "MXL 原谱（自动识别） · 音节已校正",
+ "sources": [
+  {
+   "name": "Нотный архив Бориса Тараканова · Ария Клеопатры",
+   "url": "https://notes.tarakanov.net/katalog/kompozitsii/ariya-kleopatri/",
+   "format": "MXL（自动生成 MusicXML，声乐与钢琴）",
+   "status": "已解析；歌词按标准文本校正，音高与时值保留原识别结果",
+   "role": "旋律、时值、歌词音节",
+   "grade": "D",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "IMSLP · Giulio Cesare in Egitto, HWV 17",
+   "url": "https://imslp.org/wiki/Giulio_Cesare_in_Egitto,_HWV_17_(Handel,_George_Frideric)",
+   "format": "PDF 总谱（Händel-Gesellschaft）",
+   "status": "用于核对调性、拍号与歌词",
+   "role": "参照原谱",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  },
+  {
+   "name": "Wikipedia · Giulio Cesare",
+   "url": "https://en.wikipedia.org/wiki/Giulio_Cesare",
+   "format": "网页",
+   "status": "背景与剧情校对",
+   "role": "剧情与文本",
+   "grade": "A",
+   "accessed": "2026-09-06"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "V’adoro, pupille, saette d’Amore,",
+   "zh": "我爱慕你们，明眸，爱神的利箭，"
+  },
+  {
+   "text": "le vostre faville son grate nel sen.",
+   "zh": "你们的火花在我胸中如此甜美。"
+  },
+  {
+   "text": "Pietose vi brama il mesto mio core,",
+   "zh": "我忧伤的心渴望你们的怜悯，"
+  },
+  {
+   "text": "ch’ogn’ora vi chiama l’amato suo ben.",
+   "zh": "它时时刻刻呼唤你们——它心爱的人。"
+  }
+ ],
+ "story": {
+  "background": "《朱利奥·凯撒在埃及》由亨德尔作曲、Nicola Haym 编剧，1724 年在伦敦国王剧院首演，是亨德尔最成功的歌剧之一。这段咏叹调出现在第二幕第二场：克娄巴特拉化名 “莉迪亚”，在帕尔纳索斯山的舞台布景中，以缪斯女神的形象出现，用歌声引诱凯撒。舞台上还有第二支小乐队伴奏，这是巴洛克歌剧著名的 “戏中戏” 场景。",
+  "situation": "克娄巴特拉正与弟弟托勒密争夺埃及王位，她需要罗马人凯撒的支持，也真的开始被他吸引。此刻她扮演女神，用最优美、最克制的音乐让凯撒着迷。她想要的是权力和爱情同时到手，害怕的是被看穿身份。",
+  "relationships": "克娄巴特拉是埃及女王、托勒密的姐姐；凯撒是刚到埃及的罗马统帅；她的侍臣尼雷诺协助布置这场表演。这段独唱是两人爱情的起点：凯撒被歌声打动，追上舞台，从此政治联盟变成了爱情线，并推动第三幕的转折。",
+  "intent": "开口要像女神在远处唱歌：音色圆润、气息平稳、装饰音轻。第一句 “V’adoro” 是宣告，随后的 “saette d’Amore” 可以稍带炫耀。第二段 “Pietose vi brama” 情绪转为祈求，音量放轻。回到主题时把装饰音加进去，像一层层撒下的花瓣，但始终不失优雅。",
+  "plain30": "一个女王假扮成女神，对刚见面的罗马统帅唱：我爱你的眼睛，它们像爱神的箭射进我心里。表面是情歌，其实是一场精心设计的政治魅惑。",
+  "arc": "F 大调，3/4 萨拉班德式的慢舞曲，重音在第二拍。旋律以围绕主音回旋的装饰性级进为主，长音上常带颤音和倚音。A 段 “V’adoro” 抒情稳定，B 段 “Pietose” 转向小调色彩、音区略低，情绪更私密；A 段再现时按巴洛克惯例加花，形成 “从容—恳求—更华丽的从容” 的弧线。",
+  "motif": "核心动机是装饰音围绕主音的回旋：“V’a-do-ro” 从主音向上一步再折回，随后每个乐句都以类似的回旋结束。演唱时先只唱骨架音（主音—上邻音—主音），把节奏站稳，再加入颤音和倚音；装饰是点缀，不能拖慢第二拍的重音。",
+  "classroom": [
+   "先读中文，理解 “爱慕” 背后的政治算计。",
+   "慢速读原文，注意 “pupille” 双辅音 l 和 “saette” 双辅音 t 的延长。",
+   "分离元音：只唱 a-o-e-i 的元音链，让长音上的口型不动。",
+   "按 3/4 说话，第二拍稍重，感受萨拉班德。",
+   "听单音旋律，只听骨架音，暂时忽略装饰。",
+   "把歌词放回旋律，先无装饰，再逐句加装饰。",
+   "用正常速度完整演唱，A 段再现时自行加花。"
+  ],
+  "technique": "呼吸：三拍慢舞曲，句尾长音后换气；华彩段先按骨架音安排换气点，再加装饰。咬字：“V’adoro” 的 v 要有声带振动，“pupille” 双 l 延长；“ch’ogn’ora” 读 [koɲˈɔːra]。换声区：女高音在 E5–F5（“saette d’Amore”）处经过换声区，颤音要在气息上做，不靠喉部。高音：最高音 G5 出现在 “faville” 的装饰上，属于轻巧的华彩音，不是戏剧高音，用轻机能、短促而清亮。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “V’adoro, pupille” 呈示围绕主音的回旋装饰动机。"
+   },
+   {
+    "phrase": 3,
+    "note": "第 3 句 “le vostre faville grate nel sen” 回旋动机延长为华彩，落到主音。"
+   },
+   {
+    "phrase": 11,
+    "note": "第 11 句 “Pietose vi brama” B 段转小调色彩，回旋动机音区下移、装饰减少。"
+   },
+   {
+    "phrase": 13,
+    "note": "第 13 句 “ch’ogn’ora vi chiama suo ben” 以回旋收束，da capo 再现时按巴洛克惯例加花。"
+   }
+  ]
+ },
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "V’a-DÒ-ro、pu-PÌL-le（ll）、sa-ÉT-te（tt）、a-MÓ-re、VÒ-stre、fa-VÌL-le（ll）、GRÀ-te、pie-TÓ-se、BRÀ-ma、MÉ-sto、CHIÀ-ma、a-MÀ-to。",
+    "pupille、faville、saette 的双辅音前元音短促。"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "adoro、amore 的 o 闭口 [o]；core 的 o 开口 [ɔ]；sen、ben 的 e 开口 [ɛ]；grate、pietose 的 e 闭口。",
+    "“vostre” 的 o 开口 [ɔ]。"
+   ]
+  },
+  {
+   "title": "r、连读与省略",
+   "items": [
+    "r 弹舌：adoro、amore、vostre、core。",
+    "“V’adoro”“d’Amore”“ch’ogn’ora”“l’amato” 省音；“brama‿il”“mesto‿mio” 连读；“ogn’ora” 的 gn 读 [ɲ]。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    1,
+    3
+   ],
+   "lyrics": "V’adoro, pupille,",
+   "translation": "我爱慕你们，明眸，爱神的利箭，",
+   "events": [
+    {
+     "id": "cleopatra-aria-e0002",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 1,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0003",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 1,
+     "beat": 3.0,
+     "lyric": "V’a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0004",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "do",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cleopatra-aria-e0005",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 2,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0006",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 2.0,
+     "lyric": "ro,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0007",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0008",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 3.5,
+     "lyric": "pu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0009",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "pil",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cleopatra-aria-e0010",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0011",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "le,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0012",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    3,
+    5
+   ],
+   "lyrics": "saette d’Amore,",
+   "translation": "我爱慕你们，明眸，爱神的利箭，",
+   "events": [
+    {
+     "id": "cleopatra-aria-e0013",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 3.5,
+     "lyric": "sa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0014",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "et",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cleopatra-aria-e0015",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0016",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.0,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0017",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0018",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0019",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0020",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 3.5,
+     "lyric": "d’A",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0021",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "mo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cleopatra-aria-e0022",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 1.75,
+     "lyric": "re,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0023",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0024",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    5,
+    9
+   ],
+   "lyrics": "le vostre faville grate nel sen.",
+   "translation": "你们的火花在我胸中如此甜美。",
+   "events": [
+    {
+     "id": "cleopatra-aria-e0025",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.5,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0026",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "vo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0027",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 2.5,
+     "lyric": "stre",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0028",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0029",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "favil",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0030",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0031",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0032",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "gra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0033",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0034",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0035",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.5,
+     "lyric": "nel",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0036",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "sen.",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0037",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    9,
+    10
+   ],
+   "lyrics": "V’adoro,",
+   "translation": "我爱慕你们，明眸，爱神的利箭，",
+   "events": [
+    {
+     "id": "cleopatra-aria-e0038",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.5,
+     "lyric": "V’a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0039",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "do",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cleopatra-aria-e0040",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "ro,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0041",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    11,
+    15
+   ],
+   "lyrics": "pupille, le vostre faville son grate,",
+   "translation": "你们的火花在我胸中如此甜美。",
+   "events": [
+    {
+     "id": "cleopatra-aria-e0042",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "pupil",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0043",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0044",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "le,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0045",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0046",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "vo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0047",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0048",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "stre",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0049",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "fa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0050",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0051",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "vil",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cleopatra-aria-e0052",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0053",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "son",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0054",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "gra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0055",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.75,
+     "lyric": "te,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0056",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0057",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0058",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0059",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0060",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    15,
+    18
+   ],
+   "lyrics": "son grate nel sen.",
+   "translation": "你们的火花在我胸中如此甜美。",
+   "events": [
+    {
+     "id": "cleopatra-aria-e0061",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 3.5,
+     "lyric": "son",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0062",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "gra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0063",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0064",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0065",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0066",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.5,
+     "lyric": "nel",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0067",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "sen.",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0068",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0069",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0070",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0071",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0072",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0073",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0074",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    18,
+    20
+   ],
+   "lyrics": "V’adoro, pupille,",
+   "translation": "我爱慕你们，明眸，爱神的利箭，",
+   "events": [
+    {
+     "id": "cleopatra-aria-e0075",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.5,
+     "lyric": "V’a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0076",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "do",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cleopatra-aria-e0077",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0078",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "ro,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0079",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0080",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 3.5,
+     "lyric": "pu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0081",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "pil",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cleopatra-aria-e0082",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 1.75,
+     "lyric": "le,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0083",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0084",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    20,
+    22
+   ],
+   "lyrics": "saette d’Amore,",
+   "translation": "我爱慕你们，明眸，爱神的利箭，",
+   "events": [
+    {
+     "id": "cleopatra-aria-e0085",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3.5,
+     "lyric": "sa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0086",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "et",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cleopatra-aria-e0087",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 1.75,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0088",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0089",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0090",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3.5,
+     "lyric": "d’A",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0091",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "mo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cleopatra-aria-e0092",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0093",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "re,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0094",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    22,
+    27
+   ],
+   "lyrics": "le vostre faville grate nel sen,",
+   "translation": "你们的火花在我胸中如此甜美。",
+   "events": [
+    {
+     "id": "cleopatra-aria-e0095",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3.5,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0096",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "vo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0097",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 2.5,
+     "lyric": "stre",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0098",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0099",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "favil",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0100",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 2.5,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0101",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0102",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0103",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0104",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "gra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0105",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0106",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 3.75,
+     "lyric": "nel",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0107",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "sen,",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0108",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0109",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0110",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0111",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0112",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 27,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0113",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 27,
+     "beat": 1.875,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0114",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0115",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 27,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0116",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 27,
+     "beat": 2.875,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0117",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    27,
+    35
+   ],
+   "lyrics": "le vostre faville son grate nel sen.",
+   "translation": "你们的火花在我胸中如此甜美。",
+   "events": [
+    {
+     "id": "cleopatra-aria-e0118",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 3.75,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0119",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "vo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0120",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0121",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "stre",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0122",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0123",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 28,
+     "beat": 3.0,
+     "lyric": "fa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0124",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0125",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "vil",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cleopatra-aria-e0126",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2.5,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0127",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0128",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 3.5,
+     "lyric": "son",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0129",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "gra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0130",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0131",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0132",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 30,
+     "beat": 3.0,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0133",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 3.75,
+     "lyric": "nel",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0134",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "sen.",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0135",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0136",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0137",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0138",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0139",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    35,
+    39
+   ],
+   "lyrics": "Pietose vi brama il mesto mio core,",
+   "translation": "我忧伤的心渴望你们的怜悯，",
+   "events": [
+    {
+     "id": "cleopatra-aria-e0140",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 3.0,
+     "lyric": "Pie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0141",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "to",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cleopatra-aria-e0142",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 2.0,
+     "lyric": "se",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0143",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0144",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 3.5,
+     "lyric": "vi",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0145",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "bra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0146",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0147",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0148",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 3.5,
+     "lyric": "ma il",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0149",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "me",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0150",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0151",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0152",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0153",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 3.0,
+     "lyric": "sto mio",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0154",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0155",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "co",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0156",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0157",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 2.0,
+     "lyric": "re,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0158",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    39,
+    43
+   ],
+   "lyrics": "ch’ogn’ora vi chiama l’amato suo ben,",
+   "translation": "它时时刻刻呼唤你们——它心爱的人。",
+   "events": [
+    {
+     "id": "cleopatra-aria-e0159",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 3.5,
+     "lyric": "ch’o",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0160",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "gn’o",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cleopatra-aria-e0161",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0162",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.0,
+     "lyric": "ra",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0163",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0164",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 3.0,
+     "lyric": "vi",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0165",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0166",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "chia",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0167",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0168",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 2.0,
+     "lyric": "ma",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0169",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0170",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 3.5,
+     "lyric": "l’a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0171",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "ma",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cleopatra-aria-e0172",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0173",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 42,
+     "beat": 2.0,
+     "lyric": "to",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0174",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 42,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0175",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 42,
+     "beat": 2.875,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0176",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 42,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0177",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 3.75,
+     "lyric": "suo",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0178",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "ben,",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0179",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0180",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0181",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    43,
+    47
+   ],
+   "lyrics": "ch’ogn’ora vi chiama suo ben.",
+   "translation": "它时时刻刻呼唤你们——它心爱的人。",
+   "events": [
+    {
+     "id": "cleopatra-aria-e0182",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 3.0,
+     "lyric": "ch’o",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0183",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0184",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "gn’o",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cleopatra-aria-e0185",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.5,
+     "lyric": "ra",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0186",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0187",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.5,
+     "lyric": "vi",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0188",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0189",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0190",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "chia",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cleopatra-aria-e0191",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 2.0,
+     "lyric": "ma",
+     "syllabic": "end"
+    },
+    {
+     "id": "cleopatra-aria-e0192",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0193",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0194",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0195",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 46,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0196",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.125,
+     "measure": 46,
+     "beat": 1.875,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0197",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0198",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 46,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cleopatra-aria-e0199",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 46,
+     "beat": 3.0,
+     "lyric": "suo",
+     "syllabic": "single"
+    },
+    {
+     "id": "cleopatra-aria-e0200",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "ben.",
+     "syllabic": "single"
+    }
+   ]
+  }
+ ],
+ "eventCount": 199,
+ "restCount": 23,
+ "lyricNoteCount": 101,
+ "pages": 1,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 13,
+  "slowScale": 1.45
+ }
+}

@@ -1,0 +1,1005 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "she-never-told",
+ "title": "She Never Told Her Love",
+ "titleZh": "她从未说出她的爱",
+ "composer": "J. Haydn",
+ "opera": "English Canzonettas, Hob. XXVIa:34（1795；词出自莎士比亚《第十二夜》第二幕第四场）",
+ "language": "英语",
+ "voice": "女高音",
+ "difficulty": "基础",
+ "tempoBpm": 54,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   39
+  ],
+  "firstSungMeasure": 14,
+  "complete": true,
+  "note": "完整声乐旋律（4/4 Largo assai，39 小节，含长钢琴前奏），51 个英语音节；OpenScore 据 1795 年伦敦初版转写，已与 IMSLP 核对。"
+ },
+ "range": {
+  "low": "D4",
+  "high": "F5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "薇奥拉（Viola）：假扮男仆、暗恋公爵的女子（借“姐姐”的故事说自己）",
+ "genre": "英语坎佐内塔",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Haydn,_Joseph/10_Canzonets/9_She_never_told_her_love,_Hob.XXVIa34",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Haydn,_Joseph/10_Canzonets/9_She_never_told_her_love,_Hob.XXVIa34",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；51 个音节与 1795 年初版核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/6474469"
+  },
+  {
+   "name": "IMSLP · 6 Original Canzonettas, Hob.XXVIa:31-36 (Haydn, Joseph)",
+   "url": "https://imslp.org/wiki/6_Original_Canzonettas,_Hob.XXVIa:31-36_(Haydn,_Joseph)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "Wikisource · Twelfth Night, Act II Scene 4",
+   "url": "https://en.wikisource.org/wiki/Twelfth_Night_(Shakespeare)",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "She never told her love,",
+   "zh": "她从未说出她的爱，"
+  },
+  {
+   "text": "but let concealment, like a worm in the bud, feed on her damask cheek.",
+   "zh": "只让隐忍像蓓蕾里的蛀虫，啃食她绯红的脸颊。"
+  },
+  {
+   "text": "She sat, like Patience on a monument, smiling at grief.",
+   "zh": "她坐着，像纪念碑上的“忍耐”雕像，对悲伤微笑。"
+  }
+ ],
+ "story": {
+  "background": "海顿 1795 年第二次访问伦敦期间创作了第二集《英语坎佐内塔》，歌词选用莎士比亚《第十二夜》中薇奥拉的台词。4/4 Largo assai，长达十余小节的钢琴前奏几乎是一首独立的慢板，声乐部分只有三句，是海顿最深沉的英语歌曲。",
+  "situation": "女扮男装的薇奥拉暗恋公爵奥西诺，却要替他向奥丽维亚传情。公爵问她是否有过恋爱，她只能说“我父亲有一个女儿爱上了一个男人”——然后讲这个“姐姐”如何把爱藏在心里，像蓓蕾里的蛀虫，坐在那里对悲伤微笑。她说的是自己。",
+  "relationships": "薇奥拉（歌者，化名切萨里奥）与公爵奥西诺（听众，不知道她是女人）。歌曲是隐藏身份下的自白：她描述“她”，公爵听到的是一个故事，观众听到的是告白。",
+  "intent": "开口要极静、极慢，像不敢说出口；“but let concealment” 略带痛感，“feed on her damask cheek” 声音变暗。“She sat, like Patience” 转为一种平静的尊严；“smiling at grief” 反复时，第一次微笑、第二次悲伤，最后收成最弱的长音。全曲不能用力——它的力量在克制。",
+  "plain30": "一个女扮男装的女孩暗恋着主人，却只能说“我有个姐姐也这样爱过一个人”，然后描述那份藏在心里的爱如何把她啃食。她在讲自己。",
+  "arc": "4/4 Largo assai。长钢琴前奏在小调与大调间徘徊；声乐进入后旋律以宽广的级进和长音构成，“concealment” 处出现半音下行，“feed on her damask cheek” 音区下沉；“She sat, like Patience” 回到大调、音区抬高，“smiling at grief” 两次反复以长音结束。情绪：隐忍—痛—尊严—平静的悲伤。",
+  "motif": "核心动机是 “She ne-ver told” 的长音加半音下行：说不出口的叹息。它在 “concealment” 处以半音进行再现，在 “smiling at grief” 处拉长为全曲最长的音。演唱时半音要唱准、唱轻，不要滑。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “She never told her love” 长音加半音下行动机首次出现。"
+   },
+   {
+    "phrase": 2,
+    "note": "第 2 句 “but let concealment” 动机以半音进行再现，痛感。"
+   },
+   {
+    "phrase": 3,
+    "note": "第 3 句 “She sat, like Patience” 动机转大调抬高，尊严。"
+   },
+   {
+    "phrase": 3,
+    "note": "第 3 句末 “smiling at grief” 动机拉长为最长音，反复两次。"
+   }
+  ],
+  "technique": "呼吸：极慢速，长音多，每句前吸足并保持均匀气流。咬字：英语词尾辅音（told、bud、cheek、sat）收清；th 清晰。换声区：女高音在 E5–F5（“damask”“Patience”）经过换声区，保持轻。高音：最高音 F5 在 “Patience” 或 “grief”，是克制的抬头，不是爆发；长音上不要加力。",
+  "classroom": [
+   "先读中文，弄清“她”其实是“我”。",
+   "慢速读英语，标出重读音节。",
+   "分离元音：练长元音 [iː]、[ɜː] 的稳定。",
+   "按 4/4 极慢速说词，体会长音。",
+   "听单音旋律，注意半音下行。",
+   "把歌词放回旋律，先练第一句的长音，再练反复。",
+   "用正常速度完整演唱，全曲不超过中等音量。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "重读与弱读",
+   "items": [
+    "she NEV-er TOLD her LOVE——told 与 love 重读；con-CEAL-ment 重音在第二音节；DAM-ask、MON-u-ment、PA-tience。",
+    "“like a worm in the bud” 中 a、in、the 弱读。"
+   ]
+  },
+  {
+   "title": "舞台英语",
+   "items": [
+    "英式舞台发音：her [hɜː]、worm [wɜːm] 词尾 r 不卷；grief [ɡriːf] 长元音。",
+    "“damask” 读 [ˈdæməsk]；“Patience” [ˈpeɪʃəns]。"
+   ]
+  },
+  {
+   "title": "元音与长音",
+   "items": [
+    "love [ʌ]、bud [ʌ]、cheek [iː]、sat [æ]、smiling [aɪ]。",
+    "“grief” 的长音在旋律上反复延长，保持 [iː] 不变形。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    14,
+    16
+   ],
+   "lyrics": "She never told her love,",
+   "translation": "她从未说出她的爱，",
+   "events": [
+    {
+     "id": "she-never-told-e0015",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 14,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0016",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 4,
+     "lyric": "She",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0017",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "ne",
+     "syllabic": "begin"
+    },
+    {
+     "id": "she-never-told-e0018",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "ver",
+     "syllabic": "end"
+    },
+    {
+     "id": "she-never-told-e0019",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1,
+     "measure": 15,
+     "beat": 3,
+     "lyric": "told",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0020",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 15,
+     "beat": 4,
+     "lyric": "her",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0021",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 3,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "love,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    16,
+    19
+   ],
+   "lyrics": "she never told her love But let concealment,",
+   "translation": "她从未说出她的爱，",
+   "events": [
+    {
+     "id": "she-never-told-e0022",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 16,
+     "beat": 4,
+     "lyric": "she",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0023",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "ne",
+     "syllabic": "begin"
+    },
+    {
+     "id": "she-never-told-e0024",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "ver",
+     "syllabic": "end"
+    },
+    {
+     "id": "she-never-told-e0025",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 17,
+     "beat": 3,
+     "lyric": "told",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0026",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 4,
+     "lyric": "her",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0027",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 4.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0028",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2,
+     "measure": 18,
+     "beat": 1,
+     "lyric": "love",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0029",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0030",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.5,
+     "lyric": "But",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0031",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 4,
+     "lyric": "let",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0032",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 4.5,
+     "lyric": "con",
+     "syllabic": "begin"
+    },
+    {
+     "id": "she-never-told-e0033",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 1,
+     "lyric": "ceal",
+     "syllabic": "middle"
+    },
+    {
+     "id": "she-never-told-e0034",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0035",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 19,
+     "beat": 2,
+     "lyric": "ment,",
+     "syllabic": "end"
+    },
+    {
+     "id": "she-never-told-e0036",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 19,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    19,
+    21
+   ],
+   "lyrics": "like a worm in the bud,",
+   "translation": "只让隐忍像蓓蕾里的蛀虫，啃食她绯红的脸颊。",
+   "events": [
+    {
+     "id": "she-never-told-e0037",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 4,
+     "lyric": "like",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0038",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 4.75,
+     "lyric": "a",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0039",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2,
+     "measure": 20,
+     "beat": 1,
+     "lyric": "worm",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0040",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 20,
+     "beat": 3,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0041",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 4.5,
+     "lyric": "the",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0042",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2,
+     "measure": 21,
+     "beat": 1,
+     "lyric": "bud,",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0043",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 21,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    22,
+    27
+   ],
+   "lyrics": "Feed on her damask cheek.",
+   "translation": "只让隐忍像蓓蕾里的蛀虫，啃食她绯红的脸颊。",
+   "events": [
+    {
+     "id": "she-never-told-e0044",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 22,
+     "beat": 1,
+     "lyric": "Feed",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0045",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 22,
+     "beat": 3,
+     "lyric": "on",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0046",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1,
+     "measure": 22,
+     "beat": 4,
+     "lyric": "her",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0047",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 3,
+     "measure": 23,
+     "beat": 1,
+     "lyric": "da",
+     "syllabic": "begin"
+    },
+    {
+     "id": "she-never-told-e0048",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1,
+     "measure": 23,
+     "beat": 4,
+     "lyric": "mask",
+     "syllabic": "end"
+    },
+    {
+     "id": "she-never-told-e0049",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 2,
+     "measure": 24,
+     "beat": 1,
+     "lyric": "cheek.",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0050",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 24,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0051",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 25,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0052",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 26,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0053",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 27,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0054",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 27,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    27,
+    30
+   ],
+   "lyrics": "She sat, like Patience on a monument,",
+   "translation": "她坐着，像纪念碑上的“忍耐”雕像，对悲伤微笑。",
+   "events": [
+    {
+     "id": "she-never-told-e0055",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 27,
+     "beat": 4,
+     "lyric": "She",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0056",
+     "pitch": "Fb4",
+     "rest": false,
+     "duration": 3,
+     "measure": 28,
+     "beat": 1,
+     "lyric": "sat,",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0057",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 28,
+     "beat": 4,
+     "lyric": "like",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0058",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 29,
+     "beat": 1,
+     "lyric": "Pa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "she-never-told-e0059",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 29,
+     "beat": 2,
+     "lyric": "tience",
+     "syllabic": "end"
+    },
+    {
+     "id": "she-never-told-e0060",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 29,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0061",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 29,
+     "beat": 4,
+     "lyric": "on",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0062",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 4.75,
+     "lyric": "a",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0063",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 30,
+     "beat": 1,
+     "lyric": "mo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "she-never-told-e0064",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.5,
+     "lyric": "nu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "she-never-told-e0065",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2,
+     "measure": 30,
+     "beat": 3,
+     "lyric": "ment,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    31,
+    34
+   ],
+   "lyrics": "Smiling, smiling at grief",
+   "translation": "她坐着，像纪念碑上的“忍耐”雕像，对悲伤微笑。",
+   "events": [
+    {
+     "id": "she-never-told-e0066",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 2,
+     "measure": 31,
+     "beat": 1,
+     "lyric": "Smil",
+     "syllabic": "begin"
+    },
+    {
+     "id": "she-never-told-e0067",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 31,
+     "beat": 3,
+     "lyric": "ing,",
+     "syllabic": "end"
+    },
+    {
+     "id": "she-never-told-e0068",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 32,
+     "beat": 1,
+     "lyric": "smi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "she-never-told-e0069",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0070",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0071",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0072",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0073",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 32,
+     "beat": 3,
+     "lyric": "ling",
+     "syllabic": "end"
+    },
+    {
+     "id": "she-never-told-e0074",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 32,
+     "beat": 4,
+     "lyric": "at",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0075",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 4.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0076",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2,
+     "measure": 33,
+     "beat": 1,
+     "lyric": "grief",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0077",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 33,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0078",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 34,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    35,
+    39
+   ],
+   "lyrics": "Smiling, smiling at grief.",
+   "translation": "她坐着，像纪念碑上的“忍耐”雕像，对悲伤微笑。",
+   "events": [
+    {
+     "id": "she-never-told-e0079",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 35,
+     "beat": 1,
+     "lyric": "Smi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "she-never-told-e0080",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0081",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2,
+     "measure": 35,
+     "beat": 3,
+     "lyric": "ling,",
+     "syllabic": "end"
+    },
+    {
+     "id": "she-never-told-e0082",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 36,
+     "beat": 1,
+     "lyric": "smi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "she-never-told-e0083",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0084",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0085",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0086",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0087",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 36,
+     "beat": 3,
+     "lyric": "ling",
+     "syllabic": "end"
+    },
+    {
+     "id": "she-never-told-e0088",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 36,
+     "beat": 4,
+     "lyric": "at",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0089",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2,
+     "measure": 37,
+     "beat": 1,
+     "lyric": "grief.",
+     "syllabic": "single"
+    },
+    {
+     "id": "she-never-told-e0090",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 37,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0091",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 38,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "she-never-told-e0092",
+     "pitch": null,
+     "rest": true,
+     "duration": 4,
+     "measure": 39,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 78,
+ "restCount": 15,
+ "lyricNoteCount": 51,
+ "pages": 1,
+ "speech": {
+  "voice": "en_GB-southern_english_female-low",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 7,
+  "slowScale": 1.45
+ }
+}

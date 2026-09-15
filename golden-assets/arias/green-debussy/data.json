@@ -1,0 +1,2212 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "green-debussy",
+ "title": "Green",
+ "titleZh": "绿",
+ "composer": "C. Debussy",
+ "opera": "Ariettes oubliées, No. 5（1888；诗：P. Verlaine）",
+ "language": "法语",
+ "voice": "女高音",
+ "difficulty": "中级",
+ "tempoBpm": 66,
+ "timeSignature": "6/8",
+ "coverage": {
+  "measures": [
+   1,
+   58
+  ],
+  "firstSungMeasure": 5,
+  "complete": true,
+  "note": "完整声乐旋律（降A 大调，4/4，温柔而热切）。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "C4",
+  "high": "Ab5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主人公（献上花果的恋人）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Voici des fruits, des fleurs, des feuilles et des branches",
+   "zh": "这是水果、鲜花、树叶和枝条，"
+  },
+  {
+   "text": "et puis voici mon cœur qui ne bat que pour vous.",
+   "zh": "还有我的心——它只为你跳动。"
+  },
+  {
+   "text": "Ne le déchirez pas avec vos deux mains blanches",
+   "zh": "请不要用你白皙的双手将它撕碎，"
+  },
+  {
+   "text": "et qu'à vos yeux si beaux l'humble présent soit doux.",
+   "zh": "愿这谦卑的礼物在你美丽的眼中是甜蜜的。"
+  },
+  {
+   "text": "J'arrive tout couvert encore de rosée",
+   "zh": "我来到这里，还沾满露水——"
+  },
+  {
+   "text": "que le vent du matin vient glacer à mon front.",
+   "zh": "清晨的风把它凝在我的额头上。"
+  },
+  {
+   "text": "Souffrez que ma fatigue à vos pieds reposée",
+   "zh": "请允许我的疲惫在你脚边安歇，"
+  },
+  {
+   "text": "rêve des chers instants qui la délasseront.",
+   "zh": "梦见那些将使它得到安息的美好时刻。"
+  },
+  {
+   "text": "Sur votre jeune sein laissez rouler ma tête",
+   "zh": "让我的头靠在你年轻的胸前，"
+  },
+  {
+   "text": "toute sonore encor de vos derniers baisers;",
+   "zh": "它还回响着你最后的亲吻；"
+  },
+  {
+   "text": "laissez-la s'apaiser de la bonne tempête,",
+   "zh": "让它从美好的风暴中平息，"
+  },
+  {
+   "text": "et que je dorme un peu puisque vous reposez.",
+   "zh": "让我小睡一会儿，因为你也在休息。"
+  }
+ ],
+ "story": {
+  "background": "德布西为魏尔兰的「绿」谱曲时，这首诗已经有福雷的版本（Op.58 No.3）。两个版本风格截然不同：福雷的版本热烈奔放，德布西的版本则更内敛、更私密。魏尔兰的诗描绘了一个清晨带着花果和露水来到爱人身边的人——他献出一切，然后请求安歇。",
+  "situation": "清晨。歌者穿过花园和露水来到爱人身边，带来了水果、花朵和枝条——以及他的心。他请求她温柔地对待他的心，允许他把疲惫的头靠在她的胸前小睡。这是一个经历了整夜相思或旅程的人在黎明到达的时刻。",
+  "relationships": "歌者与爱人——用「vous」（您）而非「tu」（你），保持一种尊敬而热切的距离。他既大胆（带来心和亲吻）又谦卑（称礼物为「humble présent」，请求「laissez」允许）。",
+  "intent": "开头要有节奏感和热切——像是气喘吁吁地带来礼物。「Voici des fruits」一个一个列举，声音越来越温柔。第二段转入疲惫——「tout couvert encore de rosée」声音放慢、变轻。第三段是最亲密的时刻——「Sur votre jeune sein」要极度温柔，「et que je dorme un peu」像是真的要睡着了。",
+  "plain30": "清晨带着花果和露水来到你身边：这是我的心，它只为你跳动。我还沾着露水，让我的头靠在你胸前，让我小睡一会儿。一首关于献出一切然后在爱人身边安歇的歌。",
+  "arc": "降A 大调，4/4，中速。开头有推进力——一连串的「des...des...des...」像是在列举。钢琴的伴奏起初活跃，到第二段放缓。第三段是最安静的部分——旋律在中低音区轻轻流动，钢琴变成摇篮般的和弦。最后在降A 大调上以 ppp 消失——入睡。",
+  "motif": "献礼动机：开头「Voici des fruits」的列举式旋律——每个「des」都在同一音高，像在一件件展示礼物。心跳动机：「mon cœur qui ne bat que pour vous」的脉动节奏。安歇动机：第三段的下行旋律——从高音缓缓落下，像头慢慢靠在枕头上。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "「Voici des fruits, des fleurs」——献礼动机，热切的列举"
+   },
+   {
+    "phrase": "2",
+    "note": "「mon cœur qui ne bat que pour vous」——全曲最深情的告白"
+   },
+   {
+    "phrase": "5",
+    "note": "「J'arrive tout couvert encore de rosée」——清晨的露水，节奏放缓"
+   },
+   {
+    "phrase": "11",
+    "note": "「et que je dorme un peu」——入睡动机，消失在安宁中"
+   }
+  ],
+  "technique": "需要在热切和温柔之间快速切换。开头的列举需要清晰的法语咬字和向前的推力。第二段需要在放慢速度时保持声音的连贯。第三段的极弱演唱要保持气息支撑——「Sur votre jeune sein」的长乐句不能中断。最后渐弱到消失的控制是全曲的难点。",
+  "classroom": [
+   "先读中文——这首歌讲的是「带着礼物来到你身边，然后在你怀里睡着」。",
+   "朗读法语，用两种语速：前四行快（热切），后四行慢（疲惫→安歇）。",
+   "练习「Voici des...des...des...」的列举——每个词都清晰但不生硬。",
+   "练习半元音 [ɥ] 在 fruits 中的发音——唇形从圆到展要迅速。",
+   "哼唱旋律——标记从热切到安歇的转折点。",
+   "半速完整演唱——注意第三段的渐弱控制。",
+   "原速演唱。这首歌和福雷的同名版本是一对很好的比较——可以先后演唱，感受两位作曲家的不同处理。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "法语元音",
+   "items": [
+    "fruits [fʁɥi]——半元音 [ɥ] 接 [i]，唇形从圆到展",
+    "feuilles [fœj]——eu [œ] 接半元音 [j]",
+    "cœur [kœʁ]——开口的 œ，与 fleurs [flœʁ] 相同",
+    "beaux [bo]——闭口 o，不是鼻化"
+   ]
+  },
+  {
+   "title": "法语联诵",
+   "items": [
+    "des fruits [defʁɥi] 不联诵，但 des branches [debʁɑ̃ʃ] 也不联诵",
+    "vos yeux [vozjø]——s 联诵为 [z]",
+    "tout couvert [tukuvɛʁ]——t 联诵到 c"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    5,
+    7
+   ],
+   "lyrics": "Voici des fruits des fleurs, des feuilles,",
+   "translation": "这是水果、鲜花、树叶和枝条，",
+   "events": [
+    {
+     "id": "green-debussy-e0005",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0006",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 5,
+     "beat": 1.5,
+     "lyric": "Voi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0007",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "ci",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0008",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0009",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "fruits",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0010",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 1.5,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0011",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "fleurs,",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0012",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.667,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0013",
+     "pitch": "Ab5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "feuil",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0014",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1.667,
+     "lyric": "les,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    7,
+    11
+   ],
+   "lyrics": "et des branches Et puis voici mon coeur qui ne bat que pour",
+   "translation": "还有我的心——它只为你跳动。",
+   "events": [
+    {
+     "id": "green-debussy-e0015",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "et",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0016",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0017",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.667,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0018",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "bran",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0019",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "ches",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0020",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0021",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0022",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "Et",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0023",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "puis",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0024",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "voi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0025",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "ci",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0026",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 1.5,
+     "lyric": "mon",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0027",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "coeur",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0028",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0029",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.333,
+     "lyric": "qui",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0030",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.667,
+     "lyric": "ne",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0031",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "bat",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0032",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.333,
+     "lyric": "que",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0033",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.667,
+     "lyric": "pour",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    12,
+    15
+   ],
+   "lyrics": "vous Ne le déchirez pas avec vos",
+   "translation": "请不要用你白皙的双手将它撕碎，",
+   "events": [
+    {
+     "id": "green-debussy-e0034",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "vous",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0035",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0036",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0037",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "Ne",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0038",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0039",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "dé",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0040",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "chi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "green-debussy-e0041",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "rez",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0042",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "pas",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0043",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0044",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 1.5,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0045",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "vec",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0046",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "vos",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    16,
+    19
+   ],
+   "lyrics": "deux mains blanches, Et qu'à vos yeux si beaux l'humble présent soit",
+   "translation": "愿这谦卑的礼物在你美丽的眼中是甜蜜的。",
+   "events": [
+    {
+     "id": "green-debussy-e0047",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "deux",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0048",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 1.5,
+     "lyric": "mains",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0049",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "blanches,",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0050",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0051",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0052",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 1.5,
+     "lyric": "Et",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0053",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "qu'à",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0054",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "vos",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0055",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "yeux",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0056",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 1.5,
+     "lyric": "si",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0057",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "beaux",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0058",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1.333,
+     "lyric": "l'hum",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0059",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1.667,
+     "lyric": "ble",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0060",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "pré",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0061",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.333,
+     "lyric": "sent",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0062",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.667,
+     "lyric": "soit",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    20,
+    24
+   ],
+   "lyrics": "doux. J'arrive",
+   "translation": "我来到这里，还沾满露水——",
+   "events": [
+    {
+     "id": "green-debussy-e0063",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "doux.",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0064",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0065",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0066",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0067",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0068",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0069",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0070",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 24,
+     "beat": 1.5,
+     "lyric": "J'ar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0071",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 24,
+     "beat": 2.0,
+     "lyric": "ri",
+     "syllabic": "middle"
+    },
+    {
+     "id": "green-debussy-e0072",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 24,
+     "beat": 2.5,
+     "lyric": "ve",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    25,
+    29
+   ],
+   "lyrics": "tout couvert encore de rosée Que le vent du matin vient glacer à mon",
+   "translation": "清晨的风把它凝在我的额头上。",
+   "events": [
+    {
+     "id": "green-debussy-e0073",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "tout",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0074",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 25,
+     "beat": 1.5,
+     "lyric": "cou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0075",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "vert",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0076",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 25,
+     "beat": 2.5,
+     "lyric": "en",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0077",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "co",
+     "syllabic": "middle"
+    },
+    {
+     "id": "green-debussy-e0078",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 1.667,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0079",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0080",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0081",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.667,
+     "lyric": "ro",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0082",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "sé",
+     "syllabic": "middle"
+    },
+    {
+     "id": "green-debussy-e0083",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "e",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0084",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0085",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0086",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.333,
+     "lyric": "Que",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0087",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.667,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0088",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "vent",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0089",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.333,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0090",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.667,
+     "lyric": "ma",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0091",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "tin",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0092",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.333,
+     "lyric": "vient",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0093",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.667,
+     "lyric": "gla",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0094",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2.0,
+     "lyric": "cer",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0095",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2.333,
+     "lyric": "à",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0096",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2.667,
+     "lyric": "mon",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    30,
+    36
+   ],
+   "lyrics": "front Souffrez que ma fatigue à vos pieds reposée Rêve",
+   "translation": "请允许我的疲惫在你脚边安歇，",
+   "events": [
+    {
+     "id": "green-debussy-e0097",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "front",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0098",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0099",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0100",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0101",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0102",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 32,
+     "beat": 1.5,
+     "lyric": "Souf",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0103",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "frez",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0104",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "que",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0105",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0106",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 33,
+     "beat": 1.5,
+     "lyric": "fa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0107",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 33,
+     "beat": 2.0,
+     "lyric": "ti",
+     "syllabic": "middle"
+    },
+    {
+     "id": "green-debussy-e0108",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.375,
+     "measure": 33,
+     "beat": 2.5,
+     "lyric": "gue",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0109",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.375,
+     "measure": 33,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0110",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0111",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.333,
+     "lyric": "à",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0112",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.667,
+     "lyric": "vos",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0113",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 2.0,
+     "lyric": "pieds",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0114",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 2.333,
+     "lyric": "re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0115",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 2.667,
+     "lyric": "po",
+     "syllabic": "middle"
+    },
+    {
+     "id": "green-debussy-e0116",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "sé",
+     "syllabic": "middle"
+    },
+    {
+     "id": "green-debussy-e0117",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 2.0,
+     "lyric": "e",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0118",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0119",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0120",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 36,
+     "beat": 1.5,
+     "lyric": "Rê",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0121",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 36,
+     "beat": 2.0,
+     "lyric": "ve",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    36,
+    42
+   ],
+   "lyrics": "des chers instants qui la délasserout.",
+   "translation": "梦见那些将使它得到安息的美好时刻。",
+   "events": [
+    {
+     "id": "green-debussy-e0122",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 36,
+     "beat": 2.5,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0123",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "chers",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0124",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 37,
+     "beat": 1.5,
+     "lyric": "ins",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0125",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 37,
+     "beat": 2.0,
+     "lyric": "tants",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0126",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 37,
+     "beat": 2.5,
+     "lyric": "qui",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0127",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0128",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 38,
+     "beat": 1.5,
+     "lyric": "dé",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0129",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "las",
+     "syllabic": "middle"
+    },
+    {
+     "id": "green-debussy-e0130",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 38,
+     "beat": 2.5,
+     "lyric": "se",
+     "syllabic": "middle"
+    },
+    {
+     "id": "green-debussy-e0131",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "rout.",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0132",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0133",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0134",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0135",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    42,
+    46
+   ],
+   "lyrics": "Sur votre jeune sein, laissez rouler ma tête Toute so",
+   "translation": "让我的头靠在你年轻的胸前，",
+   "events": [
+    {
+     "id": "green-debussy-e0136",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 42,
+     "beat": 1.5,
+     "lyric": "Sur",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0137",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 42,
+     "beat": 2.0,
+     "lyric": "vo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0138",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 42,
+     "beat": 2.5,
+     "lyric": "tre",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0139",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "jeu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0140",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 43,
+     "beat": 1.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0141",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 2.0,
+     "lyric": "sein,",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0142",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.667,
+     "lyric": "lais",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0143",
+     "pitch": "Ab5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "sez",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0144",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.667,
+     "lyric": "rou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0145",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.0,
+     "lyric": "ler",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0146",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0147",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.667,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0148",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "tê",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0149",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 45,
+     "beat": 2.0,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0150",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0151",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 46,
+     "beat": 1.5,
+     "lyric": "Tou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0152",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 46,
+     "beat": 2.0,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0153",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 46,
+     "beat": 2.5,
+     "lyric": "so",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    47,
+    53
+   ],
+   "lyrics": "nore encore de vos derniers baisers Laissez la s'apaiser de la bonne tempête,",
+   "translation": "让它从美好的风暴中平息，",
+   "events": [
+    {
+     "id": "green-debussy-e0154",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "nore",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0155",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 47,
+     "beat": 1.5,
+     "lyric": "en",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0156",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 47,
+     "beat": 2.0,
+     "lyric": "co",
+     "syllabic": "middle"
+    },
+    {
+     "id": "green-debussy-e0157",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.667,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0158",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0159",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1.333,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0160",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1.667,
+     "lyric": "vos",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0161",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2.0,
+     "lyric": "der",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0162",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2.333,
+     "lyric": "niers",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0163",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2.667,
+     "lyric": "bai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0164",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "sers",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0165",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0166",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0167",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 1.333,
+     "lyric": "Lais",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0168",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 1.667,
+     "lyric": "sez",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0169",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.0,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0170",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.333,
+     "lyric": "s'a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0171",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.667,
+     "lyric": "pai",
+     "syllabic": "middle"
+    },
+    {
+     "id": "green-debussy-e0172",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "ser",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0173",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 1.333,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0174",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 1.667,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0175",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.0,
+     "lyric": "bon",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0176",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.333,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0177",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.667,
+     "lyric": "tem",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0178",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "pê",
+     "syllabic": "middle"
+    },
+    {
+     "id": "green-debussy-e0179",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 52,
+     "beat": 2.0,
+     "lyric": "te,",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0180",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0181",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    53,
+    58
+   ],
+   "lyrics": "Et que je dorme un peu Puisque vous reposez.",
+   "translation": "让我小睡一会儿，因为你也在休息。",
+   "events": [
+    {
+     "id": "green-debussy-e0182",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 53,
+     "beat": 1.5,
+     "lyric": "Et",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0183",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 53,
+     "beat": 2.0,
+     "lyric": "que",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0184",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 53,
+     "beat": 2.5,
+     "lyric": "je",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0185",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 54,
+     "beat": 1.0,
+     "lyric": "dorme",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0186",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 54,
+     "beat": 1.5,
+     "lyric": "un",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0187",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 54,
+     "beat": 2.0,
+     "lyric": "peu",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0188",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0189",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 1.333,
+     "lyric": "Puis",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0190",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 1.667,
+     "lyric": "que",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0191",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 2.0,
+     "lyric": "vous",
+     "syllabic": "single"
+    },
+    {
+     "id": "green-debussy-e0192",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 2.333,
+     "lyric": "re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "green-debussy-e0193",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 2.667,
+     "lyric": "po",
+     "syllabic": "middle"
+    },
+    {
+     "id": "green-debussy-e0194",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 56,
+     "beat": 1.0,
+     "lyric": "sez.",
+     "syllabic": "end"
+    },
+    {
+     "id": "green-debussy-e0195",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0196",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 57,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "green-debussy-e0197",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 58,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 193,
+ "restCount": 37,
+ "lyricNoteCount": 151,
+ "pages": 1,
+ "speech": {
+  "voice": "fr_FR-siwis-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 11,
+  "slowScale": 1.45
+ }
+}

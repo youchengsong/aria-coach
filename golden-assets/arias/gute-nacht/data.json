@@ -1,0 +1,7710 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "gute-nacht",
+ "title": "Gute Nacht",
+ "titleZh": "晚安",
+ "composer": "F. Schubert",
+ "opera": "Winterreise D.911 No.1（冬之旅第1首，1827；诗：W. Müller）",
+ "language": "德语",
+ "voice": "男中音",
+ "difficulty": "中级",
+ "tempoBpm": 66,
+ "timeSignature": "2/4",
+ "coverage": {
+  "measures": [
+   1,
+   105
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "完整声乐旋律（d小调—D大调，2/4，中等速度，约72小节）。《冬之旅》开篇——被遗弃的旅人在夜晚离开。"
+ },
+ "range": {
+  "low": "C4",
+  "high": "F#5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "冬日旅人（失恋的流浪者）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Fremd bin ich eingezogen,",
+   "zh": "我来时是个陌生人，"
+  },
+  {
+   "text": "fremd zieh' ich wieder aus.",
+   "zh": "离开时仍是个陌生人。"
+  },
+  {
+   "text": "Der Mai war mir gewogen",
+   "zh": "五月曾对我青睐"
+  },
+  {
+   "text": "mit manchem Blumenstrauß.",
+   "zh": "用一束束鲜花。"
+  },
+  {
+   "text": "Das Mädchen sprach von Liebe,",
+   "zh": "姑娘曾说过爱情，"
+  },
+  {
+   "text": "die Mutter gar von Eh',",
+   "zh": "母亲甚至提起了婚事，"
+  },
+  {
+   "text": "nun ist die Welt so trübe,",
+   "zh": "如今世界如此阴沉，"
+  },
+  {
+   "text": "der Weg gehüllt in Schnee.",
+   "zh": "道路被白雪覆盖。"
+  }
+ ],
+ "story": {
+  "background": "《冬之旅》是舒伯特最后的声乐套曲，24首歌讲述一个被恋人抛弃的旅人在冬天的流浪。《晚安》是开篇——旅人在夜晚悄悄离开，在爱人门前写下'晚安'。",
+  "situation": "深夜。旅人在爱人家门前最后一次停留。他回忆起曾经的温暖——五月的鲜花、爱的承诺。如今一切都结束了，他必须在夜晚的雪中独自上路。",
+  "relationships": "流浪者与已经入睡的曾经恋人——他曾是这个家庭的客人，爱上了那家的女儿。但她选择了另一个人。现在他在冬夜里离开，路过她的房门。他没有敲门——只在门上写了'晚安'两个字。她还在梦中，不会知道他曾来过，也不会知道他已经离去。整首诗弥漫着压抑的尊严：他不怨恨，不乞求，只是走了。",
+  "intent": "以沉重但不愤怒的脚步开始——钢琴的稳定八分音符节奏就是雪地里的脚步声，从第一拍到最后一拍都在走。声乐的叙述是内敛的：'Fremd bin ich eingezogen, fremd zieh ich wieder aus'（我来时是陌生人，走时也是陌生人），语气平静得令人心碎。第三段突然转入D大调（'Will dich im Traum nicht stören, wär schad um deine Ruh'），但这不是安慰也不是希望——而是比小调更深的悲伤：他如此爱她，以至于连在梦中打扰她都不忍心。最后回到小调，脚步渐远。",
+  "plain30": "我来时是陌生人，走时也是。曾经的爱情和鲜花都已过去。如今雪覆盖了道路，我在夜晚悄悄离开，只在门上写下'晚安'。",
+  "arc": "d小调→D大调→d小调，中等步行速度（Mäßig, in gehender Bewegung）。第一段叙述离开的原因，旋律质朴但悲伤。第二段描写冬夜的路，钢琴的伴奏变得更稀疏。第三段转入D大调，旋律不变但和声变暖——这是全曲最令人心痛的地方，因为你知道温暖是假的。第四段回到d小调，以'晚安'的低语结束。套曲中这首被反复两遍（两段歌词用同一旋律），总长约五分钟。",
+  "motif": "行走动机：沉重而规律的脚步声（d小调的持续低音）。中间转入D大调的短暂温暖——回忆五月。但很快回到小调。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "开头「Fremd bin ich eingezogen」——钢琴右手稳定的四分音符像雪地里均匀的脚步声，声乐在 d 小调主音上沉重地开始"
+   },
+   {
+    "phrase": "4",
+    "note": "「Das Mädchen sprach von Liebe」——旋律短暂转向 D 大调，但这不是希望，而是更深的悲伤（回忆中的温暖）"
+   },
+   {
+    "phrase": "12",
+    "note": "「Was soll ich länger weilen」——中段的调性游移，旋律在 weilen 上迟疑停顿，脚步声始终不停"
+   },
+   {
+    "phrase": "39",
+    "note": "结尾「Will dich im Traum nicht stören」——转入 D 大调，但钢琴的行走音型一刻不停，最后的 Gute Nacht 写成渐弱而非解决"
+   }
+  ],
+  "technique": "保持行走的速度是最关键的要求——不要因为情感沉重就越唱越慢。脚步不等人，离开的人没有停下来的权利。音色要始终保持温暖，即使在最悲伤的句子中——他不是在控诉，而是在告别。D大调段落的转换是全曲最微妙的考验：不能唱得像'终于看到光明了'，而要像'假装没事其实更痛'。结尾的'Gute Nacht'要几乎无声——写在门上的字，不是说出来的话。",
+  "classroom": [
+   "先读中文翻译，理解歌曲的核心情感。",
+   "慢速朗读德语原文，注意元音和辅音的准确发音。",
+   "分离元音和辅音，按音节练习。",
+   "用节拍器按标注速度朗读歌词。",
+   "听合成旋律参考，注意旋律走向。",
+   "配上歌词，先用一半速度练唱。",
+   "以正常速度完整演唱。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "注意长短元音的区别",
+    "ö 和 ü 需要圆唇",
+    "ei 读 [aɪ]，ie 读 [iː]",
+    "ch 在 i/e 后读软 [ç]，在 a/o/u 后读硬 [x]"
+   ]
+  },
+  {
+   "title": "歌唱风格",
+   "items": [
+    "注意德语歌曲中词与音的密切关系",
+    "每个词的语气要和旋律的走向一致",
+    "德语辅音要清晰但不过重"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    7,
+    9
+   ],
+   "verse": 1,
+   "lyrics": "Fremd bin ich eingezogen,",
+   "translation": "我来时是个陌生人，",
+   "events": [
+    {
+     "id": "gute-nacht-e0008",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0009",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "Fremd",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0010",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "bin",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0011",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0012",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "ein",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0013",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "ge",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gute-nacht-e0014",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "zo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gute-nacht-e0015",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0016",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "gen,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    9,
+    11
+   ],
+   "verse": 1,
+   "lyrics": "fremd zieh ich wieder aus.",
+   "translation": "离开时仍是个陌生人。",
+   "events": [
+    {
+     "id": "gute-nacht-e0017",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "fremd",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0018",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "zieh",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0019",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.75,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0020",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "wie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0021",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0022",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "der",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0023",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0024",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "aus.",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0025",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    11,
+    15
+   ],
+   "verse": 1,
+   "lyrics": "Der Mai war mir gewogen mit manchem Blumenstrauss.",
+   "translation": "五月曾对我青睐",
+   "events": [
+    {
+     "id": "gute-nacht-e0026",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "Der",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0027",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "Mai",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0028",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "war",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0029",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0030",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0031",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "wo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gute-nacht-e0032",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0033",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0034",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0035",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "man",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0036",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.75,
+     "lyric": "chem",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0037",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "Blu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0038",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0039",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.5,
+     "lyric": "men",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gute-nacht-e0040",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0041",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "strauss.",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0042",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    15,
+    17
+   ],
+   "verse": 1,
+   "lyrics": "Das Mädchen sprach von Liebe,",
+   "translation": "姑娘曾说过爱情，",
+   "events": [
+    {
+     "id": "gute-nacht-e0043",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "Das",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0044",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "Mäd",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0045",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.5,
+     "lyric": "chen",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0046",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "sprach",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0047",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0048",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "Lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0049",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0050",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "be,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    17,
+    19
+   ],
+   "verse": 1,
+   "lyrics": "die Mutter gar von Eh’,",
+   "translation": "母亲甚至提起了婚事，",
+   "events": [
+    {
+     "id": "gute-nacht-e0051",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0052",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "Mut",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0053",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0054",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.5,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0055",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "gar",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0056",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0057",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0058",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "Eh’,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0059",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    19,
+    21
+   ],
+   "verse": 1,
+   "lyrics": "das Mädchen sprach von Liebe,",
+   "translation": "姑娘曾说过爱情，",
+   "events": [
+    {
+     "id": "gute-nacht-e0060",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0061",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "Mäd",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0062",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.5,
+     "lyric": "chen",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0063",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "sprach",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0064",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.5,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0065",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "Lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0066",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0067",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "be,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    21,
+    25
+   ],
+   "verse": 1,
+   "lyrics": "die Mutter gar von Eh’,",
+   "translation": "母亲甚至提起了婚事，",
+   "events": [
+    {
+     "id": "gute-nacht-e0068",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.5,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0069",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "Mut",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0070",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0071",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.5,
+     "lyric": "ter",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0072",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "gar",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0073",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 2.75,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0074",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "Eh’,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0075",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0076",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0077",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0078",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    25,
+    27
+   ],
+   "verse": 1,
+   "lyrics": "nun ist die Welt so trübe,",
+   "translation": "如今世界如此阴沉，",
+   "events": [
+    {
+     "id": "gute-nacht-e0079",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.5,
+     "lyric": "nun",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0080",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0081",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 26,
+     "beat": 1.75,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0082",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "Welt",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0083",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.5,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0084",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "trü",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0085",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0086",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "be,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    27,
+    29
+   ],
+   "verse": 1,
+   "lyrics": "der Weg gehüllt in Schnee,",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0087",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 2.5,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0088",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0089",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "Weg",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0090",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.5,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0091",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "hüllt",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0092",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0093",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0094",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "Schnee,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0095",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    29,
+    31
+   ],
+   "verse": 1,
+   "lyrics": "nun ist die Welt so trübe,",
+   "translation": "如今世界如此阴沉，",
+   "events": [
+    {
+     "id": "gute-nacht-e0096",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2.5,
+     "lyric": "nun",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0097",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0098",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 1.75,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0099",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.0,
+     "lyric": "Welt",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0100",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.5,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0101",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "trü",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0102",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0103",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "be,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    31,
+    39
+   ],
+   "verse": 1,
+   "lyrics": "der Weg gehüllt in Schnee.",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0104",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.5,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0105",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0106",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "Weg",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0107",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.5,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0108",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "hüllt",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0109",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0110",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "Schnee.",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0111",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0112",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0113",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0114",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0115",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0116",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0117",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0118",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    39,
+    41
+   ],
+   "verse": 1,
+   "lyrics": "Was soll ich länger weilen,",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0119",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.5,
+     "lyric": "Was",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0120",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "soll",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0121",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0122",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.0,
+     "lyric": "län",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0123",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.5,
+     "lyric": "ger",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0124",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "wei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0125",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 41,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0126",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.0,
+     "lyric": "len,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    41,
+    43
+   ],
+   "verse": 1,
+   "lyrics": "dass man mich trieb’ hinaus?",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0127",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.5,
+     "lyric": "dass",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0128",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "man",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0129",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 1.5,
+     "lyric": "mich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0130",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0131",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.0,
+     "lyric": "trieb’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0132",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 2.5,
+     "lyric": "hin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0133",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0134",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "aus?",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0135",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    43,
+    47
+   ],
+   "verse": 1,
+   "lyrics": "Lass irre Hunde heulen vor ihres Herren Haus!",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0136",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.5,
+     "lyric": "Lass",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0137",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "ir",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0138",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.5,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0139",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.0,
+     "lyric": "Hun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0140",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0141",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "heu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0142",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0143",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.0,
+     "lyric": "len",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0144",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.5,
+     "lyric": "vor",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0145",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "ih",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0146",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 1.5,
+     "lyric": "res",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0147",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0148",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 2.0,
+     "lyric": "Her",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0149",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 2.5,
+     "lyric": "ren",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0150",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0151",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "Haus!",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0152",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    47,
+    49
+   ],
+   "verse": 1,
+   "lyrics": "Die Liebe liebt das Wandern,",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0153",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.5,
+     "lyric": "Die",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0154",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "Lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0155",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1.5,
+     "lyric": "be",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0156",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2.0,
+     "lyric": "liebt",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0157",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0158",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "Wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0159",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 49,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0160",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.0,
+     "lyric": "dern,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    49,
+    53
+   ],
+   "verse": 1,
+   "lyrics": "Gott hat sie so gemacht von Einem zu dem Andern,",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0161",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.5,
+     "lyric": "Gott",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0162",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "hat",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0163",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 50,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0164",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 1.5,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0165",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.0,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0166",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 50,
+     "beat": 2.5,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0167",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 50,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0168",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "macht",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0169",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0170",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.5,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0171",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "Ei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0172",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 1.5,
+     "lyric": "nem",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0173",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 2.0,
+     "lyric": "zu",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0174",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 2.5,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0175",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "An",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0176",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 53,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0177",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.0,
+     "lyric": "dern,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    53,
+    57
+   ],
+   "verse": 1,
+   "lyrics": "Gott hat sie so gemacht.",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0178",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.5,
+     "lyric": "Gott",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0179",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 1.0,
+     "lyric": "hat",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0180",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0181",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 1.5,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0182",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 54,
+     "beat": 2.0,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0183",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 2.75,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0184",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 55,
+     "beat": 1.0,
+     "lyric": "macht.",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0185",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 55,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0186",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 56,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0187",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 57,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0188",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    57,
+    59
+   ],
+   "verse": 1,
+   "lyrics": "Die Liebe liebt das Wandern,",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0189",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 2.5,
+     "lyric": "Die",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0190",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 58,
+     "beat": 1.0,
+     "lyric": "Lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0191",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 58,
+     "beat": 1.75,
+     "lyric": "be",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0192",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.0,
+     "lyric": "liebt",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0193",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0194",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 59,
+     "beat": 1.0,
+     "lyric": "Wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0195",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 59,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0196",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 2.0,
+     "lyric": "dern,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "measures": [
+    59,
+    61
+   ],
+   "verse": 1,
+   "lyrics": "fein Liebchen, gute Nacht!",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0197",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 2.5,
+     "lyric": "fein",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0198",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 1.0,
+     "lyric": "Lieb",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0199",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 1.5,
+     "lyric": "chen,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0200",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 2.0,
+     "lyric": "gu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0201",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 2.5,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0202",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 61,
+     "beat": 1.0,
+     "lyric": "Nacht!",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0203",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "measures": [
+    61,
+    63
+   ],
+   "verse": 1,
+   "lyrics": "Von Einem zu dem An dern,",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0204",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 2.5,
+     "lyric": "Von",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0205",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 62,
+     "beat": 1.0,
+     "lyric": "Ei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0206",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 62,
+     "beat": 1.75,
+     "lyric": "nem",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0207",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 2.0,
+     "lyric": "zu",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0208",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 2.5,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0209",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 63,
+     "beat": 1.0,
+     "lyric": "An",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0210",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 63,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0211",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 2.0,
+     "lyric": "dern,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "measures": [
+    63,
+    71
+   ],
+   "verse": 1,
+   "lyrics": "fein Liebchen, gute Nacht!",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0212",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 2.5,
+     "lyric": "fein",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0213",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 1.0,
+     "lyric": "Lieb",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0214",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 1.5,
+     "lyric": "chen,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0215",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 2.0,
+     "lyric": "gu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0216",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 2.5,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0217",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 65,
+     "beat": 1.0,
+     "lyric": "Nacht!",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0218",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 65,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0219",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 66,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0220",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 67,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0221",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 68,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0222",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 69,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0223",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 70,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0224",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 71,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0225",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 22,
+   "measures": [
+    71,
+    73
+   ],
+   "verse": 1,
+   "lyrics": "Will dich im Traum nicht stören,",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0226",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 2.5,
+     "lyric": "Will",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0227",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 72,
+     "beat": 1.0,
+     "lyric": "dich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0228",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 72,
+     "beat": 1.5,
+     "lyric": "im",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0229",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 72,
+     "beat": 2.0,
+     "lyric": "Traum",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0230",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 72,
+     "beat": 2.5,
+     "lyric": "nicht",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0231",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 73,
+     "beat": 1.0,
+     "lyric": "stö",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0232",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 73,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0233",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 2.0,
+     "lyric": "ren,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 23,
+   "measures": [
+    73,
+    75
+   ],
+   "verse": 1,
+   "lyrics": "wär’ Schad’ um deine Ruh,",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0234",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 2.5,
+     "lyric": "wär’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0235",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 74,
+     "beat": 1.0,
+     "lyric": "Schad’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0236",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 1.75,
+     "lyric": "um",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0237",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 2.0,
+     "lyric": "dei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0238",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0239",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 2.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0240",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0241",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 75,
+     "beat": 1.0,
+     "lyric": "Ruh,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0242",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 24,
+   "measures": [
+    75,
+    77
+   ],
+   "verse": 1,
+   "lyrics": "sollst meinen Tritt nicht hören,",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0243",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 2.5,
+     "lyric": "sollst",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0244",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 1.0,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0245",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 1.5,
+     "lyric": "nen",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0246",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 2.0,
+     "lyric": "Tritt",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0247",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 2.5,
+     "lyric": "nicht",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0248",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 77,
+     "beat": 1.0,
+     "lyric": "hö",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0249",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 77,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0250",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 77,
+     "beat": 2.0,
+     "lyric": "ren,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 25,
+   "measures": [
+    77,
+    79
+   ],
+   "verse": 1,
+   "lyrics": "sacht, sacht die Türe zu!",
+   "translation": "如今世界如此阴沉，",
+   "events": [
+    {
+     "id": "gute-nacht-e0251",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 77,
+     "beat": 2.5,
+     "lyric": "sacht,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0252",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 78,
+     "beat": 1.0,
+     "lyric": "sacht",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0253",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 1.75,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0254",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 2.0,
+     "lyric": "Tü",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0255",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0256",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 2.5,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0257",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0258",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 79,
+     "beat": 1.0,
+     "lyric": "zu!",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0259",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 79,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 26,
+   "measures": [
+    79,
+    83
+   ],
+   "verse": 1,
+   "lyrics": "Schreib’ im Vorübergehen an’s Tor dir gute Nacht,",
+   "translation": "如今世界如此阴沉，",
+   "events": [
+    {
+     "id": "gute-nacht-e0260",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 79,
+     "beat": 2.5,
+     "lyric": "Schreib’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0261",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 80,
+     "beat": 1.0,
+     "lyric": "im",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0262",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 80,
+     "beat": 1.5,
+     "lyric": "Vor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0263",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 80,
+     "beat": 2.0,
+     "lyric": "ü",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gute-nacht-e0264",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 80,
+     "beat": 2.5,
+     "lyric": "ber",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gute-nacht-e0265",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 80,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0266",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 81,
+     "beat": 1.0,
+     "lyric": "ge",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gute-nacht-e0267",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 81,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0268",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 81,
+     "beat": 2.0,
+     "lyric": "hen",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0269",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 81,
+     "beat": 2.5,
+     "lyric": "an’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0270",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 82,
+     "beat": 1.0,
+     "lyric": "Tor",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0271",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 82,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0272",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 82,
+     "beat": 1.5,
+     "lyric": "dir",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0273",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 82,
+     "beat": 2.0,
+     "lyric": "gu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0274",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 82,
+     "beat": 2.5,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0275",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 82,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0276",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 83,
+     "beat": 1.0,
+     "lyric": "Nacht,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0277",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 83,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 27,
+   "measures": [
+    83,
+    85
+   ],
+   "verse": 1,
+   "lyrics": "damit du mögest sehen,",
+   "translation": "如今世界如此阴沉，",
+   "events": [
+    {
+     "id": "gute-nacht-e0278",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 83,
+     "beat": 2.5,
+     "lyric": "da",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0279",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 84,
+     "beat": 1.0,
+     "lyric": "mit",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0280",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 84,
+     "beat": 1.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0281",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 84,
+     "beat": 2.0,
+     "lyric": "mö",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0282",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 84,
+     "beat": 2.5,
+     "lyric": "gest",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0283",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 84,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0284",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 85,
+     "beat": 1.0,
+     "lyric": "se",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0285",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 85,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0286",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 85,
+     "beat": 2.0,
+     "lyric": "hen,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 28,
+   "measures": [
+    85,
+    89
+   ],
+   "verse": 1,
+   "lyrics": "an dich hab’ ich gedacht.",
+   "translation": "如今世界如此阴沉，",
+   "events": [
+    {
+     "id": "gute-nacht-e0287",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 85,
+     "beat": 2.5,
+     "lyric": "an",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0288",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 86,
+     "beat": 1.0,
+     "lyric": "dich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0289",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 86,
+     "beat": 1.5,
+     "lyric": "hab’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0290",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 86,
+     "beat": 2.0,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0291",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 86,
+     "beat": 2.75,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0292",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 87,
+     "beat": 1.0,
+     "lyric": "dacht.",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0293",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 87,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0294",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 88,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0295",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 89,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0296",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 89,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 29,
+   "measures": [
+    89,
+    93
+   ],
+   "verse": 1,
+   "lyrics": "Schreib’ im Vorübergehen an’s Tor dir gute Nacht,",
+   "translation": "如今世界如此阴沉，",
+   "events": [
+    {
+     "id": "gute-nacht-e0297",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 89,
+     "beat": 2.5,
+     "lyric": "Schreib’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0298",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 90,
+     "beat": 1.0,
+     "lyric": "im",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0299",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 90,
+     "beat": 1.75,
+     "lyric": "Vor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0300",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 2.0,
+     "lyric": "ü",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gute-nacht-e0301",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 2.5,
+     "lyric": "ber",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gute-nacht-e0302",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 91,
+     "beat": 1.0,
+     "lyric": "ge",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gute-nacht-e0303",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 91,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0304",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 91,
+     "beat": 2.0,
+     "lyric": "hen",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0305",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 91,
+     "beat": 2.5,
+     "lyric": "an’s",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0306",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 1.0,
+     "lyric": "Tor",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0307",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 1.5,
+     "lyric": "dir",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0308",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 92,
+     "beat": 2.0,
+     "lyric": "gu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0309",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 92,
+     "beat": 2.75,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0310",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 93,
+     "beat": 1.0,
+     "lyric": "Nacht,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0311",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 93,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 30,
+   "measures": [
+    93,
+    95
+   ],
+   "verse": 1,
+   "lyrics": "damit du mögest sehen,",
+   "translation": "如今世界如此阴沉，",
+   "events": [
+    {
+     "id": "gute-nacht-e0312",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 93,
+     "beat": 2.5,
+     "lyric": "da",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0313",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 94,
+     "beat": 1.0,
+     "lyric": "mit",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0314",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 94,
+     "beat": 1.75,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0315",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 94,
+     "beat": 2.0,
+     "lyric": "mö",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0316",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 94,
+     "beat": 2.5,
+     "lyric": "gest",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0317",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 95,
+     "beat": 1.0,
+     "lyric": "se",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0318",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 95,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0319",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 95,
+     "beat": 2.0,
+     "lyric": "hen,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 31,
+   "measures": [
+    95,
+    97
+   ],
+   "verse": 1,
+   "lyrics": "an dich hab’ ich gedacht,",
+   "translation": "如今世界如此阴沉，",
+   "events": [
+    {
+     "id": "gute-nacht-e0320",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 95,
+     "beat": 2.5,
+     "lyric": "an",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0321",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 1.0,
+     "lyric": "dich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0322",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 1.5,
+     "lyric": "hab’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0323",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 2.0,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0324",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 2.5,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0325",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 97,
+     "beat": 1.0,
+     "lyric": "dacht,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0326",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 97,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 32,
+   "measures": [
+    97,
+    105
+   ],
+   "verse": 1,
+   "lyrics": "an dich hab’ ich gedacht.",
+   "translation": "如今世界如此阴沉，",
+   "events": [
+    {
+     "id": "gute-nacht-e0327",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 97,
+     "beat": 2.5,
+     "lyric": "an",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0328",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 98,
+     "beat": 1.0,
+     "lyric": "dich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0329",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 98,
+     "beat": 1.5,
+     "lyric": "hab’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0330",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 98,
+     "beat": 2.0,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gute-nacht-e0331",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 98,
+     "beat": 2.5,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gute-nacht-e0332",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 99,
+     "beat": 1.0,
+     "lyric": "dacht.",
+     "syllabic": "end"
+    },
+    {
+     "id": "gute-nacht-e0333",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 99,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0334",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 100,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0335",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 101,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0336",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 102,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0337",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 103,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0338",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 104,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gute-nacht-e0339",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 105,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 33,
+   "measures": [
+    1,
+    8
+   ],
+   "verse": 2,
+   "lyrics": "Ich kann zu meiner",
+   "translation": "如今世界如此阴沉，",
+   "events": [
+    {
+     "id": "gute-nacht-e0340",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 1,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0341",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0342",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0343",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0344",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0345",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0346",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0347",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0348",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "Ich",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0349",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "kann",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0350",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.5,
+     "lyric": "zu",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0351",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "mei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0352",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "ner",
+     "syllabic": "end",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 34,
+   "measures": [
+    9,
+    11
+   ],
+   "verse": 2,
+   "lyrics": "Reisen nicht wählen mit der Zeit,",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0353",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "Rei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0354",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0355",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "sen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0356",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "nicht",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0357",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "wäh",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0358",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.75,
+     "lyric": "len",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0359",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "mit",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0360",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0361",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "der",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0362",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0363",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "Zeit,",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0364",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 35,
+   "measures": [
+    11,
+    15
+   ],
+   "verse": 2,
+   "lyrics": "muss selbst den Weg mir weisen in dieser Dunkelheit.",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0365",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "muss",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0366",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "selbst",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0367",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "den",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0368",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "Weg",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0369",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "mir",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0370",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "wei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0371",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0372",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "sen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0373",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0374",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "die",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0375",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.75,
+     "lyric": "ser",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0376",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "Dun",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0377",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0378",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.5,
+     "lyric": "kel",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0379",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0380",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "heit.",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0381",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 36,
+   "measures": [
+    15,
+    19
+   ],
+   "verse": 2,
+   "lyrics": "Es zieht ein Mondenschatten als mein Gefährte mit,",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0382",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "Es",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0383",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "zieht",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0384",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.5,
+     "lyric": "ein",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0385",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "Mon",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0386",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "den",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0387",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "schat",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0388",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0389",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "ten",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0390",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "als",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0391",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "mein",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0392",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0393",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.5,
+     "lyric": "Ge",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0394",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "fähr",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0395",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "te",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0396",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0397",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "mit,",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0398",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 37,
+   "measures": [
+    19,
+    25
+   ],
+   "verse": 2,
+   "lyrics": "es zieht ein Mondenschatten als mein Gefährte mit,",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0399",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "es",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0400",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "zieht",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0401",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.5,
+     "lyric": "ein",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0402",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "Mon",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0403",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.5,
+     "lyric": "den",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0404",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "schat",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0405",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0406",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "ten",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0407",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.5,
+     "lyric": "als",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0408",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "mein",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0409",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0410",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.5,
+     "lyric": "Ge",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0411",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "fähr",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0412",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 2.75,
+     "lyric": "te",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0413",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "mit,",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0414",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0415",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0416",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0417",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 38,
+   "measures": [
+    25,
+    29
+   ],
+   "verse": 2,
+   "lyrics": "und auf den weissen Matten such' ich des Wildes Tritt,",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0418",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0419",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "auf",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0420",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 26,
+     "beat": 1.75,
+     "lyric": "den",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0421",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "weis",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0422",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.5,
+     "lyric": "sen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0423",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "Mat",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0424",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0425",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "ten",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0426",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 2.5,
+     "lyric": "such'",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0427",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0428",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "ich",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0429",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.5,
+     "lyric": "des",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0430",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "Wil",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0431",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 2.5,
+     "lyric": "des",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0432",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0433",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "Tritt,",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0434",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 39,
+   "measures": [
+    29,
+    39
+   ],
+   "verse": 2,
+   "lyrics": "und auf den weissen Matten such’ ich des Wildes Tritt.",
+   "translation": "道路被白雪覆盖。",
+   "events": [
+    {
+     "id": "gute-nacht-e0435",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0436",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "auf",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0437",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 1.75,
+     "lyric": "den",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0438",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.0,
+     "lyric": "weis",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0439",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.5,
+     "lyric": "sen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0440",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "Mat",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0441",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0442",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "ten",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0443",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.5,
+     "lyric": "such’",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0444",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0445",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "ich",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0446",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.5,
+     "lyric": "des",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0447",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "Wil",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0448",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "des",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0449",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "Tritt.",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0450",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0451",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0452",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0453",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0454",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0455",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0456",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0457",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 40,
+   "measures": [
+    39,
+    57
+   ],
+   "verse": 2,
+   "lyrics": "",
+   "translation": "",
+   "events": [
+    {
+     "id": "gute-nacht-e0458",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0459",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0460",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0461",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0462",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0463",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0464",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 41,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0465",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0466",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0467",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0468",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0469",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0470",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0471",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0472",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0473",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0474",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0475",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0476",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0477",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0478",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0479",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0480",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0481",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0482",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0483",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0484",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0485",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0486",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0487",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0488",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0489",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0490",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0491",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0492",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0493",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0494",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0495",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0496",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0497",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0498",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 49,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0499",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0500",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0501",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0502",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 50,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0503",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0504",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0505",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 50,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0506",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 50,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0507",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0508",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0509",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0510",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0511",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0512",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0513",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0514",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0515",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 53,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0516",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0517",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0518",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0519",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0520",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0521",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 54,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0522",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0523",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 55,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0524",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 55,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0525",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 56,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0526",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 57,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0527",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 41,
+   "measures": [
+    57,
+    71
+   ],
+   "verse": 2,
+   "lyrics": "",
+   "translation": "",
+   "events": [
+    {
+     "id": "gute-nacht-e0528",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0529",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 58,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0530",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 58,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0531",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0532",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0533",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 59,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0534",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 59,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0535",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0536",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0537",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0538",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0539",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0540",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0541",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 61,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0542",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0543",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0544",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 62,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0545",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 62,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0546",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0547",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0548",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 63,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0549",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 63,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0550",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0551",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0552",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0553",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0554",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0555",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0556",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 65,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0557",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 65,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0558",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 66,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0559",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 67,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0560",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 68,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0561",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 69,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0562",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 70,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0563",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 71,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0564",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 42,
+   "measures": [
+    71,
+    89
+   ],
+   "verse": 2,
+   "lyrics": "",
+   "translation": "",
+   "events": [
+    {
+     "id": "gute-nacht-e0565",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 71,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0566",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 72,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0567",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 72,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0568",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 72,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0569",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 72,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0570",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 73,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0571",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 73,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0572",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0573",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0574",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 74,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0575",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0576",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0577",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0578",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0579",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 74,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0580",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 75,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0581",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0582",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0583",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0584",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0585",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0586",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0587",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 77,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0588",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 77,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0589",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 77,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0590",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 77,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0591",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 78,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0592",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0593",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0594",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0595",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0596",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 78,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0597",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 79,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0598",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 79,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0599",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 79,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0600",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 80,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0601",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 80,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0602",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 80,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0603",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 80,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0604",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 80,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0605",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 81,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0606",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 81,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0607",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 81,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0608",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 81,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0609",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 82,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0610",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 82,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0611",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 82,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0612",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 82,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0613",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 82,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0614",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 82,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0615",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 83,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0616",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 83,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0617",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 83,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0618",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 84,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0619",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 84,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0620",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 84,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0621",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 84,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0622",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 84,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0623",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 85,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0624",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 85,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0625",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 85,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0626",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 85,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0627",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 86,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0628",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 86,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0629",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 86,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0630",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 86,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0631",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 87,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0632",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 87,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0633",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 88,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0634",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 89,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0635",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 89,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 43,
+   "measures": [
+    89,
+    105
+   ],
+   "verse": 2,
+   "lyrics": "",
+   "translation": "",
+   "events": [
+    {
+     "id": "gute-nacht-e0636",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 89,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0637",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 90,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0638",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 90,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0639",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0640",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0641",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 91,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0642",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 91,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0643",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 91,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0644",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 91,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0645",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0646",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0647",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 92,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0648",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 92,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0649",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 93,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0650",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 93,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0651",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 93,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0652",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 94,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0653",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 94,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0654",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 94,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0655",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 94,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0656",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 95,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0657",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 95,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0658",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 95,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0659",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 95,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0660",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0661",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0662",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0663",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0664",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 97,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0665",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 97,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0666",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 97,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0667",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 98,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0668",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 98,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0669",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 98,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0670",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 98,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0671",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 99,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0672",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 99,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0673",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 100,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0674",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 101,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0675",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 102,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0676",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 103,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0677",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 104,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "gute-nacht-e0678",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 105,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  }
+ ],
+ "eventCount": 671,
+ "restCount": 105,
+ "lyricNoteCount": 318,
+ "pages": 2,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 39,
+  "slowScale": 1.45
+ }
+}

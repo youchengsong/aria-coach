@@ -1,0 +1,117 @@
+{
+  "title": "Erlkönig",
+  "titleZh": "魔王",
+  "composer": "F. Schubert",
+  "opera": "D. 328（独立艺术歌曲，1815；诗：J.W. von Goethe）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男中音",
+  "difficulty": "高阶",
+  "role": "叙述者 / 父亲 / 儿子 / 魔王（四个角色由一位歌手完成）",
+  "genre": "艺术歌曲",
+  "tempoBpm": 152,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（g 小调，4/4 Schnell，148 小节）。钢琴部分的持续三连音音型模拟急速飞奔的马蹄。四个戏剧角色由同一位歌手用音色变化区分。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    },
+    {
+      "name": "IMSLP — Erlkönig, D.328 (Schubert)",
+      "url": "https://imslp.org/wiki/Erlk%C3%B6nig,_D.328_(Schubert,_Franz)",
+      "format": "PDF",
+      "role": "歌词与音高校验参考",
+      "status": "Breitkopf & Härtel 版（公有领域）",
+      "grade": "A",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {"text": "Wer reitet so spät durch Nacht und Wind?", "zh": "谁在深夜里冒着风雨骑马飞奔？"},
+    {"text": "Es ist der Vater mit seinem Kind;", "zh": "是一位父亲抱着孩子；"},
+    {"text": "er hat den Knaben wohl in dem Arm,", "zh": "他把男孩紧紧抱在怀里，"},
+    {"text": "er fasst ihn sicher, er hält ihn warm.", "zh": "抱得很稳，让他暖和。"},
+    {"text": "\"Mein Sohn, was birgst du so bang dein Gesicht?\"", "zh": "「我的儿子，你为何这样害怕地把脸藏起来？」"},
+    {"text": "\"Siehst, Vater, du den Erlkönig nicht?", "zh": "「父亲，你看不见魔王吗？」"},
+    {"text": "Den Erlenkönig mit Kron' und Schweif?\"", "zh": "「那戴着王冠、拖着长袍的魔王？」"},
+    {"text": "\"Mein Sohn, es ist ein Nebelstreif.\"", "zh": "「我的儿子，那只是一片薄雾。」"},
+    {"text": "\"Du liebes Kind, komm, geh mit mir!", "zh": "「可爱的孩子，来吧，跟我走！"},
+    {"text": "Gar schöne Spiele spiel' ich mit dir;", "zh": "我会和你玩最美的游戏；"},
+    {"text": "manch' bunte Blumen sind an dem Strand,", "zh": "河岸上有许多缤纷的花朵，"},
+    {"text": "meine Mutter hat manch gülden Gewand.\"", "zh": "我的母亲有许多金色的衣裳。」"},
+    {"text": "\"Mein Vater, mein Vater, und hörest du nicht,", "zh": "「父亲，父亲，你没有听到吗？"},
+    {"text": "was Erlenkönig mir leise verspricht?\"", "zh": "魔王在悄悄向我许诺些什么？」"},
+    {"text": "\"Sei ruhig, bleibe ruhig, mein Kind;", "zh": "「安静，安静吧，孩子；"},
+    {"text": "in dürren Blättern säuselt der Wind.\"", "zh": "那是风在枯叶间沙沙作响。」"},
+    {"text": "\"Willst, feiner Knabe, du mit mir gehn?", "zh": "「漂亮的孩子，你愿意跟我走吗？"},
+    {"text": "Meine Töchter sollen dich warten schön;", "zh": "我的女儿们会好好照顾你；"},
+    {"text": "meine Töchter führen den nächtlichen Reihn", "zh": "我的女儿们在月夜里跳着圆舞，"},
+    {"text": "und wiegen und tanzen und singen dich ein.\"", "zh": "她们会摇着你、跳着舞，唱你入睡。」"},
+    {"text": "\"Mein Vater, mein Vater, und siehst du nicht dort", "zh": "「父亲，父亲，你看不到那边吗？"},
+    {"text": "Erlkönigs Töchter am düstern Ort?\"", "zh": "魔王的女儿们在那阴暗的地方？」"},
+    {"text": "\"Mein Sohn, mein Sohn, ich seh' es genau:", "zh": "「儿子啊儿子，我看得很清楚："},
+    {"text": "es scheinen die alten Weiden so grau.\"", "zh": "那是灰蒙蒙的老柳树在发光。」"},
+    {"text": "\"Ich liebe dich, mich reizt deine schöne Gestalt;", "zh": "「我爱你，你美丽的身影令我着迷；"},
+    {"text": "und bist du nicht willig, so brauch' ich Gewalt.\"", "zh": "如果你不愿意，我就用强的。」"},
+    {"text": "\"Mein Vater, mein Vater, jetzt fasst er mich an!", "zh": "「父亲，父亲，他抓住我了！"},
+    {"text": "Erlkönig hat mir ein Leids getan!\"", "zh": "魔王伤害了我！」"},
+    {"text": "Dem Vater grauset's, er reitet geschwind,", "zh": "父亲吓坏了，他拼命驱马飞奔，"},
+    {"text": "er hält in Armen das ächzende Kind,", "zh": "怀里抱着呻吟的孩子，"},
+    {"text": "erreicht den Hof mit Müh' und Not;", "zh": "好不容易赶到了家门口——"},
+    {"text": "in seinen Armen das Kind war tot.", "zh": "他怀里的孩子已经死了。"}
+  ],
+  "hints": [
+    {
+      "title": "四角色音色区分",
+      "items": [
+        "叙述者：中性、沉稳的叙述音色，中音区",
+        "父亲：低沉、坚定但逐渐焦虑，低音区为主",
+        "儿子：明亮、紧张、越来越恐惧，高音区，每次呼喊音高递升",
+        "魔王：柔和、诱惑、甜蜜——反差感是关键，中高音区但轻声"
+      ]
+    },
+    {
+      "title": "德语辅音与咬字",
+      "items": [
+        "Erlkönig 的 r 要清晰弹舌，'kö' 是圆唇前元音 [øː]",
+        "Nacht、nicht 的 ch：Nacht 用 [x]（舌后），nicht 用 [ç]（舌前）",
+        "Gewalt、Gestalt 的 G 读浊 [g]，不要轻化",
+        "tot 结尾的 t 要干净利落地收音——全曲最后一个音节"
+      ]
+    }
+  ],
+  "story": {
+    "background": "《魔王》是舒伯特 18 岁时（1815 年）根据歌德的同名叙事诗创作的艺术歌曲，被认为是德语艺术歌曲史上最具戏剧性的作品之一。歌德的诗本身受到赫尔德翻译的丹麦民谣《Elveskud》启发。钢琴的不间断三连音模拟马蹄声，贯穿全曲直到最后两小节突然转为宣叙调——'孩子死了'。",
+    "situation": "一个漆黑的风雨之夜。父亲抱着生病的儿子在马背上飞奔回家。孩子在发烧中看到了魔王（Erlkönig），魔王三次诱惑孩子跟他走，每次都更加露骨。父亲三次试图用理性解释安慰孩子——薄雾、风声、柳树。第三次魔王说'如果你不愿意，我就用强的'，孩子尖叫'他抓住我了！'然后一切都太迟了。",
+    "relationships": "三组对话关系：父子之间（保护与恐惧），魔王与孩子之间（诱惑与抗拒），父亲与魔王之间（理性与超自然的对峙——但父亲看不见魔王）。叙述者站在一切之外，冷静地开始和结束故事。",
+    "intent": "这是一首'一人四角'的声乐杰作。开头叙述者的问句要平稳、客观；父亲的安慰要沉稳但暗含紧张；儿子每次'Mein Vater'的呼喊要一次比一次高、一次比一次绝望；魔王的诱惑要甜蜜到令人不安。最后两小节的宣叙调'in seinen Armen das Kind war tot'是全曲的重力中心——前面的疯狂奔驰突然停止，只剩下一句冰冷的事实。",
+    "plain30": "一个父亲在暴风雨之夜骑马飞奔，怀里的孩子说看到了魔王。魔王三次引诱孩子，父亲三次说那只是自然现象。最后魔王动了真格，等父亲赶到家时，孩子已经死了。全曲由一位歌手用四种音色完成四个角色。",
+    "arc": "g 小调，4/4，快板。钢琴的三连音从头到尾不间断（马蹄声）。叙述者的问句在 g 小调开始，四平八稳。魔王三次出场分别转到降 B 大调、C 大调、E 大调——每次更明亮、更诱惑。儿子的三次呼喊分别在 A、B、C 上——每次升高一个全音，代表恐惧的升级。最后两小节突然停止三连音，变成缓慢的宣叙调和弦——'孩子死了'——结束在 g 小调主和弦上。",
+    "motif": "魔王的诱惑动机：平稳、甜蜜的大调旋律，与全曲的紧张氛围形成强烈对比——越美越恐怖。儿子的恐惧动机：'Mein Vater, mein Vater' 的呼喊，每次在更高的音上开始，旋律上行后下坠。钢琴的三连音马蹄动机：贯穿全曲的心跳般的节奏底色，最后两小节突然消失=死亡。",
+    "motifPositions": [
+      {"phrase": "1", "note": "叙述者开头：'Wer reitet so spät' 稳定的 g 小调叙述，建立紧张的底色"},
+      {"phrase": "9", "note": "魔王第一次：'Du liebes Kind' 突转降 B 大调，甜蜜的诱惑动机首次出现"},
+      {"phrase": "13", "note": "儿子第二次呼喊：'Mein Vater' 在 B 音上，比第一次高一个全音"},
+      {"phrase": "25", "note": "魔王第三次：'Ich liebe dich...Gewalt' 诱惑变成威胁，是全曲的转折点"},
+      {"phrase": "31", "note": "最后两小节：三连音停止，宣叙调 'das Kind war tot'——死亡的沉默"}
+    ],
+    "technique": "这是声乐技巧要求最高的艺术歌曲之一。速度极快（♩≈152），歌手需要在不同音区和音色之间瞬间切换，同时保持清晰的德语咬字。儿子的高音呼喊（最高到 A4–Bb4）需要强有力的气息支撑。魔王的段落要放松喉部，用假声般的轻柔音色。最后的宣叙调要完全改变节奏感——从疯狂到冰冷，只有两小节的时间。",
+    "classroom": [
+      "先读中文翻译，分清四个角色的对话结构：叙述者（黑体）、父亲（引号内低沉）、儿子（引号内尖叫）、魔王（引号内甜蜜）。",
+      "用不同的说话声音朗读德语原文——用四种音色分别说四个角色的台词。",
+      "分离辅音练习：Erlkönig 的 rl/kö、Gewalt 的 Gw、geschwind 的 schw。",
+      "先只练魔王的三段，用最轻柔的声音——这是反差的关键。",
+      "再练儿子的三次 'Mein Vater'——注意每次音高上升。",
+      "把歌词放回旋律，先用一半速度。钢琴三连音可以用节拍器替代。",
+      "正常速度完整演唱——这首歌的难度在于角色切换的速度和体力消耗，需要极好的气息管理。"
+    ]
+  }
+}

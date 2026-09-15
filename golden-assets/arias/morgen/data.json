@@ -1,0 +1,1312 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "morgen",
+ "title": "Morgen!",
+ "titleZh": "明天！",
+ "composer": "R. Strauss",
+ "opera": "Op. 27, No. 4（《四首歌曲》第四首，1894；诗：J.H. Mackay）",
+ "language": "德语",
+ "voice": "女高音",
+ "difficulty": "中级",
+ "tempoBpm": 52,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   43
+  ],
+  "firstSungMeasure": 14,
+  "complete": true,
+  "note": "完整声乐旋律（D 大调，4/4 Langsam，约 32 小节）。理查·施特劳斯作为新婚礼物献给妻子宝琳娜的四首歌之一。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "F#4",
+  "high": "G5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主人公（恋人）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Und morgen wird die Sonne wieder scheinen,",
+   "zh": "明天太阳将再次升起，"
+  },
+  {
+   "text": "und auf dem Wege, den ich gehen werde,",
+   "zh": "在我将要走的路上，"
+  },
+  {
+   "text": "wird uns, die Glücklichen, sie wieder einen",
+   "zh": "阳光将再次把我们——幸福的人——"
+  },
+  {
+   "text": "inmitten dieser sonnenatmenden Erde.",
+   "zh": "在这沐浴阳光的大地上重新联结。"
+  },
+  {
+   "text": "Und zu dem Strand, dem weiten, wogenblauen,",
+   "zh": "走向那海岸——广阔的、碧蓝的波浪——"
+  },
+  {
+   "text": "werden wir still und langsam niedersteigen,",
+   "zh": "我们将安静而缓慢地走下去，"
+  },
+  {
+   "text": "stumm werden wir uns in die Augen schauen,",
+   "zh": "默默地，我们将凝视彼此的眼睛，"
+  },
+  {
+   "text": "und auf uns sinkt des Glückes stummes Schweigen.",
+   "zh": "幸福无声的沉默将降临在我们身上。"
+  }
+ ],
+ "story": {
+  "background": "理查·施特劳斯在 1894 年与女高音宝琳娜·德·阿纳结婚，作为新婚礼物他创作了 Op.27 的四首歌曲。《明天！》是其中最后一首，也是最安静、最亲密的一首。约翰·亨利·麦凯的诗描绘了一对恋人想象明天在海边的重逢——没有言语，只有阳光、波浪和幸福的沉默。施特劳斯后来将它改编为管弦乐版，常用于音乐会安可。",
+  "situation": "歌者在想象明天：太阳升起，我们走在一条阳光灿烂的路上。我们走向海边，安静地走下去，看着彼此的眼睛——什么都不说。幸福降临在我们的沉默之中。这不是分别后的重逢，而是两个已经在一起的人对明天的温柔期待。",
+  "relationships": "歌者与爱人——'wir'（我们）贯穿全诗。这是一对已经幸福的恋人——不需要证明什么，不需要解决什么，只是想象明天和你一起在海边。",
+  "intent": "极度的宁静和温柔。钢琴有很长的前奏（约 16 小节），歌手在沉默中等待——这段等待本身就是表演。当声音终于进入时，要像第一缕晨光般自然。'stumm werden wir uns in die Augen schauen'是全曲的灵魂——沉默比任何言语都更有力。最后的'stummes Schweigen'渐弱到消失。",
+  "plain30": "明天太阳会再升起。我们会走向海边，安静地走下去，默默凝视彼此。幸福的沉默会降临在我们身上。这是施特劳斯给新婚妻子的情书——一首关于'不需要说话也很幸福'的歌。",
+  "arc": "D 大调，4/4，缓慢。钢琴长前奏以小提琴般的旋律线开始。声乐在第 17 小节左右才进入——一个极长的准备。旋律在中音区缓缓流动，只在'Und zu dem Strand'处稍有推进。'stumm werden wir'到达一个悬浮的和声——时间仿佛停止。最后在 D 大调主和弦上以 ppp 结束。",
+  "motif": "晨光动机：钢琴前奏的上行旋律——从 D 音缓缓升起，像地平线上第一道光。声乐的叙述动机：'Und morgen wird die Sonne' 的平稳级进——像在轻声讲一个确定会发生的美好事情。沉默动机：'stumm' 前后的空白——音乐在这里故意留白，让沉默说话。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "声乐进入：'Und morgen wird die Sonne' 像第一缕阳光——极轻、极温暖"
+   },
+   {
+    "phrase": "5",
+    "note": "'Und zu dem Strand' 稍有推进——走向海边的画面"
+   },
+   {
+    "phrase": "7",
+    "note": "'stumm werden wir uns in die Augen schauen' 全曲的灵魂——沉默的凝视"
+   },
+   {
+    "phrase": "7",
+    "note": "'stummes Schweigen' 渐弱到消失——幸福无需言语"
+   }
+  ],
+  "technique": "声乐部分技巧上不难——音域适中、节奏平缓。真正的难度是：如何在极轻的音量下保持声音的支撑和温暖。钢琴前奏中歌手什么都不做——但那段沉默是表演的一部分。最后的渐弱要控制到 ppp——几乎听不见但不能断。这首歌考验的是一个歌手的'存在感'而非技巧。",
+  "classroom": [
+   "先读中文——这是一首关于'和你一起安静地看海'的歌。不复杂，不戏剧。",
+   "朗读德语——用极轻的声音，像在对身边的人耳语。",
+   "听一遍钢琴前奏——感受那段漫长的等待。你的歌声要像从这段等待中自然生长出来。",
+   "用'嗯'哼唱旋律——保持极长的线条和极轻的音量。",
+   "练习最后两行——'stumm werden wir' 的沉默感和 'Schweigen' 的渐弱。",
+   "完整演唱。最大的挑战不是唱什么，而是不唱什么——学会用沉默表达。",
+   "这首歌和舒伯特的《你是安宁》是一对很好的搭配——都是关于在爱中找到宁静。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "Sonne, sonnenatmenden 的 o 是短 [ɔ]，scheinen 的 ei 是 [aɪ]",
+    "Glücklichen 的 ü 是短 [ʏ]，Glückes 的 ü 也是短 [ʏ]",
+    "wogenblauen 的 au 是 [aʊ]，Augen 的 Au 也是 [aʊ]",
+    "Schweigen 的 ei 是 [aɪ]——全曲最后一个词，元音要保持到最后"
+   ]
+  },
+  {
+   "title": "极致的宁静",
+   "items": [
+    "这首歌几乎全程 piano——声音像清晨的阳光，温暖但不刺眼",
+    "'stumm' 和 'stummes Schweigen' 出现两次——沉默本身是主题",
+    "钢琴有很长的前奏和间奏——歌手要学会在沉默中存在"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    14,
+    17
+   ],
+   "lyrics": "Und Morgen wird die Sonne wieder scheinen und auf dem Wege,",
+   "translation": "明天太阳将再次升起，",
+   "events": [
+    {
+     "id": "morgen-e0015",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "morgen-e0016",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.5,
+     "lyric": "Und",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0017",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "Mor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0018",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 3.5,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0019",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 4.0,
+     "lyric": "wird",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0020",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 4.5,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0021",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "Son",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0022",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0023",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "wie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0024",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 4.5,
+     "lyric": "der",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0025",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "schei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0026",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "nen",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0027",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "morgen-e0028",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0029",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 4.0,
+     "lyric": "auf",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0030",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 4.5,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0031",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "We",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0032",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "ge,",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0033",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    17,
+    19
+   ],
+   "lyrics": "den ich gehen werde, wird uns,",
+   "translation": "在我将要走的路上，",
+   "events": [
+    {
+     "id": "morgen-e0034",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 3.5,
+     "lyric": "den",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0035",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 4.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0036",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0037",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "hen",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0038",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "wer",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0039",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 4.0,
+     "lyric": "de,",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0040",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 4.5,
+     "lyric": "wird",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0041",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "uns,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    19,
+    22
+   ],
+   "lyrics": "die Glücklichen, sie wieder einen inmitten dieser sonnenatmenden",
+   "translation": "阳光将再次把我们——幸福的人——",
+   "events": [
+    {
+     "id": "morgen-e0042",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0043",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "Glück",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0044",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 3.75,
+     "lyric": "li",
+     "syllabic": "middle"
+    },
+    {
+     "id": "morgen-e0045",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 4.0,
+     "lyric": "chen,",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0046",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "morgen-e0047",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.5,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0048",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "wie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0049",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3.5,
+     "lyric": "der",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0050",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 20,
+     "beat": 4.0,
+     "lyric": "ei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0051",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "nen",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0052",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0053",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3.0,
+     "lyric": "mit",
+     "syllabic": "middle"
+    },
+    {
+     "id": "morgen-e0054",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3.5,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0055",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 4.0,
+     "lyric": "die",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0056",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 4.5,
+     "lyric": "ser",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0057",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "son",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0058",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "nen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "morgen-e0059",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 3.0,
+     "lyric": "at",
+     "syllabic": "middle"
+    },
+    {
+     "id": "morgen-e0060",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 4.0,
+     "lyric": "men",
+     "syllabic": "middle"
+    },
+    {
+     "id": "morgen-e0061",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 4.5,
+     "lyric": "den",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    23,
+    25
+   ],
+   "lyrics": "Erde... und zu dem Strand, dem weiten,",
+   "translation": "走向那海岸——广阔的、碧蓝的波浪——",
+   "events": [
+    {
+     "id": "morgen-e0062",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "Er",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0063",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "de...",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0064",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 23,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "morgen-e0065",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "morgen-e0066",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 1.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0067",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.0,
+     "lyric": "zu",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0068",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.5,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0069",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3.0,
+     "lyric": "Strand,",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0070",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3.5,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0071",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 24,
+     "beat": 4.0,
+     "lyric": "wei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0072",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "ten,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    25,
+    31
+   ],
+   "lyrics": "wogenblauen, werden wir still und langsam nieder steigen,",
+   "translation": "我们将安静而缓慢地走下去，",
+   "events": [
+    {
+     "id": "morgen-e0073",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "wo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0074",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 4.5,
+     "lyric": "gen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "morgen-e0075",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "blau",
+     "syllabic": "middle"
+    },
+    {
+     "id": "morgen-e0076",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "en,",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0077",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "wer",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0078",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 3.5,
+     "lyric": "den",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0079",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 4.0,
+     "lyric": "wir",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0080",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "still",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0081",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "morgen-e0082",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0083",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "lang",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0084",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 4.0,
+     "lyric": "sam",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0085",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "nie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0086",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "der",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0087",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 3.0,
+     "lyric": "stei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0088",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 4.0,
+     "lyric": "gen,",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0089",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "morgen-e0090",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "morgen-e0091",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "morgen-e0092",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    31,
+    34
+   ],
+   "lyrics": "stumm werden wir uns in die Augen schauen,",
+   "translation": "默默地，我们将凝视彼此的眼睛，",
+   "events": [
+    {
+     "id": "morgen-e0093",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 31,
+     "beat": 4.0,
+     "lyric": "stumm",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0094",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "wer",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0095",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "den",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0096",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 3.0,
+     "lyric": "wir",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0097",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 3.5,
+     "lyric": "uns",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0098",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 4.0,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0099",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 4.5,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0100",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "Au",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0101",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2.5,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0102",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 3.0,
+     "lyric": "schau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0103",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 4.0,
+     "lyric": "en,",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0104",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "morgen-e0105",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    34,
+    43
+   ],
+   "lyrics": "und auf uns sinkt des Glückes stummes Schweigen...",
+   "translation": "幸福无声的沉默将降临在我们身上。",
+   "events": [
+    {
+     "id": "morgen-e0106",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 4.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0107",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 4.5,
+     "lyric": "auf",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0108",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "uns",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0109",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 3.0,
+     "lyric": "sinkt",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0110",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 4.0,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "morgen-e0111",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "Glü",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0112",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 2.5,
+     "lyric": "ckes",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0113",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 3.0,
+     "lyric": "stum",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0114",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 4.0,
+     "lyric": "mes",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0115",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "Schwei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "morgen-e0116",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "gen...",
+     "syllabic": "end"
+    },
+    {
+     "id": "morgen-e0117",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "morgen-e0118",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 38,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "morgen-e0119",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "morgen-e0120",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "morgen-e0121",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "morgen-e0122",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "morgen-e0123",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 109,
+ "restCount": 20,
+ "lyricNoteCount": 89,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 7,
+  "slowScale": 1.45
+ }
+}

@@ -1,0 +1,2099 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "caecilie",
+ "title": "Cäcilie",
+ "titleZh": "致切奇莉亚",
+ "composer": "R. Strauss",
+ "opera": "Op. 27, No. 2（《四首歌曲》第二首，1894；诗：H.H. Hart）",
+ "language": "德语",
+ "voice": "女高音",
+ "difficulty": "高阶",
+ "tempoBpm": 80,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   56
+  ],
+  "firstSungMeasure": 4,
+  "complete": true,
+  "note": "完整声乐旋律（E 大调，4/4，急速而热情）。施特劳斯 Op.27 四首婚礼歌曲中最辉煌的一首。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "E4",
+  "high": "B5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主人公（狂喜的恋人）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Wenn du es wüsstest, was träumen heißt",
+   "zh": "如果你知道做梦是什么感觉——"
+  },
+  {
+   "text": "von brennenden Küssen, von Wandern und Ruhen",
+   "zh": "梦见炽热的亲吻、漫游和安息——"
+  },
+  {
+   "text": "mit der Geliebten, Aug' in Auge,",
+   "zh": "与爱人四目相对，"
+  },
+  {
+   "text": "und kosend und plaudernd,",
+   "zh": "爱抚着、低语着，"
+  },
+  {
+   "text": "wenn du es wüsstest, du neigtest dein Herz!",
+   "zh": "如果你知道，你定会倾心！"
+  },
+  {
+   "text": "Wenn du es wüsstest, was bangen heißt",
+   "zh": "如果你知道忐忑是什么感觉——"
+  },
+  {
+   "text": "in einsamen Nächten,",
+   "zh": "在孤独的夜晚，"
+  },
+  {
+   "text": "umschauert vom Sturm, da niemand tröstet",
+   "zh": "被风暴包围，无人安慰——"
+  },
+  {
+   "text": "milden Mundes die kampfmüde Seele,",
+   "zh": "用温柔的口吻抚慰疲惫的灵魂，"
+  },
+  {
+   "text": "wenn du es wüsstest, du kämest zu mir.",
+   "zh": "如果你知道，你定会来到我身边。"
+  },
+  {
+   "text": "Wenn du es wüsstest, was leben heißt,",
+   "zh": "如果你知道活着是什么感觉——"
+  },
+  {
+   "text": "umhaucht von der Gottheit weltschaffendem Atem,",
+   "zh": "被上帝创世的气息萦绕，"
+  },
+  {
+   "text": "zu schweben empor, lichtgetragen,",
+   "zh": "被光托起，向上飘浮，"
+  },
+  {
+   "text": "zu seligen Höhn,",
+   "zh": "飞向极乐的高处，"
+  },
+  {
+   "text": "wenn du es wüsstest, du lebtest mit mir!",
+   "zh": "如果你知道，你定会与我同活！"
+  }
+ ],
+ "story": {
+  "background": "《致切奇莉亚》是施特劳斯 Op.27 四首歌曲中的第二首，1894 年为与女高音宝琳娜·德·阿纳的婚礼而作。海因里希·哈特的诗以三段平行的虚拟语气——如果你知道做梦、忐忑、活着是什么——构建出从温柔到炽烈再到超越的情感弧线。这是施特劳斯歌曲创作中最辉煌、最难唱的作品之一。",
+  "situation": "歌者面对一个似乎还不理解爱情力量的对象，用三个「如果你知道……」的排比发出邀请：如果你体验过梦中的亲吻、孤夜的煎熬、和被神圣之光托起的感觉，你就会理解我，就会来到我身边。这不是恳求，而是一个经历过这一切的人向另一个人展示生命的全部可能。",
+  "relationships": "歌者与被呼唤的「你」——可能是爱人，也可能是灵魂的另一半。三段的关系递进：第一段是甜蜜的邀约，第二段是孤独中的渴望，第三段超越个人走向神圣。",
+  "intent": "第一段温柔而充满诱惑，像在耳边轻声描绘梦境。第二段转为黑暗和急迫——孤独夜晚的风暴。第三段从黑暗中爆发出光芒，「zu schweben empor, lichtgetragen」要像灵魂在飞翔。最后的「du lebtest mit mir」是全曲的爆发点——从 piano 到 fortissimo，像太阳升起。",
+  "plain30": "如果你知道梦见爱人的亲吻是什么感觉，你就会爱上我；如果你知道孤独夜晚的煎熬，你就会来到我身边；如果你知道被光托起飞向天堂——你就会与我一起活着。三段话，越来越热烈，从梦境到现实到永恒。",
+  "arc": "E 大调，快速而热情。第一段在中音区温柔流动，钢琴的琶音像摇篮。第二段转入 c# 小调，钢琴变为风暴般的震音，声乐线急促而痛苦。第三段从 E 大调爆发，旋律不断向上攀升，钢琴的和声越来越辉煌，到「lichtgetragen, zu seligen Höhn」达到全曲高潮——持续的高音 B5/A5。最终在灿烂的 E 大调主和弦上结束。",
+  "motif": "上行呼唤动机：每段的「Wenn du es wüsstest」以相同的音型开始——像反复的叩门。飞翔动机：第三段「zu schweben empor」的旋律急速上行，跨越超过一个八度。这个动机在全曲只出现一次，是积蓄了两段的能量的释放。钢琴的持续琶音是贯穿全曲的「心跳」。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "第一段开头：「Wenn du es wüsstest」温柔的呼唤动机，E 大调中音区"
+   },
+   {
+    "phrase": "6",
+    "note": "第二段开头：同样的呼唤动机转入小调，变得急迫"
+   },
+   {
+    "phrase": "11",
+    "note": "第三段开头：呼唤动机第三次出现，这次准备爆发"
+   },
+   {
+    "phrase": "13",
+    "note": "「zu schweben empor, lichtgetragen」——飞翔动机，全曲高潮"
+   }
+  ],
+  "technique": "这首歌对女高音的要求极高：音域从中低音区到 B5，需要在快速变化的力度中保持声音的灵活和光泽。第一段要控制音量不要过早释放。第二段的 c# 小调段落需要戏剧性的暗色音质。第三段的高潮要提前准备气息——「lichtgetragen」的高音需要宽广的气息支撑和头腔共鸣。最难的是从 ppp 到 fff 的极端力度变化要在几小节内完成。",
+  "classroom": [
+   "先读中文——理解三段递进结构：梦、苦、光。每段结尾都是「如果你知道，你就会……」。",
+   "朗读德语，注意虚拟语气动词形式：wüsstest、neigtest、kämest、lebtest——都是「如果你知道」的条件句。",
+   "分离元音：练习 ü [ʏ]、äu [ɔɪ]、ei [aɪ] 的区别——这三个元音几乎在每句都出现。",
+   "用 mf 音量哼唱全曲旋律，标记三个段落的音区变化。",
+   "第三段「zu schweben empor」单独练习——这是技术难点：快速上行后保持高音的稳定。",
+   "先用半速完整演唱，确保三段的力度对比：第一段 mp，第二段 mf-f，第三段 f-fff。",
+   "以原速演唱。这首歌的关键是节制——前两段越控制，第三段的爆发就越有效。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语双元音与长元音",
+   "items": [
+    "wüsstest 的 ü 是短圆唇前元音 [ʏ]，träumen 的 äu 读 [ɔɪ]",
+    "Küssen 的 ü 是短 [ʏ]，Ruhen 的 u 是长 [uː]",
+    "Geliebten 的 ie 是长 [iː]，Seele 的 ee 是长 [eː]",
+    "Atem 的第一个 a 是短 [a]，schweben 的 e 是长 [eː]"
+   ]
+  },
+  {
+   "title": "辅音与气息",
+   "items": [
+    "brennenden 双写 nn 要清楚——不是法语的鼻化",
+    "weltschaffendem 是复合词：Welt+schaffendem，在 t-sch 之间轻微断开",
+    "lichtgetragen 也是复合词：licht+getragen，注意 cht [çt] 的清辅音",
+    "最后的 mir 要用充沛的气流和明亮的 [iː] 元音结束"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    4,
+    7
+   ],
+   "lyrics": "Wenn du es wüsstest was träumen heisst von brennenden Küssen,",
+   "translation": "如果你知道做梦是什么感觉——",
+   "events": [
+    {
+     "id": "caecilie-e0005",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0006",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 4,
+     "beat": 4.0,
+     "lyric": "Wenn",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0007",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 4,
+     "beat": 4.333,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0008",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 4,
+     "beat": 4.667,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0009",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "wüss",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0010",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "test",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0011",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0012",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 4.5,
+     "lyric": "was",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0013",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "träu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0014",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.75,
+     "lyric": "men",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0015",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "heisst",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0016",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0017",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 3.5,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0018",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 6,
+     "beat": 4.0,
+     "lyric": "bren",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0019",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 6,
+     "beat": 4.333,
+     "lyric": "nen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "caecilie-e0020",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 6,
+     "beat": 4.667,
+     "lyric": "den",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0021",
+     "pitch": "B#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "Küs",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0022",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "sen,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    7,
+    11
+   ],
+   "lyrics": "von Wandern und ruhen mit der Geliebten Aug' in Auge und kosend und",
+   "translation": "与爱人四目相对，",
+   "events": [
+    {
+     "id": "caecilie-e0023",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0024",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 3.0,
+     "lyric": "Wan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0025",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 4.0,
+     "lyric": "dern",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0026",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 4.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0027",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "ru",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0028",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "hen",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0029",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.5,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0030",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 4.0,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0031",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 4.5,
+     "lyric": "Ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0032",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "lieb",
+     "syllabic": "middle"
+    },
+    {
+     "id": "caecilie-e0033",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0034",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "Aug'",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0035",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0036",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "Au",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0037",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 4.0,
+     "lyric": "ge",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0038",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0039",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0040",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "ko",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0041",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 4.0,
+     "lyric": "send",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0042",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 4.5,
+     "lyric": "und",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    12,
+    14
+   ],
+   "lyrics": "plaudernd, wenn du es wüsstest,",
+   "translation": "如果你知道，你定会倾心！",
+   "events": [
+    {
+     "id": "caecilie-e0043",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "plau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0044",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "dernd,",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0045",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0046",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0047",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "wenn",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0048",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 13,
+     "beat": 2.333,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0049",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 13,
+     "beat": 2.667,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0050",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "wüss",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0051",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 4.0,
+     "lyric": "test,",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0052",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    14,
+    16
+   ],
+   "lyrics": "du neigtest dein Herz!",
+   "translation": "如果你知道，你定会倾心！",
+   "events": [
+    {
+     "id": "caecilie-e0053",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0054",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "neig",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0055",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 4.0,
+     "lyric": "test",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0056",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 4.5,
+     "lyric": "dein",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0057",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "Herz!",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0058",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0059",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    16,
+    20
+   ],
+   "lyrics": "Wenn du es wüsstest was bangen heisst in einsamen Nächten und schauert vom",
+   "translation": "如果你知道忐忑是什么感觉——",
+   "events": [
+    {
+     "id": "caecilie-e0060",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "Wenn",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0061",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 16,
+     "beat": 2.333,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0062",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 16,
+     "beat": 2.667,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0063",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "wüss",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0064",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 4.0,
+     "lyric": "test",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0065",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0066",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.5,
+     "lyric": "was",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0067",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "ban",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0068",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 4.0,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0069",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "heisst",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0070",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0071",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 4.0,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0072",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "ein",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0073",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "sa",
+     "syllabic": "middle"
+    },
+    {
+     "id": "caecilie-e0074",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "men",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0075",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "Näch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0076",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 4.0,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0077",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0078",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0079",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "schau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0080",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 4.0,
+     "lyric": "ert",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0081",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 4.5,
+     "lyric": "vom",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    21,
+    23
+   ],
+   "lyrics": "Sturm, da niemand tröstet milden",
+   "translation": "被风暴包围，无人安慰——",
+   "events": [
+    {
+     "id": "caecilie-e0082",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "Sturm,",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0083",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 4.0,
+     "lyric": "da",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0084",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "nie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0085",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 4.0,
+     "lyric": "mand",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0086",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "trö",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0087",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "stet",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0088",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 23,
+     "beat": 3.0,
+     "lyric": "mil",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0089",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 4.5,
+     "lyric": "den",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    24,
+    27
+   ],
+   "lyrics": "Mundes die kampfmüde Seele wenn du es wüsstest,",
+   "translation": "用温柔的口吻抚慰疲惫的灵魂，",
+   "events": [
+    {
+     "id": "caecilie-e0090",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "Mun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0091",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.0,
+     "lyric": "des",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0092",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.5,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0093",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 3.0,
+     "lyric": "kampf",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0094",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 4.0,
+     "lyric": "mü",
+     "syllabic": "middle"
+    },
+    {
+     "id": "caecilie-e0095",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 4.5,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0096",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "See",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0097",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0098",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0099",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "wenn",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0100",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 26,
+     "beat": 2.333,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0101",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 26,
+     "beat": 2.667,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0102",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "wüss",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0103",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 4.0,
+     "lyric": "test,",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0104",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    27,
+    31
+   ],
+   "lyrics": "du kämest zu mir.",
+   "translation": "如果你知道，你定会来到我身边。",
+   "events": [
+    {
+     "id": "caecilie-e0105",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 1.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0106",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "kä",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0107",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 4.0,
+     "lyric": "mest",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0108",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 4.5,
+     "lyric": "zu",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0109",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "mir.",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0110",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 28,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0111",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0112",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0113",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    31,
+    34
+   ],
+   "lyrics": "Wenn du es wüsstest, was leben heisst umhaucht von der",
+   "translation": "如果你知道活着是什么感觉——",
+   "events": [
+    {
+     "id": "caecilie-e0114",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "Wenn",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0115",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 31,
+     "beat": 2.333,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0116",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 31,
+     "beat": 2.667,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0117",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 3.0,
+     "lyric": "wüss",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0118",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 4.0,
+     "lyric": "test,",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0119",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0120",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.5,
+     "lyric": "was",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0121",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0122",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 2.0,
+     "lyric": "ben",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0123",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 33,
+     "beat": 3.0,
+     "lyric": "heisst",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0124",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 4.5,
+     "lyric": "um",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0125",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "haucht",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0126",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 34,
+     "beat": 3.0,
+     "lyric": "von",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0127",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 4.5,
+     "lyric": "der",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    35,
+    39
+   ],
+   "lyrics": "Gottheit weltschafendem Athem zu schweben empor",
+   "translation": "被光托起，向上飘浮，",
+   "events": [
+    {
+     "id": "caecilie-e0128",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "Gott",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0129",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 35,
+     "beat": 3.0,
+     "lyric": "heit",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0130",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "welt",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0131",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 36,
+     "beat": 2.0,
+     "lyric": "scha",
+     "syllabic": "middle"
+    },
+    {
+     "id": "caecilie-e0132",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 3.5,
+     "lyric": "fen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "caecilie-e0133",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 4.0,
+     "lyric": "dem",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0134",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "A",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0135",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 37,
+     "beat": 3.0,
+     "lyric": "them",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0136",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0137",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1.5,
+     "lyric": "zu",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0138",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "schwe",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0139",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 4.0,
+     "lyric": "ben",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0140",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 4.5,
+     "lyric": "em",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0141",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "por",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    40,
+    45
+   ],
+   "lyrics": "lichtgetragen zu seligen Höh'n",
+   "translation": "飞向极乐的高处，",
+   "events": [
+    {
+     "id": "caecilie-e0142",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "licht",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0143",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.5,
+     "lyric": "ge",
+     "syllabic": "middle"
+    },
+    {
+     "id": "caecilie-e0144",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 3.0,
+     "lyric": "tra",
+     "syllabic": "middle"
+    },
+    {
+     "id": "caecilie-e0145",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 4.0,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0146",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0147",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 2.0,
+     "lyric": "zu",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0148",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 3.0,
+     "lyric": "se",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0149",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 4.0,
+     "lyric": "li",
+     "syllabic": "middle"
+    },
+    {
+     "id": "caecilie-e0150",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 4.5,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0151",
+     "pitch": "A5",
+     "rest": false,
+     "duration": 6.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "Höh'n",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0152",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 43,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0153",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0154",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    45,
+    47
+   ],
+   "lyrics": "wenn du es wüsstest,",
+   "translation": "如果你知道，你定会与我同活！",
+   "events": [
+    {
+     "id": "caecilie-e0155",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 2.0,
+     "lyric": "wenn",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0156",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 3.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0157",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 4.0,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0158",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "wüss",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0159",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 46,
+     "beat": 3.0,
+     "lyric": "test,",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0160",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 46,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0161",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    47,
+    48
+   ],
+   "lyrics": "wenn du es wüsstest,",
+   "translation": "如果你知道，你定会与我同活！",
+   "events": [
+    {
+     "id": "caecilie-e0162",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 47,
+     "beat": 2.0,
+     "lyric": "wenn",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0163",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 47,
+     "beat": 2.333,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0164",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 47,
+     "beat": 2.667,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0165",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 47,
+     "beat": 3.0,
+     "lyric": "wüss",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0166",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 47,
+     "beat": 4.0,
+     "lyric": "test,",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0167",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    48,
+    51
+   ],
+   "lyrics": "du lebtest mit",
+   "translation": "如果你知道，你定会与我同活！",
+   "events": [
+    {
+     "id": "caecilie-e0168",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 2.0,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0169",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 48,
+     "beat": 3.0,
+     "lyric": "leb",
+     "syllabic": "begin"
+    },
+    {
+     "id": "caecilie-e0170",
+     "pitch": "G#5",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 49,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0171",
+     "pitch": "B5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 50,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0172",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 51,
+     "beat": 2.0,
+     "lyric": "test",
+     "syllabic": "end"
+    },
+    {
+     "id": "caecilie-e0173",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 51,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0174",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 51,
+     "beat": 4.0,
+     "lyric": "mit",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    52,
+    56
+   ],
+   "lyrics": "mir!",
+   "translation": "如果你知道，你定会与我同活！",
+   "events": [
+    {
+     "id": "caecilie-e0175",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "mir!",
+     "syllabic": "single"
+    },
+    {
+     "id": "caecilie-e0176",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 52,
+     "beat": 4.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0177",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0178",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 54,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0179",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 55,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "caecilie-e0180",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 56,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 176,
+ "restCount": 33,
+ "lyricNoteCount": 141,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 15,
+  "slowScale": 1.45
+ }
+}

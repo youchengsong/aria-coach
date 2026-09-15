@@ -1,0 +1,4098 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "gretchen-am-spinnrade",
+ "title": "Gretchen am Spinnrade",
+ "titleZh": "纺车旁的格蕾琴",
+ "composer": "F. Schubert",
+ "opera": "D. 118（独立艺术歌曲，1814；诗：J.W. von Goethe《浮士德》第一部）",
+ "language": "德语",
+ "voice": "女高音",
+ "difficulty": "中级",
+ "tempoBpm": 72,
+ "timeSignature": "6/8",
+ "coverage": {
+  "measures": [
+   1,
+   120
+  ],
+  "firstSungMeasure": 2,
+  "complete": true,
+  "note": "完整声乐旋律（d 小调，6/8 Nicht zu geschwind，约 120 小节）。钢琴右手的十六分音符持续模拟纺车转动，左手踏板低音。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "E4",
+  "high": "A5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "玛格丽特（浮士德中的少女）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  },
+  {
+   "name": "IMSLP — Gretchen am Spinnrade, D.118",
+   "url": "https://imslp.org/wiki/Gretchen_am_Spinnrade,_D.118_(Schubert,_Franz)",
+   "format": "PDF",
+   "role": "音高与歌词校验参考",
+   "status": "Breitkopf & Härtel 版（公有领域）",
+   "grade": "A",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Meine Ruh' ist hin, mein Herz ist schwer;",
+   "zh": "我的安宁已逝，我的心好沉重；"
+  },
+  {
+   "text": "ich finde sie nimmer und nimmermehr.",
+   "zh": "我再也找不回它了，永远找不回了。"
+  },
+  {
+   "text": "Wo ich ihn nicht hab', ist mir das Grab,",
+   "zh": "没有他在的地方，对我就是坟墓，"
+  },
+  {
+   "text": "die ganze Welt ist mir vergällt.",
+   "zh": "整个世界都变得苦涩。"
+  },
+  {
+   "text": "Mein armer Kopf ist mir verrückt,",
+   "zh": "我可怜的头脑已经疯了，"
+  },
+  {
+   "text": "mein armer Sinn ist mir zerstückt.",
+   "zh": "我可怜的心智已被撕碎。"
+  },
+  {
+   "text": "Meine Ruh' ist hin, mein Herz ist schwer;",
+   "zh": "我的安宁已逝，我的心好沉重；"
+  },
+  {
+   "text": "ich finde sie nimmer und nimmermehr.",
+   "zh": "我再也找不回它了，永远找不回了。"
+  },
+  {
+   "text": "Nach ihm nur schau' ich zum Fenster hinaus,",
+   "zh": "我只为他望向窗外，"
+  },
+  {
+   "text": "nach ihm nur geh' ich aus dem Haus.",
+   "zh": "只为他才走出家门。"
+  },
+  {
+   "text": "Sein hoher Gang, sein' edle Gestalt,",
+   "zh": "他高大的步伐，高贵的身姿，"
+  },
+  {
+   "text": "seines Mundes Lächeln, seiner Augen Gewalt,",
+   "zh": "他嘴角的微笑，他目光的力量，"
+  },
+  {
+   "text": "und seiner Rede Zauberfluss,",
+   "zh": "还有他言语的魔力，"
+  },
+  {
+   "text": "sein Händedruck, und ach, sein Kuss!",
+   "zh": "他的握手，还有，啊，他的吻！"
+  },
+  {
+   "text": "Meine Ruh' ist hin, mein Herz ist schwer;",
+   "zh": "我的安宁已逝，我的心好沉重；"
+  },
+  {
+   "text": "ich finde sie nimmer und nimmermehr.",
+   "zh": "我再也找不回它了，永远找不回了。"
+  },
+  {
+   "text": "Mein Busen drängt sich nach ihm hin.",
+   "zh": "我的胸膛向他靠拢。"
+  },
+  {
+   "text": "Ach, dürft' ich fassen und halten ihn,",
+   "zh": "啊，要是我能抓住他、留住他，"
+  },
+  {
+   "text": "und küssen ihn, so wie ich wollt',",
+   "zh": "按照我渴望的那样亲吻他，"
+  },
+  {
+   "text": "an seinen Küssen vergehen sollt'!",
+   "zh": "在他的吻中消融！"
+  },
+  {
+   "text": "Meine Ruh' ist hin, mein Herz ist schwer.",
+   "zh": "我的安宁已逝，我的心好沉重。"
+  }
+ ],
+ "story": {
+  "background": "这是舒伯特 17 岁时（1814 年 10 月 19 日）创作的作品，被许多音乐学者视为现代德语艺术歌曲的开端。歌词选自歌德《浮士德》第一部中格蕾琴的独白——她已深深爱上浮士德，独自在纺车旁唱出内心的焦灼与渴望。钢琴持续不断的十六分音符模拟纺车转动，这一图像化的伴奏手法深刻影响了后世全部艺术歌曲创作。",
+  "situation": "格蕾琴独自坐在纺车旁。浮士德已经离开，她不知道他会不会回来。她的手在机械地转着纺车，但脑海里全是浮士德——他的步伐、微笑、眼神、话语、握手和亲吻。每当想到'他的吻'，她的情绪就失控，纺车在音乐中也随之停顿。",
+  "relationships": "格蕾琴是一个纯真的市民少女，浮士德是年长的学者（与魔鬼签了约）。她的爱是全身心的、毫无保留的，但她并不了解浮士德的真实处境。这首歌没有对话，只有她一个人的内心独白——这让孤独感更加强烈。",
+  "intent": "开头的'Meine Ruh' ist hin'要像叹息般轻声开始，仿佛自言自语。中间描述浮士德特征的段落应该越来越热烈。到'sein Kuss!'时达到情感爆发点——纺车停顿。之后重新开始转动，格蕾琴试图平静下来，但最后一段的渴望更加强烈，直到'an seinen Küssen vergehen sollt'——她愿意在他的吻中消融。",
+  "plain30": "一个少女爱上了一个男人，他走了，她坐在纺车旁反复想他——他的样子、他的声音、他的吻。每次想到那个吻，她的思绪就断了，纺车也停了。这是一首关于被初恋灼烧的内心独白。",
+  "arc": "d 小调，6/8。纺车音型从头到尾几乎不间断。'Meine Ruh' ist hin' 作为副歌反复出现三次，旋律不变但情感层次递进。中间段落随着对浮士德的回忆从 F 大调逐步攀升到 A 大调高潮——'sein Kuss!'——此处纺车突然停止（全曲唯一的中断），然后缓慢重新启动。尾声在 d 小调中渐弱结束。",
+  "motif": "副歌动机：'Meine Ruh' ist hin' 的下行旋律——从 A 到 D 的四度下行像叹息，每次出现都带着更深的疲惫。纺车动机：钢琴右手连续的十六分音符，在 'sein Kuss!' 处突然中断再缓慢重启——这一刻的沉默比任何音符都有力。上行高潮动机：描述浮士德特征时旋律不断攀升，代表格蕾琴不可抑制的渴望。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "第一次副歌：'Meine Ruh' ist hin' 平静的叹息，建立基调"
+   },
+   {
+    "phrase": "9",
+    "note": "'Nach ihm nur schau' ich' 开始上行——回忆的温度在升高"
+   },
+   {
+    "phrase": "14",
+    "note": "'sein Kuss!' 全曲高潮——纺车停顿，声音应该有爆发后的空白"
+   },
+   {
+    "phrase": "17",
+    "note": "最后一段的渴望：'Mein Busen drängt sich' 比之前更强烈，是无法自拔的绝望"
+   }
+  ],
+  "technique": "6/8 拍的流动感是关键——歌声要像纺车一样连续流动，不要把每个小节都切断。副歌要控制音量，像内心独白而非舞台宣言。高潮处 'sein Kuss!' 之后的重新启动需要非常好的气息控制——从静止到转动，像发动机重新点火。最高音在第三段副歌和 'vergehen sollt' 附近，需要混声区的良好衔接。",
+  "classroom": [
+   "先读中文，理解格蕾琴的处境：她是一个被初恋冲昏头脑的普通少女，不是歌剧里的女英雄。",
+   "慢速朗读德语，注意'Meine Ruh' ist hin'的叹息语气和 'sein Kuss' 的爆发。",
+   "练习 6/8 拍的流动感：用'嗒嗒嗒 嗒嗒嗒'哼唱旋律，保持连续性。",
+   "单独练副歌——三次出现，每次在情感上要有区别。",
+   "练习高潮段落：'sein Händedruck, und ach, sein Kuss!' 的渐强和停顿。",
+   "把歌词放回旋律，注意纺车停顿后重启的呼吸处理。",
+   "完整演唱。想象自己坐在纺车旁，双手在机械地工作，但思绪完全在别处。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "Ruh' 的 u 保持深圆 [uː]，最后的呼气像叹息",
+    "verrückt 的 ü 是圆唇前元音 [ʏ]，Küssen 的 ü 是 [yː]",
+    "Gewalt 的 a 是开口 [a]，要充分打开"
+   ]
+  },
+  {
+   "title": "辅音与连贯性",
+   "items": [
+    "nimmermehr 的双 m 要适度延长，增强'永远不'的绝望感",
+    "Zauberfluss 的 Z 读 [ts]，fluss 的 ss 是清擦音",
+    "6/8 拍中歌词的节奏要自然流动，不要过分强调每个拍点——模拟纺车的连续转动"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    2,
+    4
+   ],
+   "lyrics": "Meine Ruh’ ist hin,",
+   "translation": "我的安宁已逝，我的心好沉重；",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0004",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0005",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 2.333,
+     "lyric": "Mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0006",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 2.667,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0007",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "Ruh’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0008",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0009",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2.667,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0010",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "hin,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0011",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    4,
+    6
+   ],
+   "lyrics": "mein Herz ist schwer,",
+   "translation": "我的安宁已逝，我的心好沉重；",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0012",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.667,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0013",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "Herz",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0014",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.667,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0015",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "schwer,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0016",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    6,
+    10
+   ],
+   "lyrics": "ich finde, ich finde sie nimmer und nimmer",
+   "translation": "我再也找不回它了，永远找不回了。",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0017",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.667,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0018",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "fin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0019",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "de,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0020",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.667,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0021",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "fin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0022",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.333,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0023",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.667,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0024",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "nim",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0025",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0026",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.667,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0027",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "nim",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0028",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.667,
+     "lyric": "mer",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    11,
+    14
+   ],
+   "lyrics": "mehr! Wo ich ihn nicht",
+   "translation": "没有他在的地方，对我就是坟墓，",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0029",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "mehr!",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0030",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0031",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0032",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0033",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0034",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0035",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0036",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.333,
+     "lyric": "Wo",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0037",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.667,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0038",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "ihn",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0039",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0040",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.667,
+     "lyric": "nicht",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    15,
+    17
+   ],
+   "lyrics": "hab’, ist mir das Grab,",
+   "translation": "没有他在的地方，对我就是坟墓，",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0041",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "hab’,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0042",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0043",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0044",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.667,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0045",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0046",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0047",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.667,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0048",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "Grab,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0049",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0050",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    17,
+    21
+   ],
+   "lyrics": "die ganze Welt ist mir vergällt,",
+   "translation": "整个世界都变得苦涩。",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0051",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.667,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0052",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "gan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0053",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.667,
+     "lyric": "ze",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0054",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "Welt",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0055",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.667,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0056",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0057",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0058",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2.667,
+     "lyric": "ver",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0059",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0060",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "gällt,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0061",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0062",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    21,
+    25
+   ],
+   "lyrics": "mein armer Kopf ist mir verrückt,",
+   "translation": "我可怜的头脑已经疯了，",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0063",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.667,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0064",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "ar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0065",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0066",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.667,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0067",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "Kopf",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0068",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0069",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.667,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0070",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0071",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0072",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.667,
+     "lyric": "ver",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0073",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "rückt,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0074",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    25,
+    31
+   ],
+   "lyrics": "mein armer Sinn ist mir zerstückt.",
+   "translation": "我可怜的心智已被撕碎。",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0075",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.667,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0076",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "ar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0077",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0078",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.667,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0079",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "Sinn",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0080",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0081",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.667,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0082",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0083",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0084",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.667,
+     "lyric": "zer",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0085",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "stückt.",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0086",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0087",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 29,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0088",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0089",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0090",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0091",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0092",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    31,
+    33
+   ],
+   "lyrics": "Meine Ruh’ ist hin,",
+   "translation": "我的安宁已逝，我的心好沉重；",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0093",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.333,
+     "lyric": "Mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0094",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.667,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0095",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "Ruh’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0096",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0097",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.667,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0098",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "hin,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0099",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    33,
+    35
+   ],
+   "lyrics": "mein Herz ist schwer,",
+   "translation": "我的安宁已逝，我的心好沉重；",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0100",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2.667,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0101",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "Herz",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0102",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 2.667,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0103",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "schwer,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0104",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    35,
+    39
+   ],
+   "lyrics": "ich finde, ich finde sie nimmer und nimmer",
+   "translation": "我再也找不回它了，永远找不回了。",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0105",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.667,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0106",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "fin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0107",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 2.0,
+     "lyric": "de,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0108",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 2.667,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0109",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "fin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0110",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2.333,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0111",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2.667,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0112",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "nim",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0113",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0114",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2.667,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0115",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "nim",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0116",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.667,
+     "lyric": "mer",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    40,
+    43
+   ],
+   "lyrics": "mehr. Nach ihm nur",
+   "translation": "我只为他望向窗外，",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0117",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "mehr.",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0118",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0119",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0120",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0121",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0122",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0123",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0124",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.333,
+     "lyric": "Nach",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0125",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0126",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "ihm",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0127",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0128",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.667,
+     "lyric": "nur",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    44,
+    46
+   ],
+   "lyrics": "schau’ ich zum Fenster hinaus,",
+   "translation": "我只为他望向窗外，",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0129",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "schau’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0130",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 44,
+     "beat": 2.0,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0131",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.667,
+     "lyric": "zum",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0132",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "Fen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0133",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.333,
+     "lyric": "ster",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0134",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.667,
+     "lyric": "hin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0135",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "aus,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0136",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0137",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    46,
+    50
+   ],
+   "lyrics": "nach ihm nur geh’ ich aus dem Haus.",
+   "translation": "只为他才走出家门。",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0138",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 2.667,
+     "lyric": "nach",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0139",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "ihm",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0140",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0141",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.667,
+     "lyric": "nur",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0142",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "geh’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0143",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 48,
+     "beat": 2.0,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0144",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "aus",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0145",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0146",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.667,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0147",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "Haus.",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0148",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0149",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    50,
+    52
+   ],
+   "lyrics": "Sein hoher Gang,",
+   "translation": "他高大的步伐，高贵的身姿，",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0150",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.667,
+     "lyric": "Sein",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0151",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "ho",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0152",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0153",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.667,
+     "lyric": "her",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0154",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "Gang,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0155",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    52,
+    54
+   ],
+   "lyrics": "sein’ ed’ le Gestalt,",
+   "translation": "他高大的步伐，高贵的身姿，",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0156",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 52,
+     "beat": 2.667,
+     "lyric": "sein’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0157",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "ed’",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0158",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.333,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0159",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.667,
+     "lyric": "Ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0160",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 54,
+     "beat": 1.0,
+     "lyric": "stalt,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0161",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    54,
+    56
+   ],
+   "lyrics": "seines Mundes Lächeln,",
+   "translation": "他嘴角的微笑，他目光的力量，",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0162",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 2.333,
+     "lyric": "sei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0163",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 2.667,
+     "lyric": "nes",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0164",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 55,
+     "beat": 1.0,
+     "lyric": "Mun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0165",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0166",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 2.667,
+     "lyric": "des",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0167",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 56,
+     "beat": 1.0,
+     "lyric": "Lä",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0168",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 1.667,
+     "lyric": "cheln,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0169",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    56,
+    58
+   ],
+   "lyrics": "seiner Augen Gewalt,",
+   "translation": "他嘴角的微笑，他目光的力量，",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0170",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 2.333,
+     "lyric": "sei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0171",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 2.667,
+     "lyric": "ner",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0172",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 57,
+     "beat": 1.0,
+     "lyric": "Au",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0173",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 2.333,
+     "lyric": "gen",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0174",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 2.667,
+     "lyric": "Ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0175",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 58,
+     "beat": 1.0,
+     "lyric": "walt,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0176",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0177",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "measures": [
+    58,
+    63
+   ],
+   "lyrics": "und seiner Rede Zauberfluss,",
+   "translation": "还有他言语的魔力，",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0178",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 58,
+     "beat": 2.667,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0179",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 59,
+     "beat": 1.0,
+     "lyric": "sei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0180",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0181",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 2.667,
+     "lyric": "ner",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0182",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 60,
+     "beat": 1.0,
+     "lyric": "Re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0183",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 60,
+     "beat": 2.0,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0184",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 61,
+     "beat": 1.0,
+     "lyric": "Zau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0185",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0186",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 2.667,
+     "lyric": "ber",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0187",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 62,
+     "beat": 1.0,
+     "lyric": "fluss,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0188",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 62,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0189",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0190",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 63,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0191",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "measures": [
+    63,
+    65
+   ],
+   "lyrics": "sein Händedruck,",
+   "translation": "他的握手，还有，啊，他的吻！",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0192",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 63,
+     "beat": 2.0,
+     "lyric": "sein",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0193",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 64,
+     "beat": 1.0,
+     "lyric": "Hän",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0194",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 64,
+     "beat": 1.667,
+     "lyric": "de",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0195",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 64,
+     "beat": 2.0,
+     "lyric": "druck,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0196",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 65,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0197",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 65,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "measures": [
+    65,
+    73
+   ],
+   "lyrics": "und ach, sein Kuss!",
+   "translation": "他的握手，还有，啊，他的吻！",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0198",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 65,
+     "beat": 2.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0199",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 66,
+     "beat": 1.0,
+     "lyric": "ach,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0200",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 67,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0201",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 67,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0202",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 67,
+     "beat": 2.0,
+     "lyric": "sein",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0203",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 68,
+     "beat": 1.0,
+     "lyric": "Kuss!",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0204",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 69,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0205",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 70,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0206",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 71,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0207",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 72,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0208",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 73,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0209",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0210",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 22,
+   "measures": [
+    73,
+    75
+   ],
+   "lyrics": "Meine Ruh’ ist hin,",
+   "translation": "我的安宁已逝，我的心好沉重；",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0211",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 2.333,
+     "lyric": "Mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0212",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 73,
+     "beat": 2.667,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0213",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 74,
+     "beat": 1.0,
+     "lyric": "Ruh’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0214",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 74,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0215",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 74,
+     "beat": 2.667,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0216",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 75,
+     "beat": 1.0,
+     "lyric": "hin,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0217",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0218",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 23,
+   "measures": [
+    75,
+    77
+   ],
+   "lyrics": "mein Herz ist schwer,",
+   "translation": "我的安宁已逝，我的心好沉重；",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0219",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 75,
+     "beat": 2.667,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0220",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 76,
+     "beat": 1.0,
+     "lyric": "Herz",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0221",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 76,
+     "beat": 2.667,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0222",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 77,
+     "beat": 1.0,
+     "lyric": "schwer,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0223",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 77,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 24,
+   "measures": [
+    77,
+    84
+   ],
+   "lyrics": "ich finde, ich finde sie nimmer und nimmermehr.",
+   "translation": "我再也找不回它了，永远找不回了。",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0224",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 77,
+     "beat": 2.667,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0225",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 78,
+     "beat": 1.0,
+     "lyric": "fin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0226",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 78,
+     "beat": 2.0,
+     "lyric": "de,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0227",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 78,
+     "beat": 2.667,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0228",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 79,
+     "beat": 1.0,
+     "lyric": "fin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0229",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 79,
+     "beat": 2.333,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0230",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 79,
+     "beat": 2.667,
+     "lyric": "sie",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0231",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 80,
+     "beat": 1.0,
+     "lyric": "nim",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0232",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 80,
+     "beat": 2.0,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0233",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 80,
+     "beat": 2.667,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0234",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 81,
+     "beat": 1.0,
+     "lyric": "nim",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0235",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 81,
+     "beat": 2.667,
+     "lyric": "mer",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0236",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 82,
+     "beat": 1.0,
+     "lyric": "mehr.",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0237",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 82,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0238",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 82,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0239",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 83,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0240",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 84,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0241",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 84,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0242",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 84,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 25,
+   "measures": [
+    84,
+    88
+   ],
+   "lyrics": "Mein Busen drängt sich nach ihm hin,",
+   "translation": "我的胸膛向他靠拢。",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0243",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 84,
+     "beat": 2.667,
+     "lyric": "Mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0244",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 85,
+     "beat": 1.0,
+     "lyric": "Bu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0245",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 85,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0246",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 85,
+     "beat": 2.667,
+     "lyric": "sen",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0247",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 86,
+     "beat": 1.0,
+     "lyric": "drängt",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0248",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 86,
+     "beat": 2.0,
+     "lyric": "sich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0249",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 86,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0250",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 87,
+     "beat": 1.0,
+     "lyric": "nach",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0251",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 87,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0252",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 87,
+     "beat": 2.667,
+     "lyric": "ihm",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0253",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 88,
+     "beat": 1.0,
+     "lyric": "hin,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0254",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 88,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0255",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 88,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 26,
+   "measures": [
+    88,
+    92
+   ],
+   "lyrics": "ach dürft’ ich fassen und halten ihn,",
+   "translation": "啊，要是我能抓住他、留住他，",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0256",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 88,
+     "beat": 2.667,
+     "lyric": "ach",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0257",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 89,
+     "beat": 1.0,
+     "lyric": "dürft’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0258",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 89,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0259",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 89,
+     "beat": 2.667,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0260",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 90,
+     "beat": 1.0,
+     "lyric": "fas",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0261",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 1.667,
+     "lyric": "sen",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0262",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0263",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0264",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 90,
+     "beat": 2.667,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0265",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 91,
+     "beat": 1.0,
+     "lyric": "hal",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0266",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 91,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0267",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 91,
+     "beat": 2.667,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0268",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 92,
+     "beat": 1.0,
+     "lyric": "ihn,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0269",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0270",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 27,
+   "measures": [
+    92,
+    94
+   ],
+   "lyrics": "und küssen ihn,",
+   "translation": "按照我渴望的那样亲吻他，",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0271",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 92,
+     "beat": 2.667,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0272",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 93,
+     "beat": 1.0,
+     "lyric": "küs",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0273",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 93,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0274",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 93,
+     "beat": 2.667,
+     "lyric": "sen",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0275",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 94,
+     "beat": 1.0,
+     "lyric": "ihn,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0276",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 94,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 28,
+   "measures": [
+    94,
+    99
+   ],
+   "lyrics": "so wie ich wollt an seinen Küssen vergehen",
+   "translation": "在他的吻中消融！",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0277",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 94,
+     "beat": 2.667,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0278",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 95,
+     "beat": 1.0,
+     "lyric": "wie",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0279",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 95,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0280",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 95,
+     "beat": 2.667,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0281",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 96,
+     "beat": 1.0,
+     "lyric": "wollt",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0282",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0283",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0284",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 96,
+     "beat": 2.667,
+     "lyric": "an",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0285",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 97,
+     "beat": 1.0,
+     "lyric": "sei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0286",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 97,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0287",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 97,
+     "beat": 2.667,
+     "lyric": "nen",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0288",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 98,
+     "beat": 1.0,
+     "lyric": "Küs",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0289",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 98,
+     "beat": 1.667,
+     "lyric": "sen",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0290",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 98,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0291",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 98,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0292",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 98,
+     "beat": 2.667,
+     "lyric": "ver",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0293",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 99,
+     "beat": 1.0,
+     "lyric": "ge",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0294",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 99,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0295",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 99,
+     "beat": 2.667,
+     "lyric": "hen",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 29,
+   "measures": [
+    100,
+    102
+   ],
+   "lyrics": "sollt o könnt’ ich ihn küssen,",
+   "translation": "按照我渴望的那样亲吻他，",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0296",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 100,
+     "beat": 1.0,
+     "lyric": "sollt",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0297",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 100,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0298",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 100,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0299",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 100,
+     "beat": 2.667,
+     "lyric": "o",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0300",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 101,
+     "beat": 1.0,
+     "lyric": "könnt’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0301",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 101,
+     "beat": 2.333,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0302",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 101,
+     "beat": 2.667,
+     "lyric": "ihn",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0303",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 102,
+     "beat": 1.0,
+     "lyric": "küs",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0304",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 102,
+     "beat": 2.0,
+     "lyric": "sen,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0305",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 102,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 30,
+   "measures": [
+    102,
+    107
+   ],
+   "lyrics": "so wie ich wollt an seinen Küssen vergehen",
+   "translation": "按照我渴望的那样亲吻他，",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0306",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 102,
+     "beat": 2.667,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0307",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 103,
+     "beat": 1.0,
+     "lyric": "wie",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0308",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 103,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0309",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 103,
+     "beat": 2.667,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0310",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 104,
+     "beat": 1.0,
+     "lyric": "wollt",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0311",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 104,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0312",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 104,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0313",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 104,
+     "beat": 2.667,
+     "lyric": "an",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0314",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 105,
+     "beat": 1.0,
+     "lyric": "sei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0315",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 105,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0316",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 105,
+     "beat": 2.667,
+     "lyric": "nen",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0317",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 106,
+     "beat": 1.0,
+     "lyric": "Küs",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0318",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 106,
+     "beat": 2.0,
+     "lyric": "sen",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0319",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 106,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0320",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 106,
+     "beat": 2.667,
+     "lyric": "ver",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0321",
+     "pitch": "A5",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 107,
+     "beat": 1.0,
+     "lyric": "ge",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0322",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 107,
+     "beat": 2.667,
+     "lyric": "hen",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 31,
+   "measures": [
+    108,
+    111
+   ],
+   "lyrics": "sollt an seinen Küssen vergehen",
+   "translation": "在他的吻中消融！",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0323",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 108,
+     "beat": 1.0,
+     "lyric": "sollt",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0324",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 108,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0325",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 108,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0326",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 108,
+     "beat": 2.667,
+     "lyric": "an",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0327",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 109,
+     "beat": 1.0,
+     "lyric": "sei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0328",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 109,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0329",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 109,
+     "beat": 2.667,
+     "lyric": "nen",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0330",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 110,
+     "beat": 1.0,
+     "lyric": "Küs",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0331",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 110,
+     "beat": 2.0,
+     "lyric": "sen",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0332",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 110,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0333",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 110,
+     "beat": 2.667,
+     "lyric": "ver",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0334",
+     "pitch": "A5",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 111,
+     "beat": 1.0,
+     "lyric": "ge",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0335",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 111,
+     "beat": 2.667,
+     "lyric": "hen",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 32,
+   "measures": [
+    112,
+    115
+   ],
+   "lyrics": "sollt’. Meine Ruh’ ist",
+   "translation": "我的安宁已逝，我的心好沉重。",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0336",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 112,
+     "beat": 1.0,
+     "lyric": "sollt’.",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0337",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 112,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0338",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 112,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0339",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 113,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0340",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 114,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0341",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 114,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0342",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 114,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0343",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 114,
+     "beat": 2.333,
+     "lyric": "Mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0344",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 114,
+     "beat": 2.667,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0345",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 115,
+     "beat": 1.0,
+     "lyric": "Ruh’",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0346",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 115,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0347",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 115,
+     "beat": 2.667,
+     "lyric": "ist",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 33,
+   "measures": [
+    116,
+    120
+   ],
+   "lyrics": "hin, mein Herz ist schwer.",
+   "translation": "我的安宁已逝，我的心好沉重。",
+   "events": [
+    {
+     "id": "gretchen-am-spinnrade-e0348",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 116,
+     "beat": 1.0,
+     "lyric": "hin,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0349",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 116,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0350",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 116,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0351",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 116,
+     "beat": 2.667,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0352",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 117,
+     "beat": 1.0,
+     "lyric": "Herz",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0353",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 117,
+     "beat": 2.667,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0354",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 118,
+     "beat": 1.0,
+     "lyric": "schwer.",
+     "syllabic": "single"
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0355",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 119,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gretchen-am-spinnrade-e0356",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 120,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 353,
+ "restCount": 97,
+ "lyricNoteCount": 225,
+ "pages": 2,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 33,
+  "slowScale": 1.45
+ }
+}

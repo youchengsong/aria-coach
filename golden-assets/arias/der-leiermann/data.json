@@ -1,0 +1,1932 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "der-leiermann",
+ "title": "Der Leiermann",
+ "titleZh": "手摇风琴师",
+ "composer": "F. Schubert",
+ "opera": "Winterreise D.911 No.24（冬之旅第24首，1827；诗：W. Müller）",
+ "language": "德语",
+ "voice": "男中音",
+ "difficulty": "高阶",
+ "tempoBpm": 56,
+ "timeSignature": "3/4",
+ "coverage": {
+  "measures": [
+   1,
+   61
+  ],
+  "firstSungMeasure": 8,
+  "complete": true,
+  "note": "完整声乐旋律（a小调，3/4，极慢，约64小节）。《冬之旅》终曲——旅人遇见冰冻的街头手摇风琴师。音乐史上最荒凉的结尾之一。"
+ },
+ "range": {
+  "low": "E4",
+  "high": "F5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "冬日旅人（流浪者）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Drüben hinterm Dorfe steht ein Leiermann,",
+   "zh": "村子那边站着一个手摇风琴师，"
+  },
+  {
+   "text": "und mit starren Fingern dreht er, was er kann.",
+   "zh": "用冻僵的手指，尽力摇着琴。"
+  },
+  {
+   "text": "Barfuß auf dem Eise wankt er hin und her,",
+   "zh": "赤脚在冰上踉跄来回，"
+  },
+  {
+   "text": "und sein kleiner Teller bleibt ihm immer leer.",
+   "zh": "他的小碟子始终空空如也。"
+  },
+  {
+   "text": "Keiner mag ihn hören, keiner sieht ihn an,",
+   "zh": "没人愿意听他，没人看他一眼，"
+  },
+  {
+   "text": "und die Hunde knurren um den alten Mann.",
+   "zh": "只有狗在老人身边咆哮。"
+  },
+  {
+   "text": "Und er läßt es gehen alles, wie es will,",
+   "zh": "他任由一切随意而去，"
+  },
+  {
+   "text": "dreht, und seine Leier steht ihm nimmer still.",
+   "zh": "摇着，他的风琴永不停歇。"
+  },
+  {
+   "text": "Wunderlicher Alter, soll ich mit dir gehn?",
+   "zh": "奇怪的老人，我该跟你走吗？"
+  },
+  {
+   "text": "Willst zu meinen Liedern deine Leier drehn?",
+   "zh": "你愿意为我的歌摇你的琴吗？"
+  }
+ ],
+ "story": {
+  "background": "《手摇风琴师》是《冬之旅》的终曲——也是最令人心碎的一首。旅人在旅途尽头遇见一个赤脚站在冰上、没人理会的手摇风琴师。最后他问：我该跟你走吗？钢琴用空五度和持续低音模仿手摇风琴的机械声——整首曲子像一个冻结的世界。",
+  "situation": "荒凉的村外。旅人看见一个老人赤脚站在冰上摇着手摇风琴，没有人听，没有人施舍。旅人在这个被遗忘的老人身上看到了自己——都是被世界抛弃的人。最后的问题'我该跟你走吗'没有答案。",
+  "relationships": "流浪者与神秘的手摇风琴师——《冬之旅》的终曲。在长达24首歌的绝望旅程尽头，流浪者在冰雪中遇到一个赤脚的老人，站在村庄边上，用冻僵的手指转动着手摇风琴。没有人听，没有人给他施舍，狗对他咆哮——但他不停地转。老人可能是死神，也可能只是另一个被世界抛弃的人。流浪者问的最后一个问题：'奇怪的老人，要我跟你一起走吗？你愿意用你的风琴为我的歌伴奏吗？'——这个问题没有回答。",
+  "intent": "以彻底的空虚开始。钢琴左手的空五度（A-E）是手摇风琴的持续低音（drone），从头到尾不停——它代表的不是音乐，而是机械的、没有生命的重复。声乐线几乎是说话，被抽干了一切情感。不要试图让这首歌'好听'——它的力量恰恰在于什么都没有：没有激情，没有悲伤，没有希望，也没有绝望。最后的问句'soll ich mit dir gehn?'应该像是已经知道答案但还是要问。",
+  "plain30": "村外一个老人赤脚站在冰上摇着手摇风琴。没人听他，没人看他。旅人问：奇怪的老人，我该跟你走吗？这个问题永远没有答案。",
+  "arc": "a小调，非常缓慢。全曲只有两个和弦素材在交替——主和弦和属和弦，但属和弦经常被处理成空五度，像是缺少灵魂的音乐。中段短暂出现大调色彩（A大调），但这个大调听起来比小调更空洞——它不是希望，而是对希望的放弃。整首歌像一个正在停止转动的轮子，越来越慢，但永远不会完全停下来。",
+  "motif": "空五度动机：钢琴的持续低音五度像手摇风琴的机械空转。声乐线条几乎是单调的吟诵——像一个已经放弃了一切的人在说话。最后的问句没有上行——平静得可怕。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "开头「Drüben hinterm Dorfe steht ein Leiermann」——钢琴的裸五度（a–e）就是手摇风琴的空心嗡鸣，全曲只重复九个音"
+   },
+   {
+    "phrase": "4",
+    "note": "「Und sein kleiner Teller bleibt ihm immer leer」——旋律在词尾的那个空荡长音上悬置，配合钢琴的持续五度"
+   },
+   {
+    "phrase": "11",
+    "note": "「Wunderlicher Alter, soll ich mit dir gehn?」——结尾的问句以大调三级音悬置，不做任何解决，问题永远没有答案"
+   }
+  ],
+  "technique": "这首歌最大的挑战是克制——你必须唱得'几乎不是在唱'。声音要极轻、极平，像已经冻僵的人在说最后几句话。绝对不要加入颤音或情感强调——任何'美化'都会破坏这首歌的本质。空五度的伴奏要让钢琴家的触键也变得机械、无表情。这是舒伯特最简单也最难的歌：音符容易，但真正做到'什么都不加'需要极大的艺术勇气。",
+  "classroom": [
+   "先读中文翻译，理解歌曲的核心情感。",
+   "慢速朗读德语原文，注意元音和辅音的准确发音。",
+   "分离元音和辅音，按音节练习。",
+   "用节拍器按标注速度朗读歌词。",
+   "听合成旋律参考，注意旋律走向。",
+   "配上歌词，先用一半速度练唱。",
+   "以正常速度完整演唱。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "注意长短元音的区别",
+    "ö 和 ü 需要圆唇",
+    "ei 读 [aɪ]，ie 读 [iː]",
+    "ch 在 i/e 后读软 [ç]，在 a/o/u 后读硬 [x]"
+   ]
+  },
+  {
+   "title": "歌唱风格",
+   "items": [
+    "注意德语歌曲中词与音的密切关系",
+    "每个词的语气要和旋律的走向一致",
+    "德语辅音要清晰但不过重"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    8,
+    12
+   ],
+   "lyrics": "Drüben hinterm Dor- fe steht ein Leier mann,",
+   "translation": "村子那边站着一个手摇风琴师，",
+   "events": [
+    {
+     "id": "der-leiermann-e0010",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0011",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "Drü",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0012",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.5,
+     "lyric": "ben",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0013",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "hin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0014",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "term",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0015",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "Dor-",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0016",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.5,
+     "lyric": "fe",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0017",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "steht",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0018",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.5,
+     "lyric": "ein",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0019",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "Lei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0020",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "er",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0021",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "mann,",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0022",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0023",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    13,
+    16
+   ],
+   "lyrics": "Und mit starren Fingern dreht er, was er kann.",
+   "translation": "用冻僵的手指，尽力摇着琴。",
+   "events": [
+    {
+     "id": "der-leiermann-e0024",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "Und",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0025",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0026",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "star",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0027",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "ren",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0028",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "Fin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0029",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 3.5,
+     "lyric": "gern",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0030",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "dreht",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0031",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "er,",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0032",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "was",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0033",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.5,
+     "lyric": "er",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0034",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "kann.",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0035",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0036",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    17,
+    20
+   ],
+   "lyrics": "Baarfuss auf dem Eise wankt er hin und her.",
+   "translation": "赤脚在冰上踉跄来回，",
+   "events": [
+    {
+     "id": "der-leiermann-e0037",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "Baar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0038",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.5,
+     "lyric": "fuss",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0039",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "auf",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0040",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0041",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "Ei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0042",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3.5,
+     "lyric": "se",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0043",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "wankt",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0044",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.75,
+     "lyric": "er",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0045",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "hin",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0046",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0047",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "her.",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0048",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0049",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    21,
+    24
+   ],
+   "lyrics": "Und sein kleiner Teller bleibt ihm immer leer",
+   "translation": "他的小碟子始终空空如也。",
+   "events": [
+    {
+     "id": "der-leiermann-e0050",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "Und",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0051",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 1.5,
+     "lyric": "sein",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0052",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "klei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0053",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 2.5,
+     "lyric": "ner",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0054",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3.0,
+     "lyric": "Tel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0055",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 3.5,
+     "lyric": "ler",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0056",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "bleibt",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0057",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.75,
+     "lyric": "ihm",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0058",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "im",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0059",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0060",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 3.0,
+     "lyric": "leer",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0061",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0062",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    25,
+    30
+   ],
+   "lyrics": "Und sein kleiner Teller bleibt ihm immer leer",
+   "translation": "他的小碟子始终空空如也。",
+   "events": [
+    {
+     "id": "der-leiermann-e0063",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "Und",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0064",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.5,
+     "lyric": "sein",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0065",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "klei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0066",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.5,
+     "lyric": "ner",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0067",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "Tel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0068",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 3.75,
+     "lyric": "ler",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0069",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "bleibt",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0070",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 1.5,
+     "lyric": "ihm",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0071",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "im",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0072",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.5,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0073",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "leer",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0074",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0075",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0076",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0077",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    31,
+    34
+   ],
+   "lyrics": "Keiner mag ihn hören keiner sieht ihn an,",
+   "translation": "没人愿意听他，没人看他一眼，",
+   "events": [
+    {
+     "id": "der-leiermann-e0078",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "Kei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0079",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.5,
+     "lyric": "ner",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0080",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "mag",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0081",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.5,
+     "lyric": "ihn",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0082",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 3.0,
+     "lyric": "hö",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0083",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 3.5,
+     "lyric": "ren",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0084",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "kei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0085",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.5,
+     "lyric": "ner",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0086",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "sieht",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0087",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "ihn",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0088",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 3.0,
+     "lyric": "an,",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0089",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0090",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    35,
+    38
+   ],
+   "lyrics": "Und die Hunde knurren um den alten Mann.",
+   "translation": "只有狗在老人身边咆哮。",
+   "events": [
+    {
+     "id": "der-leiermann-e0091",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "Und",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0092",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 1.5,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0093",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.0,
+     "lyric": "Hun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0094",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0095",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 3.0,
+     "lyric": "knur",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0096",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 3.5,
+     "lyric": "ren",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0097",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "um",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0098",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.5,
+     "lyric": "den",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0099",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 2.0,
+     "lyric": "al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0100",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 2.5,
+     "lyric": "ten",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0101",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 3.0,
+     "lyric": "Mann.",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0102",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0103",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    39,
+    42
+   ],
+   "lyrics": "Und er lässt es gehenalles wie es will",
+   "translation": "他任由一切随意而去，",
+   "events": [
+    {
+     "id": "der-leiermann-e0104",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "Und",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0105",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.5,
+     "lyric": "er",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0106",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.0,
+     "lyric": "lässt",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0107",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.5,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0108",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 3.0,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0109",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 3.5,
+     "lyric": "hen",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0110",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "al",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-leiermann-e0111",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 40,
+     "beat": 1.75,
+     "lyric": "les",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0112",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.0,
+     "lyric": "wie",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0113",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.5,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0114",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 3.0,
+     "lyric": "will",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0115",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0116",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    43,
+    46
+   ],
+   "lyrics": "Dreht, und seine Leier steht ihm nimmer still,",
+   "translation": "摇着，他的风琴永不停歇。",
+   "events": [
+    {
+     "id": "der-leiermann-e0117",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "Dreht,",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0118",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 1.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0119",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.0,
+     "lyric": "sei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0120",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0121",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 3.0,
+     "lyric": "Lei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0122",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 3.5,
+     "lyric": "er",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0123",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "steht",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0124",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.5,
+     "lyric": "ihm",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0125",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.0,
+     "lyric": "nim",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0126",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.5,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0127",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 44,
+     "beat": 3.0,
+     "lyric": "still,",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0128",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0129",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    47,
+    52
+   ],
+   "lyrics": "Dreht, und seine Leier steht ihm nimmer still.",
+   "translation": "摇着，他的风琴永不停歇。",
+   "events": [
+    {
+     "id": "der-leiermann-e0130",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "Dreht,",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0131",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 1.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0132",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.0,
+     "lyric": "sei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0133",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0134",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 47,
+     "beat": 3.0,
+     "lyric": "Lei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0135",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 3.75,
+     "lyric": "er",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0136",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "steht",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0137",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1.5,
+     "lyric": "ihm",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0138",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2.0,
+     "lyric": "nim",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0139",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2.5,
+     "lyric": "mer",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0140",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 3.0,
+     "lyric": "still.",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0141",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0142",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0143",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0144",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    53,
+    54
+   ],
+   "lyrics": "Wunderlicher Alter,",
+   "translation": "奇怪的老人，我该跟你走吗？",
+   "events": [
+    {
+     "id": "der-leiermann-e0145",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "Wun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0146",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 53,
+     "beat": 1.75,
+     "lyric": "der",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-leiermann-e0147",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.0,
+     "lyric": "li",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-leiermann-e0148",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.5,
+     "lyric": "cher",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0149",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 3.0,
+     "lyric": "Al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0150",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 3.5,
+     "lyric": "ter,",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0151",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 54,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    54,
+    55
+   ],
+   "lyrics": "soll ich mit dir gehn?",
+   "translation": "奇怪的老人，我该跟你走吗？",
+   "events": [
+    {
+     "id": "der-leiermann-e0152",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 2.0,
+     "lyric": "soll",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0153",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 2.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0154",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 3.0,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0155",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 3.5,
+     "lyric": "dir",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0156",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0157",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 55,
+     "beat": 1.0,
+     "lyric": "gehn?",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0158",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 55,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    56,
+    61
+   ],
+   "lyrics": "Willst zu meinen Liedern deine Leier drehn?",
+   "translation": "你愿意为我的歌摇你的琴吗？",
+   "events": [
+    {
+     "id": "der-leiermann-e0159",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 56,
+     "beat": 1.0,
+     "lyric": "Willst",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0160",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 56,
+     "beat": 1.75,
+     "lyric": "zu",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0161",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 2.0,
+     "lyric": "mei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0162",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 2.5,
+     "lyric": "nen",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0163",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 3.0,
+     "lyric": "Lie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0164",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 3.5,
+     "lyric": "dern",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0165",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 57,
+     "beat": 1.0,
+     "lyric": "dei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0166",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 57,
+     "beat": 1.75,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0167",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 2.0,
+     "lyric": "Lei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-leiermann-e0168",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 2.5,
+     "lyric": "er",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-leiermann-e0169",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 57,
+     "beat": 3.0,
+     "lyric": "drehn?",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-leiermann-e0170",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 58,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0171",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 59,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0172",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 60,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-leiermann-e0173",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 61,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 164,
+ "restCount": 31,
+ "lyricNoteCount": 132,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 13,
+  "slowScale": 1.45
+ }
+}

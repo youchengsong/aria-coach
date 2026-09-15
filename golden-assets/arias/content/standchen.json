@@ -1,0 +1,152 @@
+{
+ "title": "Ständchen",
+ "titleZh": "小夜曲",
+ "composer": "F. Schubert",
+ "opera": "Schwanengesang, D. 957, No. 4（1828；德语艺术歌曲，词 Ludwig Rellstab）",
+ "role": "抒情主体：在夜里向恋人窗前恳求的人",
+ "genre": "艺术歌曲",
+ "language": "德语",
+ "voice": "男高音",
+ "difficulty": "中级",
+ "tempoBpm": 66,
+ "complete": true,
+ "sourceGrade": "B",
+ "coverageNote": "完整声乐旋律（d 小调，3/4 Mäßig，59 小节）。原谱前两段以反复记号承载第 1、2 节歌词，本页按单次通读导入第 1 节（98 个音节）；第 2 节完整歌词在第二页提供。已与 IMSLP Breitkopf 版核对。",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Schubert,_Franz/Schwanengesang,_D.957/4_Ständchen",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Schubert,_Franz/Schwanengesang,_D.957/4_Ständchen",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；98 个音节（verse 1）与 Breitkopf 版逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/5004835"
+  },
+  {
+   "name": "IMSLP · Schwanengesang, D.957 (Schubert, Franz)",
+   "url": "https://imslp.org/wiki/Schwanengesang,_D.957_(Schubert,_Franz)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "Wikisource · Ständchen (Rellstab)",
+   "url": "https://de.wikisource.org/wiki/St%C3%A4ndchen_(Rellstab)",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Leise flehen meine Lieder durch die Nacht zu dir;",
+   "zh": "我的歌轻轻地穿过夜色向你恳求；"
+  },
+  {
+   "text": "in den stillen Hain hernieder, Liebchen, komm zu mir!",
+   "zh": "到静静的树林里来吧，亲爱的，到我这里来！"
+  },
+  {
+   "text": "Flüsternd schlanke Wipfel rauschen in des Mondes Licht;",
+   "zh": "细长的树梢在月光下低语沙沙作响；"
+  },
+  {
+   "text": "des Verräters feindlich Lauschen fürchte, Holde, nicht.",
+   "zh": "不要害怕，美人，不要怕有人恶意偷听。"
+  },
+  {
+   "text": "Hörst die Nachtigallen schlagen? Ach! sie flehen dich,",
+   "zh": "你听见夜莺在歌唱吗？啊！它们在替我恳求你，"
+  },
+  {
+   "text": "mit der Töne süßen Klagen flehen sie für mich.",
+   "zh": "用甜美哀婉的音调为我恳求。"
+  },
+  {
+   "text": "Sie verstehn des Busens Sehnen, kennen Liebesschmerz,",
+   "zh": "它们懂得胸中的渴望，懂得爱的痛苦，"
+  },
+  {
+   "text": "rühren mit den Silbertönen jedes weiche Herz.",
+   "zh": "用银铃般的声音打动每一颗柔软的心。"
+  },
+  {
+   "text": "Lass auch dir die Brust bewegen, Liebchen, höre mich!",
+   "zh": "让你的心也被打动吧，亲爱的，听我说！"
+  },
+  {
+   "text": "Bebend harr’ ich dir entgegen! Komm, beglücke mich!",
+   "zh": "我颤抖着等你到来！来吧，让我幸福！"
+  }
+ ],
+ "hints": [
+  {
+   "title": "长短元音",
+   "items": [
+    "Lieder [liː]、dir [diːɐ̯] 长；stillen [ɪ]、komm [ɔ]、nicht [ɪ] 短；Nacht 的 a 短、Hain 的 ai 双元音。",
+    "süßen 的 ü 长 [yː]；Töne 的 ö 长 [øː]；rühren 的 ü 长。"
+   ]
+  },
+  {
+   "title": "ich/ach 音与辅音结尾",
+   "items": [
+    "nicht、mich、dich、weiche 的 ch 为 [ç]；Nacht、Lauschen 无 ach 音；“rauschen” 的 sch [ʃ]。",
+    "Licht、nicht、Herz 的词尾辅音要在下一拍前收清；“Verräters”“Busens” 的 s 清晰。"
+   ]
+  },
+  {
+   "title": "复合词重音",
+   "items": [
+    "NACHtigallen、LIEbesschmerz、SILbertönen——复合词重音在第一成分。",
+    "“hernieder”“entgegen” 重音在第二音节。"
+   ]
+  }
+ ],
+ "story": {
+  "background": "《小夜曲》出自舒伯特去世后出版的歌集《天鹅之歌》（1828），词为莱尔施塔布的诗，是舒伯特最广为人知的旋律之一。d 小调、3/4，钢琴模仿吉他拨弦的伴奏是小夜曲传统的标志；副歌转入 D 大调，像月光突然照亮。",
+  "situation": "夜里，歌者站在树林边，请恋人来相会。他借夜莺的歌声替自己恳求，安慰她不必害怕被偷听，最后颤抖着说：来吧，让我幸福。他想要的是她走出来，害怕的是被拒绝或被发现。",
+  "relationships": "“我”（歌者）、窗内的 “Liebchen/Holde”（恋人）、“夜莺”（替他说话的信使）和暗示的 “Verräter”（可能偷听的背叛者）。关系是隐秘的恋情，小夜曲本身就是越界的请求。",
+  "intent": "开口要轻（Leise），像怕惊动夜；“Liebchen, komm zu mir” 是第一次直接请求，稍加温度。第二段 “Flüsternd” 更轻，像耳语；“fürchte, Holde, nicht” 安慰。第三段 “Hörst die Nachtigallen” 转大调、更明亮；结尾 “Komm, beglücke mich” 是全曲最热切处，可放宽，最后一次 “beglücke mich” 收轻。",
+  "plain30": "一个人在夜里对着恋人的窗户唱：我的歌替我恳求你，夜莺也在替我说话，别怕，出来吧，让我幸福。这是最有名的德语小夜曲。",
+  "arc": "d 小调，3/4 Mäßig，吉他式伴奏。主题以级进下行的四小节乐句开始，每段两句后钢琴回声；第二段相同；第三段 “Hörst die Nachtigallen” 转 D 大调，旋律抬高、更明亮；“Lass auch dir die Brust bewegen” 回到小调，音区继续上升，“Komm, beglücke mich” 达到最高音后落回。情绪：轻柔恳求—耳语安慰—明亮希望—热切期待。",
+  "motif": "核心动机是 “Lei-se fle-hen” 的级进下行四音：轻轻落下的恳求。它在每句开头出现，钢琴间奏用回声重复；第三段转大调时动机抬高一个三度，尾段 “Komm, beglücke mich” 把它反向为上行。演唱时下行要轻、连，不要每个音都强调。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Leise flehen meine Lieder” 下行恳求动机首次出现。"
+   },
+   {
+    "phrase": 3,
+    "note": "第 3 句 “Flüsternd schlanke Wipfel” 动机再现，更轻。"
+   },
+   {
+    "phrase": 5,
+    "note": "第 5 句 “Hörst die Nachtigallen” 动机转大调并抬高。"
+   },
+   {
+    "phrase": 10,
+    "note": "第 10 句 “Komm, beglücke mich” 动机反向上行，全曲最热切处。"
+   }
+  ],
+  "technique": "呼吸：四小节一句，在钢琴回声处换气。咬字：词尾辅音清晰但不破坏 legato；ch 的两种读法要分清。换声区：男高音在 F4–G4（“zu dir”“Nachtigallen”）经过换声区，保持轻机能。高音：最高音 G4–A4 在 “beglücke mich”，是渴望的顶点，靠气息支撑，不要喊；之后立即收轻。",
+  "classroom": [
+   "先读中文，找出“恳求—安慰—夜莺—请求”四段。",
+   "慢速读德语，标出长短元音和 ch 的读法。",
+   "分离元音和辅音：练 ü、ö 与词尾辅音。",
+   "按 3/4 说词，感受吉他式的伴奏节奏。",
+   "听单音旋律，注意每句的下行动机。",
+   "把歌词放回旋律，先练小调段，再练大调段的明亮。",
+   "用正常速度完整演唱，结尾热切后收轻。"
+  ]
+ },
+ "phraseFixes": {
+  "inden": "in den",
+  "beglückemich": "beglücke mich"
+ }
+}

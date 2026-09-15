@@ -1,0 +1,469 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "ombra-mai-fu-handel",
+ "title": "Ombra mai fu",
+ "titleZh": "树荫下",
+ "composer": "G. F. Handel",
+ "opera": "Serse HWV 40（1738；第一幕，薛西斯王独白）",
+ "language": "意大利语",
+ "voice": "女中音",
+ "difficulty": "基础",
+ "tempoBpm": 60,
+ "timeSignature": "3/4",
+ "coverage": {
+  "measures": [
+   1,
+   13
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "完整声乐旋律（F 大调，3/4 Larghetto），依据 Chrysander 版编码。"
+ },
+ "range": {
+  "low": "E4",
+  "high": "D5"
+ },
+ "state": "published",
+ "sourceGrade": "C",
+ "role": "薛西斯王（Serse）：波斯国王，对一棵梧桐树赞叹",
+ "genre": "咏叹调",
+ "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+ "sources": [
+  {
+   "name": "手工编码 MusicXML",
+   "url": "https://imslp.org/wiki/Serse,_HWV_40_(Handel,_George_Frideric)",
+   "format": "MusicXML",
+   "role": "声乐旋律线",
+   "status": "依据 Chrysander 编辑版本编码",
+   "grade": "C",
+   "accessed": "2026-09-15"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Ombra mai fu di vegetabile,",
+   "zh": "从未有过一棵植物的树荫，"
+  },
+  {
+   "text": "cara ed amabile,",
+   "zh": "如此可爱、如此宜人，"
+  },
+  {
+   "text": "soave piu.",
+   "zh": "更加柔和。"
+  },
+  {
+   "text": "Ombra mai fu di vegetabile,",
+   "zh": "从未有过一棵植物的树荫，"
+  },
+  {
+   "text": "cara ed amabile, soave piu.",
+   "zh": "如此可爱、如此宜人，更加柔和。"
+  }
+ ],
+ "story": {
+  "background": "亨德尔的歌剧《薛西斯》（Serse）1738 年在伦敦首演。开场时，波斯国王薛西斯对一棵梧桐树唱了这段咏叹调，赞美它的树荫比任何植物都更加柔和。这段音乐后来被称为'亨德尔的广板'（Handel's Largo），成为最广为人知的巴洛克旋律之一，常用于婚礼和纪念场合。",
+  "situation": "薛西斯王独自站在花园里，看着一棵梧桐树。他没有在想战争或国事，而是被树荫的美丽打动了。这个开场故意让观众看到一个意想不到的一面——一个征服者在树荫下变成了诗人。",
+  "relationships": "歌者与自然之间的关系——这是一首对树的情歌。歌剧后面会出现爱情纠葛，但此刻只有人与自然的静谧。",
+  "intent": "极度的宁静和赞美。每个音都要像在抚摸树叶一样轻柔。不要加入任何戏剧性——这不是一段冲突，而是一个安静的时刻。速度要真正慢下来。结尾的'soave piu'像一声满足的叹息。",
+  "plain30": "波斯国王看着一棵树说：从未见过比你的树荫更柔和的东西。这是亨德尔最有名的旋律——一首对树的情歌，宁静得像一幅画。",
+  "arc": "F 大调，3/4 Larghetto。旋律以主音 F 开始，缓缓上行到 A，再回落。中间短暂经过 C 大调域，'cara ed amabile'处旋律最温暖。结尾回到 F 大调，在主音上安静结束。全曲没有任何急促或激烈的段落——是一条完美的弧线。",
+  "motif": "核心动机是开头'Ombra mai fu'的三度上行再级进回落——像一个温柔的弧线。这个弧线形态在每个乐句中都以不同的音高出现。'soave piu'的上行到达全曲最高点后缓缓下行，是弧线的最终完成。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "'Ombra mai fu'——温柔弧线动机的首次出现"
+   },
+   {
+    "phrase": 2,
+    "note": "'cara ed amabile'——弧线在更高音区重现，最温暖的时刻"
+   },
+   {
+    "phrase": 3,
+    "note": "'soave piu'——弧线到达最高点后回落，满足的叹息"
+   }
+  ],
+  "technique": "这首歌对技巧的要求不在于难度，而在于控制。音量全程在 p 到 mp 之间。气息要极其均匀——任何不稳定都会被慢速暴露。元音要饱满、圆润，辅音轻柔。3/4 拍不要有明显的强弱——让它像水面一样平滑。",
+  "classroom": [
+   "先读中文——这是一个国王对一棵树说的情话，感受那种安静。",
+   "慢速朗读意大利语，体会每个元音的圆润。",
+   "用'啊'哼唱旋律，保持气息极其均匀。",
+   "练习在 3/4 拍中消除强弱感——让音乐像呼吸一样自然。",
+   "听旋律参考，注意弧线形态。",
+   "放入歌词，用极慢的速度唱。如果换气不够，在'vegetabile'之后换。",
+   "完整演唱。这首歌的完美标准是：听众忘记你在唱歌，只觉得在树荫下。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "元音与连读",
+   "items": [
+    "Ombra 的 o 是开口 [ɔ]",
+    "cara ed amabile：d-a 连读",
+    "soave 三音节 so-A-ve，重音在 a",
+    "vegetabile 五音节 ve-ge-TA-bi-le"
+   ]
+  },
+  {
+   "title": "r 的发音",
+   "items": [
+    "ombra、cara 的 r 是弹舌 r [ɾ]，轻柔一弹即可",
+    "不要用法语小舌 r 或英语卷舌 r"
+   ]
+  },
+  {
+   "title": "气息",
+   "items": [
+    "全曲极慢，每个乐句都需要饱满的气息支撑",
+    "soave piu 的 u 是结尾长音，保持到最后不要掉"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    1,
+    6
+   ],
+   "lyrics": "Ombra mai fu di vegetabile,",
+   "translation": "从未有过一棵植物的树荫，",
+   "events": [
+    {
+     "id": "ombra-mai-fu-handel-e0001",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 1,
+     "beat": 1.0,
+     "lyric": "Om",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0002",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 1,
+     "beat": 3.0,
+     "lyric": "bra",
+     "syllabic": "end"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0003",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "ma",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0004",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 3.0,
+     "lyric": "i",
+     "syllabic": "end"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0005",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "fu",
+     "syllabic": "single"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0006",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0007",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 2.0,
+     "lyric": "di",
+     "syllabic": "single"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0008",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "ve",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0009",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "ge",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0010",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "ta",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0011",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "bi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0012",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "le,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    6,
+    10
+   ],
+   "lyrics": "cara ed amabile",
+   "translation": "如此可爱、如此宜人，",
+   "events": [
+    {
+     "id": "ombra-mai-fu-handel-e0013",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 3.0,
+     "lyric": "ca",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0014",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "ra",
+     "syllabic": "end"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0015",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "ed",
+     "syllabic": "single"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0016",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 3.0,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0017",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "ma",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0018",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "bi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0019",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0020",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0021",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    10,
+    11
+   ],
+   "lyrics": "soave più,",
+   "translation": "更加柔和。",
+   "events": [
+    {
+     "id": "ombra-mai-fu-handel-e0022",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0023",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0024",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "ve",
+     "syllabic": "end"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0025",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "più,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    12,
+    13
+   ],
+   "lyrics": "soave più.",
+   "translation": "更加柔和。",
+   "events": [
+    {
+     "id": "ombra-mai-fu-handel-e0026",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0027",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0028",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "ve",
+     "syllabic": "end"
+    },
+    {
+     "id": "ombra-mai-fu-handel-e0029",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "più.",
+     "syllabic": "single"
+    }
+   ]
+  }
+ ],
+ "eventCount": 29,
+ "restCount": 3,
+ "lyricNoteCount": 26,
+ "pages": 1,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 4,
+  "slowScale": 1.45
+ }
+}

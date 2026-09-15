@@ -1,0 +1,3995 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "die-forelle",
+ "title": "Die Forelle",
+ "titleZh": "鳟鱼",
+ "composer": "F. Schubert",
+ "opera": "D. 550（独立艺术歌曲，约 1817；诗：C.F.D. Schubart）",
+ "language": "德语",
+ "voice": "男高音",
+ "difficulty": "基础",
+ "tempoBpm": 66,
+ "timeSignature": "2/4",
+ "coverage": {
+  "measures": [
+   1,
+   53
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "完整声乐旋律（降 D 大调，2/4 Etwas lebhaft，约 62 小节）。三段式，钢琴模拟溪流中鳟鱼的跳跃。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "Eb4",
+  "high": "Gb5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "叙事者（抒情主人公）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "In einem Bächlein helle, da schoss in froher Eil'",
+   "zh": "在一条清澈的小溪里，一条鳟鱼欢快地"
+  },
+  {
+   "text": "die launische Forelle vorüber wie ein Pfeil.",
+   "zh": "像箭一般游过。"
+  },
+  {
+   "text": "Ich stand an dem Gestade und sah in süßer Ruh'",
+   "zh": "我站在岸边，甜蜜而安静地"
+  },
+  {
+   "text": "des muntern Fischleins Bade im klaren Bächlein zu.",
+   "zh": "看着那活泼的小鱼在清溪中嬉戏。"
+  },
+  {
+   "text": "Ein Fischer mit der Rute wohl an dem Ufer stand,",
+   "zh": "一个渔夫拿着鱼竿站在岸边，"
+  },
+  {
+   "text": "und sah's mit kaltem Blute, wie sich das Fischlein wand.",
+   "zh": "冷漠地看着小鱼游来游去。"
+  },
+  {
+   "text": "So lang' dem Wasser Helle, so dacht' ich, nicht gebricht,",
+   "zh": "我想，只要溪水还是清澈的，"
+  },
+  {
+   "text": "so fängt er die Forelle mit seiner Angel nicht.",
+   "zh": "他就钓不到这条鳟鱼。"
+  },
+  {
+   "text": "Doch endlich ward dem Diebe die Zeit zu lang.",
+   "zh": "可最终小偷等不下去了。"
+  },
+  {
+   "text": "Er macht' das Bächlein tückisch trübe,",
+   "zh": "他把溪水搅浑，"
+  },
+  {
+   "text": "und eh' ich es gedacht, so zuckte seine Rute,",
+   "zh": "我还没反应过来，鱼竿就一抖——"
+  },
+  {
+   "text": "das Fischlein zappelt dran,",
+   "zh": "小鱼在鱼钩上挣扎，"
+  },
+  {
+   "text": "und ich mit regem Blute sah die Betrog'ne an.",
+   "zh": "而我满怀激愤地看着这被欺骗的鱼儿。"
+  }
+ ],
+ "story": {
+  "background": "《鳟鱼》是舒伯特最受欢迎的艺术歌曲之一，旋律广为传唱。Schubart 的原诗是一首寓言——表面写鱼和渔夫，实际暗指纯真少女被狡猾男子诱骗（'搅浑水'比喻蒙蔽心智）。舒伯特后来还以这首歌的旋律为主题写了著名的《鳟鱼五重奏》（D. 667）。",
+  "situation": "叙述者站在溪边，看一条鳟鱼在清水中快乐游弋。一个渔夫在岸边等待。叙述者心想，只要水是清的，鳟鱼就安全。可渔夫把水搅浑了，鳟鱼就上钩了。叙述者看到这一幕，满心愤怒——因为他知道这个寓言的含义。",
+  "relationships": "叙述者是旁观者，同情鳟鱼；渔夫是'小偷'（Dieb）；鳟鱼是'被欺骗者'（Betrog'ne）。三者的关系是一个道德寓言的框架。",
+  "intent": "前两段要唱得轻快、天真，像描绘一幅阳光下的溪流画面。第三段语气转变——'Doch endlich ward dem Diebe die Zeit zu lang' 开始变得紧张，音乐从大调短暂转向小调。最后的'mit regem Blute sah die Betrog'ne an'要有道德愤慨感。",
+  "plain30": "一条快乐的鳟鱼在清溪里游，一个渔夫钓不到它。于是渔夫把水搅浑，鳟鱼就上钩了。旁观者很愤怒——这其实是一个关于纯真被欺骗的寓言。",
+  "arc": "降 D 大调，2/4，稍快。前两段使用相同的欢快旋律（分节歌形式），钢琴模拟溪水流动。第三段调性暗淡（降 b 小调过渡），节奏加快，旋律变得不安。结尾回到大调但音色已变，留下道德寓言的余韵。",
+  "motif": "鳟鱼跳跃动机：钢琴前奏中上行的十六分音符音型——轻快、闪亮，模拟鳟鱼在阳光下的溪水中跳跃。这个动机在第三段被打乱（水被搅浑），然后以变形的方式回来。声乐的主旋律以大跳开始（五度或六度），像鳟鱼跃出水面。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "开头：'In einem Bächlein helle' 欢快的大调旋律，鳟鱼动机的声乐版本"
+   },
+   {
+    "phrase": "5",
+    "note": "第二段开始：同一旋律但渔夫出场，暗示不祥"
+   },
+   {
+    "phrase": "9",
+    "note": "'Doch endlich' 调性变化，鳟鱼动机被打乱——水被搅浑"
+   },
+   {
+    "phrase": "13",
+    "note": "结尾的道德愤慨：'die Betrog'ne' 回到大调但语气完全不同"
+   }
+  ],
+  "technique": "这是学习德语艺术歌曲的理想入门曲目。旋律优美、音域适中、节奏规整。重点：保持 2/4 拍的轻快流动感，不要唱得太重。第三段的语气转变是演唱的核心——从天真到愤怒的过渡要自然。德语咬字要清晰但不僵硬。",
+  "classroom": [
+   "先读中文，理解三段的情节：看鱼→渔夫搅浑水→鱼被骗上钩。",
+   "慢速朗读德语，体会 Bächlein/Fischlein 的可爱感和 tückisch/trübe 的愤怒感。",
+   "按 2/4 拍拍手读词，保持轻快节奏。",
+   "先练前两段（旋律相同）——唱得像在讲一个快乐的故事。",
+   "再练第三段——注意从大调到小调的色彩变化。",
+   "完整演唱，注意三段之间的情感对比。",
+   "如果你学过《鳟鱼五重奏》，对比一下主题旋律——完全相同！"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "Bächlein 的 ä 读开口 [ɛ]，Ruh' 的 u 保持深圆 [uː]",
+    "trübe 的 ü 是圆唇前元音 [yː]",
+    "Forelle 的 o 是短元音 [ɔ]，e 读 [ɛ]"
+   ]
+  },
+  {
+   "title": "节奏与语气",
+   "items": [
+    "2/4 拍，节奏轻快——前两段像田园诗，最后一段语气转为愤怒",
+    "Bächlein、Fischlein 的 -lein 缩小后缀要轻柔，表达小巧可爱",
+    "'tückisch trübe' 的 t/tr 辅音组要有力，体现欺诈的愤怒"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    1,
+    8
+   ],
+   "verse": 1,
+   "lyrics": "In einem Bächlein helle da schoss in froher Eil’ die launische Forelle vorüber wie ein",
+   "translation": "在一条清澈的小溪里，一条鳟鱼欢快地",
+   "events": [
+    {
+     "id": "die-forelle-e0001",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 2.5,
+     "lyric": "In",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0002",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "ei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0003",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 1.5,
+     "lyric": "nem",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0004",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 2.0,
+     "lyric": "Bäch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0005",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 2.5,
+     "lyric": "lein",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0006",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "hel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0007",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0008",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0009",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 2.75,
+     "lyric": "da",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0010",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "schoss",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0011",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 1.75,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0012",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.0,
+     "lyric": "fro",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0013",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0014",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "her",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0015",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0016",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "Eil’",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0017",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0018",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0019",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "lau",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0020",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.75,
+     "lyric": "ni",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-forelle-e0021",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "sche",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0022",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.5,
+     "lyric": "Fo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0023",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "rel",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-forelle-e0024",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0025",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "vor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0026",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "ü",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-forelle-e0027",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.5,
+     "lyric": "ber",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0028",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0029",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "wie",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0030",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "ein",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    9,
+    14
+   ],
+   "verse": 1,
+   "lyrics": "Pfeil. Ich stand an dem Gestade und sah in süsser Ruh’ des muntern Fischleins",
+   "translation": "我站在岸边，甜蜜而安静地",
+   "events": [
+    {
+     "id": "die-forelle-e0031",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "Pfeil.",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0032",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0033",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "Ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0034",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "stand",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0035",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.5,
+     "lyric": "an",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0036",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0037",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0038",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "Ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0039",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0040",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "sta",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-forelle-e0041",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0042",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0043",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "sah",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0044",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0045",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "sü",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0046",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0047",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "sser",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0048",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0049",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "Ruh’",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0050",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0051",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "mun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0052",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "tern",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0053",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "Fisch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0054",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.5,
+     "lyric": "leins",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    15,
+    17
+   ],
+   "verse": 1,
+   "lyrics": "Bade im klaren Bächlein zu,",
+   "translation": "看着那活泼的小鱼在清溪中嬉戏。",
+   "events": [
+    {
+     "id": "die-forelle-e0055",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "Ba",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0056",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0057",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "im",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0058",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "kla",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0059",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.75,
+     "lyric": "ren",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0060",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "Bäch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0061",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "lein",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0062",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "zu,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    17,
+    25
+   ],
+   "verse": 1,
+   "lyrics": "des muntern Fischleins Bade im klaren Bächlein zu.",
+   "translation": "看着那活泼的小鱼在清溪中嬉戏。",
+   "events": [
+    {
+     "id": "die-forelle-e0063",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0064",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "mun",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0065",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0066",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.5,
+     "lyric": "tern",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0067",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "Fisch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0068",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0069",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "leins",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0070",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0071",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "Ba",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0072",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0073",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "im",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0074",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "kla",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0075",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 1.75,
+     "lyric": "ren",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0076",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "Bäch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0077",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.5,
+     "lyric": "lein",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0078",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "zu.",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0079",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0080",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0081",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0082",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0083",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0084",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    25,
+    31
+   ],
+   "verse": 1,
+   "lyrics": "Ein Doch endlich ward dem Diebe die Zeit zu lang,",
+   "translation": "一个渔夫拿着鱼竿站在岸边，",
+   "events": [
+    {
+     "id": "die-forelle-e0085",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.5,
+     "lyric": "Ein",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0086",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0087",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0088",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.5,
+     "lyric": "Doch",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0089",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "end",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0090",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 1.5,
+     "lyric": "lich",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0091",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "ward",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0092",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.5,
+     "lyric": "dem",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0093",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "Die",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0094",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "be",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0095",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0096",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.5,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0097",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 29,
+     "beat": 2.0,
+     "lyric": "Zeit",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0098",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 2.75,
+     "lyric": "zu",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0099",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "lang,",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0100",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0101",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    31,
+    33
+   ],
+   "verse": 1,
+   "lyrics": "er macht das Bächlien tückisch trübe,",
+   "translation": "他把溪水搅浑，",
+   "events": [
+    {
+     "id": "die-forelle-e0102",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.5,
+     "lyric": "er",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0103",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "macht",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0104",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0105",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "Bäch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0106",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.5,
+     "lyric": "lien",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0107",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "tü",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0108",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "ckisch",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0109",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "trü",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0110",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2.0,
+     "lyric": "be,",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0111",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    33,
+    35
+   ],
+   "verse": 1,
+   "lyrics": "und eh’ ich es gedacht,",
+   "translation": "我还没反应过来，鱼竿就一抖——",
+   "events": [
+    {
+     "id": "die-forelle-e0112",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.75,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0113",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.25,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "eh’",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0114",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 34,
+     "beat": 2.25,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0115",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 34,
+     "beat": 2.5,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0116",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 34,
+     "beat": 2.75,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0117",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "dacht,",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0118",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    35,
+    37
+   ],
+   "verse": 1,
+   "lyrics": "so zuckte seine Rute,",
+   "translation": "我还没反应过来，鱼竿就一抖——",
+   "events": [
+    {
+     "id": "die-forelle-e0119",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.5,
+     "lyric": "so",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0120",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "zuck",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0121",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 1.75,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0122",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 36,
+     "beat": 2.0,
+     "lyric": "sei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0123",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 2.75,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0124",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "Ru",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0125",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 1.5,
+     "lyric": "te,",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0126",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    37,
+    40
+   ],
+   "verse": 1,
+   "lyrics": "das Fischlein, das Fischlein zappelt d’ran,",
+   "translation": "小鱼在鱼钩上挣扎，",
+   "events": [
+    {
+     "id": "die-forelle-e0127",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0128",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "Fisch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0129",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "lein,",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0130",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2.5,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0131",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "Fisch",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0132",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.5,
+     "lyric": "lein",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0133",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.0,
+     "lyric": "zap",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0134",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.5,
+     "lyric": "pelt",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0135",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "d’ran,",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0136",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    40,
+    44
+   ],
+   "verse": 1,
+   "lyrics": "und ich mit regem Blute sah die Betrog’ne an,",
+   "translation": "而我满怀激愤地看着这被欺骗的鱼儿。",
+   "events": [
+    {
+     "id": "die-forelle-e0137",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0138",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0139",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.5,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0140",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.0,
+     "lyric": "re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0141",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.5,
+     "lyric": "gem",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0142",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "Blu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0143",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.0,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0144",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.5,
+     "lyric": "sah",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0145",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0146",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 43,
+     "beat": 1.75,
+     "lyric": "Be",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0147",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.0,
+     "lyric": "trog’",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-forelle-e0148",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0149",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "an,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    44,
+    53
+   ],
+   "verse": 1,
+   "lyrics": "und ich mit regem Blute sah die Betrog’ne an.",
+   "translation": "而我满怀激愤地看着这被欺骗的鱼儿。",
+   "events": [
+    {
+     "id": "die-forelle-e0150",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0151",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0152",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0153",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 1.5,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0154",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 2.0,
+     "lyric": "re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0155",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0156",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 2.5,
+     "lyric": "gem",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0157",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0158",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "Blu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0159",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 2.0,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0160",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 2.5,
+     "lyric": "sah",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0161",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0162",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 1.75,
+     "lyric": "Be",
+     "syllabic": "begin"
+    },
+    {
+     "id": "die-forelle-e0163",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.0,
+     "lyric": "trog’",
+     "syllabic": "middle"
+    },
+    {
+     "id": "die-forelle-e0164",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "die-forelle-e0165",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "an.",
+     "syllabic": "single"
+    },
+    {
+     "id": "die-forelle-e0166",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0167",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0168",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0169",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0170",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "die-forelle-e0171",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    1,
+    5
+   ],
+   "verse": 2,
+   "lyrics": "Fischer mit der Rute wohl an dem Ufer stand,",
+   "translation": "而我满怀激愤地看着这被欺骗的鱼儿。",
+   "events": [
+    {
+     "id": "die-forelle-e0172",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 1,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0173",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "Fi",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0174",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 1.5,
+     "lyric": "scher",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0175",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 2.0,
+     "lyric": "mit",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0176",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 2,
+     "beat": 2.5,
+     "lyric": "der",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0177",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "Ru",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0178",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "te",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0179",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0180",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 3,
+     "beat": 2.75,
+     "lyric": "wohl",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0181",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "an",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0182",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 1.75,
+     "lyric": "dem",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0183",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.0,
+     "lyric": "U",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0184",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0185",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "fer",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0186",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0187",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "stand,",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0188",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    5,
+    7
+   ],
+   "verse": 2,
+   "lyrics": "und sah’s mit kaltem Blute,",
+   "translation": "而我满怀激愤地看着这被欺骗的鱼儿。",
+   "events": [
+    {
+     "id": "die-forelle-e0189",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0190",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "sah’s",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0191",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.75,
+     "lyric": "mit",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0192",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "kal",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0193",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.5,
+     "lyric": "tem",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0194",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "Blu",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0195",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "te,",
+     "syllabic": "end",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    7,
+    9
+   ],
+   "verse": 2,
+   "lyrics": "wie sich das Fischlein wand.",
+   "translation": "小鱼在鱼钩上挣扎，",
+   "events": [
+    {
+     "id": "die-forelle-e0196",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "wie",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0197",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "sich",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0198",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.5,
+     "lyric": "das",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0199",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0200",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "Fisch",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0201",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "lein",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0202",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "wand.",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0203",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    9,
+    11
+   ],
+   "verse": 2,
+   "lyrics": "So lang dem Wasser Helle,",
+   "translation": "我还没反应过来，鱼竿就一抖——",
+   "events": [
+    {
+     "id": "die-forelle-e0204",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "So",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0205",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "lang",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0206",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.5,
+     "lyric": "dem",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0207",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "Was",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0208",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0209",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.5,
+     "lyric": "ser",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0210",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0211",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "Hel",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0212",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "le,",
+     "syllabic": "end",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    11,
+    13
+   ],
+   "verse": 2,
+   "lyrics": "so dacht ich, nicht gebricht,",
+   "translation": "我还没反应过来，鱼竿就一抖——",
+   "events": [
+    {
+     "id": "die-forelle-e0213",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.5,
+     "lyric": "so",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0214",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "dacht",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0215",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.5,
+     "lyric": "ich,",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0216",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "nicht",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0217",
+     "pitch": "Gb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0218",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.5,
+     "lyric": "ge",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0219",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0220",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "bricht,",
+     "syllabic": "end",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    13,
+    17
+   ],
+   "verse": 2,
+   "lyrics": "so fängt er die Forelle mit seiner Angel nicht,",
+   "translation": "而我满怀激愤地看着这被欺骗的鱼儿。",
+   "events": [
+    {
+     "id": "die-forelle-e0221",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.5,
+     "lyric": "so",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0222",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "fängt",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0223",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.5,
+     "lyric": "er",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0224",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "die",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0225",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.5,
+     "lyric": "Fo",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0226",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "rel",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0227",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0228",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.5,
+     "lyric": "mit",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0229",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "sei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0230",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.75,
+     "lyric": "ner",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0231",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "An",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0232",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "gel",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0233",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "nicht,",
+     "syllabic": "single",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    17,
+    25
+   ],
+   "verse": 2,
+   "lyrics": "so fängt er die Forelle mit seiner Angel nicht.",
+   "translation": "而我满怀激愤地看着这被欺骗的鱼儿。",
+   "events": [
+    {
+     "id": "die-forelle-e0234",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.5,
+     "lyric": "so",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0235",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "fängt",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0236",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0237",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.5,
+     "lyric": "er",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0238",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "die",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0239",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0240",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "Fo",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0241",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0242",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "rel",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0243",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0244",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "mit",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0245",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "sei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0246",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 1.75,
+     "lyric": "ner",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0247",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "An",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0248",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.5,
+     "lyric": "gel",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0249",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "nicht.",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0250",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 21,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0251",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0252",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0253",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0254",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0255",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "measures": [
+    25,
+    31
+   ],
+   "verse": 2,
+   "lyrics": "",
+   "translation": "",
+   "events": [
+    {
+     "id": "die-forelle-e0256",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0257",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0258",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0259",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0260",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0261",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0262",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0263",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0264",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0265",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0266",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0267",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0268",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 29,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0269",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0270",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0271",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0272",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "measures": [
+    31,
+    53
+   ],
+   "verse": 2,
+   "lyrics": "",
+   "translation": "",
+   "events": [
+    {
+     "id": "die-forelle-e0273",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0274",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0275",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0276",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0277",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0278",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0279",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0280",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0281",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0282",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0283",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0284",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.25,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0285",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 34,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0286",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 34,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0287",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 34,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0288",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0289",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0290",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0291",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0292",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0293",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 36,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0294",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0295",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0296",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0297",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0298",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0299",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0300",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0301",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0302",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0303",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0304",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0305",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0306",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0307",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0308",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0309",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0310",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0311",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0312",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0313",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0314",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0315",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0316",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0317",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 43,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0318",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0319",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0320",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0321",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0322",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0323",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0324",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0325",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0326",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 2.25,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0327",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0328",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0329",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0330",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0331",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0332",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0333",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0334",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0335",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0336",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0337",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0338",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0339",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0340",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0341",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "die-forelle-e0342",
+     "pitch": null,
+     "rest": true,
+     "duration": 2.0,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  }
+ ],
+ "eventCount": 342,
+ "restCount": 48,
+ "lyricNoteCount": 198,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 18,
+  "slowScale": 1.45
+ }
+}

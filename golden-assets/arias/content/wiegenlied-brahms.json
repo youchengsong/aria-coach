@@ -1,0 +1,118 @@
+{
+  "title": "Wiegenlied",
+  "titleZh": "摇篮曲",
+  "composer": "J. Brahms",
+  "opera": "Op. 49, No. 4（《五首歌曲》第四首，1868；诗：民间诗歌 / G. Scherer 改编）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "女高音",
+  "difficulty": "基础",
+  "genre": "艺术歌曲",
+  "tempoBpm": 60,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（降 E 大调，3/4 Zart bewegt，约 32 小节，两段分节歌）。世界上最著名的摇篮曲，勃拉姆斯为朋友 Bertha Faber 的儿子所写。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Guten Abend, gut' Nacht, mit Rosen bedacht,",
+      "zh": "晚安，晚安，用玫瑰装点，"
+    },
+    {
+      "text": "mit Näglein besteckt, schlüpf' unter die Deck':",
+      "zh": "缀满了丁香花，钻进被子里："
+    },
+    {
+      "text": "Morgen früh, wenn Gott will, wirst du wieder geweckt,",
+      "zh": "明天一早，如果上帝愿意，你又会被唤醒，"
+    },
+    {
+      "text": "morgen früh, wenn Gott will, wirst du wieder geweckt.",
+      "zh": "明天一早，如果上帝愿意，你又会被唤醒。"
+    },
+    {
+      "text": "Guten Abend, gut' Nacht, von Englein bewacht,",
+      "zh": "晚安，晚安，有天使守护，"
+    },
+    {
+      "text": "die zeigen im Traum dir Christkindleins Baum:",
+      "zh": "他们会在梦中给你看圣婴的圣诞树："
+    },
+    {
+      "text": "Schlaf nun selig und süß, schau im Traum 's Paradies,",
+      "zh": "安详甜蜜地睡吧，在梦中看看天堂，"
+    },
+    {
+      "text": "schlaf nun selig und süß, schau im Traum 's Paradies.",
+      "zh": "安详甜蜜地睡吧，在梦中看看天堂。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "Nacht 的 a 是长 [aː]，gut' 的 u 是短 [ʊ]",
+        "süß 的 ü 是圆唇长 [yː]——摇篮曲中最温柔的音",
+        "Näglein 的 ä 读 [ɛː]，Englein 的 e 读 [ɛ]",
+        "Paradies 的 重音在最后一个音节 [pa.ra.ˈdiːs]"
+      ]
+    },
+    {
+      "title": "摇篮曲的唱法",
+      "items": [
+        "3/4 拍要有轻柔的摇晃感——像抱着婴儿在轻轻摇",
+        "音量从头到尾保持在 piano——这是哄婴儿睡觉，不是音乐厅",
+        "最后一句可以越来越轻，像孩子真的睡着了"
+      ]
+    }
+  ],
+  "story": {
+    "background": "勃拉姆斯的《摇篮曲》是世界上最被广泛传唱的旋律之一。1868 年他为朋友 Bertha Faber 的第二个儿子创作了这首歌。有一个浪漫的秘密：钢琴左手的对位旋律引用了 Bertha 年轻时唱过的一首维也纳华尔兹——那是她和勃拉姆斯年轻时的共同记忆。歌词来自德国民间诗歌传统（《少年魔号》集）。",
+    "situation": "母亲（或父亲）在晚上哄婴儿入睡。用玫瑰和丁香装饰的床，天使在守护，明天上帝会再次唤醒你。第二段加入了宗教意象——圣婴的圣诞树、天堂。没有戏剧冲突，只有无条件的爱与守护。",
+    "relationships": "父母与婴儿——最纯粹的保护关系。'wenn Gott will'（如果上帝愿意）暗含了一丝不安——在19世纪婴儿死亡率很高的时代，'明天你会醒来'并不是百分百确定的事。",
+    "intent": "极度温柔。每一个音都像在轻声耳语。不需要任何戏剧性。声音要像一张温暖的毯子——把孩子包裹起来。最后渐弱到几乎听不见——孩子睡着了。",
+    "plain30": "晚安，宝贝。玫瑰花装饰你的床，天使守护你。明天你会醒来，在梦中你会看到天堂。这是世界上最有名的摇篮曲——你可能从小就听过这个旋律。",
+    "arc": "降 E 大调，3/4，轻柔地律动。两段分节歌使用相同旋律。旋律从弱拍开始——第一拍是休止，声音从第二拍进入——像呼吸的节奏。旋律线在很窄的音域内缓缓波动，像摇篮的摇晃。每段结尾的重复句（'morgen früh' / 'schlaf nun selig'）渐弱，像孩子渐渐入睡。",
+    "motif": "摇篮动机：从弱拍开始的三度级进上行——'Guten Abend, gut' Nacht'——温柔的波浪形旋律，像摇篮的弧线。这个动机在每个乐句开头以不同音高回来，但始终保持相同的摇晃感。钢琴左手的对位旋律（引用 Bertha 的华尔兹）在背景中流动，像第二层温暖。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "'Guten Abend, gut' Nacht' 摇篮动机——从弱拍开始的温柔波浪"
+      },
+      {
+        "phrase": "3",
+        "note": "'Morgen früh, wenn Gott will' 旋律上升到最高点——轻声的祝福"
+      },
+      {
+        "phrase": "4",
+        "note": "重复句——同样的旋律，但可以更轻，像孩子快要睡着"
+      },
+      {
+        "phrase": "7",
+        "note": "'Schlaf nun selig und süß' 第二段结尾——渐弱到接近沉默"
+      }
+    ],
+    "technique": "技巧上非常简单——音域窄、节奏规整、没有高音难点。真正的挑战是：如何用最简单的旋律传达最深的温柔？音量控制是关键——全曲应在 pp 到 p 之间。3/4 拍的第一拍不要加重（孩子在睡觉！），让节奏自然流动。最后的渐弱是全曲的灵魂——声音消失在空气中。",
+    "classroom": [
+      "这可能是你小时候听过的旋律——先哼一遍，找到那个记忆中的感觉。",
+      "朗读德语歌词——用对婴儿说话的温柔语气。",
+      "用'嗯'哼唱旋律——感受 3/4 拍的摇晃感。",
+      "两段歌词旋律相同，先学第一段。",
+      "练习渐弱——最后一句越来越轻，像真的在哄孩子睡觉。",
+      "完整演唱。想象你怀里有一个快要睡着的婴儿——你不敢唱太大声。",
+      "这首歌适合作为声乐学习的第一首德语歌曲——简单、美丽、人人都认识。"
+    ]
+  },
+  "role": "母亲（摇篮曲的歌唱者）"
+}

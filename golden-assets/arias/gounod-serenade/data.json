@@ -1,0 +1,3276 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "gounod-serenade",
+ "title": "Sérénade",
+ "titleZh": "小夜曲（当你歌唱时）",
+ "composer": "C. Gounod",
+ "opera": "Sérénade, CG 437（1855；法语艺术歌曲，词 Victor Hugo）",
+ "language": "法语",
+ "voice": "女高音",
+ "difficulty": "中级",
+ "tempoBpm": 66,
+ "timeSignature": "6/8",
+ "coverage": {
+  "measures": [
+   1,
+   71
+  ],
+  "firstSungMeasure": 7,
+  "complete": true,
+  "note": "完整声乐旋律（6/8 Allegretto，71 小节，含反复），法语 verse 1 共 148 个音节（含 “Quand tu chantes” 与 “Quand tu dors” 两段）；OpenScore 据 Choudens 版转写，已与 IMSLP 声乐谱核对。反复记号下的第三段（“Quand tu ris”）作为 verse 2 保留在第二页完整歌词中。"
+ },
+ "range": {
+  "low": "C4",
+  "high": "G5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主体：在夜里守望恋人歌唱、入睡的人",
+ "genre": "艺术歌曲",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Gounod,_Charles/_/Sérénade,_CG_437",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Gounod,_Charles/_/Sérénade,_CG_437",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；148 个法语音节与 Choudens 版逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/29588081"
+  },
+  {
+   "name": "IMSLP · Sérénade (Gounod, Charles)",
+   "url": "https://imslp.org/wiki/S%C3%A9r%C3%A9nade_(Gounod,_Charles)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "LiederNet · Sérénade (Hugo)",
+   "url": "https://www.lieder.net/lieder/get_text.html?TextId=8215",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Quand tu chantes, bercée le soir entre mes bras,",
+   "zh": "当你在夜里躺在我怀中轻轻摇着歌唱，"
+  },
+  {
+   "text": "entends-tu ma pensée qui te répond tout bas?",
+   "zh": "你可听见我的心思在低声回应你？"
+  },
+  {
+   "text": "Ton doux chant me rappelle les plus beaux de mes jours.",
+   "zh": "你甜美的歌让我想起我最美的日子。"
+  },
+  {
+   "text": "Ah! chantez, chantez, ma belle, chantez, chantez toujours!",
+   "zh": "啊！唱吧，唱吧，我的美人，永远唱下去！"
+  },
+  {
+   "text": "Quand tu dors, calme et pure, dans l’ombre sous mes yeux,",
+   "zh": "当你安静纯洁地睡去，在我眼前的阴影里，"
+  },
+  {
+   "text": "ton haleine murmure des mots harmonieux.",
+   "zh": "你的呼吸低语着和谐的话语。"
+  },
+  {
+   "text": "Ton beau corps se révèle sans voile et sans atours.",
+   "zh": "你美丽的身体显露出来，没有面纱也没有妆饰。"
+  },
+  {
+   "text": "Ah! dormez, dormez, ma belle, dormez, dormez toujours!",
+   "zh": "啊！睡吧，睡吧，我的美人，永远睡下去！"
+  },
+  {
+   "text": "Quand tu ris, sur ta bouche l’amour s’épanouit,",
+   "zh": "当你笑时，爱情在你唇上绽放，"
+  },
+  {
+   "text": "et soudain le farouche soupçon s’évanouit.",
+   "zh": "猜疑突然烟消云散。"
+  },
+  {
+   "text": "Ah! le rire fidèle prouve un cœur sans détours.",
+   "zh": "啊！真诚的笑证明一颗坦率的心。"
+  },
+  {
+   "text": "Ah! riez, riez, ma belle, riez, riez toujours!",
+   "zh": "啊！笑吧，笑吧，我的美人，永远笑下去！"
+  }
+ ],
+ "story": {
+  "background": "古诺 1855 年为雨果诗《小夜曲》（出自《光与影》）谱曲，是他最流行的沙龙歌曲之一，常由女高音演唱（也有男高音版）。6/8 Allegretto 的摇篮曲节奏配合三段歌词：唱—睡—笑，每段以 “Ah! … ma belle, … toujours!” 的副歌收束。",
+  "situation": "夜晚，叙述者抱着恋人，看她唱歌、入睡、微笑。每一种状态都让他（或她）想到最美的日子，并希望永远如此。这是幸福中的守望，唯一的阴影是第三段提到的 “猜疑”——被笑声驱散。",
+  "relationships": "“我”与 “你”（ma belle，被称呼者是女性）。歌者可以是男性恋人，也可以由女高音以第三人称叙述者身份演唱；关系是亲密、安全的两人世界。",
+  "intent": "开口像摇篮曲，6/8 的摇摆要轻；每段第一句是描述，副歌 “Ah! chantez” 是情感释放，可稍放宽。第二段 “Quand tu dors” 更轻更暗，像不敢惊醒她；第三段 “Quand tu ris” 最明亮。三段副歌的 “toujours” 都要有向上的期待感。",
+  "plain30": "有人抱着心爱的人，看她唱歌、睡觉、微笑，每一次都说：请永远这样。这是一首幸福的摇篮曲，摇的是恋人也是自己。",
+  "arc": "6/8 Allegretto 摇篮曲。旋律以级进与小跳构成两小节单位，主歌在中音区流动，副歌 “Ah! chantez” 跳到高音区并三次重复 “chantez”，形成小高潮。三段音乐相同（分节歌），靠歌词与音色作对比：明亮—柔暗—欢快。",
+  "motif": "核心动机是三拍摇篮节奏上的上行小三度：“Quand tu chan-tes” 从主音跳上三度再回落，像摇篮的一去一回。它在每段开头相同，副歌 “Ah! chantez” 把三度放大为五度跳进。演唱时保持 6/8 的两个大拍，不要唱成六个小拍。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Quand tu chantes” 摇篮动机首次出现。"
+   },
+   {
+    "phrase": 4,
+    "note": "第 4 句 “Ah! chantez” 动机放大为五度跳进，副歌。"
+   },
+   {
+    "phrase": 5,
+    "note": "第 5 句 “Quand tu dors” 动机原样再现，音色变暗。"
+   },
+   {
+    "phrase": 8,
+    "note": "第 8 句 “Ah! dormez” 副歌再现，用更轻的音量。"
+   }
+  ],
+  "technique": "呼吸：两小节一句，在 6/8 的休止处换气；副歌三次 “chantez” 中间可短换气一次。咬字：鼻化元音多，保持口腔打开；“chantez”“dormez”“riez” 的动词词尾 -ez [e] 清亮。换声区：女高音在 E5–F♯5（副歌 “chantez”）经过换声区，保持轻机能。高音：最高音 G5 在副歌，是欢快的呼唤而非戏剧高音，轻巧点到即可。",
+  "classroom": [
+   "先读中文，找出三段的关键词：唱、睡、笑。",
+   "慢速读法语，标出每句的鼻化元音。",
+   "分离元音：练 an/on/in 三种鼻化元音的区别。",
+   "按 6/8 说词，两个大拍，感受摇篮的摆动。",
+   "听单音旋律，注意主歌与副歌的音区差别。",
+   "把歌词放回旋律，先练第一段，再用同一旋律套第二、三段。",
+   "用正常速度完整演唱，三段用不同音色。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "鼻化元音",
+   "items": [
+    "Quand [kɑ̃]、chantes [ʃɑ̃t]、entends [ɑ̃tɑ̃]、pensée [pɑ̃se]、répond [ʁepɔ̃]——本曲鼻化元音极多，每个都要在音上保持。",
+    "harmonieux 中 -ieux [jø] 无鼻化；“sans voile et sans atours” 的 sans [sɑ̃]。"
+   ]
+  },
+  {
+   "title": "联诵",
+   "items": [
+    "“entends‿tu” 加 [t]；“dans‿l’ombre” 不联诵；“sous‿mes” 不联诵；“sans‿atours” [sɑ̃zatuʁ]；“calme‿et” [kalme]。",
+    "“chantez toujours” 的 z 不发。"
+   ]
+  },
+  {
+   "title": "词尾 e 与舞台法语",
+   "items": [
+    "bercée、pensée、belle、pure、murmure 词尾 e 在旋律上有音时读 [ə]，6/8 的第二拍常落在这里，要轻。",
+    "r 建议用舞台法语的弹舌，让 “riez, riez” 清晰。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    7,
+    12
+   ],
+   "lyrics": "Quand tu chantes, bercée Le soir entre mes bras,",
+   "translation": "当你在夜里躺在我怀中轻轻摇着歌唱，",
+   "events": [
+    {
+     "id": "gounod-serenade-e0007",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0008",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1.333,
+     "lyric": "Quand",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0009",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1.667,
+     "lyric": "tu",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0010",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 7,
+     "beat": 2,
+     "lyric": "chan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0011",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.333,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0012",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.667,
+     "lyric": "ber",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0013",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2,
+     "lyric": "cé",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gounod-serenade-e0014",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.333,
+     "lyric": "e",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0015",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.667,
+     "lyric": "Le",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0016",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "soir",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0017",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2,
+     "lyric": "en",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0018",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.333,
+     "lyric": "tre",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0019",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.667,
+     "lyric": "mes",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0020",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 3.5,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "bras,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0021",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0022",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0023",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 11,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0024",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0025",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    12,
+    17
+   ],
+   "lyrics": "Entends-tu ma pensée Qui te répond tout bas ?",
+   "translation": "你可听见我的心思在低声回应你？",
+   "events": [
+    {
+     "id": "gounod-serenade-e0026",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.333,
+     "lyric": "En",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0027",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.667,
+     "lyric": "tends",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gounod-serenade-e0028",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 12,
+     "beat": 2,
+     "lyric": "tu",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0029",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.333,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0030",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.667,
+     "lyric": "pen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0031",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2,
+     "lyric": "sé",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gounod-serenade-e0032",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.333,
+     "lyric": "e",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0033",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.667,
+     "lyric": "Qui",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0034",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "te",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0035",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "gounod-serenade-e0036",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "gounod-serenade-e0037",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0038",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.667,
+     "lyric": "ré",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0039",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "pond",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0040",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "gounod-serenade-e0041",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.667,
+     "lyric": "tout",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0042",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 3.5,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "bas ?",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0043",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0044",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0045",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 16,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0046",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0047",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    17,
+    22
+   ],
+   "lyrics": "Ton doux chant me rappelle Les plus beaux de mes jours Ah !",
+   "translation": "你甜美的歌让我想起我最美的日子。",
+   "events": [
+    {
+     "id": "gounod-serenade-e0048",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.333,
+     "lyric": "Ton",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0049",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.667,
+     "lyric": "doux",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0050",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2,
+     "lyric": "chant",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0051",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.333,
+     "lyric": "me",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0052",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.667,
+     "lyric": "rap",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0053",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1,
+     "lyric": "pel",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gounod-serenade-e0054",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0055",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0056",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0057",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.333,
+     "lyric": "Les",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0058",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.667,
+     "lyric": "plus",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0059",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1,
+     "lyric": "beaux",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0060",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1.333,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0061",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 1.667,
+     "lyric": "mes",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0062",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 3.5,
+     "measure": 19,
+     "beat": 2,
+     "lyric": "jours",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0063",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0064",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0065",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 5,
+     "measure": 21,
+     "beat": 1,
+     "lyric": "Ah !",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0066",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    22,
+    24
+   ],
+   "lyrics": "chantez, chantez, ma belle,",
+   "translation": "啊！唱吧，唱吧，我的美人，永远唱下去！",
+   "events": [
+    {
+     "id": "gounod-serenade-e0067",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.667,
+     "lyric": "chan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0068",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 23,
+     "beat": 1,
+     "lyric": "tez,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0069",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.667,
+     "lyric": "chan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0070",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2,
+     "lyric": "tez,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0071",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "gounod-serenade-e0072",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "gounod-serenade-e0073",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0074",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.667,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0075",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0076",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0077",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0078",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0079",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0080",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0081",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2,
+     "lyric": "le,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0082",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    24,
+    28
+   ],
+   "lyrics": "Chantez, chantez toujours chantez chantez,",
+   "translation": "啊！唱吧，唱吧，我的美人，永远唱下去！",
+   "events": [
+    {
+     "id": "gounod-serenade-e0083",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.667,
+     "lyric": "Chan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0084",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 25,
+     "beat": 1,
+     "lyric": "tez,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0085",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.667,
+     "lyric": "chan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0086",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2,
+     "lyric": "tez",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0087",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "gounod-serenade-e0088",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "gounod-serenade-e0089",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0090",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.667,
+     "lyric": "tou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0091",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 26,
+     "beat": 1,
+     "lyric": "jours",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0092",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0093",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.667,
+     "lyric": "chan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0094",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 4,
+     "measure": 27,
+     "beat": 1,
+     "lyric": "tez",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0095",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.667,
+     "lyric": "chan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0096",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 28,
+     "beat": 2,
+     "lyric": "tez,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    28,
+    30
+   ],
+   "lyrics": "ma belle chantez toujours !",
+   "translation": "啊！唱吧，唱吧，我的美人，永远唱下去！",
+   "events": [
+    {
+     "id": "gounod-serenade-e0097",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.667,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0098",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0099",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.333,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0100",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.667,
+     "lyric": "chan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0101",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 29,
+     "beat": 2,
+     "lyric": "tez",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0102",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 29,
+     "beat": 2.667,
+     "lyric": "tou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0103",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 29,
+     "beat": 2.778,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0104",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 29,
+     "beat": 2.889,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0105",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 30,
+     "beat": 1,
+     "lyric": "jours !",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0106",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0107",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    30,
+    32
+   ],
+   "lyrics": "Chantez, ma belle,",
+   "translation": "啊！唱吧，唱吧，我的美人，永远唱下去！",
+   "events": [
+    {
+     "id": "gounod-serenade-e0108",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 2.333,
+     "lyric": "Chan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0109",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0110",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0111",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 2.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0112",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1,
+     "lyric": "tez,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0113",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 31,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0114",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0115",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.333,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0116",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0117",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0118",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 31,
+     "beat": 2.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0119",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0120",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 32,
+     "beat": 1.333,
+     "lyric": "le,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0121",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    32,
+    38
+   ],
+   "lyrics": "Chantez toujours !",
+   "translation": "啊！唱吧，唱吧，我的美人，永远唱下去！",
+   "events": [
+    {
+     "id": "gounod-serenade-e0122",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 2.333,
+     "lyric": "Chan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0123",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0124",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0125",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 2.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0126",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1,
+     "lyric": "tez",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0127",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0128",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0129",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0130",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0131",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0132",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2,
+     "lyric": "tou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0133",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0134",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0135",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0136",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0137",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 2.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0138",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 6.5,
+     "measure": 34,
+     "beat": 1,
+     "lyric": "jours !",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0139",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0140",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0141",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 36,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0142",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0143",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 37,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0144",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    38,
+    43
+   ],
+   "lyrics": "Quand tu dors, calme et pure, dans l’ombre sous mes yeux,",
+   "translation": "当你安静纯洁地睡去，在我眼前的阴影里，",
+   "events": [
+    {
+     "id": "gounod-serenade-e0145",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1.333,
+     "lyric": "Quand",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0146",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1.667,
+     "lyric": "tu",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0147",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 38,
+     "beat": 2,
+     "lyric": "dors,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0148",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.333,
+     "lyric": "calme",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0149",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.667,
+     "lyric": "et",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0150",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2,
+     "lyric": "pu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0151",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.333,
+     "lyric": "re,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0152",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.667,
+     "lyric": "dans",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0153",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 40,
+     "beat": 1,
+     "lyric": "l’om",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0154",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2,
+     "lyric": "bre",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0155",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.333,
+     "lyric": "sous",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0156",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.667,
+     "lyric": "mes",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0157",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 3.5,
+     "measure": 41,
+     "beat": 1,
+     "lyric": "yeux,",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0158",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0159",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0160",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 42,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0161",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0162",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    43,
+    48
+   ],
+   "lyrics": "Ton haleine murmure Des mots harmonieux.",
+   "translation": "你的呼吸低语着和谐的话语。",
+   "events": [
+    {
+     "id": "gounod-serenade-e0163",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 1.333,
+     "lyric": "Ton",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0164",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 1.667,
+     "lyric": "ha",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0165",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 43,
+     "beat": 2,
+     "lyric": "lei",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gounod-serenade-e0166",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.333,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0167",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.667,
+     "lyric": "mur",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0168",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2,
+     "lyric": "mu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gounod-serenade-e0169",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.333,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0170",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.667,
+     "lyric": "Des",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0171",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 1,
+     "lyric": "mots",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0172",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "gounod-serenade-e0173",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "gounod-serenade-e0174",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 1.333,
+     "lyric": "har",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0175",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0176",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 45,
+     "beat": 2,
+     "lyric": "mo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gounod-serenade-e0177",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "gounod-serenade-e0178",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "gounod-serenade-e0179",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.667,
+     "lyric": "ni",
+     "syllabic": "middle"
+    },
+    {
+     "id": "gounod-serenade-e0180",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 3.5,
+     "measure": 46,
+     "beat": 1,
+     "lyric": "eux.",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0181",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0182",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0183",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 47,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0184",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0185",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    48,
+    53
+   ],
+   "lyrics": "Ton beau corps se révèle Sans voile et sans atours Ah !",
+   "translation": "你美丽的身体显露出来，没有面纱也没有妆饰。",
+   "events": [
+    {
+     "id": "gounod-serenade-e0186",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1.333,
+     "lyric": "Ton",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0187",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1.667,
+     "lyric": "beau",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0188",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2,
+     "lyric": "corps",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0189",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2.333,
+     "lyric": "se",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0190",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2.667,
+     "lyric": "ré",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0191",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 1,
+     "lyric": "vè",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0192",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 1.333,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0193",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 1.667,
+     "lyric": "Sans",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0194",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2,
+     "lyric": "voile",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0195",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0196",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.667,
+     "lyric": "et",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0197",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 1,
+     "lyric": "sans",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0198",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0199",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 1.667,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0200",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 3.5,
+     "measure": 50,
+     "beat": 2,
+     "lyric": "tours",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0201",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0202",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 51,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0203",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 5,
+     "measure": 52,
+     "beat": 1,
+     "lyric": "Ah !",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0204",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    53,
+    55
+   ],
+   "lyrics": "dormez, dormez ma belle,",
+   "translation": "啊！睡吧，睡吧，我的美人，永远睡下去！",
+   "events": [
+    {
+     "id": "gounod-serenade-e0205",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 53,
+     "beat": 2.667,
+     "lyric": "dor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0206",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 54,
+     "beat": 1,
+     "lyric": "mez,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0207",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 1.667,
+     "lyric": "dor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0208",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 2,
+     "lyric": "mez",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0209",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "gounod-serenade-e0210",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 54,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "gounod-serenade-e0211",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0212",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 54,
+     "beat": 2.667,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0213",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 55,
+     "beat": 1,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0214",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 55,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0215",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 55,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0216",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 55,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0217",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 55,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0218",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 55,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0219",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 2,
+     "lyric": "le,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0220",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    55,
+    57
+   ],
+   "lyrics": "dormez, dormez toujours !",
+   "translation": "啊！睡吧，睡吧，我的美人，永远睡下去！",
+   "events": [
+    {
+     "id": "gounod-serenade-e0221",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 55,
+     "beat": 2.667,
+     "lyric": "dor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0222",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 56,
+     "beat": 1,
+     "lyric": "mez,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0223",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 1.667,
+     "lyric": "dor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0224",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 2,
+     "lyric": "mez",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0225",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 56,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "gounod-serenade-e0226",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 56,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "gounod-serenade-e0227",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0228",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 56,
+     "beat": 2.667,
+     "lyric": "tou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0229",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2,
+     "measure": 57,
+     "beat": 1,
+     "lyric": "jours !",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0230",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    57,
+    59
+   ],
+   "lyrics": "Dormez, dormez,",
+   "translation": "啊！睡吧，睡吧，我的美人，永远睡下去！",
+   "events": [
+    {
+     "id": "gounod-serenade-e0231",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 57,
+     "beat": 2.667,
+     "lyric": "Dor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0232",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 4,
+     "measure": 58,
+     "beat": 1,
+     "lyric": "mez,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0233",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 1.667,
+     "lyric": "dor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0234",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 59,
+     "beat": 2,
+     "lyric": "mez,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    59,
+    61
+   ],
+   "lyrics": "ma belle, Dormez toujours !",
+   "translation": "啊！睡吧，睡吧，我的美人，永远睡下去！",
+   "events": [
+    {
+     "id": "gounod-serenade-e0235",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 59,
+     "beat": 2.667,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0236",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 1,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0237",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 1.333,
+     "lyric": "le,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0238",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 60,
+     "beat": 1.667,
+     "lyric": "Dor",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0239",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1,
+     "measure": 60,
+     "beat": 2,
+     "lyric": "mez",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0240",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 60,
+     "beat": 2.667,
+     "lyric": "tou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0241",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 60,
+     "beat": 2.778,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0242",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 60,
+     "beat": 2.889,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0243",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 61,
+     "beat": 1,
+     "lyric": "jours !",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0244",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0245",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 61,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    61,
+    63
+   ],
+   "lyrics": "Dormez, ma belle,",
+   "translation": "啊！睡吧，睡吧，我的美人，永远睡下去！",
+   "events": [
+    {
+     "id": "gounod-serenade-e0246",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 61,
+     "beat": 2.333,
+     "lyric": "Dor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0247",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 61,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0248",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 61,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0249",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 61,
+     "beat": 2.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0250",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 1,
+     "lyric": "mez,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0251",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 62,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0252",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 62,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0253",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 62,
+     "beat": 2.333,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "gounod-serenade-e0254",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 62,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0255",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 62,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0256",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 62,
+     "beat": 2.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0257",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 1,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0258",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 63,
+     "beat": 1.333,
+     "lyric": "le,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0259",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 63,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    63,
+    71
+   ],
+   "lyrics": "Dormez, dormez toujours !",
+   "translation": "啊！睡吧，睡吧，我的美人，永远睡下去！",
+   "events": [
+    {
+     "id": "gounod-serenade-e0260",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 63,
+     "beat": 2.333,
+     "lyric": "Dor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0261",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 63,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0262",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 63,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0263",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 63,
+     "beat": 2.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0264",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 1,
+     "lyric": "mez,",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0265",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0266",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0267",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0268",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0269",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0270",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 2,
+     "lyric": "dor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0271",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 2.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0272",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0273",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0274",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0275",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 64,
+     "beat": 2.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0276",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 65,
+     "beat": 1,
+     "lyric": "mez",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0277",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 65,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0278",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 65,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0279",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 65,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0280",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 65,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0281",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 65,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0282",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 65,
+     "beat": 2,
+     "lyric": "tou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "gounod-serenade-e0283",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 65,
+     "beat": 2.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0284",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 65,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0285",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 65,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0286",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 65,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0287",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 65,
+     "beat": 2.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0288",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 6.5,
+     "measure": 66,
+     "beat": 1,
+     "lyric": "jours !",
+     "syllabic": "end"
+    },
+    {
+     "id": "gounod-serenade-e0289",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0290",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0291",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 68,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0292",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 68,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0293",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 69,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0294",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 70,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "gounod-serenade-e0295",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 71,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 289,
+ "restCount": 52,
+ "lyricNoteCount": 148,
+ "pages": 1,
+ "speech": {
+  "voice": "fr_FR-siwis-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 17,
+  "slowScale": 1.45
+ }
+}

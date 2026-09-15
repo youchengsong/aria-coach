@@ -1,0 +1,115 @@
+{
+  "title": "Du bist wie eine Blume",
+  "titleZh": "你像一朵花",
+  "composer": "R. Schumann",
+  "opera": "Myrthen Op.25 No.24（桃金娘，1840；诗：H. Heine）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "genre": "艺术歌曲",
+  "tempoBpm": 56,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（降A大调，2/4，缓慢而深情，约24小节）。海涅最著名的短诗之一，舒曼的设定简洁而深情。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Du bist wie eine Blume,",
+      "zh": "你像一朵花，"
+    },
+    {
+      "text": "so hold und schön und rein;",
+      "zh": "如此可爱、美丽而纯洁；"
+    },
+    {
+      "text": "ich schau' dich an, und Wehmut",
+      "zh": "我凝视着你，惆怅"
+    },
+    {
+      "text": "schleicht mir ins Herz hinein.",
+      "zh": "悄悄溜进了我的心。"
+    },
+    {
+      "text": "Mir ist, als ob ich die Hände",
+      "zh": "我觉得我应该"
+    },
+    {
+      "text": "aufs Haupt dir legen sollt',",
+      "zh": "把双手放在你的头上，"
+    },
+    {
+      "text": "betend, daß Gott dich erhalte",
+      "zh": "祈祷上帝保佑你"
+    },
+    {
+      "text": "so rein und schön und hold.",
+      "zh": "永远如此纯洁、美丽而可爱。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "Blume 的 u 是长 [uː]",
+        "schön 的 ö 是圆唇 [øː]",
+        "rein 的 ei 读 [aɪ]",
+        "Wehmut 的 eh 是长 [eː]，mut 的 u 短 [ʊ]",
+        "Hände 的 ä 读 [ɛ]"
+      ]
+    },
+    {
+      "title": "歌唱风格",
+      "items": [
+        "这是一首极其简短、温柔的歌——不需要任何力度变化",
+        "从头到尾保持轻声——像在对一个熟睡的人说话",
+        "'Wehmut schleicht' 是情感的核心——美丽中隐藏的忧伤"
+      ]
+    }
+  ],
+  "story": {
+    "background": "这首歌选自舒曼的《桃金娘》Op.25——他作为婚礼礼物送给妻子克拉拉的歌曲集。海涅的诗只有八行，极其简洁：看着眼前这个美丽纯洁的人，心中涌起的不是欢乐而是惆怅——因为美好的事物总让人想到它的脆弱与短暂。",
+    "situation": "诗人凝视着心爱的人，被她的纯洁美丽所打动。但美丽引发的不是快乐，而是一种温柔的忧伤——他想伸出双手放在她头上，祈祷上帝保护这份美好。",
+    "relationships": "诗人对爱人的温柔凝视。这不是热烈的爱情告白，而是一种近乎虔诚的柔情——看着美好，心生怜惜。",
+    "intent": "极简的表达。'Du bist wie eine Blume' 像一声轻叹。中间的 'Wehmut schleicht mir ins Herz' 是唯一的情感波动——惆怅悄悄地进来。结尾的祈祷要真诚而安静。",
+    "plain30": "你像一朵花那样纯洁美丽，可我看着你，心里却涌上了惆怅。我只想伸手放在你头上，祈祷上帝保佑你永远这样美好。",
+    "arc": "降A大调，2/4，慢速。旋律在极窄的音域内移动，像低声的倾诉。'Wehmut schleicht' 处有微妙的和声暗转。结尾'so rein und schön und hold'回到主调，像一个温柔的祈祷。",
+    "motif": "叹息动机：开头的'Du bist wie eine Blume'用级进下行——像一声带着怜爱的叹息。全曲几乎没有跳进，旋律线条极度平滑，象征温柔的凝视。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "'Du bist wie eine Blume' 级进下行，温柔的叹息"
+      },
+      {
+        "phrase": "3",
+        "note": "'Wehmut schleicht mir ins Herz' 惆怅的暗流——和声微转"
+      },
+      {
+        "phrase": "6",
+        "note": "'so rein und schön und hold' 祈祷——回到主调"
+      }
+    ],
+    "technique": "全曲在 piano 范围内。最大的挑战是保持声音的温度同时不用力——要'说'而不是'唱'。呼吸要无声。'Wehmut' 的 W 用柔和的唇齿摩擦，不要过重。",
+    "classroom": [
+      "先读中文——八行诗，一分钟读完，理解'美丽引发惆怅'的核心。",
+      "朗读德语：注意 ö、ü、ä 的圆唇和前元音。",
+      "这首歌旋律非常简单——先用'嗯'哼唱一遍。",
+      "配上歌词。全程用轻声——不要超过 mezzo-piano。",
+      "'Wehmut schleicht' 是关键——'惆怅悄悄溜进来'，声音也要'溜'进去。",
+      "完整演唱。用最真诚的轻声。",
+      "这首歌短到可以当热身用——每次练声前唱一遍。"
+    ]
+  },
+  "role": "抒情主人公（恋人）"
+}

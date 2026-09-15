@@ -1,0 +1,2111 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "der-atlas",
+ "title": "Der Atlas",
+ "titleZh": "阿特拉斯",
+ "composer": "F. Schubert",
+ "opera": "Schwanengesang D.957 No.8（天鹅之歌第8首，1828；诗：H. Heine）",
+ "language": "德语",
+ "voice": "男中音",
+ "difficulty": "高阶",
+ "tempoBpm": 60,
+ "timeSignature": "3/4",
+ "coverage": {
+  "measures": [
+   1,
+   56
+  ],
+  "firstSungMeasure": 4,
+  "complete": true,
+  "note": "完整声乐旋律（g小调，3/4，不太快但有分量，约60小节）。诗人自比神话中扛天的阿特拉斯——肩负着无尽的痛苦。"
+ },
+ "range": {
+  "low": "D4",
+  "high": "Ab5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "阿特拉斯（背负世界者）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Ich unglücksel'ger Atlas! Eine Welt,",
+   "zh": "我这不幸的阿特拉斯！整个世界，"
+  },
+  {
+   "text": "die ganze Welt der Schmerzen muß ich tragen,",
+   "zh": "整个痛苦的世界我都必须承受，"
+  },
+  {
+   "text": "ich trage Unerträgliches, und brechen",
+   "zh": "我承受着无法承受的重压，"
+  },
+  {
+   "text": "will mir das Herz im Leibe.",
+   "zh": "心脏要在身体里碎裂了。"
+  },
+  {
+   "text": "Du stolzes Herz, du hast es ja gewollt!",
+   "zh": "你这骄傲的心，这是你自找的！"
+  },
+  {
+   "text": "Du wolltest glücklich sein, unendlich glücklich,",
+   "zh": "你想要幸福，无尽的幸福，"
+  },
+  {
+   "text": "oder unendlich elend, stolzes Herz,",
+   "zh": "或者无尽的悲惨，骄傲的心啊，"
+  },
+  {
+   "text": "und jetzo bist du elend.",
+   "zh": "如今你果然悲惨了。"
+  }
+ ],
+ "story": {
+  "background": "海涅以希腊神话中扛天的巨人阿特拉斯自喻——诗人肩负着'整个痛苦的世界'。舒伯特的设定极具力量——g小调的震音和弦像大地在颤抖，声乐线条从呐喊到崩溃。中间段转入自嘲：骄傲的心啊，你自找的——你要么极乐，要么极苦。",
+  "situation": "诗人独自承受爱情失败的痛苦。他把自己比作阿特拉斯——整个世界的重量都在他肩上。他对自己的心说话：是你自己要追求极致的幸福，如今你得到了极致的痛苦。",
+  "relationships": "诗人与他自己的骄傲之心——海涅笔下的阿特拉斯不是神话中扛天的巨人，而是一个因为渴求'无尽的幸福'而被判'无尽的悲惨'的凡人。整首诗是诗人对自己内心的审判：'Du stolzes Herz, du hast es ja gewollt!'（骄傲的心，这是你自找的！）——这既是指控，也是无法挣脱的自嘲。",
+  "intent": "以猛烈的悲愤开场——'Ich unglücksel'ger Atlas!'是一声从胸腔爆发的呐喊。钢琴的八度震音是压在肩上的千斤重担，声乐线在上面挣扎。'die ganze Welt der Schmerzen muß ich tragen'每次重复都更沉重。中段突然转向自省——'Du stolzes Herz'像是对着镜中的自己说话，语气从愤怒变成痛苦的清醒。结尾'und bist nun elend'以空洞的低音收束，像巨人终于被压塌。",
+  "plain30": "我像阿特拉斯一样扛着整个世界的痛苦——心脏要碎了。骄傲的心，你自找的：你要么极乐要么极苦——如今你极苦了。",
+  "arc": "g小调，稍快速度（Etwas geschwind），驱动性的6/8拍。钢琴的八度震音从第一个音就建立了令人窒息的紧张感。声乐在中低音区强力宣叙——这不是抒情歌曲，而是戏剧性的独白。中段短暂转入降B大调（'Du wolltest glücklich sein'），像对幸福的回忆一闪而过，随即被拉回g小调的深渊。全曲约两分半，但情感浓度极高——每一个字都被钢琴的震音逼得没有喘息空间。",
+  "motif": "震音动机：钢琴的低音震音像大地震颤、像巨人的脚步。声乐的'Ich unglücksel'ger Atlas'以强有力的下行跳进开始——沉重的宣告。'stolzes Herz'处转入自嘲的内省。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "开头「Ich unglücksel'ger Atlas」——声乐以 g 小调主和弦分解的沉重跳进直接砸下，钢琴低音八度震音是肩上世界的重量"
+   },
+   {
+    "phrase": "4",
+    "note": "「die ganze Welt muss ich tragen」——旋律在 ganze Welt 上冲到高音区，是全曲力量的顶点"
+   },
+   {
+    "phrase": "7",
+    "note": "「Du stolzes Herz, du hast es ja gewollt!」——转为宣叙调式的质问，和声短暂转向大调又立刻转回，像自我嘲讽"
+   },
+   {
+    "phrase": "11",
+    "note": "结尾「und jetzo bist du elend」——旋律跌落到最低音区，钢琴归于死寂"
+   }
+  ],
+  "technique": "需要英雄般的低音域力量——最低到D4，最高到降A5，跨度超过一个半八度。'die ganze Welt der Schmerzen'的强音（fortissimo）要有控制，不能喊叫——声音要像巨人的呻吟而非歇斯底里。中段'Du stolzes Herz'突然转轻，这个动态对比是全曲的关键。6/8拍的律动不能拖——虽然情感沉重，但节奏必须前进，像无法放下的重担在催你走。",
+  "classroom": [
+   "先读中文翻译，理解歌曲的核心情感。",
+   "慢速朗读德语原文，注意元音和辅音的准确发音。",
+   "分离元音和辅音，按音节练习。",
+   "用节拍器按标注速度朗读歌词。",
+   "听合成旋律参考，注意旋律走向。",
+   "配上歌词，先用一半速度练唱。",
+   "以正常速度完整演唱。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "注意长短元音的区别",
+    "ö 和 ü 需要圆唇",
+    "ei 读 [aɪ]，ie 读 [iː]",
+    "ch 在 i/e 后读软 [ç]，在 a/o/u 后读硬 [x]"
+   ]
+  },
+  {
+   "title": "歌唱风格",
+   "items": [
+    "注意德语歌曲中词与音的密切关系",
+    "每个词的语气要和旋律的走向一致",
+    "德语辅音要清晰但不过重"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    4,
+    6
+   ],
+   "lyrics": "Ich unglück sel’ger Atlas,",
+   "translation": "我这不幸的阿特拉斯！整个世界，",
+   "events": [
+    {
+     "id": "der-atlas-e0006",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0007",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 3.75,
+     "lyric": "Ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0008",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0009",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 2.75,
+     "lyric": "glück",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0010",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "sel’",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0011",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 3.75,
+     "lyric": "ger",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0012",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "At",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0013",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "las,",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0014",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    6,
+    8
+   ],
+   "lyrics": "ich unglücksel’ger Atlas!",
+   "translation": "我这不幸的阿特拉斯！整个世界，",
+   "events": [
+    {
+     "id": "der-atlas-e0015",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 3.75,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0016",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0017",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 2.75,
+     "lyric": "glück",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-atlas-e0018",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 7,
+     "beat": 3.0,
+     "lyric": "sel’",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-atlas-e0019",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 3.75,
+     "lyric": "ger",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0020",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "At",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0021",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "las!",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    8,
+    12
+   ],
+   "lyrics": "eine Welt, die ganze Welt der Schmerzen muss ich tragen,",
+   "translation": "整个痛苦的世界我都必须承受，",
+   "events": [
+    {
+     "id": "der-atlas-e0022",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "ei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0023",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 3.75,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0024",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "Welt,",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0025",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0026",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "gan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0027",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.75,
+     "lyric": "ze",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0028",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "Welt",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0029",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 3.75,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0030",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "Schmer",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0031",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "zen",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0032",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "muss",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0033",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 3.75,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0034",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "tra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0035",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "gen,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    12,
+    15
+   ],
+   "lyrics": "die ganze Welt muss ich tragen,",
+   "translation": "整个痛苦的世界我都必须承受，",
+   "events": [
+    {
+     "id": "der-atlas-e0036",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.75,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0037",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "gan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0038",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 3.75,
+     "lyric": "ze",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0039",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "Welt",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0040",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "muss",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0041",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 3.75,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0042",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "tra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0043",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "gen,",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0044",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0045",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0046",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0047",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    15,
+    17
+   ],
+   "lyrics": "ich trage Unerträgliches,",
+   "translation": "我承受着无法承受的重压，",
+   "events": [
+    {
+     "id": "der-atlas-e0048",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 3.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0049",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "tra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0050",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "ge",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0051",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "Un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0052",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.5,
+     "lyric": "er",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-atlas-e0053",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "träg",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-atlas-e0054",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.75,
+     "lyric": "li",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-atlas-e0055",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "ches,",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0056",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    17,
+    23
+   ],
+   "lyrics": "und brechen will mir das Herz im Leibe.",
+   "translation": "心脏要在身体里碎裂了。",
+   "events": [
+    {
+     "id": "der-atlas-e0057",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 3.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0058",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "bre",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0059",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.75,
+     "lyric": "chen",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0060",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "will",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0061",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "mir",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0062",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.75,
+     "lyric": "das",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0063",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "Herz",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0064",
+     "pitch": "E#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.5,
+     "lyric": "im",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0065",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "Lei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0066",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "be.",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0067",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0068",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0069",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0070",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0071",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0072",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    23,
+    27
+   ],
+   "lyrics": "Du stolzes Herz, du hast es ja gewollt!",
+   "translation": "你这骄傲的心，这是你自找的！",
+   "events": [
+    {
+     "id": "der-atlas-e0073",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 2.75,
+     "lyric": "Du",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0074",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 23,
+     "beat": 3.0,
+     "lyric": "stol",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0075",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 3.75,
+     "lyric": "zes",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0076",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "Herz,",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0077",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0078",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0079",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "hast",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0080",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 2.75,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0081",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "ja",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0082",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 3.75,
+     "lyric": "ge",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0083",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "wollt!",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0084",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0085",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0086",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0087",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    27,
+    30
+   ],
+   "lyrics": "Du wolltest glücklich sein, unendlich glücklich,",
+   "translation": "你想要幸福，无尽的幸福，",
+   "events": [
+    {
+     "id": "der-atlas-e0088",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 2.75,
+     "lyric": "Du",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0089",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "woll",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0090",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 3.75,
+     "lyric": "test",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0091",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "glück",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0092",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 28,
+     "beat": 1.75,
+     "lyric": "lich",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0093",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "sein,",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0094",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0095",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 3.5,
+     "lyric": "un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0096",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "end",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-atlas-e0097",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 3.0,
+     "lyric": "lich",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0098",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0099",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "glück",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0100",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.0,
+     "lyric": "lich,",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0101",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    30,
+    32
+   ],
+   "lyrics": "oder unendlich e lend,",
+   "translation": "或者无尽的悲惨，骄傲的心啊，",
+   "events": [
+    {
+     "id": "der-atlas-e0102",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 30,
+     "beat": 3.0,
+     "lyric": "o",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0103",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 30,
+     "beat": 3.333,
+     "lyric": "der",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0104",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.3333,
+     "measure": 30,
+     "beat": 3.667,
+     "lyric": "un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0105",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "end",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-atlas-e0106",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 3.0,
+     "lyric": "lich",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0107",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "e",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0108",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0109",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 2.0,
+     "lyric": "lend,",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0110",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    32,
+    35
+   ],
+   "lyrics": "unendlich e lend,",
+   "translation": "或者无尽的悲惨，骄傲的心啊，",
+   "events": [
+    {
+     "id": "der-atlas-e0111",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 3.5,
+     "lyric": "un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0112",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "end",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-atlas-e0113",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 3.0,
+     "lyric": "lich",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0114",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "e",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0115",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0116",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 2.0,
+     "lyric": "lend,",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0117",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0118",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0119",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    35,
+    39
+   ],
+   "lyrics": "stolzes Herz, und jetzo bist du elend.",
+   "translation": "如今你果然悲惨了。",
+   "events": [
+    {
+     "id": "der-atlas-e0120",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 35,
+     "beat": 3.0,
+     "lyric": "stol",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0121",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 35,
+     "beat": 3.75,
+     "lyric": "zes",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0122",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "Herz,",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0123",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 3.0,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0124",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "je",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0125",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2.5,
+     "lyric": "tzo",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0126",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 3.0,
+     "lyric": "bist",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0127",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 3.5,
+     "lyric": "du",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0128",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "e",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0129",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "lend.",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0130",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0131",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 39,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    39,
+    41
+   ],
+   "lyrics": "Ich unglücksel’ger Atlas,",
+   "translation": "如今你果然悲惨了。",
+   "events": [
+    {
+     "id": "der-atlas-e0132",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 39,
+     "beat": 3.75,
+     "lyric": "Ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0133",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0134",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 40,
+     "beat": 2.75,
+     "lyric": "glück",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-atlas-e0135",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 40,
+     "beat": 3.0,
+     "lyric": "sel’",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-atlas-e0136",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 40,
+     "beat": 3.75,
+     "lyric": "ger",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0137",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "At",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0138",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 2.0,
+     "lyric": "las,",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0139",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 41,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    41,
+    43
+   ],
+   "lyrics": "ich unglücksel’ger Atlas!",
+   "translation": "如今你果然悲惨了。",
+   "events": [
+    {
+     "id": "der-atlas-e0140",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 41,
+     "beat": 3.75,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0141",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "un",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0142",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 2.75,
+     "lyric": "glück",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-atlas-e0143",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 42,
+     "beat": 3.0,
+     "lyric": "sel’",
+     "syllabic": "middle"
+    },
+    {
+     "id": "der-atlas-e0144",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 3.75,
+     "lyric": "ger",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0145",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "At",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0146",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 2.0,
+     "lyric": "las!",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0147",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.75,
+     "measure": 43,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    43,
+    46
+   ],
+   "lyrics": "die ganze Welt der Schmerzen muss ich tragen,",
+   "translation": "如今你果然悲惨了。",
+   "events": [
+    {
+     "id": "der-atlas-e0148",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 43,
+     "beat": 3.75,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0149",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.75,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "gan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0150",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 44,
+     "beat": 2.75,
+     "lyric": "ze",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0151",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 44,
+     "beat": 3.0,
+     "lyric": "Welt",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0152",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 44,
+     "beat": 3.75,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0153",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "Schmer",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0154",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 2.0,
+     "lyric": "zen",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0155",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 45,
+     "beat": 3.0,
+     "lyric": "muss",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0156",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 3.75,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0157",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "tra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0158",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 46,
+     "beat": 2.0,
+     "lyric": "gen,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    46,
+    48
+   ],
+   "lyrics": "die ganze Welt muss ich tragen,",
+   "translation": "如今你果然悲惨了。",
+   "events": [
+    {
+     "id": "der-atlas-e0159",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 2.75,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0160",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 46,
+     "beat": 3.0,
+     "lyric": "gan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0161",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 3.75,
+     "lyric": "ze",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0162",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "Welt",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0163",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 47,
+     "beat": 3.0,
+     "lyric": "muss",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0164",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 3.75,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0165",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "tra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0166",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 2.0,
+     "lyric": "gen,",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0167",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    48,
+    56
+   ],
+   "lyrics": "die ganze Welt der Schmerzen muss ich tragen.",
+   "translation": "如今你果然悲惨了。",
+   "events": [
+    {
+     "id": "der-atlas-e0168",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 3.5,
+     "lyric": "die",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0169",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "gan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0170",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.5,
+     "lyric": "ze",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0171",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 3.0,
+     "lyric": "Welt",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0172",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 3.5,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0173",
+     "pitch": "Ab5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "Schmer",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0174",
+     "pitch": "Ab5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 2.5,
+     "lyric": "zen",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0175",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 3.0,
+     "lyric": "muss",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0176",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 50,
+     "beat": 3.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "der-atlas-e0177",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "tra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "der-atlas-e0178",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "gen.",
+     "syllabic": "end"
+    },
+    {
+     "id": "der-atlas-e0179",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 52,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0180",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 52,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0181",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0182",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 54,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0183",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 55,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "der-atlas-e0184",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 56,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 179,
+ "restCount": 35,
+ "lyricNoteCount": 141,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 16,
+  "slowScale": 1.45
+ }
+}

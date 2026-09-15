@@ -1,0 +1,148 @@
+{
+  "title": "Vittoria, mio core!",
+  "titleZh": "胜利了，我的心！",
+  "composer": "G. Carissimi",
+  "opera": "独立声乐小品（17 世纪中叶；清唱剧作曲家的室内声乐作品）",
+  "role": "抒情主体：从爱情束缚中解脱的胜利者",
+  "genre": "咏叹调",
+  "language": "意大利语",
+  "script": "latin",
+  "voice": "男中音",
+  "difficulty": "中级",
+  "tempoBpm": 100,
+  "complete": true,
+  "sourceGrade": "C",
+  "coverageNote": "声乐旋律 A 段（G 大调，4/4），依据 Parisotti 编辑版手工编码。",
+  "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+  "sources": [
+    {
+      "name": "手工编码 MusicXML",
+      "url": "https://imslp.org/wiki/Vittoria,_mio_core_(Carissimi,_Giacomo)",
+      "format": "MusicXML",
+      "role": "声乐旋律线",
+      "status": "依据标准声乐教学版本编码",
+      "grade": "C",
+      "accessed": "2026-09-15"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Vittoria, vittoria, mio core!",
+      "zh": "胜利了，胜利了，我的心！"
+    },
+    {
+      "text": "Non lagrimar piu,",
+      "zh": "不要再流泪了，"
+    },
+    {
+      "text": "e sciolta d'Amore",
+      "zh": "爱神的"
+    },
+    {
+      "text": "la vil servitu.",
+      "zh": "卑劣枷锁已被解开。"
+    },
+    {
+      "text": "Gia l'empia a' tuoi danni",
+      "zh": "那狠心的人为了伤害你"
+    },
+    {
+      "text": "fra stuolo di sguardi,",
+      "zh": "在目光的围攻中，"
+    },
+    {
+      "text": "con vezzi bugiardi",
+      "zh": "用虚假的媚态"
+    },
+    {
+      "text": "disposte l'inganni.",
+      "zh": "布下了陷阱。"
+    },
+    {
+      "text": "Ma gl'astri tiranni",
+      "zh": "但那些暴虐的星辰"
+    },
+    {
+      "text": "cadranno dal trono",
+      "zh": "将从宝座上跌落，"
+    },
+    {
+      "text": "e lasceranno in abbandono",
+      "zh": "把"
+    },
+    {
+      "text": "la bella tiranna",
+      "zh": "那美丽的暴君"
+    },
+    {
+      "text": "che ha il cor di diamante.",
+      "zh": "——她那钻石般冷硬的心——丢弃一旁。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "双辅音与辅音组合",
+      "items": [
+        "Vittoria：双 t，清晰有力",
+        "lagrimar：gr 辅音组合要快速连接",
+        "sciolta：sc 在 i 前发 [ʃ]",
+        "bugiardi：gi 发 [dʒi]",
+        "l'inganni：双 n"
+      ]
+    },
+    {
+      "title": "元音",
+      "items": [
+        "core 的 o 是开口 [ɔ]",
+        "Amore 的 o 是开口 [ɔ]，e 是闭口 [e]",
+        "tiranni 的 i 是纯净的 [i]"
+      ]
+    },
+    {
+      "title": "风格与力度",
+      "items": [
+        "这是一首凯旋曲——开头就要有胜利的气势",
+        "「Vittoria!」每次出现都要像号角般响亮",
+        "速度 ♩=100，充满能量，不要拖沓",
+        "中段描述陷阱的部分可以稍微收敛，为最后的胜利做准备"
+      ]
+    }
+  ],
+  "story": {
+    "background": "贾科莫·卡里西米是罗马巴洛克时期最重要的清唱剧作曲家，被认为是清唱剧形式的奠基人之一。这首「Vittoria, mio core!」虽然不出自特定清唱剧，但完美体现了他戏剧性的声乐写作风格。经 Parisotti 编入意大利古典声乐选集后，它成为男声学生展示声乐技巧和戏剧表现力的经典曲目。",
+    "situation": "歌者刚刚从一段痛苦的爱情中解脱出来——那个美丽但冷酷的人用虚假的媚态和目光设下陷阱，但歌者终于挣脱了。此刻他满怀胜利的喜悦，对自己的心说：不要再哭了！我们自由了！",
+    "relationships": "歌者与自己的心：二者像战友一样庆祝胜利。那个「美丽的暴君」是被打败的敌人——她曾经用魅力控制歌者，但现在她的权力已经瓦解。",
+    "intent": "开头的「Vittoria!」要像宣言一样响亮——这是发自内心的欢呼。「Non lagrimar piu」稍微温柔地安慰自己的心。中段「Gia l'empia」描述敌人的阴谋时语气变得叙事性更强。最后「cadranno dal trono」回到胜利的气势，比开头更加辉煌。",
+    "plain30": "胜利了！不要再哭了，我的心——爱情的枷锁已经被打碎了！那个美丽的暴君用虚假的魅力设下陷阱，但现在她的权力将崩塌。这是一首从爱情束缚中解放出来的凯旋曲。",
+    "arc": "G 大调，4/4，Allegro。开头以坚定有力的跳进宣告胜利。中段转入叙述性的段落，描述敌人的阴谋——调性短暂偏移。结尾再现开头的胜利主题，以更加辉煌的方式在主调上结束。整体是 ABA 结构。",
+    "motif": "核心动机是「Vittoria!」的上行跳进——从 G 到 D 的五度跳跃像号角的呼唤。「Non lagrimar」的下行级进是安慰的姿态。中段的快速音节代表阴谋的纷繁。这三个元素交替形成戏剧张力。",
+    "motifPositions": [
+      {
+        "phrase": 1,
+        "note": "「Vittoria, vittoria!」上行五度跳进——号角般的胜利宣言"
+      },
+      {
+        "phrase": 2,
+        "note": "「Non lagrimar piu」下行级进——温柔地安慰自己的心"
+      },
+      {
+        "phrase": "4",
+        "note": "「Gia l'empia」快速叙事——揭露敌人的阴谋"
+      },
+      {
+        "phrase": "4",
+        "note": "「Ma gl'astri tiranni cadranno」胜利再现——比开头更辉煌"
+      }
+    ],
+    "technique": "这首曲子需要充沛的声乐能量和戏剧表现力。「Vittoria!」的跳进需要良好的气息支撑——不是喊叫，是胸腔共鸣的爆发。中段的快速音节需要清晰的吐字。整首曲子的挑战在于保持高能量而不疲劳——声音要放在面罩共鸣点上。音域从 D4 到 D5，对男中音或男高音都很适合。",
+    "classroom": [
+      "先读中文：这是一个刚获得自由的人在欢呼——想象从监狱里走出来的瞬间。",
+      "朗读意大利语：「Vittoria」的双 t 要爆发力十足。「sciolta」的 sc+i=[ʃ] 要流畅。",
+      "练习跳进：G-D 五度跳跃，用「ha!」的爆发气息感觉。",
+      "按节拍说词，♩=100——保持高能量的推进。",
+      "听旋律参考：注意 A 段的辉煌与中段叙事的对比。",
+      "先练开头四句（胜利宣言），再练中段（阴谋叙事），感受两者的语气差异。",
+      "完整演唱。这首曲子从第一个音到最后一个音都是胜利的——不要在中间段失去气势。结尾要比开头更加辉煌。"
+    ]
+  }
+}

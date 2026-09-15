@@ -1,0 +1,147 @@
+{
+  "title": "Cäcilie",
+  "titleZh": "致切奇莉亚",
+  "composer": "R. Strauss",
+  "opera": "Op. 27, No. 2（《四首歌曲》第二首，1894；诗：H.H. Hart）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "女高音",
+  "difficulty": "高阶",
+  "genre": "艺术歌曲",
+  "tempoBpm": 80,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（E 大调，4/4，急速而热情）。施特劳斯 Op.27 四首婚礼歌曲中最辉煌的一首。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Wenn du es wüsstest, was träumen heißt",
+      "zh": "如果你知道做梦是什么感觉——"
+    },
+    {
+      "text": "von brennenden Küssen, von Wandern und Ruhen",
+      "zh": "梦见炽热的亲吻、漫游和安息——"
+    },
+    {
+      "text": "mit der Geliebten, Aug' in Auge,",
+      "zh": "与爱人四目相对，"
+    },
+    {
+      "text": "und kosend und plaudernd,",
+      "zh": "爱抚着、低语着，"
+    },
+    {
+      "text": "wenn du es wüsstest, du neigtest dein Herz!",
+      "zh": "如果你知道，你定会倾心！"
+    },
+    {
+      "text": "Wenn du es wüsstest, was bangen heißt",
+      "zh": "如果你知道忐忑是什么感觉——"
+    },
+    {
+      "text": "in einsamen Nächten,",
+      "zh": "在孤独的夜晚，"
+    },
+    {
+      "text": "umschauert vom Sturm, da niemand tröstet",
+      "zh": "被风暴包围，无人安慰——"
+    },
+    {
+      "text": "milden Mundes die kampfmüde Seele,",
+      "zh": "用温柔的口吻抚慰疲惫的灵魂，"
+    },
+    {
+      "text": "wenn du es wüsstest, du kämest zu mir.",
+      "zh": "如果你知道，你定会来到我身边。"
+    },
+    {
+      "text": "Wenn du es wüsstest, was leben heißt,",
+      "zh": "如果你知道活着是什么感觉——"
+    },
+    {
+      "text": "umhaucht von der Gottheit weltschaffendem Atem,",
+      "zh": "被上帝创世的气息萦绕，"
+    },
+    {
+      "text": "zu schweben empor, lichtgetragen,",
+      "zh": "被光托起，向上飘浮，"
+    },
+    {
+      "text": "zu seligen Höhn,",
+      "zh": "飞向极乐的高处，"
+    },
+    {
+      "text": "wenn du es wüsstest, du lebtest mit mir!",
+      "zh": "如果你知道，你定会与我同活！"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语双元音与长元音",
+      "items": [
+        "wüsstest 的 ü 是短圆唇前元音 [ʏ]，träumen 的 äu 读 [ɔɪ]",
+        "Küssen 的 ü 是短 [ʏ]，Ruhen 的 u 是长 [uː]",
+        "Geliebten 的 ie 是长 [iː]，Seele 的 ee 是长 [eː]",
+        "Atem 的第一个 a 是短 [a]，schweben 的 e 是长 [eː]"
+      ]
+    },
+    {
+      "title": "辅音与气息",
+      "items": [
+        "brennenden 双写 nn 要清楚——不是法语的鼻化",
+        "weltschaffendem 是复合词：Welt+schaffendem，在 t-sch 之间轻微断开",
+        "lichtgetragen 也是复合词：licht+getragen，注意 cht [çt] 的清辅音",
+        "最后的 mir 要用充沛的气流和明亮的 [iː] 元音结束"
+      ]
+    }
+  ],
+  "story": {
+    "background": "《致切奇莉亚》是施特劳斯 Op.27 四首歌曲中的第二首，1894 年为与女高音宝琳娜·德·阿纳的婚礼而作。海因里希·哈特的诗以三段平行的虚拟语气——如果你知道做梦、忐忑、活着是什么——构建出从温柔到炽烈再到超越的情感弧线。这是施特劳斯歌曲创作中最辉煌、最难唱的作品之一。",
+    "situation": "歌者面对一个似乎还不理解爱情力量的对象，用三个「如果你知道……」的排比发出邀请：如果你体验过梦中的亲吻、孤夜的煎熬、和被神圣之光托起的感觉，你就会理解我，就会来到我身边。这不是恳求，而是一个经历过这一切的人向另一个人展示生命的全部可能。",
+    "relationships": "歌者与被呼唤的「你」——可能是爱人，也可能是灵魂的另一半。三段的关系递进：第一段是甜蜜的邀约，第二段是孤独中的渴望，第三段超越个人走向神圣。",
+    "intent": "第一段温柔而充满诱惑，像在耳边轻声描绘梦境。第二段转为黑暗和急迫——孤独夜晚的风暴。第三段从黑暗中爆发出光芒，「zu schweben empor, lichtgetragen」要像灵魂在飞翔。最后的「du lebtest mit mir」是全曲的爆发点——从 piano 到 fortissimo，像太阳升起。",
+    "plain30": "如果你知道梦见爱人的亲吻是什么感觉，你就会爱上我；如果你知道孤独夜晚的煎熬，你就会来到我身边；如果你知道被光托起飞向天堂——你就会与我一起活着。三段话，越来越热烈，从梦境到现实到永恒。",
+    "arc": "E 大调，快速而热情。第一段在中音区温柔流动，钢琴的琶音像摇篮。第二段转入 c# 小调，钢琴变为风暴般的震音，声乐线急促而痛苦。第三段从 E 大调爆发，旋律不断向上攀升，钢琴的和声越来越辉煌，到「lichtgetragen, zu seligen Höhn」达到全曲高潮——持续的高音 B5/A5。最终在灿烂的 E 大调主和弦上结束。",
+    "motif": "上行呼唤动机：每段的「Wenn du es wüsstest」以相同的音型开始——像反复的叩门。飞翔动机：第三段「zu schweben empor」的旋律急速上行，跨越超过一个八度。这个动机在全曲只出现一次，是积蓄了两段的能量的释放。钢琴的持续琶音是贯穿全曲的「心跳」。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "第一段开头：「Wenn du es wüsstest」温柔的呼唤动机，E 大调中音区"
+      },
+      {
+        "phrase": "6",
+        "note": "第二段开头：同样的呼唤动机转入小调，变得急迫"
+      },
+      {
+        "phrase": "11",
+        "note": "第三段开头：呼唤动机第三次出现，这次准备爆发"
+      },
+      {
+        "phrase": "13",
+        "note": "「zu schweben empor, lichtgetragen」——飞翔动机，全曲高潮"
+      }
+    ],
+    "technique": "这首歌对女高音的要求极高：音域从中低音区到 B5，需要在快速变化的力度中保持声音的灵活和光泽。第一段要控制音量不要过早释放。第二段的 c# 小调段落需要戏剧性的暗色音质。第三段的高潮要提前准备气息——「lichtgetragen」的高音需要宽广的气息支撑和头腔共鸣。最难的是从 ppp 到 fff 的极端力度变化要在几小节内完成。",
+    "classroom": [
+      "先读中文——理解三段递进结构：梦、苦、光。每段结尾都是「如果你知道，你就会……」。",
+      "朗读德语，注意虚拟语气动词形式：wüsstest、neigtest、kämest、lebtest——都是「如果你知道」的条件句。",
+      "分离元音：练习 ü [ʏ]、äu [ɔɪ]、ei [aɪ] 的区别——这三个元音几乎在每句都出现。",
+      "用 mf 音量哼唱全曲旋律，标记三个段落的音区变化。",
+      "第三段「zu schweben empor」单独练习——这是技术难点：快速上行后保持高音的稳定。",
+      "先用半速完整演唱，确保三段的力度对比：第一段 mp，第二段 mf-f，第三段 f-fff。",
+      "以原速演唱。这首歌的关键是节制——前两段越控制，第三段的爆发就越有效。"
+    ]
+  },
+  "role": "抒情主人公（狂喜的恋人）"
+}

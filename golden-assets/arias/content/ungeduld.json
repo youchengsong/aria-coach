@@ -1,0 +1,104 @@
+{
+  "title": "Ungeduld",
+  "titleZh": "急切",
+  "composer": "F. Schubert",
+  "opera": "Die schöne Müllerin D.795 No.7（美丽的磨坊女第7首，1823；诗：W. Müller）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "中级",
+  "genre": "艺术歌曲",
+  "tempoBpm": 80,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（A大调，3/4，稍快，约52小节，四段分节歌）。学徒对磨坊女的热烈告白——舒伯特最受欢迎的激情之歌。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Ich schnitt' es gern in alle Rinden ein,",
+      "zh": "我想把它刻在每一棵树皮上，"
+    },
+    {
+      "text": "ich grüb' es gern in jeden Kieselstein,",
+      "zh": "我想把它刻在每一块鹅卵石上，"
+    },
+    {
+      "text": "ich möcht' es sä'n auf jedes frische Beet",
+      "zh": "我想把它播种在每一片新苗圃里"
+    },
+    {
+      "text": "mit Kressensamen, der es schnell verrät,",
+      "zh": "用水芹的种子，它会很快透露，"
+    },
+    {
+      "text": "auf jeden weißen Zettel möcht' ich's schreiben:",
+      "zh": "我想把它写在每一张白纸上："
+    },
+    {
+      "text": "Dein ist mein Herz, und soll es ewig bleiben!",
+      "zh": "我的心是你的，愿它永远如此！"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "schnitt 的 i 短 [ɪ]",
+        "Rinden 的 i 短 [ɪ]",
+        "grüb 的 ü 长 [yː]",
+        "Kieselstein 的 ie 长 [iː]，ei 读 [aɪ]",
+        "ewig 的 e 长 [eː]"
+      ]
+    },
+    {
+      "title": "歌唱风格",
+      "items": [
+        "急切、热烈——学徒恨不得让全世界都知道他的爱",
+        "每一段都以'Dein ist mein Herz'结束——这是全曲的核心告白",
+        "速度不要太快——要让每个意象都清晰",
+        "四段歌词越唱越激动，但'ewig bleiben'要收得住"
+      ]
+    }
+  ],
+  "story": {
+    "background": "《急切》是《美丽的磨坊女》中最热烈的一首。学徒已经爱上了磨坊女，恨不得把'我的心是你的'刻在树上、石头上、天空中。四段歌词用不同的意象表达同一个念头：我要让全世界知道我爱你。但在套曲的语境中，这份热情最终将得不到回报。",
+    "situation": "磨坊旁。学徒已经深深爱上了磨坊女，但还没有勇气直接告白。他想象把自己的心意刻在树上、石头上、播种在土里、写在纸上——用一切方式表达'Dein ist mein Herz'。",
+    "relationships": "磨坊学徒与他暗恋的磨坊主的女儿——《美丽的磨坊女》套曲的第七首。学徒已经在磨坊工作了一段时间，对磨坊主的女儿产生了热烈的爱情，但他不知道她是否知道。他的爱如此强烈，以至于他想把'你的就是我的心'刻在每一块树皮上、每一块石头上、写在天空中——让全世界都知道。但他唯一不敢做的，就是直接告诉她。",
+    "intent": "以几乎压抑不住的兴奋开始——A大调的明亮和3/4拍的推进感让每一句话都像要溢出来。四段歌词每段都构建向副歌的高潮：'Dein ist mein Herz, und soll es ewig bleiben!'（你的就是我的心，永远都是！）。这句话每出现一次都要比前一次更坚定、更辉煌。但注意——学徒的爱是纯真的急切，不是成熟的深沉。他在喊的不是宣言，而是一个年轻人忍不住的心声。",
+    "plain30": "我想把'我的心是你的'刻在树上、石头上、写在纸上——让全世界都知道！我的心是你的，愿它永远如此！",
+    "arc": "A大调，稍快速度（Etwas geschwind），奔涌的3/4拍。钢琴的伴奏像快速的心跳——右手的十六分音符连绵不断，推着声乐向前冲。每段的叙述部分在中音区流动（'Ich schnitt es gern in alle Rinden ein'），然后在副歌突然跃升到A5（'Dein ist mein Herz!'），像攀到山顶大喊。四段歌词用相同旋律，但情感应该层层递进——从第一段的试探到第四段的全情投入。",
+    "motif": "心跳三连音：钢琴的急促重复像急切的心跳。'Dein ist mein Herz' 的上行跳进是告白动机——每段都出现，是全曲的标志性旋律。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "'Ich schnitt' es gern' 想象的开始——急切的叙述"
+      },
+      {
+        "phrase": "6",
+        "note": "'Dein ist mein Herz' 告白动机——冲上高音"
+      }
+    ],
+    "technique": "最大的挑战是在快速中保持清晰的吐字和前进的动力，同时不至于上气不接下气。每段结尾的'Dein ist mein Herz'需要明亮的头声，要像教堂钟声一样响亮而纯净，不是在喊叫。四段分节歌的反复要有变化——第一段可以更轻、更期待，第四段则全力以赴。3/4拍的重拍要清楚，但不要重到变成进行曲——这是舞蹈的节奏，是快乐的旋转。",
+    "classroom": [
+      "先读中文：一个年轻人恨不得让全世界知道他爱她。",
+      "朗读德语：四段歌词，先背熟第一段。",
+      "旋律和'Dein ist mein Herz'分开练——先唱叙述部分，再唱告白。",
+      "'Dein ist mein Herz' 的高音要用气息托上去，不要冲。",
+      "四段用同一旋律——但情绪可以从期待到热烈到近乎呐喊。",
+      "完整演唱。这首歌在音乐会上经常是全场最激动人心的时刻。",
+      "注意：在套曲语境中，这份热情最终不会被回报——知道这一点会让演唱更深沉。"
+    ]
+  },
+  "role": "磨坊学徒（热恋中的少年）"
+}

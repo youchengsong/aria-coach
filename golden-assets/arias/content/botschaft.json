@@ -1,0 +1,131 @@
+{
+  "title": "Botschaft",
+  "titleZh": "传言",
+  "composer": "J. Brahms",
+  "opera": "Op.47 No.1（独立艺术歌曲，1868；诗：G.F. Daumer/哈菲兹改编）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "genre": "艺术歌曲",
+  "tempoBpm": 72,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（G大调，2/4，轻快，约40小节）。勃拉姆斯最活泼优美的歌曲之一。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Wehe, Lüftchen, lind und lieblich",
+      "zh": "吹吧，微风，温柔而可爱地"
+    },
+    {
+      "text": "um die Wange der Geliebten,",
+      "zh": "拂过我爱人的脸颊，"
+    },
+    {
+      "text": "spiele zart in ihrer Locke,",
+      "zh": "在她的卷发间轻轻嬉戏，"
+    },
+    {
+      "text": "eile nicht, hinwegzufliehn!",
+      "zh": "不要急着飞走！"
+    },
+    {
+      "text": "Tut sie dann vielleicht die Frage,",
+      "zh": "如果她问起"
+    },
+    {
+      "text": "wie es um mich Armen stehe,",
+      "zh": "我这个可怜人过得怎样，"
+    },
+    {
+      "text": "sprich: \"Unendlich war sein Wehe,",
+      "zh": "你就说：'他的痛苦无尽，"
+    },
+    {
+      "text": "höchst bedenklich seine Lage;",
+      "zh": "他的处境令人担忧；"
+    },
+    {
+      "text": "aber jetzo kann er hoffen,",
+      "zh": "但如今他有了希望，"
+    },
+    {
+      "text": "wieder herrlich aufzuleben,",
+      "zh": "能够重新灿烂地活过来，"
+    },
+    {
+      "text": "denn du, Holde,",
+      "zh": "因为你，可爱的人啊，"
+    },
+    {
+      "text": "denkst an ihn.\"",
+      "zh": "你在想念他。'"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "Lüftchen 的 ü 短 [ʏ]，ch 是软 [ç]",
+        "Geliebten 的 ie 长 [iː]",
+        "Locke 的 o 短 [ɔ]",
+        "Unendlich 的 Un- 重读 u [ʊ]",
+        "Holde 的 o 长 [oː]"
+      ]
+    },
+    {
+      "title": "歌唱风格",
+      "items": [
+        "轻快、优雅——像在跟微风说话",
+        "钢琴的三连音像微风的吹拂",
+        "最后的'denkst an ihn'要带着微笑唱出——全曲的情感答案"
+      ]
+    }
+  ],
+  "story": {
+    "background": "勃拉姆斯这首歌取自达乌默对波斯诗人哈菲兹的德语改编。诗人请求微风去拂过爱人的脸颊，如果她问起他，就告诉她：他曾经很痛苦，但只要她在想念他，一切就有了希望。这是一首轻盈、优雅的'信使之歌'。",
+    "situation": "诗人独自一人，派遣微风作为信使去找他的爱人。他给微风的嘱咐越来越详细——拂过脸颊、在卷发间嬉戏、不要急着走。如果她问起，就说我一直在痛苦，但你（微风）的到来意味着她在想我——这就是我的希望。",
+    "relationships": "诗人与爱人之间有距离——他不在她身边，只能通过微风传话。但语气是乐观的、带着微笑的——他相信她在想念他。",
+    "intent": "全曲保持轻快优雅的语气。前半部分是对微风的嘱托——温柔而活泼。后半部分引述对爱人说的话——'Unendlich war sein Wehe'要稍加戏剧性，但'aber jetzo kann er hoffen'立刻转为明亮。最后的'denkst an ihn'是甜蜜的微笑。",
+    "plain30": "诗人请微风去拂过爱人的脸颊。如果她问起我怎么样，就说我很痛苦——但只要她想念我，我就有了希望。",
+    "arc": "G大调，2/4，轻快。钢琴的三连音像微风吹拂。声乐线条优美流畅。中间'Unendlich war sein Wehe'稍转暗，但很快回到明亮。结尾'denkst an ihn'在主音上安静而满足地结束。",
+    "motif": "微风动机：钢琴的三连音琶音贯穿全曲。声乐的'Wehe, Lüftchen'用轻柔的上行三度开始——像在轻声呼唤。'denkst an ihn' 的下行级进是满足的叹息。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "'Wehe, Lüftchen' 微风召唤——轻柔的上行"
+      },
+      {
+        "phrase": "7",
+        "note": "'Unendlich war sein Wehe' 痛苦的叙述——短暂的暗转"
+      },
+      {
+        "phrase": "12",
+        "note": "'denkst an ihn' 满足的结尾——主音上的微笑"
+      }
+    ],
+    "technique": "声音要保持轻盈——不需要厚重的音色。三连音节奏下的歌词要吐字清晰但不笨重。'Unendlich' 的长音不要过度用力。最后的 'denkst an ihn' 渐弱到 piano。",
+    "classroom": [
+      "先读中文：一首给微风的委托——去告诉她我在想她。",
+      "朗读德语：注意 Lüftchen 的 ü 和 ch 的软发音。",
+      "听钢琴的三连音——你的声音要'乘'在这个微风节奏上。",
+      "这首歌像在说话——保持自然的语气。",
+      "中间段'Unendlich war sein Wehe'稍加力度，然后回到轻松。",
+      "'denkst an ihn' 是一切的答案——带着微笑唱。",
+      "完整演唱。这是一首适合在轻松场合演唱的作品。"
+    ]
+  },
+  "role": "抒情主人公（托付飞鸟传情者）"
+}

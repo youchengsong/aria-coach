@@ -1,0 +1,114 @@
+{
+  "title": "Im wunderschönen Monat Mai",
+  "titleZh": "在美丽的五月",
+  "composer": "R. Schumann",
+  "opera": "Dichterliebe Op.48 No.1（诗人之恋第1首，1840；诗：H. Heine）",
+  "language": "德语",
+  "script": "latin",
+  "voice": "男高音",
+  "difficulty": "基础",
+  "genre": "艺术歌曲",
+  "tempoBpm": 66,
+  "complete": true,
+  "coverageNote": "完整声乐旋律（升F小调—A大调，2/4，不太快，约26小节）。舒曼《诗人之恋》开篇，以不解决的和声结尾暗示爱情的悬念。来源为 OpenScore Lieder Corpus CC0 MusicXML。",
+  "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+  "sourceGrade": "B",
+  "sources": [
+    {
+      "name": "OpenScore Lieder Corpus",
+      "url": "https://github.com/OpenScore/Lieder",
+      "format": "MusicXML (MXL)",
+      "status": "CC0 公有领域，MuseScore 转写",
+      "role": "旋律、时值、歌词音节",
+      "grade": "B",
+      "accessed": "2026-09-11"
+    }
+  ],
+  "lyrics": [
+    {
+      "text": "Im wunderschönen Monat Mai,",
+      "zh": "在美丽的五月，"
+    },
+    {
+      "text": "als alle Knospen sprangen,",
+      "zh": "当所有花蕾绽放，"
+    },
+    {
+      "text": "da ist in meinem Herzen",
+      "zh": "在我的心中"
+    },
+    {
+      "text": "die Liebe aufgegangen.",
+      "zh": "爱情苏醒了。"
+    },
+    {
+      "text": "Im wunderschönen Monat Mai,",
+      "zh": "在美丽的五月，"
+    },
+    {
+      "text": "als alle Vögel sangen,",
+      "zh": "当所有鸟儿歌唱，"
+    },
+    {
+      "text": "da hab' ich ihr gestanden",
+      "zh": "我向她倾诉了"
+    },
+    {
+      "text": "mein Sehnen und Verlangen.",
+      "zh": "我的渴望与思念。"
+    }
+  ],
+  "hints": [
+    {
+      "title": "德语元音",
+      "items": [
+        "wunderschönen 的 ö 是圆唇前元音 [øː]，像说'饿'时嘴唇圆起",
+        "Mai 读 [maɪ]，类似英语 'my'",
+        "Knospen 的 o 短促 [ɔ]",
+        "Sehnen 的 eh 是长 [eː]，Verlangen 的 a 是长 [aː]"
+      ]
+    },
+    {
+      "title": "歌唱风格",
+      "items": [
+        "这是一首梦幻般的开场白——声音要柔和、飘浮",
+        "钢琴前奏建立了'悬浮'的氛围，声乐进入时不要打破它",
+        "结尾没有解决（停在属和弦上）——声音要保持'未完成'的期待感"
+      ]
+    }
+  ],
+  "story": {
+    "background": "《诗人之恋》是舒曼在1840年'歌曲之年'创作的套曲，取海涅诗集。这首开篇曲以钢琴的琶音构建春天的画面，声乐线条优美而克制。全曲在升F小调和A大调间游移，最终结束在不解决的属七和弦上——爱情刚刚萌芽，一切还悬而未决。",
+    "situation": "诗人回忆五月的那一天。花蕾绽放、鸟儿歌唱——大自然的苏醒唤起了心中的爱情。第一段说爱情在心中苏醒；第二段说他终于向她倾诉了渴望。但和声的不解决暗示：这份爱的结局未知。",
+    "relationships": "诗人与'她'——这是一段刚刚开始的、充满期待但尚未确定的爱。海涅的诗带有微妙的反讽：表面是甜蜜的春天，底下是不安。",
+    "intent": "用梦幻般的轻声开始。'Im wunderschönen Monat Mai' 像是从远处传来的回忆。两段歌词用相同的旋律，但第二段'gestanden mein Sehnen'处可以稍微推动一点情感。结尾保持'悬浮'——不要唱得太满。",
+    "plain30": "五月的一天，花开鸟鸣，诗人的心中爱情苏醒了。他向她倾诉了渴望——但歌曲没有结束在主音上，像一个悬而未决的问号。",
+    "arc": "升F小调/A大调，2/4。钢琴的琶音前奏建立梦幻基调。声乐线条在中音区平稳展开，'aufgegangen'处轻轻上行到高点。第二段旋律相同但歌词转向倾诉。结尾停在属和弦——整首曲子像一个未完成的叹息。",
+    "motif": "琶音上行动机：钢琴的分解和弦像春风吹过。声乐的'Im wunderschönen'用级进和小跳构建温柔的叙述。'aufgegangen'（苏醒）处的上行是情感的核心——爱情在心中像花蕾一样绽放。",
+    "motifPositions": [
+      {
+        "phrase": "1",
+        "note": "'Im wunderschönen Monat Mai' 梦幻的开场，级进上行"
+      },
+      {
+        "phrase": "4",
+        "note": "'die Liebe aufgegangen' 爱情苏醒——轻柔的高点"
+      },
+      {
+        "phrase": "5",
+        "note": "'mein Sehnen und Verlangen' 结尾悬浮在属和弦上"
+      }
+    ],
+    "technique": "全曲在 piano 到 mezzo-piano 之间。呼吸要深但轻——不要让气息的声音打破梦幻氛围。'wunderschönen' 的 ö 需要保持圆唇不松。最后一个音不要加重——让它自然消失在钢琴的余韵中。",
+    "classroom": [
+      "先读中文：这是一首关于春天里爱情苏醒的歌——甜蜜但悬而未决。",
+      "朗读德语：注意 'wunderschönen' 的圆唇元音和 'Verlangen' 的长 a。",
+      "听钢琴前奏——它建立了整首歌的'飘浮'氛围，你的声音要融入其中。",
+      "轻声练唱旋律。这首歌不需要大声——像在回忆一个美好的瞬间。",
+      "两段歌词配同一旋律：第一段讲心中的苏醒，第二段讲口中的倾诉。",
+      "注意结尾——没有解决感。保持期待的语气，像话说到一半。",
+      "完整演唱。想象自己在窗边回忆那个五月的午后。"
+    ]
+  },
+  "role": "抒情主人公（初恋者）"
+}

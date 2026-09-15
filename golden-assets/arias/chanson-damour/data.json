@@ -1,0 +1,2234 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "chanson-damour",
+ "title": "Chanson d'amour",
+ "titleZh": "爱之歌",
+ "composer": "G. Fauré",
+ "opera": "Op. 27, No. 1（1882；诗：A. Silvestre）",
+ "language": "法语",
+ "voice": "男高音",
+ "difficulty": "基础",
+ "tempoBpm": 60,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   54
+  ],
+  "firstSungMeasure": 2,
+  "complete": true,
+  "note": "完整声乐旋律（F 大调，3/4，柔美的华尔兹）。福雷早期歌曲代表作。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "D4",
+  "high": "E5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主人公（恋人）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "J'aime tes yeux, j'aime ton front,",
+   "zh": "我爱你的眼睛，我爱你的额头，"
+  },
+  {
+   "text": "ô ma rebelle, ô ma farouche,",
+   "zh": "哦我叛逆的、哦我倔强的人，"
+  },
+  {
+   "text": "j'aime tes yeux, j'aime ta bouche",
+   "zh": "我爱你的眼睛，我爱你的嘴唇，"
+  },
+  {
+   "text": "où mes baisers s'épuiseront.",
+   "zh": "我的亲吻将在那里耗尽。"
+  },
+  {
+   "text": "J'aime ta voix, j'aime l'étrange",
+   "zh": "我爱你的声音，我爱那奇异的"
+  },
+  {
+   "text": "grâce de tout ce que tu dis,",
+   "zh": "你所说的一切话语的优雅，"
+  },
+  {
+   "text": "ô ma rebelle, ô mon cher ange,",
+   "zh": "哦我叛逆的、哦我亲爱的天使，"
+  },
+  {
+   "text": "mon enfer et mon paradis!",
+   "zh": "我的地狱和我的天堂！"
+  },
+  {
+   "text": "J'aime tout ce qui te fait belle,",
+   "zh": "我爱一切使你美丽的东西，"
+  },
+  {
+   "text": "de tes pieds jusqu'à tes cheveux,",
+   "zh": "从你的双脚到你的秀发，"
+  },
+  {
+   "text": "ô toi vers qui montent mes vœux,",
+   "zh": "哦你，我的心愿都向你飞升，"
+  },
+  {
+   "text": "ô ma farouche, ô ma rebelle!",
+   "zh": "哦我倔强的、哦我叛逆的人！"
+  }
+ ],
+ "story": {
+  "background": "《爱之歌》是福雷 1882 年发表的作品，诗人阿尔芒·西尔韦斯特是当时法国最受欢迎的诗人之一。这首歌以轻盈的 3/4 拍华尔兹节奏，用最简单的方式表达爱：我爱你的眼睛、嘴唇、声音、一切。福雷早期歌曲风格清澈明亮，没有德布西式的朦胧，也没有晚期福雷的深奥和声。",
+  "situation": "歌者直接对爱人倾诉：我爱你的眼睛、额头、嘴唇、声音。你是叛逆的、倔强的，但这正是我爱你的原因。你是我的地狱也是我的天堂。一切使你美丽的东西我都爱。",
+  "relationships": "歌者与一位性格倔强（rebelle、farouche）的爱人——不是柔顺温婉的形象，而是一个有个性的人。三段诗的称呼从「ma rebelle」到「mon cher ange」到「ma farouche」，每次都不一样，像在试探不同的爱称。",
+  "intent": "轻快、温柔、带一点调皮。不是沉重的爱情宣言，而是恋人之间私密的低语。三段结构重复但要有变化——第一段温柔，第二段略微激动（「mon enfer et mon paradis」），第三段回到温柔但更加深情。整体像一支慢华尔兹。",
+  "plain30": "我爱你的眼睛、嘴唇、声音——你是叛逆的、倔强的，但你是我的天使，我的天堂也是我的地狱。从头到脚，一切使你美丽的东西我都爱。用一首轻盈的华尔兹说出来。",
+  "arc": "F 大调，3/4，温柔的华尔兹。钢琴的分解和弦在低音区轻轻摇摆。声乐线在中音区流动，旋律优美但不夸张。第二段的「mon enfer et mon paradis」有一个短暂的和声张力——也许经过降 B 大调或 d 小调——随即回到 F 大调的温暖。第三段是总结性的回归，最后在 F 大调上以渐弱结束。",
+  "motif": "爱称动机：「J'aime tes yeux」的上行三度开头——每段都以这个轻轻的上行开始，像抬头看爱人的目光。呼唤动机：「ô ma rebelle」的感叹——重复出现，每次略有不同。钢琴的华尔兹伴奏型是歌曲的心跳，从不间断。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "开头「J'aime tes yeux」——上行三度，温柔的凝视"
+   },
+   {
+    "phrase": "2",
+    "note": "「ô ma rebelle」——第一次呼唤动机"
+   },
+   {
+    "phrase": "8",
+    "note": "「mon enfer et mon paradis」——全曲最强烈的感情表达"
+   },
+   {
+    "phrase": "12",
+    "note": "结尾「ô ma farouche, ô ma rebelle」——呼唤动机回归"
+   }
+  ],
+  "technique": "这是一首技术要求不高但风格要求精确的歌曲。最大的挑战是法语的轻盈感——元音要纯净，辅音要轻快，鼻化元音在华尔兹节奏中要流动。不要用德语 Lied 的方式来唱——这里没有深沉的气息压力，只有优雅的流动。声音始终保持 mf 以下，像在客厅里对一个人唱。",
+  "classroom": [
+   "先读中文——这是一首直接的爱情诗，没有隐喻，只有「我爱你的……」。",
+   "朗读法语，用轻快的节奏——这不是朗诵诗，是在和爱人说话。",
+   "练习鼻化元音 [ɔ̃] 和 [ɑ̃]——它们几乎在每一句都出现。",
+   "用 3/4 拍轻轻摇摆着说词——感受华尔兹的韵律。",
+   "哼唱旋律——注意每段开头的上行三度。",
+   "半速演唱，确保法语的连贯性——每个词要流入下一个词。",
+   "原速演唱。这首歌的理想状态是听众觉得你在对他们微笑。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "法语鼻化元音",
+   "items": [
+    "front [fʁɔ̃]、ton [tɔ̃]、mon [mɔ̃] 都含 on 鼻化元音 [ɔ̃]",
+    "étrange 的 an [ɑ̃]、ange 的 an [ɑ̃]——鼻化在歌唱中要充分",
+    "enfer 的 en [ɑ̃]、paradis 的 末尾 s 不发音"
+   ]
+  },
+  {
+   "title": "联诵与省音",
+   "items": [
+    "tes yeux [tɛzjø]——ts 后的 y 联诵",
+    "mes baisers [mɛbɛze]、s'épuiseront 的省音",
+    "tout ce [tusə]——t 联诵到 ce"
+   ]
+  },
+  {
+   "title": "法语 r 的处理",
+   "items": [
+    "rebelle、farouche、grâce 的 r 都是小舌 [ʁ]，在歌唱中要轻柔",
+    "enfer 和 paradis 的 r 位于词尾/词中，不要过重",
+    "整体风格要求轻盈——r 不能成为障碍"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    2,
+    3
+   ],
+   "lyrics": "J’aime tes yeux,",
+   "translation": "我爱你的眼睛，我爱你的额头，",
+   "events": [
+    {
+     "id": "chanson-damour-e0002",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chanson-damour-e0003",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "J’ai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0004",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0005",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 2.5,
+     "lyric": "tes",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0006",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 3,
+     "beat": 3.0,
+     "lyric": "yeux,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    4,
+    6
+   ],
+   "lyrics": "j’aime ton front, Ô ma rebelle, ô ma farouche,",
+   "translation": "哦我叛逆的、哦我倔强的人，",
+   "events": [
+    {
+     "id": "chanson-damour-e0007",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "j’ai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0008",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0009",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 4,
+     "beat": 2.5,
+     "lyric": "ton",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0010",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "front,",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0011",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "Ô",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0012",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0013",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.5,
+     "lyric": "re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0014",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "bel",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0015",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 3.5,
+     "lyric": "le, ô",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0016",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 4.0,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0017",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 4.5,
+     "lyric": "fa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0018",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "rou",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0019",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 6,
+     "beat": 3.0,
+     "lyric": "che,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    7,
+    13
+   ],
+   "lyrics": "J’aime tes yeux, j’aime ta bouche Où mes baiser s’épuiseront.",
+   "translation": "我爱你的眼睛，我爱你的嘴唇，",
+   "events": [
+    {
+     "id": "chanson-damour-e0020",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "J’ai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0021",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0022",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.5,
+     "lyric": "tes",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0023",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 7,
+     "beat": 3.0,
+     "lyric": "yeux,",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0024",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "j’ai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0025",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0026",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.5,
+     "lyric": "ta",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0027",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "bou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0028",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 4.5,
+     "lyric": "che",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0029",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "Où",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0030",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "mes",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0031",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.5,
+     "lyric": "bai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0032",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "ser",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0033",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 3.5,
+     "lyric": "s’é",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0034",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 4.0,
+     "lyric": "pui",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0035",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 4.5,
+     "lyric": "se",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0036",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "ront.",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0037",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chanson-damour-e0038",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chanson-damour-e0039",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    14,
+    16
+   ],
+   "lyrics": "J’aime ta voix, j’aime l’étrange grâce de tout ce que tu",
+   "translation": "你所说的一切话语的优雅，",
+   "events": [
+    {
+     "id": "chanson-damour-e0040",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "J’ai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0041",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0042",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 4.5,
+     "lyric": "ta",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0043",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "voix,",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0044",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "j’ai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0045",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0046",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 3.5,
+     "lyric": "l’é",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0047",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 4.0,
+     "lyric": "tran",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0048",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 4.5,
+     "lyric": "ge",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0049",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "grâ",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0050",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "ce",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0051",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.5,
+     "lyric": "de",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0052",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "tout",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0053",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.5,
+     "lyric": "ce",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0054",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 4.0,
+     "lyric": "que",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0055",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 4.5,
+     "lyric": "tu",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    17,
+    19
+   ],
+   "lyrics": "dis, Ô ma rebelle, ô mon cher ange,",
+   "translation": "哦我叛逆的、哦我亲爱的天使，",
+   "events": [
+    {
+     "id": "chanson-damour-e0056",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "dis,",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0057",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "Ô",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0058",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0059",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.5,
+     "lyric": "re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0060",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "bel",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0061",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "le, ô",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0062",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.0,
+     "lyric": "mon",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0063",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.5,
+     "lyric": "cher",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0064",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "an",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0065",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 4.5,
+     "lyric": "ge,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    20,
+    21
+   ],
+   "lyrics": "Mon enfer et mon paradis !",
+   "translation": "我的地狱和我的天堂！",
+   "events": [
+    {
+     "id": "chanson-damour-e0066",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "Mon",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0067",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.5,
+     "lyric": "en",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0068",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 20,
+     "beat": 2.0,
+     "lyric": "fer",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0069",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3.0,
+     "lyric": "et",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0070",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 3.5,
+     "lyric": "mon",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0071",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 4.0,
+     "lyric": "pa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0072",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 4.5,
+     "lyric": "ra",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0073",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "dis !",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    22,
+    23
+   ],
+   "lyrics": "J’aime tes yeux, j’aime ton front,",
+   "translation": "从你的双脚到你的秀发，",
+   "events": [
+    {
+     "id": "chanson-damour-e0074",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "J’ai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0075",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0076",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "tes",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0077",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 22,
+     "beat": 3.0,
+     "lyric": "yeux,",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0078",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "j’ai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0079",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0080",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.5,
+     "lyric": "ton",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0081",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 23,
+     "beat": 3.0,
+     "lyric": "front,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    24,
+    25
+   ],
+   "lyrics": "Ô ma rebelle, ô ma farouche,",
+   "translation": "哦我倔强的、哦我叛逆的人！",
+   "events": [
+    {
+     "id": "chanson-damour-e0082",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "Ô",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0083",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.0,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0084",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.5,
+     "lyric": "re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0085",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3.0,
+     "lyric": "bel",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0086",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3.5,
+     "lyric": "le, ô",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0087",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 4.0,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0088",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 4.5,
+     "lyric": "fa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0089",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "rou",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0090",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "che,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    26,
+    32
+   ],
+   "lyrics": "J’aime tes yeux, j’aime ta bouche Où mes baiser s’épuiseront.",
+   "translation": "哦我倔强的、哦我叛逆的人！",
+   "events": [
+    {
+     "id": "chanson-damour-e0091",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "J’ai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0092",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0093",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 2.5,
+     "lyric": "tes",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0094",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "yeux,",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0095",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "j’ai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0096",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0097",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 2.5,
+     "lyric": "ta",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0098",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "bou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0099",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 27,
+     "beat": 4.5,
+     "lyric": "che",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0100",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "Où",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0101",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "mes",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0102",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 2.5,
+     "lyric": "bai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0103",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 3.0,
+     "lyric": "ser",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0104",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 3.5,
+     "lyric": "s’é",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0105",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 4.0,
+     "lyric": "pui",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0106",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 4.5,
+     "lyric": "se",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0107",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "ront.",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0108",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chanson-damour-e0109",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chanson-damour-e0110",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    33,
+    34
+   ],
+   "lyrics": "J’aime tout ce qui te fait belle,",
+   "translation": "哦我倔强的、哦我叛逆的人！",
+   "events": [
+    {
+     "id": "chanson-damour-e0111",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "J’ai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0112",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 3.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0113",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 4.0,
+     "lyric": "tout",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0114",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "ce",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0115",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.5,
+     "lyric": "qui",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0116",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 2.0,
+     "lyric": "te",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0117",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 2.5,
+     "lyric": "fait",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0118",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 34,
+     "beat": 3.0,
+     "lyric": "bel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0119",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 4.5,
+     "lyric": "le,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    35,
+    37
+   ],
+   "lyrics": "De tes pieds jusqu’à tes cheveux, Ô toi vers qui montent mes",
+   "translation": "哦你，我的心愿都向你飞升，",
+   "events": [
+    {
+     "id": "chanson-damour-e0120",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "De",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0121",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 1.5,
+     "lyric": "tes",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0122",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 2.0,
+     "lyric": "pieds",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0123",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 3.0,
+     "lyric": "jus",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0124",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 3.5,
+     "lyric": "qu’à",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0125",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 4.0,
+     "lyric": "tes",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0126",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 4.5,
+     "lyric": "che",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0127",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "veux,",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0128",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 4.0,
+     "lyric": "Ô",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0129",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "toi",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0130",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2.0,
+     "lyric": "vers",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0131",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2.5,
+     "lyric": "qui",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0132",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 3.0,
+     "lyric": "mon",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0133",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 4.0,
+     "lyric": "tent",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0134",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 4.5,
+     "lyric": "mes",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    38,
+    40
+   ],
+   "lyrics": "vœux, Ô ma farouche, ô ma rebelle,",
+   "translation": "哦我倔强的、哦我叛逆的人！",
+   "events": [
+    {
+     "id": "chanson-damour-e0135",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "vœux,",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0136",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 3.0,
+     "lyric": "Ô",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0137",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 4.0,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0138",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 4.5,
+     "lyric": "fa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0139",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "rou",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0140",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.5,
+     "lyric": "che, ô",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0141",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.0,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0142",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.5,
+     "lyric": "re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0143",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 39,
+     "beat": 3.0,
+     "lyric": "bel",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0144",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "le,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    41,
+    42
+   ],
+   "lyrics": "J’aime tes yeux, j’aime ton front,",
+   "translation": "哦我倔强的、哦我叛逆的人！",
+   "events": [
+    {
+     "id": "chanson-damour-e0145",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "J’ai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0146",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0147",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.5,
+     "lyric": "tes",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0148",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 41,
+     "beat": 3.0,
+     "lyric": "yeux,",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0149",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "j’ai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0150",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0151",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.5,
+     "lyric": "ton",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0152",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 42,
+     "beat": 3.0,
+     "lyric": "front,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    43,
+    44
+   ],
+   "lyrics": "Ô ma rebelle, ô ma farouche,",
+   "translation": "哦我倔强的、哦我叛逆的人！",
+   "events": [
+    {
+     "id": "chanson-damour-e0153",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "Ô",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0154",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.0,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0155",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.5,
+     "lyric": "re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0156",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 3.0,
+     "lyric": "bel",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0157",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 3.5,
+     "lyric": "le, ô",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0158",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 4.0,
+     "lyric": "ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0159",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 4.5,
+     "lyric": "fa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0160",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "rou",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0161",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 44,
+     "beat": 3.0,
+     "lyric": "che,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    45,
+    48
+   ],
+   "lyrics": "J’aime tes yeux, j’aime ta bouche Où mes baiser s’épuiseront,",
+   "translation": "哦我倔强的、哦我叛逆的人！",
+   "events": [
+    {
+     "id": "chanson-damour-e0162",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "J’ai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0163",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0164",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 2.5,
+     "lyric": "tes",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0165",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 45,
+     "beat": 3.0,
+     "lyric": "yeux,",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0166",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "j’ai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0167",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 2.0,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0168",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 2.5,
+     "lyric": "ta",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0169",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 46,
+     "beat": 3.0,
+     "lyric": "bou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0170",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 4.5,
+     "lyric": "che",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0171",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "Où",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0172",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.0,
+     "lyric": "mes",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0173",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.5,
+     "lyric": "bai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0174",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 3.0,
+     "lyric": "ser",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0175",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 3.5,
+     "lyric": "s’é",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0176",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 4.0,
+     "lyric": "pui",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0177",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 4.5,
+     "lyric": "se",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0178",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "ront,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    49,
+    54
+   ],
+   "lyrics": "Où mes baiser s’épuiseront.",
+   "translation": "哦你，我的心愿都向你飞升，",
+   "events": [
+    {
+     "id": "chanson-damour-e0179",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "Où",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0180",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.0,
+     "lyric": "mes",
+     "syllabic": "single"
+    },
+    {
+     "id": "chanson-damour-e0181",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.5,
+     "lyric": "bai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0182",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 3.0,
+     "lyric": "ser",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0183",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 3.5,
+     "lyric": "s’é",
+     "syllabic": "begin"
+    },
+    {
+     "id": "chanson-damour-e0184",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 4.0,
+     "lyric": "pui",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0185",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 4.5,
+     "lyric": "se",
+     "syllabic": "middle"
+    },
+    {
+     "id": "chanson-damour-e0186",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "ront.",
+     "syllabic": "end"
+    },
+    {
+     "id": "chanson-damour-e0187",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chanson-damour-e0188",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chanson-damour-e0189",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 53,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "chanson-damour-e0190",
+     "pitch": null,
+     "rest": true,
+     "duration": 4.0,
+     "measure": 54,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 189,
+ "restCount": 11,
+ "lyricNoteCount": 178,
+ "pages": 1,
+ "speech": {
+  "voice": "fr_FR-siwis-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 16,
+  "slowScale": 1.45
+ }
+}

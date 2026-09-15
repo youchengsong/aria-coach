@@ -1,0 +1,1305 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "vaga-luna",
+ "title": "Vaga luna, che inargenti",
+ "titleZh": "美丽的月亮，你银光洒满",
+ "composer": "V. Bellini",
+ "opera": "三首咏叹调（Tre Ariette, c.1838）",
+ "language": "意大利语",
+ "voice": "女高音",
+ "difficulty": "基础",
+ "tempoBpm": 63,
+ "timeSignature": "3/4",
+ "coverage": {
+  "measures": [
+   1,
+   50
+  ],
+  "firstSungMeasure": 4,
+  "complete": true,
+  "note": "完整声乐旋律（降A大调，3/4，50 小节），第一节歌词。手工编码 MusicXML，依据 Ricordi 公有领域版本。"
+ },
+ "range": {
+  "low": "G4",
+  "high": "Ab5"
+ },
+ "state": "published",
+ "sourceGrade": "C",
+ "role": "抒情主人公（向月亮倾诉的恋人）",
+ "genre": "艺术歌曲（Arietta）",
+ "sourceStatus": "手工编码 MusicXML（依据 Ricordi 公有领域版本）",
+ "sources": [
+  {
+   "name": "Ricordi — Composizioni da camera",
+   "url": "https://imslp.org/wiki/Vaga_luna,_che_inargenti_(Bellini,_Vincenzo)",
+   "format": "PDF（公有领域）",
+   "role": "旋律与歌词校对参考",
+   "status": "公有领域版本",
+   "grade": "A",
+   "accessed": "2026-09-11"
+  },
+  {
+   "name": "手工编码 MusicXML",
+   "url": "https://imslp.org/wiki/Tre_ariette_(Bellini%2C_Vincenzo)",
+   "format": "MusicXML",
+   "role": "声乐旋律数据",
+   "status": "依据 Ricordi 版逐音手工编码",
+   "grade": "C",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Vaga luna, che inargenti queste rive e questi fiori",
+   "zh": "美丽的月亮，你银光洒满了河岸和花朵，"
+  },
+  {
+   "text": "ed inspiri agli elementi il linguaggio dell'amor,",
+   "zh": "你将爱的语言注入万物之中，"
+  },
+  {
+   "text": "testimonio or sei tu sola del mio fervido desir,",
+   "zh": "如今只有你见证了我炽热的渴望，"
+  },
+  {
+   "text": "ed a lei che m'innamora conta i palpiti e i sospir.",
+   "zh": "请你向她诉说我的心跳和叹息。"
+  },
+  {
+   "text": "Dille pur che lontananza il mio duol non può lenir,",
+   "zh": "告诉她，距离无法减轻我的痛苦，"
+  },
+  {
+   "text": "che se nutro una speranza, ella è sol nell'avvenir.",
+   "zh": "如果我还怀有一丝希望，那只在未来之中。"
+  }
+ ],
+ "story": {
+  "background": "贝利尼（1801-1835）是 19 世纪意大利美声歌剧的代表人物，以《诺尔玛》《梦游女》《清教徒》闻名。《Vaga luna》是他的室内声乐作品「三首咏叹调」之一（约 1838 年出版），虽然不是歌剧选段，但完美体现了贝利尼标志性的悠长旋律线条（'la melodia lunga'）和纯净的美声风格。这首作品常被用作美声入门教学的第一首意大利歌曲。",
+  "situation": "一个月夜。歌者独自站在河边，仰望银色的月光洒在花朵和水面上。他（她）向月亮倾诉对远方爱人的思念，请求月亮做信使，把自己的心跳和叹息传达给她。这不是戏剧性的场景，而是一幅安静的、带有些许忧伤的抒情画。",
+  "relationships": "歌者与月亮：月亮是唯一的听众和见证者（testimonio）。歌者与爱人：爱人不在身边，歌者只能通过月亮传话。整首歌是一封写给月亮的情书，请它代为转达。",
+  "intent": "从宁静的景物描写开始——月光、河岸、花朵——逐渐过渡到个人告白。第一段是向月亮倾诉，第二段是请月亮传话。演唱时应保持 bel canto 的纯净和流畅，不要过度表情化——这首歌的美在于旋律本身的优雅，而不是戏剧冲突。",
+  "plain30": "一个人在月夜向月亮倾诉：请你把我的心跳和叹息告诉她，告诉她距离无法减轻我的思念，我的希望只在未来。",
+  "arc": "降A大调，行板（Andantino），3/4 拍。旋律以级进为主，偶尔小跳——典型的贝利尼风格：看似简单却要求完美的连贯。第一段（A 段）在中低音域叙述，第二段（B 段）攀升到高音域（Ab5）抒发热情，然后回归到平静的 A 段结束。整体情绪从宁静到温暖再到宁静。",
+  "motif": "核心旋律是从 Ab4 级进上行到 Bb4-C5 再回落的弧形——像月光缓缓升起又落下。这个「拱形旋律」在每一句中都重复出现，只是每次攀升的高度不同：第一段只到 Eb5，B 段飞到 Ab5 再 F5，是全曲的情感顶点。",
+  "technique": "这是练习 legato（连贯歌唱）的绝佳曲目。每个乐句都要像一条不断的丝线——音与音之间不能有缝隙。3/4 拍要有自然的强弱：第一拍稍重，二三拍轻。注意呼吸位置：在逗号和句号处换气，不要在词的中间断开。B 段的高音 Ab5 要用头声，不要推。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "开头拱形旋律：Ab4→Bb4→C5→Bb4→Ab4，月光缓缓升起"
+   },
+   {
+    "phrase": "5",
+    "note": "B 段开始：Eb5 平台，旋律进入高音域，情感升温"
+   },
+   {
+    "phrase": "6",
+    "note": "全曲高潮：Ab5 出现在「miei」，然后 F5-Eb5 下行，是最热烈的一刻"
+   },
+   {
+    "phrase": "8",
+    "note": "结尾回归：旋律回到中音域，归于宁静"
+   }
+  ],
+  "classroom": [
+   "先读中文翻译：理解这是一封通过月亮传递的情书——不是激烈的表白，而是温柔的倾诉。",
+   "慢速朗读意大利语：注意每个元音的纯净——a 就是 [a]，不是 [æ]；o 是圆的 [ɔ]；u 是 [u]。",
+   "分离元音练习：Va-ga lu-na che in-ar-gen-ti，每个音节都要清晰。",
+   "用节拍器在 ♩=50 的速度下按节拍说词，感受 3/4 的摇曳感。",
+   "听合成旋律参考：注意拱形旋律的上行和回落，像呼吸一样自然。",
+   "把歌词放回旋律，先慢速唱。最重要的是 legato——每个音都连着下一个音。",
+   "以正常速度演唱。想象你站在月光下的河边，对月亮轻声说话——不需要大声，只需要美。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "意大利语元音",
+   "items": [
+    "意大利语有 7 个元音：a, è (开口 e), é (闭口 e), i, ò (开口 o), ó (闭口 o), u",
+    "'luna' 的 'u' 是纯圆唇元音 [u]，不要滑向 [ju]",
+    "'fiori' 的 'io' 是双元音 [jo]，快速滑过",
+    "'cuore/amore' 的 'o' 是开口 [ɔ]，嘴巴要张圆"
+   ]
+  },
+  {
+   "title": "双辅音",
+   "items": [
+    "'inargenti' 的 'nn' 不是真正的双辅音（in-ar-gen-ti），但注意清晰的音节分隔",
+    "'palpiti' 的 'lp' 要干净地切分：pal-pi-ti",
+    "'sospiri' 的 's' 在元音间浊化为 [z]：so-spi-ri"
+   ]
+  },
+  {
+   "title": "连读与气息",
+   "items": [
+    "'che inargenti' 中 'che' 和 'in' 之间轻微连读",
+    "'dell'amor' 是省略形式：dello amore → dell'amor，元音连接要流畅",
+    "3/4 拍的摇曳感是这首歌的核心——像月光下的水波，不要唱得太方正"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    4,
+    6
+   ],
+   "lyrics": "Vaga luna,",
+   "translation": "美丽的月亮，你银光洒满了河岸和花朵，",
+   "events": [
+    {
+     "id": "vaga-luna-e0004",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vaga-luna-e0005",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "Va",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0006",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 2.0,
+     "lyric": "ga",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0007",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "lu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0008",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "na,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    6,
+    10
+   ],
+   "lyrics": "che inargenti que ste rive e",
+   "translation": "美丽的月亮，你银光洒满了河岸和花朵，",
+   "events": [
+    {
+     "id": "vaga-luna-e0009",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 3.0,
+     "lyric": "che",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0010",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0011",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 2.0,
+     "lyric": "ar",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0012",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 3.0,
+     "lyric": "gen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0013",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "ti",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0014",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "que",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0015",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "ste",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0016",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0017",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "ve",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0018",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "e",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    11,
+    15
+   ],
+   "lyrics": "questi fiori ed inspiri a gli elementi il",
+   "translation": "你将爱的语言注入万物之中，",
+   "events": [
+    {
+     "id": "vaga-luna-e0019",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "que",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0020",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "sti",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0021",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "fio",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0022",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "ri",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0023",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "ed",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0024",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0025",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "spi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0026",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "ri a",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0027",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "gli",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0028",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "e",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0029",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "le",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0030",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "men",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0031",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "ti il",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    16,
+    21
+   ],
+   "lyrics": "linguaggio dell'amor,",
+   "translation": "你将爱的语言注入万物之中，",
+   "events": [
+    {
+     "id": "vaga-luna-e0032",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "lin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0033",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "guag",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0034",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "gio",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0035",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "del",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0036",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "l'a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0037",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vaga-luna-e0038",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "mor,",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0039",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vaga-luna-e0040",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vaga-luna-e0041",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    22,
+    25
+   ],
+   "lyrics": "testimonio or sei tu sola",
+   "translation": "如今只有你见证了我炽热的渴望，",
+   "events": [
+    {
+     "id": "vaga-luna-e0042",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "te",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0043",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 2.0,
+     "lyric": "sti",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0044",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 22,
+     "beat": 3.0,
+     "lyric": "mo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0045",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "nio",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0046",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 23,
+     "beat": 3.0,
+     "lyric": "or",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0047",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "sei",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0048",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 2.0,
+     "lyric": "tu",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0049",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 24,
+     "beat": 3.0,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0050",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "la",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    26,
+    30
+   ],
+   "lyrics": "del mio fervido desir,",
+   "translation": "如今只有你见证了我炽热的渴望，",
+   "events": [
+    {
+     "id": "vaga-luna-e0051",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "del",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0052",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "mio",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0053",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "fer",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0054",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "vi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0055",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "do",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0056",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "de",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0057",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 2.0,
+     "lyric": "sir,",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0058",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vaga-luna-e0059",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vaga-luna-e0060",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    31,
+    36
+   ],
+   "lyrics": "ed a lei che m'innamora conta i palpiti e i",
+   "translation": "请你向她诉说我的心跳和叹息。",
+   "events": [
+    {
+     "id": "vaga-luna-e0061",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 1.0,
+     "lyric": "ed",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0062",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 2.0,
+     "lyric": "a",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0063",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 31,
+     "beat": 3.0,
+     "lyric": "lei",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0064",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "che",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0065",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 32,
+     "beat": 3.0,
+     "lyric": "m'in",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0066",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "na",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0067",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 2.0,
+     "lyric": "mo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0068",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 33,
+     "beat": 3.0,
+     "lyric": "ra",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0069",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "con",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0070",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "ta",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0071",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 2.0,
+     "lyric": "i",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0072",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 35,
+     "beat": 3.0,
+     "lyric": "pal",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0073",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "pi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0074",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 36,
+     "beat": 3.0,
+     "lyric": "ti e i",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    37,
+    41
+   ],
+   "lyrics": "sospiri miei dille che lontananza il",
+   "translation": "告诉她，距离无法减轻我的痛苦，",
+   "events": [
+    {
+     "id": "vaga-luna-e0075",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0076",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 2.0,
+     "lyric": "spi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0077",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 37,
+     "beat": 3.0,
+     "lyric": "ri",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0078",
+     "pitch": "Ab5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "miei",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0079",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 38,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "vaga-luna-e0080",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "dil",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0081",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 2.0,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0082",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 39,
+     "beat": 3.0,
+     "lyric": "che",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0083",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "lon",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0084",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 40,
+     "beat": 3.0,
+     "lyric": "ta",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0085",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "nan",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0086",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 2.0,
+     "lyric": "za",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0087",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 41,
+     "beat": 3.0,
+     "lyric": "il",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    42,
+    44
+   ],
+   "lyrics": "mio duol non può lenir,",
+   "translation": "告诉她，距离无法减轻我的痛苦，",
+   "events": [
+    {
+     "id": "vaga-luna-e0088",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "mio",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0089",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "duol",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0090",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 2.0,
+     "lyric": "non",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0091",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 43,
+     "beat": 3.0,
+     "lyric": "può",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0092",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 44,
+     "beat": 1.0,
+     "lyric": "le",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0093",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 44,
+     "beat": 3.0,
+     "lyric": "nir,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    45,
+    48
+   ],
+   "lyrics": "che se nutro u na speranza,",
+   "translation": "如果我还怀有一丝希望，那只在未来之中。",
+   "events": [
+    {
+     "id": "vaga-luna-e0094",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "che",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0095",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 2.0,
+     "lyric": "se",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0096",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 45,
+     "beat": 3.0,
+     "lyric": "nu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0097",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "tro u",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0098",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "na",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0099",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 47,
+     "beat": 2.0,
+     "lyric": "spe",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0100",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 47,
+     "beat": 3.0,
+     "lyric": "ran",
+     "syllabic": "middle"
+    },
+    {
+     "id": "vaga-luna-e0101",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "za,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    48,
+    50
+   ],
+   "lyrics": "ella è sol nell'avvenir.",
+   "translation": "如果我还怀有一丝希望，那只在未来之中。",
+   "events": [
+    {
+     "id": "vaga-luna-e0102",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 3.0,
+     "lyric": "el",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0103",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "la è",
+     "syllabic": "end"
+    },
+    {
+     "id": "vaga-luna-e0104",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 49,
+     "beat": 2.0,
+     "lyric": "sol",
+     "syllabic": "single"
+    },
+    {
+     "id": "vaga-luna-e0105",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 49,
+     "beat": 3.0,
+     "lyric": "nel",
+     "syllabic": "begin"
+    },
+    {
+     "id": "vaga-luna-e0106",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "l'avvenir.",
+     "syllabic": "end"
+    }
+   ]
+  }
+ ],
+ "eventCount": 103,
+ "restCount": 7,
+ "lyricNoteCount": 94,
+ "pages": 1,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 11,
+  "slowScale": 1.45
+ }
+}

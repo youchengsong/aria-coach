@@ -1,0 +1,1414 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "elegie",
+ "title": "Élégie",
+ "titleZh": "悲歌",
+ "composer": "J. Massenet",
+ "opera": "Les Érinnyes 配乐（1872）中的旋律，1875 年配词为独唱曲；法语艺术歌曲",
+ "language": "法语",
+ "voice": "男中音",
+ "difficulty": "基础",
+ "tempoBpm": 56,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   27
+  ],
+  "firstSungMeasure": 2,
+  "complete": true,
+  "note": "完整声乐旋律（e 小调，4/4 Lent，27 小节），97 个法语音节；OpenScore 据 Heugel 版转写，已与 IMSLP Heugel 声乐谱核对。"
+ },
+ "range": {
+  "low": "B3",
+  "high": "F5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主体：失去爱人、春天不再的人",
+ "genre": "艺术歌曲",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Massenet,_Jules/_/Élégie",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Massenet,_Jules/_/Élégie",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；97 个法语音节与 Heugel 版逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/29026391"
+  },
+  {
+   "name": "IMSLP · Élégie (Massenet, Jules)",
+   "url": "https://imslp.org/wiki/%C3%89l%C3%A9gie_(Massenet,_Jules)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "LiederNet · Élégie (Gallet)",
+   "url": "https://www.lieder.net/lieder/get_text.html?TextId=6455",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Ô doux printemps d’autrefois, vertes saisons,",
+   "zh": "从前温柔的春天啊，青翠的季节，"
+  },
+  {
+   "text": "vous avez fui pour toujours!",
+   "zh": "你们已经永远离去！"
+  },
+  {
+   "text": "Je ne vois plus le ciel bleu,",
+   "zh": "我再看不见蓝天，"
+  },
+  {
+   "text": "je n’entends plus les chants joyeux des oiseaux!",
+   "zh": "再听不见鸟儿欢快的歌唱！"
+  },
+  {
+   "text": "En emportant mon bonheur, ô bien-aimé, tu t’en es allé!",
+   "zh": "你带走了我的幸福，心爱的人，你走了！"
+  },
+  {
+   "text": "Et c’est en vain que revient le printemps!",
+   "zh": "春天回来也是徒然！"
+  },
+  {
+   "text": "Oui, sans retour, avec toi, le gai soleil, les jours riants sont partis!",
+   "zh": "是的，一去不返——明亮的太阳、欢笑的日子都随你而去！"
+  },
+  {
+   "text": "Comme en mon cœur tout est sombre et glacé!",
+   "zh": "我心中的一切都多么阴暗冰冷！"
+  },
+  {
+   "text": "Tout est flétri! Pour toujours!",
+   "zh": "一切都凋零了！永远！"
+  }
+ ],
+ "story": {
+  "background": "《悲歌》原是马斯内为勒孔特·德·利尔的悲剧《复仇女神》（1873）所写配乐中的一段大提琴旋律，1875 年由路易·加莱配上歌词，成为 19 世纪末最流行的法语沙龙歌曲之一，几乎所有著名歌唱家都录过它。e 小调，4/4 Lent。",
+  "situation": "春天回来了，但叙述者的爱人已经离开（可能是死亡，也可能是离别）。他看着蓝天、听着鸟鸣，却什么都感觉不到——一切随那个人一起走了。他想要的是过去的春天，害怕的是余生都是冬天。",
+  "relationships": "只有“我”和已离去的“心爱的人”（bien-aimé，阳性形式，说明被呼唤者是男性）。歌曲在第二人称呼唤与自言自语间切换，是一段没有听众的哀悼。",
+  "intent": "开口要轻、暗、慢，像对自己说话；“vous avez fui pour toujours” 略微用力，是第一次承认失去。“En emportant mon bonheur” 起情绪上升，“tu t’en es allé” 是全曲最痛的一句，可放宽音量；随后 “Comme en mon cœur” 回到低语，“Pour toujours” 用最弱的声音收束。",
+  "plain30": "春天又来了，可他心爱的人已经走了。他说：天空、鸟鸣、阳光都随你而去，我心里只剩冰冷。三分钟的歌，只讲一件事——失去之后，季节不再有意义。",
+  "arc": "e 小调，4/4 Lent。旋律以下行级进为主，每句像一声叹息落下；钢琴用低音持续的八分音符模拟大提琴原曲。开头两句在低音区低语，“Je ne vois plus” 起音区抬高，“tu t’en es allé” 到达最高音 F5（男中音 F4 处对应），随后一路下行到 “Pour toujours” 的主音。情绪：麻木—承认—痛苦—死寂。",
+  "motif": "核心动机是下行叹息音型：“Ô doux prin-temps” 从属音落到主音，像叹气。它在每句开头以相同轮廓出现，在 “tu t’en es allé” 被放大为从最高音的下行，尾句 “Pour toujours” 压缩为最短的两个音。演唱时下行的第二个音永远比第一个轻。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “Ô doux printemps” 下行叹息音型首次出现。"
+   },
+   {
+    "phrase": 4,
+    "note": "第 4 句 “je n’entends plus” 动机音区抬高，情绪开始外露。"
+   },
+   {
+    "phrase": 5,
+    "note": "第 5 句 “tu t’en es allé” 从最高音大幅下行，全曲最痛处。"
+   },
+   {
+    "phrase": 9,
+    "note": "第 9 句 “Pour toujours” 动机压缩为两个音，以最弱音结束。"
+   }
+  ],
+  "technique": "呼吸：速度极慢，每句两小节仍要一口气，吸气深而无声。咬字：法语词尾辅音多数不发，但 “flétri”“glacé” 的元音要清晰；鼻化元音在长音上保持。换声区：男中音在 D4–E4（“ciel bleu”“bonheur”）进入换声区，保持元音圆、声音不撑。高音：最高音在 “allé”，是情绪爆发，靠气流而不是喉部用力，随后立即收回。",
+  "classroom": [
+   "先读中文，找出“过去—现在—永远”三个时间词。",
+   "慢速读法语，标出鼻化元音和不发音的词尾辅音。",
+   "分离元音：练 eu/œu/ou 三个圆唇元音的区别。",
+   "按 4/4 慢拍说词，每拍一个音节以内。",
+   "听单音旋律，感受每句的下行叹息。",
+   "把歌词放回旋律，先练开头的低语，再练中段的爆发。",
+   "用正常速度完整演唱，最后一句用最弱的声音。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "鼻化元音",
+   "items": [
+    "printemps 含 in [ɛ̃] 与 en [ɑ̃]；saisons、chants、emportant 的 on/an 要在长音上保持鼻化。",
+    "“bien-aimé” 的 ien [jɛ̃] 与后面的 aimé 联诵 [bjɛ̃nɛme]。"
+   ]
+  },
+  {
+   "title": "联诵与省音",
+   "items": [
+    "“vous‿avez” [vuzave]、“les‿chants”不联诵（s 后为辅音）、“des‿oiseaux” [dezwazo]、“tout‿est” [tutɛ]。",
+    "“d’autrefois”“n’entends”“t’en es allé”“c’est” 均为省音。"
+   ]
+  },
+  {
+   "title": "词尾辅音",
+   "items": [
+    "printemps、toujours、oiseaux、glacé 的词尾辅音不发（toujours 的 s 不发）；flétri 的 i 清亮。",
+    "bleu 的 eu [ø] 圆唇；cœur 的 œu [œ] 更开。"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    2,
+    4
+   ],
+   "lyrics": "O doux printemps d’autrefois,",
+   "translation": "从前温柔的春天啊，青翠的季节，",
+   "events": [
+    {
+     "id": "elegie-e0002",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 2,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "elegie-e0003",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 3,
+     "beat": 1,
+     "lyric": "O",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0004",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 3,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "elegie-e0005",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 3,
+     "beat": 3,
+     "lyric": "doux",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0006",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1,
+     "measure": 3,
+     "beat": 4,
+     "lyric": "prin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0007",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 4,
+     "beat": 1,
+     "lyric": "temps",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0008",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 4,
+     "beat": 2,
+     "lyric": "d’au",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0009",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 2.75,
+     "lyric": "tre",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0010",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2,
+     "measure": 4,
+     "beat": 3,
+     "lyric": "fois,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    5,
+    7
+   ],
+   "lyrics": "Vertes saisons, Vous avez fui pour toujours!",
+   "translation": "你们已经永远离去！",
+   "events": [
+    {
+     "id": "elegie-e0011",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 5,
+     "beat": 1,
+     "lyric": "Ver",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0012",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 5,
+     "beat": 2,
+     "lyric": "tes",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0013",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 5,
+     "beat": 2.75,
+     "lyric": "sai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0014",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2,
+     "measure": 5,
+     "beat": 3,
+     "lyric": "sons,",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0015",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 6,
+     "beat": 1,
+     "lyric": "Vous",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0016",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 2,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0017",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 2.75,
+     "lyric": "vez",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0018",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 6,
+     "beat": 3,
+     "lyric": "fui",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0019",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 6,
+     "beat": 4,
+     "lyric": "pour",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0020",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 4.75,
+     "lyric": "tou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0021",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "jours!",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0022",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    7,
+    8
+   ],
+   "lyrics": "Je ne vois plus le ciel bleu,",
+   "translation": "我再看不见蓝天，",
+   "events": [
+    {
+     "id": "elegie-e0023",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 7,
+     "beat": 2,
+     "lyric": "Je",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0024",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 7,
+     "beat": 3,
+     "lyric": "ne",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0025",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1,
+     "measure": 7,
+     "beat": 4,
+     "lyric": "vois",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0026",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 8,
+     "beat": 1,
+     "lyric": "plus",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0027",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 8,
+     "beat": 2,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0028",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 8,
+     "beat": 2.75,
+     "lyric": "ciel",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0029",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2,
+     "measure": 8,
+     "beat": 3,
+     "lyric": "bleu,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    9,
+    11
+   ],
+   "lyrics": "Je n’entends plus les chants joyeux des oiseaux!",
+   "translation": "再听不见鸟儿欢快的歌唱！",
+   "events": [
+    {
+     "id": "elegie-e0030",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "Je",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0031",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 2,
+     "lyric": "n’en",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0032",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.75,
+     "lyric": "tends",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0033",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2,
+     "measure": 9,
+     "beat": 3,
+     "lyric": "plus",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0034",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "les",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0035",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 2,
+     "lyric": "chants",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0036",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 2.75,
+     "lyric": "joy",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0037",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 10,
+     "beat": 3,
+     "lyric": "eux",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0038",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 4,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0039",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 4.75,
+     "lyric": "oi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0040",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "seaux!",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0041",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 11,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    11,
+    13
+   ],
+   "lyrics": "En emportant mon bonheur,",
+   "translation": "你带走了我的幸福，心爱的人，你走了！",
+   "events": [
+    {
+     "id": "elegie-e0042",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 11,
+     "beat": 3,
+     "lyric": "En",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0043",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 4,
+     "lyric": "em",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0044",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 4.75,
+     "lyric": "por",
+     "syllabic": "middle"
+    },
+    {
+     "id": "elegie-e0045",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "tant",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0046",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 2,
+     "lyric": "mon",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0047",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.75,
+     "lyric": "bon",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0048",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 12,
+     "beat": 3,
+     "lyric": "heur,",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0049",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    13,
+    15
+   ],
+   "lyrics": "O bien-aimé tu t’en es allé!",
+   "translation": "你带走了我的幸福，心爱的人，你走了！",
+   "events": [
+    {
+     "id": "elegie-e0050",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 2,
+     "measure": 13,
+     "beat": 2,
+     "lyric": "O",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0051",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 4,
+     "lyric": "bien",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0052",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 4.75,
+     "lyric": "ai",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0053",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "mé",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0054",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "tu",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0055",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 2.75,
+     "lyric": "t’en",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0056",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 14,
+     "beat": 3,
+     "lyric": "es",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0057",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 14,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "elegie-e0058",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 4.75,
+     "lyric": "al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0059",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "lé!",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0060",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    15,
+    17
+   ],
+   "lyrics": "Et c’est en vain que revient le printemps!",
+   "translation": "春天回来也是徒然！",
+   "events": [
+    {
+     "id": "elegie-e0061",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2,
+     "measure": 15,
+     "beat": 2,
+     "lyric": "Et",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0062",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 4,
+     "lyric": "c’est",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0063",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 4.75,
+     "lyric": "en",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0064",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "vain",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0065",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 2,
+     "lyric": "que",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0066",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 2.75,
+     "lyric": "re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0067",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 16,
+     "beat": 3,
+     "lyric": "vient",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0068",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 4,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0069",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 4.75,
+     "lyric": "prin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0070",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "temps!",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0071",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    17,
+    18
+   ],
+   "lyrics": "Oui, sans retour, avec toi,",
+   "translation": "是的，一去不返——明亮的太阳、欢笑的日子都随你而去！",
+   "events": [
+    {
+     "id": "elegie-e0072",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 17,
+     "beat": 2,
+     "lyric": "Oui,",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0073",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1,
+     "measure": 17,
+     "beat": 3,
+     "lyric": "sans",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0074",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1,
+     "measure": 17,
+     "beat": 4,
+     "lyric": "re",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0075",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 1,
+     "measure": 18,
+     "beat": 1,
+     "lyric": "tour,",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0076",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 2,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0077",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.75,
+     "lyric": "vec",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0078",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2,
+     "measure": 18,
+     "beat": 3,
+     "lyric": "toi,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    19,
+    21
+   ],
+   "lyrics": "le gai soleil, Les jours riants sont partis!",
+   "translation": "是的，一去不返——明亮的太阳、欢笑的日子都随你而去！",
+   "events": [
+    {
+     "id": "elegie-e0079",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 19,
+     "beat": 1,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0080",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 2,
+     "lyric": "gai",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0081",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 2.75,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0082",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 2,
+     "measure": 19,
+     "beat": 3,
+     "lyric": "leil,",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0083",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1,
+     "measure": 20,
+     "beat": 1,
+     "lyric": "Les",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0084",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 20,
+     "beat": 2,
+     "lyric": "jours",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0085",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 2.75,
+     "lyric": "ri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0086",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1,
+     "measure": 20,
+     "beat": 3,
+     "lyric": "ants",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0087",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 20,
+     "beat": 4,
+     "lyric": "sont",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0088",
+     "pitch": "B3",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 4.75,
+     "lyric": "par",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0089",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 1,
+     "lyric": "tis!",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0090",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    21,
+    23
+   ],
+   "lyrics": "Comme en mon cœur tout est sombre et glacé!",
+   "translation": "我心中的一切都多么阴暗冰冷！",
+   "events": [
+    {
+     "id": "elegie-e0091",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 2,
+     "measure": 21,
+     "beat": 2,
+     "lyric": "Comme",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0092",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 21,
+     "beat": 4,
+     "lyric": "en",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0093",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 4.75,
+     "lyric": "mon",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0094",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 22,
+     "beat": 1,
+     "lyric": "cœr",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0095",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 2,
+     "lyric": "tout",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0096",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 2.75,
+     "lyric": "est",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0097",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 1,
+     "measure": 22,
+     "beat": 3,
+     "lyric": "som",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0098",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 22,
+     "beat": 4,
+     "lyric": "bre et",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0099",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 4.75,
+     "lyric": "gla",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0100",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 23,
+     "beat": 1,
+     "lyric": "cé!",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0101",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.75,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    23,
+    24
+   ],
+   "lyrics": "Tout est flétri!",
+   "translation": "一切都凋零了！永远！",
+   "events": [
+    {
+     "id": "elegie-e0102",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 2,
+     "measure": 23,
+     "beat": 2,
+     "lyric": "Tout",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0103",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 23,
+     "beat": 4,
+     "lyric": "est",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0104",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 4.75,
+     "lyric": "flé",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0105",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 3,
+     "measure": 24,
+     "beat": 1,
+     "lyric": "tri!",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0106",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 24,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    25,
+    27
+   ],
+   "lyrics": "Pour toujours!",
+   "translation": "一切都凋零了！永远！",
+   "events": [
+    {
+     "id": "elegie-e0107",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2,
+     "measure": 25,
+     "beat": 1,
+     "lyric": "Pour",
+     "syllabic": "single"
+    },
+    {
+     "id": "elegie-e0108",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 25,
+     "beat": 3,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "elegie-e0109",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 4.5,
+     "lyric": "tou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "elegie-e0110",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 5,
+     "measure": 26,
+     "beat": 1,
+     "lyric": "jours!",
+     "syllabic": "end"
+    },
+    {
+     "id": "elegie-e0111",
+     "pitch": null,
+     "rest": true,
+     "duration": 2,
+     "measure": 27,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "elegie-e0112",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 27,
+     "beat": 4,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 111,
+ "restCount": 11,
+ "lyricNoteCount": 97,
+ "pages": 1,
+ "speech": {
+  "voice": "fr_FR-siwis-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 12,
+  "slowScale": 1.45
+ }
+}

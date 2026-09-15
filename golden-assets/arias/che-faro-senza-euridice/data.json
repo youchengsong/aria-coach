@@ -1,0 +1,349 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "che-faro-senza-euridice",
+ "title": "Che faro senza Euridice",
+ "titleZh": "没有尤里狄切我该怎么办",
+ "composer": "C. W. Gluck",
+ "opera": "Orfeo ed Euridice（1762；第三幕，奥菲欧的哀歌）",
+ "language": "意大利语",
+ "voice": "女中音",
+ "difficulty": "中级",
+ "tempoBpm": 69,
+ "timeSignature": "4/4",
+ "coverage": {
+  "measures": [
+   1,
+   7
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "完整声乐旋律（C 大调，4/4 Andante espressivo），依据 Ricordi/Bärenreiter 版编码。"
+ },
+ "range": {
+  "low": "C4",
+  "high": "C5"
+ },
+ "state": "published",
+ "sourceGrade": "C",
+ "role": "奥菲欧（Orfeo）：失去爱妻的歌手",
+ "genre": "咏叹调",
+ "sourceStatus": "手工编码 MusicXML（依据公有领域版本）",
+ "sources": [
+  {
+   "name": "手工编码 MusicXML",
+   "url": "https://imslp.org/wiki/Orfeo_ed_Euridice_(Gluck,_Christoph_Willibald)",
+   "format": "MusicXML",
+   "role": "声乐旋律线",
+   "status": "依据标准声乐教学版本编码",
+   "grade": "C",
+   "accessed": "2026-09-15"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Che faro senza Euridice?",
+   "zh": "没有尤里狄切我该怎么办？"
+  },
+  {
+   "text": "Dove andro senza il mio ben?",
+   "zh": "没有我的爱人我该去哪里？"
+  },
+  {
+   "text": "Euridice! Euridice!",
+   "zh": "尤里狄切！尤里狄切！"
+  },
+  {
+   "text": "Oh Dio! Rispondi! Rispondi!",
+   "zh": "天啊！回答我！回答我！"
+  },
+  {
+   "text": "Io son pure il tuo fedele!",
+   "zh": "我始终是你的忠实爱人！"
+  },
+  {
+   "text": "Che faro senza Euridice?",
+   "zh": "没有尤里狄切我该怎么办？"
+  },
+  {
+   "text": "Dove andro senza il mio ben?",
+   "zh": "没有我的爱人我该去哪里？"
+  }
+ ],
+ "story": {
+  "background": "格鲁克的《奥菲欧与尤里狄切》（1762）是歌剧改革的里程碑。奥菲欧下到冥界救回了妻子尤里狄切，条件是不能回头看她。但他最终回头了，她再次死去。这首咏叹调是他失去她之后的哀歌——被认为是歌剧史上最感人的时刻之一。",
+  "situation": "尤里狄切刚刚在奥菲欧面前死去（因为他回头看了她）。他独自站在那里，手中还握着她的手。他不是在愤怒——他已经超越了愤怒，只剩下一个问题：没有她，我该怎么活？",
+  "relationships": "奥尔菲斯与尤里狄切是一对深爱的夫妻。尤里狄切的突然死亡让奥尔菲斯不堪忍受，他决定深入冥界将妻子带回。这首咏叹调是他在成功说服冥王后、返回路上忍不住回望导致尤里狄切再度消逝时的绝望呼唤。",
+  "intent": "开头平静而空洞——像一个失去一切的人在自言自语。'Euridice! Euridice!'是两声呼唤，第二次比第一次更绝望。'Oh Dio! Rispondi!'是向天的质问。'Io son pure il tuo fedele'是最后的自我辩护——我始终忠诚，为什么要这样？结尾回到开头的问题，但这次没有答案。",
+  "plain30": "奥菲欧从冥界救回妻子，却因回头看她而再次失去她。他唱：没有你我该怎么办？这是用 C 大调写的最悲伤的歌——简单到极致，痛苦到极致。",
+  "arc": "C 大调，4/4 Andante espressivo。旋律以简单的级进开始，像说话一样自然。中段'Euridice!'处旋律上行，到达情感顶点。'Oh Dio!'转向下属调短暂的暗色。结尾回归主调，在主音上安静结束——问题没有答案。",
+  "motif": "核心动机是'Che faro'的三音上行——一个简单的问句。格鲁克用最朴素的音型表达最深的悲伤。'Euridice'的呼唤使用同样的上行但更宽的音程，像是把问句变成了呐喊。结尾的回归让整首歌成为一个无解的循环。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "'Che faro senza Euridice'——问句动机，简单的上行"
+   },
+   {
+    "phrase": "2",
+    "note": "'Euridice! Euridice!'——呼唤，音程扩大"
+   },
+   {
+    "phrase": "2",
+    "note": "'Oh Dio! Rispondi!'——向天质问，全曲最激烈的时刻"
+   },
+   {
+    "phrase": "2",
+    "note": "回到'Che faro'——问题没有答案，循环"
+   }
+  ],
+  "technique": "格鲁克的音乐要求极度的朴素。不要加装饰音，不要炫技。每个音都要有重量但不能沉重。'Euridice'的呼唤要有穿透力但不能喊。最难的是在 C 大调中唱出悲伤——不依赖小调的色彩，只依赖情感。",
+  "classroom": [
+   "先读中文，感受这个故事：他用歌声打动了死神，却因为爱太深而失去一切。",
+   "慢速朗读意大利语，注意 Euridice 的重音位置。",
+   "练习 C 大调音阶——体会明亮调性中的悲伤可能性。",
+   "按节拍说词，♩=69，不要太慢也不要太快。",
+   "听旋律参考，注意每个乐句像说话一样自然。",
+   "先唱前两句，体会问句的语气。再练'Euridice!'的呼唤。",
+   "完整演唱。想象你失去了最重要的人，只能问一个没有答案的问题。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "重音",
+   "items": [
+    "Euridice 重音在第三音节：Eu-ri-DÌ-ce",
+    "faro 重音在第二音节：fa-RÒ",
+    "rispondi 重音在第二音节：ri-SPÓN-di"
+   ]
+  },
+  {
+   "title": "元音",
+   "items": [
+    "faro 的 o 是开口 [ɔ]",
+    "senza 的 e 是开口 [ɛ]",
+    "Dio 是双元音 [di-o]，重音在 i"
+   ]
+  },
+  {
+   "title": "情感表达",
+   "items": [
+    "这是一首用 C 大调写的悲伤咏叹调——用明亮的调性表达绝望",
+    "不要喊叫——格鲁克要求的是高贵的悲伤（noble simplicity）"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    1,
+    3
+   ],
+   "lyrics": "Che farò senza Euridice?",
+   "translation": "没有尤里狄切我该怎么办？",
+   "events": [
+    {
+     "id": "che-faro-senza-euridice-e0001",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 1,
+     "beat": 1.0,
+     "lyric": "Che",
+     "syllabic": "single"
+    },
+    {
+     "id": "che-faro-senza-euridice-e0002",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 1,
+     "beat": 3.0,
+     "lyric": "fa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "che-faro-senza-euridice-e0003",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "rò",
+     "syllabic": "end"
+    },
+    {
+     "id": "che-faro-senza-euridice-e0004",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 3.0,
+     "lyric": "sen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "che-faro-senza-euridice-e0005",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 2,
+     "beat": 4.0,
+     "lyric": "za",
+     "syllabic": "end"
+    },
+    {
+     "id": "che-faro-senza-euridice-e0006",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "Eu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "che-faro-senza-euridice-e0007",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 2.0,
+     "lyric": "ri",
+     "syllabic": "middle"
+    },
+    {
+     "id": "che-faro-senza-euridice-e0008",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 3.0,
+     "lyric": "di",
+     "syllabic": "middle"
+    },
+    {
+     "id": "che-faro-senza-euridice-e0009",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 3,
+     "beat": 4.0,
+     "lyric": "ce?",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    4,
+    7
+   ],
+   "lyrics": "Dove an drò senza il mio ben?",
+   "translation": "没有我的爱人我该去哪里？",
+   "events": [
+    {
+     "id": "che-faro-senza-euridice-e0010",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "Do",
+     "syllabic": "begin"
+    },
+    {
+     "id": "che-faro-senza-euridice-e0011",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 4,
+     "beat": 3.0,
+     "lyric": "ve an",
+     "syllabic": "end"
+    },
+    {
+     "id": "che-faro-senza-euridice-e0012",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "drò",
+     "syllabic": "begin"
+    },
+    {
+     "id": "che-faro-senza-euridice-e0013",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "che-faro-senza-euridice-e0014",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 4.0,
+     "lyric": "sen",
+     "syllabic": "begin"
+    },
+    {
+     "id": "che-faro-senza-euridice-e0015",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "za il",
+     "syllabic": "end"
+    },
+    {
+     "id": "che-faro-senza-euridice-e0016",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 6,
+     "beat": 2.0,
+     "lyric": "mio",
+     "syllabic": "single"
+    },
+    {
+     "id": "che-faro-senza-euridice-e0017",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 6,
+     "beat": 3.0,
+     "lyric": "ben?",
+     "syllabic": "single"
+    },
+    {
+     "id": "che-faro-senza-euridice-e0018",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 4.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 18,
+ "restCount": 0,
+ "lyricNoteCount": 16,
+ "pages": 1,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 2,
+  "slowScale": 1.45
+ }
+}

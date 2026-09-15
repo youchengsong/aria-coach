@@ -1,0 +1,4649 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "ungeduld",
+ "title": "Ungeduld",
+ "titleZh": "急切",
+ "composer": "F. Schubert",
+ "opera": "Die schöne Müllerin D.795 No.7（美丽的磨坊女第7首，1823；诗：W. Müller）",
+ "language": "德语",
+ "voice": "男高音",
+ "difficulty": "中级",
+ "tempoBpm": 80,
+ "timeSignature": "3/4",
+ "coverage": {
+  "measures": [
+   1,
+   28
+  ],
+  "firstSungMeasure": 1,
+  "complete": true,
+  "note": "完整声乐旋律（A大调，3/4，稍快，约52小节，四段分节歌）。学徒对磨坊女的热烈告白——舒伯特最受欢迎的激情之歌。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "E4",
+  "high": "A5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "磨坊学徒（热恋中的少年）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Ich schnitt' es gern in alle Rinden ein,",
+   "zh": "我想把它刻在每一棵树皮上，"
+  },
+  {
+   "text": "ich grüb' es gern in jeden Kieselstein,",
+   "zh": "我想把它刻在每一块鹅卵石上，"
+  },
+  {
+   "text": "ich möcht' es sä'n auf jedes frische Beet",
+   "zh": "我想把它播种在每一片新苗圃里"
+  },
+  {
+   "text": "mit Kressensamen, der es schnell verrät,",
+   "zh": "用水芹的种子，它会很快透露，"
+  },
+  {
+   "text": "auf jeden weißen Zettel möcht' ich's schreiben:",
+   "zh": "我想把它写在每一张白纸上："
+  },
+  {
+   "text": "Dein ist mein Herz, und soll es ewig bleiben!",
+   "zh": "我的心是你的，愿它永远如此！"
+  }
+ ],
+ "story": {
+  "background": "《急切》是《美丽的磨坊女》中最热烈的一首。学徒已经爱上了磨坊女，恨不得把'我的心是你的'刻在树上、石头上、天空中。四段歌词用不同的意象表达同一个念头：我要让全世界知道我爱你。但在套曲的语境中，这份热情最终将得不到回报。",
+  "situation": "磨坊旁。学徒已经深深爱上了磨坊女，但还没有勇气直接告白。他想象把自己的心意刻在树上、石头上、播种在土里、写在纸上——用一切方式表达'Dein ist mein Herz'。",
+  "relationships": "磨坊学徒与他暗恋的磨坊主的女儿——《美丽的磨坊女》套曲的第七首。学徒已经在磨坊工作了一段时间，对磨坊主的女儿产生了热烈的爱情，但他不知道她是否知道。他的爱如此强烈，以至于他想把'你的就是我的心'刻在每一块树皮上、每一块石头上、写在天空中——让全世界都知道。但他唯一不敢做的，就是直接告诉她。",
+  "intent": "以几乎压抑不住的兴奋开始——A大调的明亮和3/4拍的推进感让每一句话都像要溢出来。四段歌词每段都构建向副歌的高潮：'Dein ist mein Herz, und soll es ewig bleiben!'（你的就是我的心，永远都是！）。这句话每出现一次都要比前一次更坚定、更辉煌。但注意——学徒的爱是纯真的急切，不是成熟的深沉。他在喊的不是宣言，而是一个年轻人忍不住的心声。",
+  "plain30": "我想把'我的心是你的'刻在树上、石头上、写在纸上——让全世界都知道！我的心是你的，愿它永远如此！",
+  "arc": "A大调，稍快速度（Etwas geschwind），奔涌的3/4拍。钢琴的伴奏像快速的心跳——右手的十六分音符连绵不断，推着声乐向前冲。每段的叙述部分在中音区流动（'Ich schnitt es gern in alle Rinden ein'），然后在副歌突然跃升到A5（'Dein ist mein Herz!'），像攀到山顶大喊。四段歌词用相同旋律，但情感应该层层递进——从第一段的试探到第四段的全情投入。",
+  "motif": "心跳三连音：钢琴的急促重复像急切的心跳。'Dein ist mein Herz' 的上行跳进是告白动机——每段都出现，是全曲的标志性旋律。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "'Ich schnitt' es gern' 想象的开始——急切的叙述"
+   },
+   {
+    "phrase": "6",
+    "note": "'Dein ist mein Herz' 告白动机——冲上高音"
+   }
+  ],
+  "technique": "最大的挑战是在快速中保持清晰的吐字和前进的动力，同时不至于上气不接下气。每段结尾的'Dein ist mein Herz'需要明亮的头声，要像教堂钟声一样响亮而纯净，不是在喊叫。四段分节歌的反复要有变化——第一段可以更轻、更期待，第四段则全力以赴。3/4拍的重拍要清楚，但不要重到变成进行曲——这是舞蹈的节奏，是快乐的旋转。",
+  "classroom": [
+   "先读中文：一个年轻人恨不得让全世界知道他爱她。",
+   "朗读德语：四段歌词，先背熟第一段。",
+   "旋律和'Dein ist mein Herz'分开练——先唱叙述部分，再唱告白。",
+   "'Dein ist mein Herz' 的高音要用气息托上去，不要冲。",
+   "四段用同一旋律——但情绪可以从期待到热烈到近乎呐喊。",
+   "完整演唱。这首歌在音乐会上经常是全场最激动人心的时刻。",
+   "注意：在套曲语境中，这份热情最终不会被回报——知道这一点会让演唱更深沉。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "德语元音",
+   "items": [
+    "schnitt 的 i 短 [ɪ]",
+    "Rinden 的 i 短 [ɪ]",
+    "grüb 的 ü 长 [yː]",
+    "Kieselstein 的 ie 长 [iː]，ei 读 [aɪ]",
+    "ewig 的 e 长 [eː]"
+   ]
+  },
+  {
+   "title": "歌唱风格",
+   "items": [
+    "急切、热烈——学徒恨不得让全世界都知道他的爱",
+    "每一段都以'Dein ist mein Herz'结束——这是全曲的核心告白",
+    "速度不要太快——要让每个意象都清晰",
+    "四段歌词越唱越激动，但'ewig bleiben'要收得住"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    8,
+    10
+   ],
+   "verse": 1,
+   "lyrics": "Ich schnitt' es gern in alle Rinden ein,",
+   "translation": "我想把它刻在每一棵树皮上，",
+   "events": [
+    {
+     "id": "ungeduld-e0010",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ungeduld-e0011",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.5,
+     "lyric": "Ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0012",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "schnitt'",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0013",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.75,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0014",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "gern",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0015",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.75,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0016",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "al",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ungeduld-e0017",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 3.75,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "ungeduld-e0018",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "Rin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ungeduld-e0019",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.75,
+     "lyric": "den",
+     "syllabic": "end"
+    },
+    {
+     "id": "ungeduld-e0020",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "ein,",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0021",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    10,
+    12
+   ],
+   "verse": 1,
+   "lyrics": "ich grüb' es gern in jeden Kieselstein,",
+   "translation": "我想把它刻在每一块鹅卵石上，",
+   "events": [
+    {
+     "id": "ungeduld-e0022",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 3.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0023",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "grüb'",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0024",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.75,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0025",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "gern",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0026",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 2.75,
+     "lyric": "in",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0027",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "je",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ungeduld-e0028",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 3.75,
+     "lyric": "den",
+     "syllabic": "end"
+    },
+    {
+     "id": "ungeduld-e0029",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "Kie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ungeduld-e0030",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.75,
+     "lyric": "sel",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ungeduld-e0031",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "stein,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ungeduld-e0032",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    12,
+    14
+   ],
+   "verse": 1,
+   "lyrics": "ich möcht' es sä'n auf jedes frische Beet,",
+   "translation": "我想把它播种在每一片新苗圃里",
+   "events": [
+    {
+     "id": "ungeduld-e0033",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.5,
+     "lyric": "ich",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0034",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "möcht'",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0035",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.75,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0036",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "sä'n",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0037",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.75,
+     "lyric": "auf",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0038",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "je",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ungeduld-e0039",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 3.75,
+     "lyric": "des",
+     "syllabic": "end"
+    },
+    {
+     "id": "ungeduld-e0040",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "fri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ungeduld-e0041",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.75,
+     "lyric": "sche",
+     "syllabic": "end"
+    },
+    {
+     "id": "ungeduld-e0042",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "Beet,",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0043",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    14,
+    16
+   ],
+   "verse": 1,
+   "lyrics": "mit Kressensamen, der es schnell verräth,",
+   "translation": "用水芹的种子，它会很快透露，",
+   "events": [
+    {
+     "id": "ungeduld-e0044",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 3.5,
+     "lyric": "mit",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0045",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "Kres",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ungeduld-e0046",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.75,
+     "lyric": "sen",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ungeduld-e0047",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "sa",
+     "syllabic": "middle"
+    },
+    {
+     "id": "ungeduld-e0048",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 2.75,
+     "lyric": "men,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ungeduld-e0049",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "der",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0050",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 3.75,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0051",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "schnell",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0052",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.75,
+     "lyric": "ver",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ungeduld-e0053",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "räth,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ungeduld-e0054",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    16,
+    20
+   ],
+   "verse": 1,
+   "lyrics": "auf jeden weissen Zettel möcht' ich's schreiben l-4. Dein ist mein Herz,",
+   "translation": "我想把它写在每一张白纸上：",
+   "events": [
+    {
+     "id": "ungeduld-e0055",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.5,
+     "lyric": "auf",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0056",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "je",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ungeduld-e0057",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.75,
+     "lyric": "den",
+     "syllabic": "end"
+    },
+    {
+     "id": "ungeduld-e0058",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "wei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ungeduld-e0059",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.75,
+     "lyric": "ssen",
+     "syllabic": "end"
+    },
+    {
+     "id": "ungeduld-e0060",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "Zet",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ungeduld-e0061",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 3.75,
+     "lyric": "tel",
+     "syllabic": "end"
+    },
+    {
+     "id": "ungeduld-e0062",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "möcht'",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0063",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.75,
+     "lyric": "ich's",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0064",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "schrei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ungeduld-e0065",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ungeduld-e0066",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "ben",
+     "syllabic": "end"
+    },
+    {
+     "id": "ungeduld-e0067",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ungeduld-e0068",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "l-4.  Dein",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0069",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0070",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 3.75,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0071",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "Herz,",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    21,
+    23
+   ],
+   "verse": 1,
+   "lyrics": "dein ist mein Herz und soll es ewig,",
+   "translation": "我的心是你的，愿它永远如此！",
+   "events": [
+    {
+     "id": "ungeduld-e0072",
+     "pitch": "A5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "dein",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0073",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 21,
+     "beat": 3.0,
+     "lyric": "ist",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0074",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 3.75,
+     "lyric": "mein",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0075",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "Herz",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0076",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "und",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0077",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3.0,
+     "lyric": "soll",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0078",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3.5,
+     "lyric": "es",
+     "syllabic": "single"
+    },
+    {
+     "id": "ungeduld-e0079",
+     "pitch": "A5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "e",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ungeduld-e0080",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ungeduld-e0081",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 3.0,
+     "lyric": "wig,",
+     "syllabic": "end"
+    },
+    {
+     "id": "ungeduld-e0082",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    24,
+    26
+   ],
+   "verse": 1,
+   "lyrics": "ewig bleiben!",
+   "translation": "我的心是你的，愿它永远如此！",
+   "events": [
+    {
+     "id": "ungeduld-e0083",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "e",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ungeduld-e0084",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ungeduld-e0085",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3.0,
+     "lyric": "wig",
+     "syllabic": "end"
+    },
+    {
+     "id": "ungeduld-e0086",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ungeduld-e0087",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "blei",
+     "syllabic": "begin"
+    },
+    {
+     "id": "ungeduld-e0088",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ungeduld-e0089",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ungeduld-e0090",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "ungeduld-e0091",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "ungeduld-e0092",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ungeduld-e0093",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ungeduld-e0094",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "ben!",
+     "syllabic": "end"
+    },
+    {
+     "id": "ungeduld-e0095",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ungeduld-e0096",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    27,
+    28
+   ],
+   "verse": 1,
+   "lyrics": "ben!",
+   "translation": "我的心是你的，愿它永远如此！",
+   "events": [
+    {
+     "id": "ungeduld-e0097",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "ben!",
+     "syllabic": "end"
+    },
+    {
+     "id": "ungeduld-e0098",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ungeduld-e0099",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "ungeduld-e0100",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    1,
+    9
+   ],
+   "verse": 2,
+   "lyrics": "Ich möcht' mir",
+   "translation": "我想把它写在每一张白纸上：",
+   "events": [
+    {
+     "id": "ungeduld-e0101",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 1,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0102",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0103",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0104",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0105",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0106",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0107",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0108",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0109",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0110",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0111",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.5,
+     "lyric": "Ich",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0112",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "möcht'",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0113",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.75,
+     "lyric": "mir",
+     "syllabic": "single",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    9,
+    12
+   ],
+   "verse": 2,
+   "lyrics": "ziehen einen jungen Staar, bis dass er spräch' die Worte rein und klar,",
+   "translation": "我想把它写在每一张白纸上：",
+   "events": [
+    {
+     "id": "ungeduld-e0114",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "zie",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0115",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.75,
+     "lyric": "hen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0116",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "ei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0117",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 3.75,
+     "lyric": "nen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0118",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "jun",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0119",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.75,
+     "lyric": "gen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0120",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "Staar,",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0121",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0122",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 3.5,
+     "lyric": "bis",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0123",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "dass",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0124",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.75,
+     "lyric": "er",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0125",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "spräch'",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0126",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 2.75,
+     "lyric": "die",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0127",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "Wor",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0128",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 3.75,
+     "lyric": "te",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0129",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "rein",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0130",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.75,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0131",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "klar,",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0132",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    12,
+    14
+   ],
+   "verse": 2,
+   "lyrics": "bis er sie spräch mit meines Mundes Klang,",
+   "translation": "我想把它写在每一张白纸上：",
+   "events": [
+    {
+     "id": "ungeduld-e0133",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.5,
+     "lyric": "bis",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0134",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "er",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0135",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.75,
+     "lyric": "sie",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0136",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "spräch",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0137",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.75,
+     "lyric": "mit",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0138",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "mei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0139",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 3.75,
+     "lyric": "nes",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0140",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "Mun",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0141",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.75,
+     "lyric": "des",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0142",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "Klang,",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0143",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    14,
+    15
+   ],
+   "verse": 2,
+   "lyrics": "mit meiner Herzens vollem,",
+   "translation": "用水芹的种子，它会很快透露，",
+   "events": [
+    {
+     "id": "ungeduld-e0144",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 3.5,
+     "lyric": "mit",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0145",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "mei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0146",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.75,
+     "lyric": "ner",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0147",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "Her",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0148",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 2.75,
+     "lyric": "zens",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0149",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "vol",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0150",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 3.75,
+     "lyric": "lem,",
+     "syllabic": "end",
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    16,
+    26
+   ],
+   "verse": 2,
+   "lyrics": "heissen Drang dann säng' er hell durch ihre Fensterscheiben",
+   "translation": "用水芹的种子，它会很快透露，",
+   "events": [
+    {
+     "id": "ungeduld-e0151",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "hei",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0152",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.75,
+     "lyric": "ssen",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0153",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "Drang",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0154",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0155",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.5,
+     "lyric": "dann",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0156",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "säng'",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0157",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.75,
+     "lyric": "er",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0158",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "hell",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0159",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.75,
+     "lyric": "durch",
+     "syllabic": "single",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0160",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "ih",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0161",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 3.75,
+     "lyric": "re",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0162",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "Fen",
+     "syllabic": "begin",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0163",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.75,
+     "lyric": "ster",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0164",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "schei",
+     "syllabic": "middle",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0165",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0166",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "ben",
+     "syllabic": "end",
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0167",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0168",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0169",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0170",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0171",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0172",
+     "pitch": "A5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0173",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 21,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0174",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0175",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0176",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0177",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0178",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0179",
+     "pitch": "A5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0180",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0181",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0182",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0183",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0184",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0185",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0186",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0187",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0188",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0189",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0190",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2,
+     "grace": true
+    },
+    {
+     "id": "ungeduld-e0191",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2,
+     "grace": true
+    },
+    {
+     "id": "ungeduld-e0192",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0193",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0194",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0195",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0196",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    27,
+    28
+   ],
+   "verse": 2,
+   "lyrics": "",
+   "translation": "",
+   "events": [
+    {
+     "id": "ungeduld-e0197",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0198",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0199",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    },
+    {
+     "id": "ungeduld-e0200",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 2
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "measures": [
+    1,
+    9
+   ],
+   "verse": 3,
+   "lyrics": "Den Morgenwinden",
+   "translation": "用水芹的种子，它会很快透露，",
+   "events": [
+    {
+     "id": "ungeduld-e0201",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 1,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0202",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0203",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0204",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0205",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0206",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0207",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0208",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0209",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0210",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0211",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.5,
+     "lyric": "Den",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0212",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "Mor",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0213",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.75,
+     "lyric": "gen",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0214",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "win",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0215",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.75,
+     "lyric": "den",
+     "syllabic": "end",
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "measures": [
+    9,
+    12
+   ],
+   "verse": 3,
+   "lyrics": "möcht' ich's hauchen ein, ich möcht' es säuseln durch den regen Hain O,",
+   "translation": "我想把它播种在每一片新苗圃里",
+   "events": [
+    {
+     "id": "ungeduld-e0216",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "möcht'",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0217",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 3.75,
+     "lyric": "ich's",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0218",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "hau",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0219",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.75,
+     "lyric": "chen",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0220",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "ein,",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0221",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0222",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 3.5,
+     "lyric": "ich",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0223",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "möcht'",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0224",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.75,
+     "lyric": "es",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0225",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "säu",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0226",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 2.75,
+     "lyric": "seln",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0227",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "durch",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0228",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 3.75,
+     "lyric": "den",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0229",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "re",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0230",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.75,
+     "lyric": "gen",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0231",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "Hain",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0232",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0233",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.5,
+     "lyric": "O,",
+     "syllabic": "single",
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "measures": [
+    13,
+    14
+   ],
+   "verse": 3,
+   "lyrics": "leuchtet' es aus jedem Blumenstern!",
+   "translation": "我想把它播种在每一片新苗圃里",
+   "events": [
+    {
+     "id": "ungeduld-e0234",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "leuch",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0235",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.75,
+     "lyric": "tet'",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0236",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "es",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0237",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.75,
+     "lyric": "aus",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0238",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "je",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0239",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 3.75,
+     "lyric": "dem",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0240",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "Blu",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0241",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.75,
+     "lyric": "men",
+     "syllabic": "middle",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0242",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "stern!",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0243",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "measures": [
+    14,
+    16
+   ],
+   "verse": 3,
+   "lyrics": "trüg' es der Duft zu ihr von nah' und fern!",
+   "translation": "用水芹的种子，它会很快透露，",
+   "events": [
+    {
+     "id": "ungeduld-e0244",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 3.5,
+     "lyric": "trüg'",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0245",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "es",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0246",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.75,
+     "lyric": "der",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0247",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "Duft",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0248",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 2.75,
+     "lyric": "zu",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0249",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "ihr",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0250",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 3.75,
+     "lyric": "von",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0251",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "nah'",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0252",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.75,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0253",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "fern!",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0254",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "measures": [
+    16,
+    26
+   ],
+   "verse": 3,
+   "lyrics": "ihr Wogen, könnt ihr nichts als Räder treiben?",
+   "translation": "我想把它写在每一张白纸上：",
+   "events": [
+    {
+     "id": "ungeduld-e0255",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.5,
+     "lyric": "ihr",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0256",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "Wo",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0257",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.75,
+     "lyric": "gen,",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0258",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "könnt",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0259",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.75,
+     "lyric": "ihr",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0260",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "nichts",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0261",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 3.75,
+     "lyric": "als",
+     "syllabic": "single",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0262",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "Rä",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0263",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.75,
+     "lyric": "der",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0264",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "trei",
+     "syllabic": "begin",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0265",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0266",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "ben?",
+     "syllabic": "end",
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0267",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0268",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0269",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0270",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0271",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0272",
+     "pitch": "A5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0273",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 21,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0274",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0275",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0276",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0277",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0278",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0279",
+     "pitch": "A5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0280",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0281",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0282",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0283",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0284",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0285",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0286",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0287",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0288",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0289",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0290",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3,
+     "grace": true
+    },
+    {
+     "id": "ungeduld-e0291",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3,
+     "grace": true
+    },
+    {
+     "id": "ungeduld-e0292",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0293",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0294",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0295",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0296",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "measures": [
+    27,
+    28
+   ],
+   "verse": 3,
+   "lyrics": "",
+   "translation": "",
+   "events": [
+    {
+     "id": "ungeduld-e0297",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0298",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0299",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    },
+    {
+     "id": "ungeduld-e0300",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 3
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "measures": [
+    1,
+    9
+   ],
+   "verse": 4,
+   "lyrics": "Ich meint', es",
+   "translation": "我想把它播种在每一片新苗圃里",
+   "events": [
+    {
+     "id": "ungeduld-e0301",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 1,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0302",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 2,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0303",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0304",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0305",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0306",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0307",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0308",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0309",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0310",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0311",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 3.5,
+     "lyric": "Ich",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0312",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "meint',",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0313",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 1.75,
+     "lyric": "es",
+     "syllabic": "single",
+     "verse": 4
+    }
+   ]
+  },
+  {
+   "index": 22,
+   "measures": [
+    9,
+    12
+   ],
+   "verse": 4,
+   "lyrics": "müsst' in meinen Augen stehn, auf meinen Wangen müsst man's brennen sehn,",
+   "translation": "我想把它播种在每一片新苗圃里",
+   "events": [
+    {
+     "id": "ungeduld-e0314",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 2.0,
+     "lyric": "müsst'",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0315",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 2.75,
+     "lyric": "in",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0316",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 9,
+     "beat": 3.0,
+     "lyric": "mei",
+     "syllabic": "begin",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0317",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 9,
+     "beat": 3.75,
+     "lyric": "nen",
+     "syllabic": "end",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0318",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "Au",
+     "syllabic": "begin",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0319",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 10,
+     "beat": 1.75,
+     "lyric": "gen",
+     "syllabic": "end",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0320",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 10,
+     "beat": 2.0,
+     "lyric": "stehn,",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0321",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0322",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 3.5,
+     "lyric": "auf",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0323",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "mei",
+     "syllabic": "begin",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0324",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.75,
+     "lyric": "nen",
+     "syllabic": "end",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0325",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 2.0,
+     "lyric": "Wan",
+     "syllabic": "begin",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0326",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 2.75,
+     "lyric": "gen",
+     "syllabic": "end",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0327",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 11,
+     "beat": 3.0,
+     "lyric": "müsst",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0328",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 3.75,
+     "lyric": "man's",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0329",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "bren",
+     "syllabic": "begin",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0330",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.75,
+     "lyric": "nen",
+     "syllabic": "end",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0331",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 12,
+     "beat": 2.0,
+     "lyric": "sehn,",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0332",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    }
+   ]
+  },
+  {
+   "index": 23,
+   "measures": [
+    12,
+    14
+   ],
+   "verse": 4,
+   "lyrics": "zu lesen wär's auf meinem stummen Mund,",
+   "translation": "我想把它播种在每一片新苗圃里",
+   "events": [
+    {
+     "id": "ungeduld-e0333",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 3.5,
+     "lyric": "zu",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0334",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "le",
+     "syllabic": "begin",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0335",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.75,
+     "lyric": "sen",
+     "syllabic": "end",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0336",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 2.0,
+     "lyric": "wär's",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0337",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 2.75,
+     "lyric": "auf",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0338",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 13,
+     "beat": 3.0,
+     "lyric": "mei",
+     "syllabic": "begin",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0339",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 3.75,
+     "lyric": "nem",
+     "syllabic": "end",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0340",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "stum",
+     "syllabic": "begin",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0341",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 14,
+     "beat": 1.75,
+     "lyric": "men",
+     "syllabic": "end",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0342",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 2.0,
+     "lyric": "Mund,",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0343",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    }
+   ]
+  },
+  {
+   "index": 24,
+   "measures": [
+    14,
+    26
+   ],
+   "verse": 4,
+   "lyrics": "ein jeder Atemzug gäb's laut ihr kund und sie merkt nichts von all dem bangen Treiben",
+   "translation": "用水芹的种子，它会很快透露，",
+   "events": [
+    {
+     "id": "ungeduld-e0344",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 3.5,
+     "lyric": "ein",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0345",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "je",
+     "syllabic": "begin",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0346",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.75,
+     "lyric": "der",
+     "syllabic": "end",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0347",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 2.0,
+     "lyric": "A",
+     "syllabic": "begin",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0348",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 2.75,
+     "lyric": "tem",
+     "syllabic": "middle",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0349",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 15,
+     "beat": 3.0,
+     "lyric": "zug",
+     "syllabic": "end",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0350",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 3.75,
+     "lyric": "gäb's",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0351",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "laut",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0352",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.75,
+     "lyric": "ihr",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0353",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 16,
+     "beat": 2.0,
+     "lyric": "kund",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0354",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0355",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 3.5,
+     "lyric": "und",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0356",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "sie",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0357",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.75,
+     "lyric": "merkt",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0358",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 2.0,
+     "lyric": "nichts",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0359",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 2.75,
+     "lyric": "von",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0360",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 17,
+     "beat": 3.0,
+     "lyric": "all",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0361",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 3.75,
+     "lyric": "dem",
+     "syllabic": "single",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0362",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "ban",
+     "syllabic": "begin",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0363",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 1.75,
+     "lyric": "gen",
+     "syllabic": "end",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0364",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 18,
+     "beat": 2.0,
+     "lyric": "Trei",
+     "syllabic": "begin",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0365",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 18,
+     "beat": 2.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0366",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.0,
+     "lyric": "ben",
+     "syllabic": "end",
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0367",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0368",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0369",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 19,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0370",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 19,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0371",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 3.0,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0372",
+     "pitch": "A5",
+     "rest": false,
+     "duration": 2.0,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0373",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 21,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0374",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 3.75,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0375",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0376",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0377",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0378",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0379",
+     "pitch": "A5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0380",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0381",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0382",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0383",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0384",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0385",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0386",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0387",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0388",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0389",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 25,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0390",
+     "pitch": "E5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4,
+     "grace": true
+    },
+    {
+     "id": "ungeduld-e0391",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4,
+     "grace": true
+    },
+    {
+     "id": "ungeduld-e0392",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0393",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 3.5,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0394",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0395",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0396",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 26,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    }
+   ]
+  },
+  {
+   "index": 25,
+   "measures": [
+    27,
+    28
+   ],
+   "verse": 4,
+   "lyrics": "",
+   "translation": "",
+   "events": [
+    {
+     "id": "ungeduld-e0397",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0398",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 2.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0399",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 3.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    },
+    {
+     "id": "ungeduld-e0400",
+     "pitch": null,
+     "rest": true,
+     "duration": 3.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null,
+     "verse": 4
+    }
+   ]
+  }
+ ],
+ "eventCount": 391,
+ "restCount": 71,
+ "lyricNoteCount": 222,
+ "pages": 1,
+ "speech": {
+  "voice": "de_DE-thorsten-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 22,
+  "slowScale": 1.45
+ }
+}

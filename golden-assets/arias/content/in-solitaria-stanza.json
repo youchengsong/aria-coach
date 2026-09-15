@@ -1,0 +1,144 @@
+{
+ "title": "In solitaria stanza",
+ "titleZh": "在孤寂的房间",
+ "composer": "G. Verdi",
+ "opera": "6 Romanze (1838), No. 3（意大利语浪漫曲，词 Jacopo Vittorelli）",
+ "role": "抒情主体：为病重爱人伊蕾内向神求救的人",
+ "genre": "浪漫曲",
+ "language": "意大利语",
+ "voice": "女高音",
+ "difficulty": "中级",
+ "tempoBpm": 66,
+ "complete": true,
+ "sourceGrade": "B",
+ "coverageNote": "完整声乐旋律（4/4，55 小节），193 个意大利语音节；OpenScore 据 Ricordi 版转写，已与 IMSLP 核对。",
+ "sourceStatus": "MusicXML（OpenScore 转写） · 已与出版谱交叉核对",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Verdi,_Giuseppe/6_Romanze/3_In_solitaria_stanza",
+   "url": "https://github.com/OpenScore/Lieder/tree/main/scores/Verdi,_Giuseppe/6_Romanze/3_In_solitaria_stanza",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；193 个音节与 Ricordi 版逐一核对",
+   "role": "旋律、时值、歌词音节",
+   "grade": "C",
+   "accessed": "2026-09-07",
+   "musescore": "https://musescore.com/openscore-lieder-corpus/scores/29477486"
+  },
+  {
+   "name": "IMSLP · 6 Romanze (1838) (Verdi, Giuseppe)",
+   "url": "https://imslp.org/wiki/6_Romanze_(1838)_(Verdi,_Giuseppe)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对调性、拍号、歌词与音域",
+   "role": "参照原谱（第二来源）",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  },
+  {
+   "name": "LiederNet · In solitaria stanza (Vittorelli)",
+   "url": "https://www.lieder.net/lieder/get_text.html?TextId=16862",
+   "format": "网页（原文文本）",
+   "status": "歌词校对",
+   "role": "文本",
+   "grade": "A",
+   "accessed": "2026-09-07"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "In solitaria stanza langue per doglia atroce;",
+   "zh": "在孤寂的房间里，她因剧痛而憔悴；"
+  },
+  {
+   "text": "il labbro è senza voce, senza respiro il sen,",
+   "zh": "嘴唇没有声音，胸口没有呼吸，"
+  },
+  {
+   "text": "come in deserta aiuola, che di rugiade è priva,",
+   "zh": "像荒芜花坛里得不到露水的花，"
+  },
+  {
+   "text": "sotto alla vampa estiva molle narcisso svien.",
+   "zh": "在夏日的炙热下，柔弱的水仙枯萎。"
+  },
+  {
+   "text": "Io, dall’affanno oppresso, corro per vie rimote",
+   "zh": "我被忧虑压垮，奔向偏远的小路，"
+  },
+  {
+   "text": "e grido in suon che puote le rupi intenerir:",
+   "zh": "用能让岩石动容的声音呼喊："
+  },
+  {
+   "text": "Salvate, o Dei pietosi, quella beltà celeste;",
+   "zh": "救救她吧，仁慈的神明，那天国般的美人；"
+  },
+  {
+   "text": "voi forse non sapreste un’altra Irene ordir.",
+   "zh": "你们恐怕再也造不出另一个伊蕾内了。"
+  }
+ ],
+ "hints": [
+  {
+   "title": "重音与双辅音",
+   "items": [
+    "soliTÀria、STANza、LÀNgue、aTRÒce、LÀBbro（bb）、aFFANno（ff）、rugIÀde、narCÌSso（ss）、salVÀte、pieTÒsi。",
+    "“Irene” 重音在 re：i-RÈ-ne。"
+   ]
+  },
+  {
+   "title": "连读与省略",
+   "items": [
+    "“dall’affanno”“un’altra” 省音；“doglia‿atroce”“deserta‿aiuola” 元音连读。",
+    "“puote” 是古体 può；“svien” 是 sviene 的截略。"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "voce、croce 的 o 开口 [ɔ]；sen、ben 的 e 开口 [ɛ]；celeste 两个 e 均闭口。",
+    "r 弹舌：rupi、rimote、Irene。"
+   ]
+  }
+ ],
+ "story": {
+  "background": "这是威尔第 1838 年出版的第一部作品集《六首浪漫曲》中的第三首，词为 18 世纪诗人雅各布·维托雷利的抒情诗。当时威尔第 25 岁，尚未写出第一部歌剧，但这首歌已显露他日后歌剧咏叹调的戏剧性写法：从压抑的描述到向神呼喊的高潮。",
+  "situation": "叙述者的爱人伊蕾内（Irene）在孤寂的房间里病重，无声无息。他无法忍受，跑到荒野向神明呼喊：救救她——你们再也造不出第二个她。他想要的是奇迹，害怕的是失去她。",
+  "relationships": "“我”、病中的 “Irene”，以及被呼喊的 “Dei pietosi”（仁慈的众神）。前半是对伊蕾内的旁观描述，后半是对神的直接呼求，人物关系由旁观转为祈求。",
+  "intent": "前四句（描述病房与枯萎的花）要压抑、暗、几乎不带表情；“Io, dall’affanno oppresso” 起情绪外露，声音变宽；“e grido” 是呼喊的预告；“Salvate, o Dei pietosi” 是全曲高潮，要用全部气息；反复的 “un’altra Irene ordir” 逐次放轻，像祈求变成哀求。",
+  "plain30": "他心爱的伊蕾内病得快要死了。他跑到野外对神喊：救救她，你们再也造不出第二个她。威尔第 25 岁写的这首歌，已经像一首歌剧咏叹调。",
+  "arc": "4/4 Andante。前半（病房）旋律在低音区以短小的下行音型低语，钢琴节奏压抑；“Io, dall’affanno oppresso” 起旋律拉宽、音区上升；“Salvate, o Dei pietosi” 以跳进达到高音区，随后多次反复 “un’altra Irene ordir”，每次力度递减；结尾回到 “Salvate” 作最后一次呼喊。情绪：压抑—激动—呼喊—哀求。",
+  "motif": "核心动机是 “Salvate, o Dei” 的上行跳进呼喊：从低音直接跳到高音，像伸出手。它在前半以暗示形式（“langue per doglia” 的小跳）出现，在后半成为主导，反复变形。演唱时每次 “Salvate” 的跳进都要落在气息上。",
+  "motifPositions": [
+   {
+    "phrase": 1,
+    "note": "第 1 句 “In solitaria stanza” 以下行低语开始，跳进动机只作暗示。"
+   },
+   {
+    "phrase": 5,
+    "note": "第 5 句 “Io, dall’affanno oppresso” 音区上升，动机开始成形。"
+   },
+   {
+    "phrase": 7,
+    "note": "第 7 句 “Salvate, o Dei pietosi” 上行跳进呼喊，全曲高潮。"
+   },
+   {
+    "phrase": 8,
+    "note": "第 8 句起 “un’altra Irene ordir” 反复，力度逐次递减。"
+   }
+  ],
+  "technique": "呼吸：前半句子短、气息安静；“Salvate” 前需深吸并保持支撑。咬字：双辅音多（labbro、affanno、narcisso），前元音短；呼喊段元音要开。换声区：女高音在 E5–F♯5（“Salvate”“celeste”）经过换声区，用头腔避免撑。高音：最高音在 “Salvate” 或 “celeste”，是戏剧性的呼喊，靠气息推上，之后反复段逐次放轻，练习控制渐弱。",
+  "classroom": [
+   "先读中文，分清“描述病房”与“向神呼喊”两部分。",
+   "慢速读原文，标出重音与双辅音。",
+   "分离元音：练呼喊段的开口 a、o。",
+   "按 4/4 说词，前半轻、后半重。",
+   "听单音旋律，注意 “Salvate” 的跳进。",
+   "把歌词放回旋律，先练压抑段，再练高潮。",
+   "用正常速度完整演唱，反复段每次更轻。"
+  ]
+ },
+ "phraseFixes": {
+  "Comme in": "Come in",
+  "in tenerir": "intenerir"
+ }
+}

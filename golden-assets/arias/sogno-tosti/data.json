@@ -1,0 +1,2241 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "sogno-tosti",
+ "title": "Sogno",
+ "titleZh": "梦",
+ "composer": "F.P. Tosti",
+ "opera": "独立艺术歌曲（Romanza da salotto，约 1887）",
+ "language": "意大利语",
+ "voice": "男高音",
+ "difficulty": "中级",
+ "tempoBpm": 60,
+ "timeSignature": "6/8",
+ "coverage": {
+  "measures": [
+   1,
+   53
+  ],
+  "firstSungMeasure": 5,
+  "complete": true,
+  "note": "完整声乐旋律（4/4，约 50 小节），155 个意大利语音节；OpenScore 据 Ricordi 版转写。"
+ },
+ "range": {
+  "low": "Db4",
+  "high": "Eb5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主体：在梦中看见爱人跪在自己面前的人",
+ "genre": "浪漫曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus · Tosti, Sogno",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MXL（MuseScore 转写，CC0）",
+   "status": "已解析；155 个音节",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  },
+  {
+   "name": "IMSLP · Sogno (Tosti)",
+   "url": "https://imslp.org/wiki/Sogno_(Tosti,_Francesco_Paolo)",
+   "format": "PDF 声乐谱（公有领域出版）",
+   "status": "用于交叉核对",
+   "role": "参照原谱",
+   "grade": "A",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "Ho sognato che stavi a ginocchi",
+   "zh": "我梦见你跪在地上"
+  },
+  {
+   "text": "come un santo che prega il Signor,",
+   "zh": "像一个向上帝祈祷的圣徒，"
+  },
+  {
+   "text": "mi guardavi nel fondo degli occhi,",
+   "zh": "你凝视我双眼的深处，"
+  },
+  {
+   "text": "sfavillava il tuo sguardo d'amor.",
+   "zh": "你爱的目光闪烁着光芒。"
+  },
+  {
+   "text": "Tu parlavi e la voce sommessa",
+   "zh": "你说着话，那低沉的声音"
+  },
+  {
+   "text": "mi parea quella d'un cherubino,",
+   "zh": "在我听来就像天使的声音，"
+  },
+  {
+   "text": "e m'inondava l'anima oppressa",
+   "zh": "我沉重的灵魂被淹没在"
+  },
+  {
+   "text": "una forte dolcezza divin.",
+   "zh": "一种强烈而神圣的甜蜜之中。"
+  },
+  {
+   "text": "Ho sognato che stavi a ginocchi",
+   "zh": "我梦见你跪在地上"
+  },
+  {
+   "text": "come un santo che prega il Signor,",
+   "zh": "像一个向上帝祈祷的圣徒，"
+  },
+  {
+   "text": "mi guardavi nel fondo degli occhi,",
+   "zh": "你凝视我双眼的深处，"
+  },
+  {
+   "text": "sfavillava il tuo sguardo d'amor.",
+   "zh": "你爱的目光闪烁着光芒。"
+  }
+ ],
+ "story": {
+  "background": "弗朗切斯科·保罗·托斯蒂（1846-1916）是意大利最重要的沙龙歌曲作曲家之一，长期在伦敦担任英国王室的声乐教师。《梦》是他最受欢迎的浪漫曲之一，旋律优美、感情真挚，是男高音学习意大利语抒情线条的经典入门曲目。与他的《理想》（Ideale）一样，这首歌展现了托斯蒂将高雅的声乐技巧与沙龙亲切感完美融合的能力。",
+  "situation": "叙述者从一个美丽的梦中醒来，在梦中他看见爱人像圣徒一样跪在自己面前，目光中闪烁着爱的光芒。那低语的声音像天使一般，让他沉重的灵魂充满了神圣的甜蜜。歌曲的结构是 ABA'——第一段描述梦境，第二段深入内心感受，第三段回到梦境的画面，但带着更深的眷恋。",
+  "relationships": "歌者与梦中的爱人。这个爱人被描绘成几乎超凡脱俗的存在——跪着祈祷如圣徒，声音如天使。歌曲没有说明这是现实中的人还是纯粹的幻想，这种模糊正是浪漫曲的魅力：梦境比现实更美。",
+  "intent": "开头以叙述语气回忆梦境（「Ho sognato」），像在对朋友讲述昨晚的梦。「Mi guardavi」处旋律上升，重温那凝视的感觉。第二段「Tu parlavi」转为更内在的体验，「m'inondava l'anima oppressa」是情感最深处——被甜蜜淹没。第三段重复开头，但因为已经经历了中段的深入，演唱应更加眷恋、更不舍得从梦中醒来。",
+  "plain30": "一个人从梦中醒来，回忆梦里爱人跪在面前，目光闪耀，声音像天使。那梦太美了，他忍不住再讲一遍。这是一首关于比现实更美的梦的歌。",
+  "arc": "降B大调，4/4 Andante。钢琴以柔和的琶音开场，声乐线条以级进为主、偶有跳进。第一段在中音区平稳展开，「sfavillava」处有小高潮；第二段「Tu parlavi」转为更连绵的长线条，「una forte dolcezza divin」到达情感顶点和音域高点；第三段回到开头的旋律，但钢琴伴奏更丰满，结尾以渐弱消失，仿佛梦境在晨光中消散。",
+  "motif": "核心动机是「Ho sognato」的三音下行后上扬——叙述的语气。这个动机在第一句确立，第五句「Tu parlavi」以相似的下行开始但随后持续上行，表达从叙述到沉浸的转变。第三段重现时，同样的「Ho sognato」因为已知结局而带有更多留恋。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "「Ho sognato che stavi a ginocchi」叙述动机首次出现——平静的回忆"
+   },
+   {
+    "phrase": "4",
+    "note": "「sfavillava il tuo sguardo」旋律上行至第一段高点——闪耀的目光"
+   },
+   {
+    "phrase": "5",
+    "note": "「Tu parlavi e la voce sommessa」第二段开始——更内在、更连绵"
+   },
+   {
+    "phrase": "8",
+    "note": "「una forte dolcezza divin」全曲情感顶点——被甜蜜淹没"
+   },
+   {
+    "phrase": "9",
+    "note": "「Ho sognato」再现——相同的旋律，更深的眷恋"
+   }
+  ],
+  "technique": "呼吸：长乐句需要充足的气息支撑，「m'inondava l'anima oppressa / una forte dolcezza divin」是最长的连续段落，在「oppressa」之前换气。咬字：双辅音（ginocchi, sfavillava, sommessa）需要精确的停顿；gn [ɲ] 音要柔和自然。换声区：男高音在 E4-F4 区域经过换声点，保持元音通道统一。高音：「divin」上的高音靠前句的上行推上去，不突然加力；第三段重复时可以稍弱于第一次，体现梦境消散的感觉。整体：bel canto 的连贯线条是核心——每个音节之间不断开，像一条不间断的丝线。",
+  "classroom": [
+   "先读中文翻译，理解这是一个人在回忆美丽的梦——梦中的爱人像圣徒、像天使。",
+   "慢速朗读意大利语原文。注意 gn 的发音（sognato、ginocchi）和双辅音的停顿。",
+   "分离元音：区分开口 e/o 和闭口 e/o；练习省音连读（d'un, m'inondava, l'anima）。",
+   "按 4/4 说词，每拍一个音节的节奏感。",
+   "听旋律参考，注意第一段的平稳和第二段的上行扩展。",
+   "把歌词放回旋律，先练第一段的叙述语气，再练第二段的情感深入。",
+   "完整演唱。第三段重复时比第一次更轻柔、更不舍——你在讲一个即将消散的梦。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "双辅音与「gn」音",
+   "items": [
+    "「sognato」「ginocchi」中的 gn 发 [ɲ]（类似汉语「女」的声母），舌面贴硬腭",
+    "「ginocchi」的 cch 是双辅音 [kk]，停顿后爆破",
+    "「sfavillava」的 ll 双辅音需要明确拉长",
+    "「sommessa」的 ss、mm 都是双辅音"
+   ]
+  },
+  {
+   "title": "开闭口元音",
+   "items": [
+    "「prega」「sommessa」「oppressa」的 e 为开口 [ɛ]",
+    "「che」「dolcezza」的 e 为闭口 [e]",
+    "「fondo」「amor」的 o 为开口 [ɔ]",
+    "「come」「voce」的 o 为闭口 [o]"
+   ]
+  },
+  {
+   "title": "连读与诗体省略",
+   "items": [
+    "「d'un」= di un，省音连读",
+    "「m'inondava」= mi inondava，省音",
+    "「l'anima」= la anima，省音",
+    "「d'amor」= di amor，诗体省音"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    5,
+    9
+   ],
+   "lyrics": "Ho sognato che stavi a ginocchi Come un santo che prega il Signor,",
+   "translation": "像一个向上帝祈祷的圣徒，",
+   "events": [
+    {
+     "id": "sogno-tosti-e0006",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0007",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 5,
+     "beat": 2,
+     "lyric": "Ho",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0008",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 2.667,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0009",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 1,
+     "lyric": "gna",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0010",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 1.333,
+     "lyric": "to",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0011",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 1.667,
+     "lyric": "che",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0012",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2,
+     "lyric": "sta",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0013",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.333,
+     "lyric": "vi a",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0014",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 2.667,
+     "lyric": "gi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0015",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 7,
+     "beat": 1,
+     "lyric": "noc",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0016",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 1.667,
+     "lyric": "chi",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0017",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0018",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.333,
+     "lyric": "Co",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0019",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 7,
+     "beat": 2.667,
+     "lyric": "me un",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0020",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1,
+     "lyric": "san",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0021",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.333,
+     "lyric": "to",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0022",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.667,
+     "lyric": "che",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0023",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2,
+     "lyric": "pre",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0024",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.333,
+     "lyric": "ga il",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0025",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 2.667,
+     "lyric": "Si",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0026",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2,
+     "measure": 9,
+     "beat": 1,
+     "lyric": "gnor,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    9,
+    11
+   ],
+   "lyrics": "Mi guardavi nel fondo degl’occhi,",
+   "translation": "你凝视我双眼的深处，",
+   "events": [
+    {
+     "id": "sogno-tosti-e0027",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.333,
+     "lyric": "Mi",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0028",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 2.667,
+     "lyric": "guar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0029",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1,
+     "lyric": "da",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0030",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.333,
+     "lyric": "vi",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0031",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 1.667,
+     "lyric": "nel",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0032",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2,
+     "lyric": "fon",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0033",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.333,
+     "lyric": "do",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0034",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 10,
+     "beat": 2.667,
+     "lyric": "de",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0035",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1,
+     "measure": 11,
+     "beat": 1,
+     "lyric": "gl’oc",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0036",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.667,
+     "lyric": "chi,",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0037",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    11,
+    13
+   ],
+   "lyrics": "Sfavillava il tuo sguardo d’amor.",
+   "translation": "你爱的目光闪烁着光芒。",
+   "events": [
+    {
+     "id": "sogno-tosti-e0038",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.333,
+     "lyric": "Sfa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0039",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 2.667,
+     "lyric": "vil",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0040",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1,
+     "lyric": "la",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0041",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.333,
+     "lyric": "va il",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0042",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.667,
+     "lyric": "tuo",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0043",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 2,
+     "lyric": "sguar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0044",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 12,
+     "beat": 2.333,
+     "lyric": "do",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0045",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 2.833,
+     "lyric": "d’a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0046",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 13,
+     "beat": 1,
+     "lyric": "mor.",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0047",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0048",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    13,
+    17
+   ],
+   "lyrics": "Tu parlavi e la voce sommessa Mi chiede a dolce mente mercè,",
+   "translation": "你说着话，那低沉的声音",
+   "events": [
+    {
+     "id": "sogno-tosti-e0049",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.333,
+     "lyric": "Tu",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0050",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 2.667,
+     "lyric": "par",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0051",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1,
+     "lyric": "la",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0052",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.333,
+     "lyric": "vi e",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0053",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.667,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0054",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2,
+     "lyric": "vo",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0055",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.333,
+     "lyric": "ce",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0056",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 2.667,
+     "lyric": "som",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0057",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 15,
+     "beat": 1,
+     "lyric": "mes",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0058",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 15,
+     "beat": 1.667,
+     "lyric": "sa",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0059",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.333,
+     "lyric": "Mi",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0060",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 15,
+     "beat": 2.667,
+     "lyric": "chie",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0061",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1,
+     "lyric": "de a",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0062",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.333,
+     "lyric": "dol",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0063",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.667,
+     "lyric": "ce",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0064",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "sogno-tosti-e0065",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "sogno-tosti-e0066",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2,
+     "lyric": "men",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0067",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.333,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0068",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 2.667,
+     "lyric": "mer",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0069",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2,
+     "measure": 17,
+     "beat": 1,
+     "lyric": "cè,",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0070",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0071",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 17,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    18,
+    24
+   ],
+   "lyrics": "Solo un guardo che fosse pro messa Imploravi curvato al",
+   "translation": "在我听来就像天使的声音，",
+   "events": [
+    {
+     "id": "sogno-tosti-e0072",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 18,
+     "beat": 1,
+     "lyric": "So",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0073",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 18,
+     "beat": 2,
+     "lyric": "lo",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0074",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 18,
+     "beat": 2.667,
+     "lyric": "un",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0075",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 19,
+     "beat": 1,
+     "lyric": "guar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0076",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 19,
+     "beat": 2,
+     "lyric": "do",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0077",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 19,
+     "beat": 2.667,
+     "lyric": "che",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0078",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 20,
+     "beat": 1,
+     "lyric": "fos",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0079",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1,
+     "measure": 20,
+     "beat": 2,
+     "lyric": "se",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0080",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 2.667,
+     "lyric": "pro",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0081",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 21,
+     "beat": 1,
+     "lyric": "mes",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0082",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 2.5,
+     "measure": 21,
+     "beat": 2,
+     "lyric": "sa",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0083",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0084",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0085",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.333,
+     "lyric": "Im",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0086",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 2.667,
+     "lyric": "plo",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0087",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 23,
+     "beat": 1,
+     "lyric": "ra",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0088",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2,
+     "lyric": "vi",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0089",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0090",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 2.667,
+     "lyric": "cur",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0091",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 24,
+     "beat": 1,
+     "lyric": "va",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0092",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "sogno-tosti-e0093",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "sogno-tosti-e0094",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 24,
+     "beat": 2,
+     "lyric": "to al",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    24,
+    30
+   ],
+   "lyrics": "mio piè Io taceva, e coll’anima",
+   "translation": "你说着话，那低沉的声音",
+   "events": [
+    {
+     "id": "sogno-tosti-e0095",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 24,
+     "beat": 2.667,
+     "lyric": "mio",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0096",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 2,
+     "measure": 25,
+     "beat": 1,
+     "lyric": "piè",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0097",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0098",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 25,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0099",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 26,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0100",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 27,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0101",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 28,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0102",
+     "pitch": null,
+     "rest": true,
+     "duration": 1,
+     "measure": 29,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0103",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0104",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 29,
+     "beat": 2,
+     "lyric": "Io",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0105",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 2.667,
+     "lyric": "ta",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0106",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1,
+     "lyric": "ce",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0107",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1.333,
+     "lyric": "va, e",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0108",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 1.667,
+     "lyric": "col",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0109",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2,
+     "lyric": "l’a",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0110",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.333,
+     "lyric": "ni",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0111",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 30,
+     "beat": 2.667,
+     "lyric": "ma",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    31,
+    34
+   ],
+   "lyrics": "forte Il desio tentatore lottò Ho provato il martirio e la",
+   "translation": "你说着话，那低沉的声音",
+   "events": [
+    {
+     "id": "sogno-tosti-e0112",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 31,
+     "beat": 1,
+     "lyric": "for",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0113",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.667,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0114",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0115",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.333,
+     "lyric": "Il",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0116",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 2.667,
+     "lyric": "de",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0117",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1,
+     "lyric": "sio",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0118",
+     "pitch": "Eb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.333,
+     "lyric": "ten",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0119",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 1.667,
+     "lyric": "ta",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0120",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2,
+     "lyric": "to",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0121",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.333,
+     "lyric": "re",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0122",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 32,
+     "beat": 2.667,
+     "lyric": "lot",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0123",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2,
+     "measure": 33,
+     "beat": 1,
+     "lyric": "tò",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0124",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2.333,
+     "lyric": "Ho",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0125",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 33,
+     "beat": 2.667,
+     "lyric": "pro",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0126",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1,
+     "lyric": "va",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0127",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.333,
+     "lyric": "to il",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0128",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.667,
+     "lyric": "mar",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0129",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 2,
+     "lyric": "ti",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0130",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 2.333,
+     "lyric": "rio e",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0131",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 2.667,
+     "lyric": "la",
+     "syllabic": "single"
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    35,
+    37
+   ],
+   "lyrics": "morte, Pur mi vinsi e ti dissi di no.",
+   "translation": "在我听来就像天使的声音，",
+   "events": [
+    {
+     "id": "sogno-tosti-e0132",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1,
+     "measure": 35,
+     "beat": 1,
+     "lyric": "mor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0133",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 1.667,
+     "lyric": "te,",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0134",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0135",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.333,
+     "lyric": "Pur",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0136",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 35,
+     "beat": 2.667,
+     "lyric": "mi",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0137",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1,
+     "lyric": "vin",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0138",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.333,
+     "lyric": "si e",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0139",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.667,
+     "lyric": "ti",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0140",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 2,
+     "lyric": "dis",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0141",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 36,
+     "beat": 2.333,
+     "lyric": "si",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0142",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 2.833,
+     "lyric": "di",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0143",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 37,
+     "beat": 1,
+     "lyric": "no.",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0144",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0145",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    37,
+    41
+   ],
+   "lyrics": "Ma il tuo labbro sfiorò la mia faccia E la forza del cor mi tradì",
+   "translation": "我沉重的灵魂被淹没在",
+   "events": [
+    {
+     "id": "sogno-tosti-e0146",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2.333,
+     "lyric": "Ma il",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0147",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 2.667,
+     "lyric": "tuo",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0148",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1,
+     "lyric": "lab",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0149",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1.333,
+     "lyric": "bro",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0150",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1.667,
+     "lyric": "sfio",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0151",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2,
+     "lyric": "rò",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0152",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2.333,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0153",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 2.667,
+     "lyric": "mia",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0154",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 39,
+     "beat": 1,
+     "lyric": "fac",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0155",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 39,
+     "beat": 1.667,
+     "lyric": "cia",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0156",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.333,
+     "lyric": "E",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0157",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 2.667,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0158",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1,
+     "lyric": "for",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0159",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.333,
+     "lyric": "za",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0160",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.667,
+     "lyric": "del",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0161",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2,
+     "lyric": "cor",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0162",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.333,
+     "lyric": "mi",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0163",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 2.667,
+     "lyric": "tra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0164",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 2,
+     "measure": 41,
+     "beat": 1,
+     "lyric": "dì",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0165",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0166",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    42,
+    46
+   ],
+   "lyrics": "Chiusi gli occhi, ti stesi le braccia,",
+   "translation": "我沉重的灵魂被淹没在",
+   "events": [
+    {
+     "id": "sogno-tosti-e0167",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 42,
+     "beat": 1,
+     "lyric": "Chiu",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0168",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 42,
+     "beat": 2,
+     "lyric": "si",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0169",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 2.667,
+     "lyric": "gli",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0170",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 43,
+     "beat": 1,
+     "lyric": "oc",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0171",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 1,
+     "measure": 43,
+     "beat": 2,
+     "lyric": "chi,",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0172",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 43,
+     "beat": 2.667,
+     "lyric": "ti",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0173",
+     "pitch": "Eb5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 44,
+     "beat": 1,
+     "lyric": "ste",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0174",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1,
+     "measure": 44,
+     "beat": 2,
+     "lyric": "si",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0175",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 2.667,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0176",
+     "pitch": "Db5",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 45,
+     "beat": 1,
+     "lyric": "brac",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0177",
+     "pitch": "Cb5",
+     "rest": false,
+     "duration": 2,
+     "measure": 45,
+     "beat": 2,
+     "lyric": "cia,",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0178",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0179",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    46,
+    53
+   ],
+   "lyrics": "Ma sognavo e il bel sogno svanì!",
+   "translation": "我沉重的灵魂被淹没在",
+   "events": [
+    {
+     "id": "sogno-tosti-e0180",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 1,
+     "measure": 46,
+     "beat": 2,
+     "lyric": "Ma",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0181",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 46,
+     "beat": 2.667,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0182",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 47,
+     "beat": 1,
+     "lyric": "gna",
+     "syllabic": "middle"
+    },
+    {
+     "id": "sogno-tosti-e0183",
+     "pitch": "Db4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2,
+     "lyric": "vo",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0184",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0185",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 2.667,
+     "lyric": "e il",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0186",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 2.833,
+     "lyric": "bel",
+     "syllabic": "single"
+    },
+    {
+     "id": "sogno-tosti-e0187",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 48,
+     "beat": 1,
+     "lyric": "so",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0188",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 48,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "sogno-tosti-e0189",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 48,
+     "beat": 2,
+     "lyric": "",
+     "syllabic": null,
+     "grace": true
+    },
+    {
+     "id": "sogno-tosti-e0190",
+     "pitch": "Ab4",
+     "rest": false,
+     "duration": 1,
+     "measure": 48,
+     "beat": 2,
+     "lyric": "gno",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0191",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 2.667,
+     "lyric": "sva",
+     "syllabic": "begin"
+    },
+    {
+     "id": "sogno-tosti-e0192",
+     "pitch": "Gb4",
+     "rest": false,
+     "duration": 2,
+     "measure": 49,
+     "beat": 1,
+     "lyric": "nì!",
+     "syllabic": "end"
+    },
+    {
+     "id": "sogno-tosti-e0193",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0194",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 49,
+     "beat": 2.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0195",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 50,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0196",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 51,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0197",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 52,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "sogno-tosti-e0198",
+     "pitch": null,
+     "rest": true,
+     "duration": 3,
+     "measure": 53,
+     "beat": 1,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 193,
+ "restCount": 32,
+ "lyricNoteCount": 155,
+ "pages": 1,
+ "speech": {
+  "voice": "it_IT-paola-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 11,
+  "slowScale": 1.45
+ }
+}

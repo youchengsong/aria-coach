@@ -1,0 +1,2129 @@
+{
+ "schema": "aria-learning/v2",
+ "id": "cest-lextase",
+ "title": "C'est l'extase langoureuse",
+ "titleZh": "这是慵懒的狂喜",
+ "composer": "C. Debussy",
+ "opera": "Ariettes oubliées, No. 1（1887；诗：P. Verlaine）",
+ "language": "法语",
+ "voice": "女高音",
+ "difficulty": "中级",
+ "tempoBpm": 54,
+ "timeSignature": "3/8",
+ "coverage": {
+  "measures": [
+   1,
+   52
+  ],
+  "firstSungMeasure": 3,
+  "complete": true,
+  "note": "完整声乐旋律（E 大调，4/4，慢而飘渺）。德布西早期印象派杰作。来源为 OpenScore Lieder Corpus CC0 MusicXML。"
+ },
+ "range": {
+  "low": "C4",
+  "high": "A5"
+ },
+ "state": "published",
+ "sourceGrade": "B",
+ "role": "抒情主人公（沉浸于慵懒狂喜者）",
+ "genre": "艺术歌曲",
+ "sourceStatus": "OpenScore Lieder Corpus (CC0) · 已核验",
+ "sources": [
+  {
+   "name": "OpenScore Lieder Corpus",
+   "url": "https://github.com/OpenScore/Lieder",
+   "format": "MusicXML (MXL)",
+   "status": "CC0 公有领域，MuseScore 转写",
+   "role": "旋律、时值、歌词音节",
+   "grade": "B",
+   "accessed": "2026-09-11"
+  }
+ ],
+ "lyrics": [
+  {
+   "text": "C'est l'extase langoureuse,",
+   "zh": "这是慵懒的狂喜，"
+  },
+  {
+   "text": "c'est la fatigue amoureuse,",
+   "zh": "这是爱情的疲惫，"
+  },
+  {
+   "text": "c'est tous les frissons des bois",
+   "zh": "这是树林中所有的颤栗——"
+  },
+  {
+   "text": "parmi l'étreinte des brises,",
+   "zh": "在微风的拥抱之中，"
+  },
+  {
+   "text": "c'est, vers les ramures grises,",
+   "zh": "这是，朝着灰色的枝叶，"
+  },
+  {
+   "text": "le chœur des petites voix.",
+   "zh": "细小声音的合唱。"
+  },
+  {
+   "text": "Ô le frêle et frais murmure!",
+   "zh": "哦那纤细而清新的低语！"
+  },
+  {
+   "text": "Cela gazouille et susurre,",
+   "zh": "那啁啾与细语，"
+  },
+  {
+   "text": "cela ressemble au cri doux",
+   "zh": "像是温柔的呼喊——"
+  },
+  {
+   "text": "que l'herbe agitée expire.",
+   "zh": "被搅动的青草发出的叹息。"
+  },
+  {
+   "text": "Tu dirais, sous l'eau qui vire,",
+   "zh": "你会说，在旋转的水流下面，"
+  },
+  {
+   "text": "le roulis sourd des cailloux.",
+   "zh": "是鹅卵石沉闷的翻滚声。"
+  },
+  {
+   "text": "Cette âme qui se lamente",
+   "zh": "这个在哀叹的灵魂——"
+  },
+  {
+   "text": "en cette plainte dormante,",
+   "zh": "在这沉睡的哀诉中——"
+  },
+  {
+   "text": "c'est la nôtre, n'est-ce pas?",
+   "zh": "就是我们的，不是吗？"
+  },
+  {
+   "text": "La mienne, dis, et la tienne,",
+   "zh": "我的，你说呢，还有你的，"
+  },
+  {
+   "text": "dont s'exhale l'humble antienne",
+   "zh": "从中呼出谦卑的圣歌——"
+  },
+  {
+   "text": "par ce tiède soir, tout bas.",
+   "zh": "在这温暖的傍晚，轻轻地。"
+  }
+ ],
+ "story": {
+  "background": "《被遗忘的小咏叹调》是德布西 1887 年根据魏尔兰诗集《无言的浪漫曲》创作的六首歌曲。第一首「这是慵懒的狂喜」是整套作品的开篇——魏尔兰将爱情的余韵与自然景色融为一体：风中的颤栗、水中的卵石声、草地的叹息，都是两个灵魂合一后的回响。德布西用漂浮的和声和模糊的调性完美再现了这种恍惚状态。",
+  "situation": "爱情之后的恍惚时刻——两个人躺在黄昏的自然中，分不清哪些感觉来自身体，哪些来自风和水。所有的自然声音都变成了爱情的回声。最后歌者意识到：这个在自然中哀叹的灵魂就是我们的——我的和你的。",
+  "relationships": "歌者与爱人——但在这首歌中两人已经融合，「la mienne et la tienne」（我的和你的灵魂）变成了自然本身的声音。",
+  "intent": "整首歌要像从梦中说话。不要有任何突然的力度变化——一切都是渐变的、流动的。开头的三个「c'est」像是在指认：这是……这是……这是……——慢慢辨认模糊感觉的名称。中段「Ô le frêle et frais murmure」是一声轻叹。结尾的「tout bas」要消失在空气中。",
+  "plain30": "爱情之后的恍惚。风中的颤栗、水中的石头声、草地的叹息——所有自然的声音都变成了两个灵魂的回响。德布西用漂浮的音乐让你分不清是梦是醒。",
+  "arc": "E 大调（但调性极其模糊），4/4，慢。钢琴的伴奏像水面的微波。声乐线在窄音域中飘浮，很少有大跳。三段诗对应三层感知：外部自然→声音细节→内在灵魂。和声从不真正解决——全曲维持在一种悬浮状态中。",
+  "motif": "恍惚动机：声乐开头的窄幅级进——在三四个音之间摇摆，像半梦半醒。自然声动机：「le chœur des petites voix」处旋律略微展开，模仿细小声音的合唱。钢琴的分解和弦像水面的涟漪，从不形成明确的节奏重音。",
+  "motifPositions": [
+   {
+    "phrase": "1",
+    "note": "开头「C'est l'extase」——恍惚动机，窄幅飘浮"
+   },
+   {
+    "phrase": "7",
+    "note": "「Ô le frêle et frais murmure」——轻叹，声音最透明的时刻"
+   },
+   {
+    "phrase": "13",
+    "note": "「Cette âme qui se lamente」——从自然回到灵魂"
+   },
+   {
+    "phrase": "14",
+    "note": "「tout bas」——消失在温暖的空气中"
+   }
+  ],
+  "technique": "音域不宽但对音准要求极高——德布西的和声经常在非功能和弦上停留，歌手必须在没有调性支撑的情况下保持准确。力度几乎全程在 p 以下。最大的挑战是在极轻的声音中保持声带的正常振动和腔体共鸣——如果失去支撑就会变成虚声。法语咬字要极其柔和——辅音不能打断旋律的流动。",
+  "classroom": [
+   "先读中文——理解诗的三层：自然景象→声音细节→灵魂的认同。",
+   "用极轻的声音朗读法语——像是在对枕边人耳语。",
+   "听一遍钢琴伴奏——感受和声的漂浮感，不要试图找到「落点」。",
+   "在钢琴上找到声乐入音——德布西经常让声乐在非和弦音上进入，需要准确的音准。",
+   "半速哼唱旋律——保持极窄的音量范围，从 pp 到 p。",
+   "加入歌词——法语的连读和省音在慢速下要格外注意。",
+   "原速演唱。不要试图「表达」——让音乐自己流动。印象派的目标不是情感表达，而是创造一种氛围。"
+  ]
+ },
+ "hints": [
+  {
+   "title": "法语半元音与连读",
+   "items": [
+    "extase [ɛkstaz]——x 发 [ks]，注意不要吞掉",
+    "langoureuse 的 ou [u] 和 eu [øz]——两个圆唇元音连续出现",
+    "frissons [fʁisɔ̃]——ss 是清 [s]，on 是鼻化 [ɔ̃]",
+    "gazouille [gazuj]——ouille 读 [uj]，不是 [wij]"
+   ]
+  },
+  {
+   "title": "印象派演唱风格",
+   "items": [
+    "德布西的歌曲不追求意大利式的共鸣——声音应该像水彩画，边界模糊",
+    "许多乐句在极弱的力度上——但不能失去音准和支撑",
+    "词与词之间的连接要像水流——没有硬边界"
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "index": 1,
+   "measures": [
+    3,
+    6
+   ],
+   "lyrics": "C'est l'extase langoureuse,",
+   "translation": "这是慵懒的狂喜，",
+   "events": [
+    {
+     "id": "cest-lextase-e0003",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0004",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 1.333,
+     "lyric": "C'est",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0005",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 3,
+     "beat": 1.667,
+     "lyric": "l'ex",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0006",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 4,
+     "beat": 1.0,
+     "lyric": "ta",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0007",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 1.5,
+     "lyric": "se",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0008",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 1.667,
+     "lyric": "lan",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0009",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 4,
+     "beat": 1.833,
+     "lyric": "gou",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0010",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 5,
+     "beat": 1.0,
+     "lyric": "reu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0011",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 5,
+     "beat": 1.333,
+     "lyric": "se,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0012",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 6,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0013",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "measures": [
+    6,
+    11
+   ],
+   "lyrics": "C'est la fatigue amoureuse,",
+   "translation": "这是爱情的疲惫，",
+   "events": [
+    {
+     "id": "cest-lextase-e0014",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.5,
+     "lyric": "C'est",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0015",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.667,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0016",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 6,
+     "beat": 1.833,
+     "lyric": "fa",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0017",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 7,
+     "beat": 1.0,
+     "lyric": "tigue",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0018",
+     "pitch": "B#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 1.667,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0019",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 7,
+     "beat": 1.833,
+     "lyric": "mou",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0020",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 8,
+     "beat": 1.0,
+     "lyric": "reu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0021",
+     "pitch": "B#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 8,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0022",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 9,
+     "beat": 1.0,
+     "lyric": "se,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0023",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 9,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0024",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 10,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0025",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 11,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "measures": [
+    11,
+    15
+   ],
+   "lyrics": "C'est tous les frissons des bois Parmi l'étreinte des brises.",
+   "translation": "这是树林中所有的颤栗——",
+   "events": [
+    {
+     "id": "cest-lextase-e0026",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.333,
+     "lyric": "C'est",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0027",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.5,
+     "lyric": "tous",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0028",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.667,
+     "lyric": "les",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0029",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 11,
+     "beat": 1.833,
+     "lyric": "fris",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0030",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.0,
+     "lyric": "sons",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0031",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 12,
+     "beat": 1.167,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0032",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.333,
+     "lyric": "bois",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0033",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 12,
+     "beat": 1.667,
+     "lyric": "Par",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0034",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.0,
+     "lyric": "mi",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0035",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.167,
+     "lyric": "l'é",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0036",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 13,
+     "beat": 1.333,
+     "lyric": "trein",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0037",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.667,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0038",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 13,
+     "beat": 1.833,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0039",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 14,
+     "beat": 1.0,
+     "lyric": "bri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0040",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 14,
+     "beat": 1.667,
+     "lyric": "ses.",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0041",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "measures": [
+    15,
+    16
+   ],
+   "lyrics": "C'est, vers les ramures grises,",
+   "translation": "这是，朝着灰色的枝叶，",
+   "events": [
+    {
+     "id": "cest-lextase-e0042",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.167,
+     "lyric": "C'est,",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0043",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0044",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.5,
+     "lyric": "vers",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0045",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.667,
+     "lyric": "les",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0046",
+     "pitch": "Bb4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 15,
+     "beat": 1.833,
+     "lyric": "ra",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0047",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.0,
+     "lyric": "mu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0048",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 16,
+     "beat": 1.167,
+     "lyric": "res",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0049",
+     "pitch": "G4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.333,
+     "lyric": "gri",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0050",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 16,
+     "beat": 1.667,
+     "lyric": "ses,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "measures": [
+    17,
+    20
+   ],
+   "lyrics": "Le choeur des petites voix.",
+   "translation": "细小声音的合唱。",
+   "events": [
+    {
+     "id": "cest-lextase-e0051",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.0,
+     "lyric": "Le",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0052",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.167,
+     "lyric": "choeur",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0053",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.333,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0054",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.5,
+     "lyric": "pe",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0055",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.667,
+     "lyric": "ti",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0056",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 17,
+     "beat": 1.833,
+     "lyric": "tes",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0057",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 1.5,
+     "measure": 18,
+     "beat": 1.0,
+     "lyric": "voix.",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0058",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 19,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0059",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "measures": [
+    20,
+    22
+   ],
+   "lyrics": "O le frêle et frais murmure,",
+   "translation": "哦那纤细而清新的低语！",
+   "events": [
+    {
+     "id": "cest-lextase-e0060",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 20,
+     "beat": 1.167,
+     "lyric": "O",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0061",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 1.5,
+     "lyric": "le",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0062",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 1.667,
+     "lyric": "frê",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0063",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 20,
+     "beat": 1.833,
+     "lyric": "le et",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0064",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 1.0,
+     "lyric": "frais",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0065",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 21,
+     "beat": 1.167,
+     "lyric": "mur",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0066",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 1.333,
+     "lyric": "mu",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0067",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 21,
+     "beat": 1.667,
+     "lyric": "re,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0068",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "measures": [
+    22,
+    29
+   ],
+   "lyrics": "Cela gazouille et susure, Cela ressemble au cri doux Que l'herbe agitée expire.",
+   "translation": "像是温柔的呼喊——",
+   "events": [
+    {
+     "id": "cest-lextase-e0069",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.167,
+     "lyric": "Ce",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0070",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.333,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0071",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 22,
+     "beat": 1.5,
+     "lyric": "ga",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0072",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 22,
+     "beat": 1.667,
+     "lyric": "zouille",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0073",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.0,
+     "lyric": "et",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0074",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.167,
+     "lyric": "su",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0075",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 23,
+     "beat": 1.333,
+     "lyric": "su",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0076",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.667,
+     "lyric": "re,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0077",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 23,
+     "beat": 1.833,
+     "lyric": "Ce",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0078",
+     "pitch": "G#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 24,
+     "beat": 1.0,
+     "lyric": "la",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0079",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0080",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.667,
+     "lyric": "res",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0081",
+     "pitch": "E#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 24,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0082",
+     "pitch": "G#5",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 25,
+     "beat": 1.0,
+     "lyric": "semble",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0083",
+     "pitch": "G5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0084",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 1.667,
+     "lyric": "au",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0085",
+     "pitch": "E#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 25,
+     "beat": 1.833,
+     "lyric": "cri",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0086",
+     "pitch": "E#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 26,
+     "beat": 1.0,
+     "lyric": "doux",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0087",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 26,
+     "beat": 1.333,
+     "lyric": "Que",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0088",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 26,
+     "beat": 1.5,
+     "lyric": "l'herbe",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0089",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 26,
+     "beat": 1.667,
+     "lyric": "a",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0090",
+     "pitch": "B#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 26,
+     "beat": 1.833,
+     "lyric": "gi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0091",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 1.0,
+     "lyric": "tée",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0092",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 27,
+     "beat": 1.167,
+     "lyric": "ex",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0093",
+     "pitch": "A#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 27,
+     "beat": 1.333,
+     "lyric": "pi",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0094",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 28,
+     "beat": 1.0,
+     "lyric": "re.",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0095",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 28,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0096",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "measures": [
+    29,
+    31
+   ],
+   "lyrics": "Tu dirais, sous l'eau qui vire,",
+   "translation": "你会说，在旋转的水流下面，",
+   "events": [
+    {
+     "id": "cest-lextase-e0097",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 1.333,
+     "lyric": "Tu",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0098",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 29,
+     "beat": 1.5,
+     "lyric": "di",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0099",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 29,
+     "beat": 1.667,
+     "lyric": "rais,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0100",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0101",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 1.167,
+     "lyric": "sous",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0102",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 1.333,
+     "lyric": "l'eau",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0103",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 30,
+     "beat": 1.5,
+     "lyric": "qui",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0104",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 30,
+     "beat": 1.667,
+     "lyric": "vi",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0105",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0106",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 31,
+     "beat": 1.667,
+     "lyric": "re,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "measures": [
+    32,
+    36
+   ],
+   "lyrics": "Le roulis sourd des cailloux,",
+   "translation": "是鹅卵石沉闷的翻滚声。",
+   "events": [
+    {
+     "id": "cest-lextase-e0107",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 1.0,
+     "lyric": "Le",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0108",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0109",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 1.333,
+     "lyric": "rou",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0110",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0111",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 1.667,
+     "lyric": "lis",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0112",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 32,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0113",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.0,
+     "lyric": "sourd",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0114",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.167,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0115",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.333,
+     "lyric": "des",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0116",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.5,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0117",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.667,
+     "lyric": "cail",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0118",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 33,
+     "beat": 1.833,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0119",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 34,
+     "beat": 1.0,
+     "lyric": "loux,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0120",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 34,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0121",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 35,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0122",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0123",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 36,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0124",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "measures": [
+    36,
+    39
+   ],
+   "lyrics": "Cette âme qui se lamente En cette plainte dormante,",
+   "translation": "这个在哀叹的灵魂——",
+   "events": [
+    {
+     "id": "cest-lextase-e0125",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 36,
+     "beat": 1.833,
+     "lyric": "Cette",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0126",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 37,
+     "beat": 1.0,
+     "lyric": "â",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0127",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 37,
+     "beat": 1.333,
+     "lyric": "me",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0128",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 37,
+     "beat": 1.5,
+     "lyric": "qui",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0129",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 37,
+     "beat": 1.667,
+     "lyric": "se",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0130",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 37,
+     "beat": 1.833,
+     "lyric": "la",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0131",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 38,
+     "beat": 1.0,
+     "lyric": "men",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0132",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 38,
+     "beat": 1.333,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0133",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 38,
+     "beat": 1.5,
+     "lyric": "En",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0134",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 38,
+     "beat": 1.667,
+     "lyric": "cet",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0135",
+     "pitch": "C5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 38,
+     "beat": 1.833,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0136",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 39,
+     "beat": 1.0,
+     "lyric": "plain",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0137",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 39,
+     "beat": 1.333,
+     "lyric": "te",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0138",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 39,
+     "beat": 1.5,
+     "lyric": "dor",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0139",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 39,
+     "beat": 1.667,
+     "lyric": "man",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0140",
+     "pitch": "D#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 39,
+     "beat": 1.833,
+     "lyric": "te,",
+     "syllabic": "end"
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "measures": [
+    40,
+    41
+   ],
+   "lyrics": "C'est la nôtre, n'est– ce pas?",
+   "translation": "就是我们的，不是吗？",
+   "events": [
+    {
+     "id": "cest-lextase-e0141",
+     "pitch": "D4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 40,
+     "beat": 1.0,
+     "lyric": "C'est",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0142",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 40,
+     "beat": 1.167,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0143",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.333,
+     "lyric": "nô",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0144",
+     "pitch": "F4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 40,
+     "beat": 1.667,
+     "lyric": "tre,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0145",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.1667,
+     "measure": 41,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0146",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 41,
+     "beat": 1.111,
+     "lyric": "n'est–",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0147",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 41,
+     "beat": 1.222,
+     "lyric": "ce",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0148",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 41,
+     "beat": 1.333,
+     "lyric": "pas?",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0149",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 41,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "measures": [
+    41,
+    43
+   ],
+   "lyrics": "La mienne, dis,",
+   "translation": "我的，你说呢，还有你的，",
+   "events": [
+    {
+     "id": "cest-lextase-e0150",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 41,
+     "beat": 1.833,
+     "lyric": "La",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0151",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 1.0,
+     "lyric": "mien",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0152",
+     "pitch": "B4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 42,
+     "beat": 1.333,
+     "lyric": "ne,",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0153",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0154",
+     "pitch": "D5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 42,
+     "beat": 1.833,
+     "lyric": "dis,",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0155",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.1667,
+     "measure": 43,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "measures": [
+    43,
+    47
+   ],
+   "lyrics": "et la tienne Dont s'exale l'humble antienne Par ce tiède soir,",
+   "translation": "在这温暖的傍晚，轻轻地。",
+   "events": [
+    {
+     "id": "cest-lextase-e0156",
+     "pitch": "F5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 43,
+     "beat": 1.111,
+     "lyric": "et",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0157",
+     "pitch": "A5",
+     "rest": false,
+     "duration": 0.1667,
+     "measure": 43,
+     "beat": 1.222,
+     "lyric": "la",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0158",
+     "pitch": "A5",
+     "rest": false,
+     "duration": 1.25,
+     "measure": 43,
+     "beat": 1.333,
+     "lyric": "tien",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0159",
+     "pitch": "A5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 44,
+     "beat": 1.167,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0160",
+     "pitch": "G#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.333,
+     "lyric": "Dont",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0161",
+     "pitch": "F#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 44,
+     "beat": 1.667,
+     "lyric": "s'e",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0162",
+     "pitch": "D#5",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 45,
+     "beat": 1.0,
+     "lyric": "xa",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0163",
+     "pitch": "C#5",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.333,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0164",
+     "pitch": "A4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.5,
+     "lyric": "le",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0165",
+     "pitch": "G#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.667,
+     "lyric": "l'hum",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0166",
+     "pitch": "F#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 45,
+     "beat": 1.833,
+     "lyric": "ble an",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0167",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.75,
+     "measure": 46,
+     "beat": 1.0,
+     "lyric": "tien",
+     "syllabic": "middle"
+    },
+    {
+     "id": "cest-lextase-e0168",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 1.5,
+     "lyric": "ne",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0169",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 1.667,
+     "lyric": "Par",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0170",
+     "pitch": "C4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 46,
+     "beat": 1.833,
+     "lyric": "ce",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0171",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 1.0,
+     "lyric": "tiè",
+     "syllabic": "begin"
+    },
+    {
+     "id": "cest-lextase-e0172",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 1.167,
+     "lyric": "de",
+     "syllabic": "end"
+    },
+    {
+     "id": "cest-lextase-e0173",
+     "pitch": "C#4",
+     "rest": false,
+     "duration": 0.5,
+     "measure": 47,
+     "beat": 1.333,
+     "lyric": "soir,",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0174",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "measures": [
+    47,
+    52
+   ],
+   "lyrics": "tout bas.",
+   "translation": "在这温暖的傍晚，轻轻地。",
+   "events": [
+    {
+     "id": "cest-lextase-e0175",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 0.25,
+     "measure": 47,
+     "beat": 1.833,
+     "lyric": "tout",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0176",
+     "pitch": "E4",
+     "rest": false,
+     "duration": 1.0,
+     "measure": 48,
+     "beat": 1.0,
+     "lyric": "bas.",
+     "syllabic": "single"
+    },
+    {
+     "id": "cest-lextase-e0177",
+     "pitch": null,
+     "rest": true,
+     "duration": 0.5,
+     "measure": 48,
+     "beat": 1.667,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0178",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 49,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0179",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 50,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0180",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 51,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    },
+    {
+     "id": "cest-lextase-e0181",
+     "pitch": null,
+     "rest": true,
+     "duration": 1.5,
+     "measure": 52,
+     "beat": 1.0,
+     "lyric": "",
+     "syllabic": null
+    }
+   ]
+  }
+ ],
+ "eventCount": 179,
+ "restCount": 29,
+ "lyricNoteCount": 138,
+ "pages": 1,
+ "speech": {
+  "voice": "fr_FR-siwis-medium",
+  "engine": "piper-tts 1.8 (VITS, 离线神经语音)",
+  "kind": "语言范读（朗读，非演唱）",
+  "phrases": 14,
+  "slowScale": 1.45
+ }
+}
